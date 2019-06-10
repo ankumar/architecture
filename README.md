@@ -18,6 +18,7 @@ Designing Modularity & Interfaces
 
 ## Data Processing
 Unified Model for Batch, Streaming & SQL 
+
 * ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
@@ -26,10 +27,11 @@ Unified Model for Batch, Streaming & SQL
 * [Pravega](http://www.pravega.io/)
 
 ## Databases
-
 * [NoSQL, Relational, Document, Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
+
 * [NoSQL Historical Context](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+* [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
   * [Advanced Design Patterns for Amazon DynamoDB](https://www.youtube.com/watch?v=jzeKPKpucS0)
   * [Amazon DynamoDB Deep Dive](https://www.youtube.com/watch?v=jzeKPKpucS0)
@@ -37,6 +39,7 @@ Unified Model for Batch, Streaming & SQL
   * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 * [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
+* [Aurora](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 
 ## Data Science
 * []()
