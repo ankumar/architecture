@@ -6,7 +6,6 @@ Research has found that successful leaders share three behavioral traits: they l
 
 ## Topics
 - [Well Architected](#wellarchitected)
-- [Serverless](#serverless)
 - [Microservices & APIs](#microservices)
 - [Data Processing](#dataprocessing)
 - [Databases](#databases)
@@ -76,4 +75,6 @@ Unified Model for Batch, Streaming & SQL
 * []()
 
 ## Cloud
+
+
 
