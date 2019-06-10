@@ -1,7 +1,7 @@
 # Standing on the shoulders of giants:
 
 ## Topics
-- [Well Architected](#well architected)
+- [Well Architected](#wellarchitected)
 - [Serverless](#serverless)
 - [Microservices & APIs](#microservices)
 - [Data Processing](#dataprocessing)
@@ -9,7 +9,7 @@
 - [Kubernetees](#kubernetes)
 - [Data science](#datascience)
 
-## Well Architected
+## WellArchitected
 * Frameworks
   * [The Twelve Factors](https://12factor.net/)
   * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
@@ -30,7 +30,7 @@ Designing Modularity & Interfaces
 * [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
 * [Query Language for API](https://graphql.org/)
 
-## Data Processing
+## DataProcessing
 Unified Model for Batch, Streaming & SQL 
 
 * ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
