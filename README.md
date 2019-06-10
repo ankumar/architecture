@@ -1,11 +1,13 @@
 # Standing on the shoulders of giants:
 
 ## Topics
+- [Well Architected](#wellarchitected)
+- [Serverless](#serverless)
 - [Microservices & APIs](#microservices)
 - [Data Processing](#dataprocessing)
 - [Databases](#databases)
 - [Data science](#datascience)
-- [Well Architected](#wellarchitected)
+- [Kubernetees](#kubernetes)
 
 ## Microservices
 Designing Modularity & Interfaces
