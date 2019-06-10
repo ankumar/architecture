@@ -5,9 +5,9 @@ Research has found that successful leaders share three behavioral traits: they l
 # Standing on the shoulders of giants:
 
 ## Topics
-- [Well Architected](#well+architected)
+- [Well Architected](#well architected)
 - [Microservices & APIs](#microservices)
-- [Data Processing](#dataprocessing)
+- [Data Processing](#data processing)
 - [Databases](#databases)
 - [Data science](#datascience)
 - [Cloud](#cloud)
@@ -39,7 +39,7 @@ Designing Modularity & Interfaces
 * [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
 * [Query Language for API](https://graphql.org/)
 
-## DataProcessing
+## Data Processing
 Unified Model for Batch, Streaming & SQL 
 
 * ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
