@@ -26,14 +26,17 @@ Unified Model for Batch, Streaming & SQL
 * [Pravega](http://www.pravega.io/)
 
 ## Databases
-NoSQL, Relational & Graph
+
+* [NoSQL, Relational, Document, Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 * [NoSQL Historical Context](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
-  * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
+* [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
   * [Advanced Design Patterns for Amazon DynamoDB](https://www.youtube.com/watch?v=jzeKPKpucS0)
   * [Amazon DynamoDB Deep Dive](https://www.youtube.com/watch?v=jzeKPKpucS0)
   * [Best Practices for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
   * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
+* [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
+* [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 
 ## Data Science
 * []()
