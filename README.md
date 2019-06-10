@@ -5,9 +5,9 @@ Research has found that successful leaders share three behavioral traits: they l
 # Standing on the shoulders of giants:
 
 ## Topics
-- [Well Architected](#well architected)
+- [Well Architected](#well+architected)
 - [Microservices & APIs](#microservices)
-- [Data Processing](#data processing)
+- [Data Processing](#data+processing)
 - [Databases](#databases)
 - [Data science](#datascience)
 - [Cloud](#cloud)
