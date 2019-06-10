@@ -16,7 +16,7 @@ Designing Modularity & Interfaces
 * [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
 * [Query Language for API](https://graphql.org/)
 
-## Dataprocessing
+## Data Processing
 Unified Model for Batch, Streaming & SQL 
 * ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
@@ -29,7 +29,11 @@ Unified Model for Batch, Streaming & SQL
 NoSQL, Relational & Graph
 * [NoSQL Historical Context](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
-* [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
+  * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
+  * [Advanced Design Patterns for Amazon DynamoDB](https://www.youtube.com/watch?v=jzeKPKpucS0)
+  * [Amazon DynamoDB Deep Dive](https://www.youtube.com/watch?v=jzeKPKpucS0)
+  * [Best Practices for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
+  * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 
 ## Data Science
 * []()
