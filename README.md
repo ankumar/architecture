@@ -10,8 +10,8 @@ Research has found that successful leaders share three behavioral traits: they l
 - [Microservices & APIs](#microservices)
 - [Data Processing](#dataprocessing)
 - [Databases](#databases)
-- [Kubernetes](#kubernetes)
 - [Data science](#datascience)
+- [Cloud](#cloud)
 
 ## WellArchitected
 Enterprise architecture is about High-level strategic stuff including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
@@ -71,9 +71,9 @@ Unified Model for Batch, Streaming & SQL
 * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
 * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 
-## Kubernetes
-
 ## Data Science
 * []()
 * []()
+
+## Cloud
 
