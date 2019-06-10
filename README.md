@@ -48,6 +48,14 @@ Unified Model for Batch, Streaming & SQL
 * []()
 
 ## Well Architected
-* []()
-* []()
-* []()
+* Frameworks
+  * [](https://12factor.net/)
+  * [](http://www.bredemeyer.com/)
+  * [](https://docs.microsoft.com/en-us/azure/architecture/)
+  * [](https://wa.aws.amazon.com/index.html)
+* Visual
+  * [](https://www.awsgeek.com/)
+* Tools
+  * [](https://c4model.com/)
+  * [](https://aws.amazon.com/well-architected-tool/)
+
