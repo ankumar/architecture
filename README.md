@@ -6,7 +6,7 @@
 - [Microservices & APIs](#microservices)
 - [Data Processing](#dataprocessing)
 - [Databases](#databases)
-- [Kubernetees](#kubernetes)
+- [Kubernetes](#kubernetes)
 - [Data science](#datascience)
 
 ## WellArchitected
