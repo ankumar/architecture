@@ -6,8 +6,8 @@
 - [Microservices & APIs](#microservices)
 - [Data Processing](#dataprocessing)
 - [Databases](#databases)
-- [Data science](#datascience)
 - [Kubernetees](#kubernetes)
+- [Data science](#datascience)
 
 ## Well Architected
 * Frameworks
@@ -60,6 +60,8 @@ Unified Model for Batch, Streaming & SQL
 * [BigQuery](https://cloud.google.com/blog/products/gcp/inside-capacitor-bigquerys-next-generation-columnar-storage-format)
 * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
 * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
+
+## Kubernetes
 
 ## Data Science
 * []()
