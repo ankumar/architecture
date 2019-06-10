@@ -1,4 +1,5 @@
 Research has found that successful leaders share three behavioral traits: they lead by example, admit their mistakes, and see positive qualities in others. All three are linked to spaces of play. Leading by example creates a space that is trusted—and without trust, there is no play. Admitting mistakes is to celebrate uncertainty. Seeing qualities in others is to encourage diversity.
+
 ― Beau Lotto, [Deviate: The Science of Seeing Differently](https://www.amazon.com/Deviate-Science-Differently-Beau-Lotto/dp/1478909161)
 
 # Standing on the shoulders of giants:
