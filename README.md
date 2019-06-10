@@ -5,8 +5,8 @@
 - [Data Processing](#dataprocessing)
 - [Databases](#databases)
 
-## microservices
+## Microservices
 
-## dataprocessing
+## Dataprocessing
 
 ## Databases
