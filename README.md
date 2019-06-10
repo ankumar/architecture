@@ -49,13 +49,13 @@ Unified Model for Batch, Streaming & SQL
 
 ## Well Architected
 * Frameworks
-  * [](https://12factor.net/)
-  * [](http://www.bredemeyer.com/)
-  * [](https://docs.microsoft.com/en-us/azure/architecture/)
-  * [](https://wa.aws.amazon.com/index.html)
+  * [The Twelve Factors](https://12factor.net/)
+  * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
+  * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+  * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.html)
 * Visual
-  * [](https://www.awsgeek.com/)
+  * [Cloud Diagrams & Notes](https://www.awsgeek.com/)
 * Tools
-  * [](https://c4model.com/)
-  * [](https://aws.amazon.com/well-architected-tool/)
+  * [The C4 model for visualising software architecture](https://c4model.com/)
+  * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
 
