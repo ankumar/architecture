@@ -15,7 +15,6 @@ Research has found that successful leaders share three behavioral traits: they l
 ## WellArchitected
 Enterprise architecture is about High-level strategic stuff including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
 
-A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
 * Frameworks
   * [The Twelve Factors](https://12factor.net/)
   * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
@@ -28,7 +27,9 @@ A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks
 * Resources
   * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
   * [The Architect Elevator](https://architectelevator.com/)
-
+* Anti-Architecture
+  * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
+ 
 ## Microservices
 Designing Modularity & Interfaces
 
