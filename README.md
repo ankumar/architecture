@@ -15,7 +15,6 @@ Research has found that successful leaders share three behavioral traits: they l
 ## WellArchitected
 * Frameworks
   * [The Twelve Factors](https://12factor.net/)
-  * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
   * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
   * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.html)
 * Visual
@@ -23,6 +22,9 @@ Research has found that successful leaders share three behavioral traits: they l
 * Tools
   * [The C4 model for visualising software architecture](https://c4model.com/)
   * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
+* Resources
+  * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
+  * [The Architect Elevator](https://architectelevator.com/)
 
 ## Microservices
 Designing Modularity & Interfaces
