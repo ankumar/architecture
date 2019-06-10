@@ -1,13 +1,25 @@
 # Standing on the shoulders of giants:
 
 ## Topics
-- [Well Architected](#wellarchitected)
+- [Well Architected](#well architected)
 - [Serverless](#serverless)
 - [Microservices & APIs](#microservices)
 - [Data Processing](#dataprocessing)
 - [Databases](#databases)
 - [Data science](#datascience)
 - [Kubernetees](#kubernetes)
+
+## Well Architected
+* Frameworks
+  * [The Twelve Factors](https://12factor.net/)
+  * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
+  * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+  * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.html)
+* Visual
+  * [Cloud Diagrams & Notes](https://www.awsgeek.com/)
+* Tools
+  * [The C4 model for visualising software architecture](https://c4model.com/)
+  * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
 
 ## Microservices
 Designing Modularity & Interfaces
@@ -52,16 +64,4 @@ Unified Model for Batch, Streaming & SQL
 ## Data Science
 * []()
 * []()
-
-## Well Architected
-* Frameworks
-  * [The Twelve Factors](https://12factor.net/)
-  * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
-  * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
-  * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.html)
-* Visual
-  * [Cloud Diagrams & Notes](https://www.awsgeek.com/)
-* Tools
-  * [The C4 model for visualising software architecture](https://c4model.com/)
-  * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
 
