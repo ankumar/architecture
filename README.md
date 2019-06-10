@@ -27,6 +27,10 @@ Unified Model for Batch, Streaming & SQL
 * [Pravega](http://www.pravega.io/)
 
 ## Databases
+* Access Patterns
+  * Entity Modeling
+  * User interactions
+  * Data Analysis, Analytics, Aggregations etc.
 * [NoSQL, Relational, Document, Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 * [NoSQL Historical Context](https://www.youtube.com/watch?v=qI_g07C_Q5I)
 * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
