@@ -44,7 +44,6 @@ Unified Model for Batch, Streaming & SQL
 
 * ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
-* [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
 * [BookKeeper](http://bookkeeper.apache.org/distributedlog/)
 * [LogDevice](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
 * [Pravega](http://www.pravega.io/)
@@ -64,8 +63,6 @@ Unified Model for Batch, Streaming & SQL
   * [Best Practices for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
   * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 * [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
-* [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
-* [Aurora](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [BigQuery](https://cloud.google.com/blog/products/gcp/inside-capacitor-bigquerys-next-generation-columnar-storage-format)
 * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
 * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
@@ -75,6 +72,9 @@ Unified Model for Batch, Streaming & SQL
 * []()
 
 ## Cloud
+* [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
+* [Aurora](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
+* [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 
 
 
