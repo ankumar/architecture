@@ -25,6 +25,7 @@ Enterprise architecture is about High-level strategic stuff including People, Pr
   * [The C4 model for visualising software architecture](https://c4model.com/)
   * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
 * Resources
+  * [Martin fowler](https://martinfowler.com/)
   * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
   * [The Architect Elevator](https://architectelevator.com/)
 * Anti-Architecture
