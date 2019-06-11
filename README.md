@@ -32,7 +32,9 @@ Enterprise architecture is about High-level strategic stuff including People, Pr
   * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
  
 ## Microservices
-Designing Modularity & Interfaces
+1 Decomposing an Application into Services
+2 Designing Modularity & Interfaces
+
 
 * [Microservice Architecture](https://microservices.io/)
 * [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE)
