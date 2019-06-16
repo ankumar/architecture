@@ -5,12 +5,12 @@ Research has found that successful leaders share three behavioral traits: they l
 
 ## Topics
 - [Well Architected](#well+architected)
-- [Programming](#programming)
 - [Microservices & APIs](#microservices)
 - [Data Processing](#data+processing)
 - [Databases](#databases)
 - [Data science](#datascience)
 - [Cloud](#cloud)
+- [Programming](#programming)
 
 ## Well Architected
 Enterprise architecture is about High-level strategic stuff including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
