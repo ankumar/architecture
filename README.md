@@ -5,6 +5,7 @@ Research has found that successful leaders share three behavioral traits: they l
 
 ## Topics
 - [Well Architected](#well+architected)
+- [Programming](#programming)
 - [Microservices & APIs](#microservices)
 - [Data Processing](#data+processing)
 - [Databases](#databases)
