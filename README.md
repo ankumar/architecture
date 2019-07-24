@@ -70,7 +70,7 @@ Access Patterns, Entity Modeling, User interactions, Data Analysis, Analytics, A
 * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 * [Athena](https://aws.amazon.com/athena/)
 
-## Data Science
+## Learning Systems
 * []()
 * []()
 
