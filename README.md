@@ -13,7 +13,7 @@ Research has found that successful leaders share three behavioral traits: they l
 - [Programming](#programming)
 
 ## Well Architected
-Architecture ("Enterprise Architecture") is about strategic stuff including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
+Architecture is about Systems Thinking including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
 
 * Systems Thinking
   * [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU)
