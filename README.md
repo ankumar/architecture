@@ -18,17 +18,17 @@ Architecture is about Systems Thinking including People, Process and Technology;
 * [Systems Thinking Speech by Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU)
 1. A system is a whole that is defined by its function(s) in one or more containing systems.
 2. Every system contains at least two essential parts and these must satisfy three conditions.
-  * Every essential part of a system can affect its behavior or properties.
-  * The way an essential part affects the properties or behavior of the whole depends on the
+* Every essential part of a system can affect its behavior or properties.
+* The way an essential part affects the properties or behavior of the whole depends on the
    state or activity of at least one other part of the system.
-  * Groups of essential parts, subsystems, also can affect the behavior and properties of the whole system and none has an independent effect on it.
+* Groups of essential parts, subsystems, also can affect the behavior and properties of the whole system and none has an independent effect on it.
 Some important properties of a system derive from its definition.
-  * When a system is taken apart it loses its essential properties.
-  * No part of a system can carry out the function that defines the system.
-  * When a system is taken apart its essential parts lose their ability to carry out the
+* When a system is taken apart it loses its essential properties.
+* No part of a system can carry out the function that defines the system.
+* When a system is taken apart its essential parts lose their ability to carry out the
    function they have in the whole.
 Finally: 
-   When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.
+  When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.
 * Frameworks
   * [The Twelve Factors](https://12factor.net/)
   * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
