@@ -22,11 +22,13 @@ Architecture is about Systems Thinking including People, Process and Technology;
 * The way an essential part affects the properties or behavior of the whole depends on the
    state or activity of at least one other part of the system.
 * Groups of essential parts, subsystems, also can affect the behavior and properties of the whole system and none has an independent effect on it.
+
 Some important properties of a system derive from its definition.
 * When a system is taken apart it loses its essential properties.
 * No part of a system can carry out the function that defines the system.
 * When a system is taken apart its essential parts lose their ability to carry out the
    function they have in the whole.
+
 Finally: 
   When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.
 * Frameworks
