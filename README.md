@@ -40,6 +40,7 @@ Finally: When the performance of any essential part of a system, taken separatel
   * [The C4 model for visualising software architecture](https://c4model.com/)
   * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
 * Resources
+  * [Technical Leadership Masterclass](https://www.slideshare.net/RufM/technical-leadership-decisions)
   * [Martin Fowler](https://martinfowler.com/)
   * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
   * [The Architect Elevator](https://architectelevator.com/)
