@@ -84,8 +84,7 @@ Access Patterns, Entity Modeling, User interactions, Data Analysis, Analytics, A
 * [Athena](https://aws.amazon.com/athena/)
 
 ## Learning Systems
-* []()
-* []()
+* [Robocars](https://diyrobocars.com/)
 
 ## Cloud
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
