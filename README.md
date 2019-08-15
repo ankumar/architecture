@@ -3,14 +3,6 @@ Research has found that successful leaders share three behavioral traits: they l
 
 ― Beau Lotto, [Deviate: The Science of Seeing Differently](https://www.amazon.com/Deviate-Science-Differently-Beau-Lotto/dp/1478909161)
 
-## Topics
-- [Well Architected](#well+architected)
-- [Microservices](#microservices)
-- [Data Processing](#data+processing)
-- [Databases](#databases)
-- [Learning Systems](#datascience)
-- [Cloud](#cloud)
-
 ## Well Architected
 
 Architecture is about Systems Thinking including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
