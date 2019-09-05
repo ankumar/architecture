@@ -52,9 +52,9 @@ Microservices - also known as the microservice architecture - is an architectura
 The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
 
 Related:
+* [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
 * [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 * [Service Mesh](https://www.datawire.io/envoyproxy/service-mesh/)
-* [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
 * [Query Language for API](https://graphql.org/)
 
 ## Data Processing
