@@ -42,7 +42,7 @@ Finally: When the performance of any essential part of a system, taken separatel
 ## Microservices
 Decomposing an Application into Services;designing Modularity & Interfaces
 
-From https://microservices.io/: 
+From https://microservices.io/
 Microservices - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 1.Highly maintainable & testable
 2.Loosely coupled
