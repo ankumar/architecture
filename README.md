@@ -2,6 +2,7 @@
 
 Architecture is about Systems Thinking including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
 
+Systems Thinking:
 * [“If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” -Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU)
 1. A system is a whole that is defined by its function(s) in one or more containing systems.
 2. Every system contains at least two essential parts and these must satisfy three conditions.
@@ -17,6 +18,7 @@ Some important properties of a system derive from its definition.
    function they have in the whole.
 
 Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.
+
 * Frameworks
   * [The Twelve Factors](https://12factor.net/)
   * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
