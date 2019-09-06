@@ -46,6 +46,7 @@ Microservices - also known as the microservice architecture - is an architectura
 3. Independently deployable
 4. Organized around business capabilities
 5. Owned by a small team
+
 The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
 
 Related:
