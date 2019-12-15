@@ -4,6 +4,7 @@ Architecture is about Systems Thinking including People, Process and Technology;
 
 Systems Thinking:
 * [“If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” -Dr. Russell Ackoff](https://www.youtube.com/watch?v=EbLh7rZ3rhU)
+
 **1. A system is a whole that is defined by its function(s) in one or more containing systems.**
 **2. Every system contains at least two essential parts and these must satisfy three conditions.**
   * Every essential part of a system can affect its behavior or properties.
