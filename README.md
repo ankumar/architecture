@@ -86,7 +86,7 @@ Access Patterns, Entity Modeling, User interactions, Data Analysis, Analytics, A
 ## Learning Systems
 * [Robocars](https://diyrobocars.com/)
 
-## Cloud
+## Cloud Computing
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
