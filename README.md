@@ -22,7 +22,7 @@ Finally: When the performance of any essential part of a system, taken separatel
 
 * Frameworks
   * [The Twelve Factors](https://12factor.net/)
-  * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.html)
+  * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
 * Visual
   * [Cloud Diagrams & Notes](https://www.awsgeek.com/)
 * Tools
