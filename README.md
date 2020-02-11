@@ -1,5 +1,3 @@
-## Well Architected
-
 Architecture is about Systems Thinking including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
 
 Systems Thinking:
