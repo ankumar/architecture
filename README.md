@@ -79,7 +79,7 @@ Access Patterns, Entity Modeling, User interactions, Data Analysis, Analytics, A
 
 * [Data Warehouse](https://www.wiley.com/en-us/Building+the+Data+Warehouse%2C+4th+Edition-p-9780764599446)
   * [Presto processes hundreds of petabytes of data and quadrillions of rows per day at Facebook](https://www.facebook.com/notes/facebook-engineering/presto-interacting-with-petabytes-of-data-at-facebook/10151786197628920/)
-   * https://prestosql.io/paper.html
+    * https://prestosql.io/paper.html
   * [BigQuery](https://cloud.google.com/blog/products/gcp/inside-capacitor-bigquerys-next-generation-columnar-storage-format)
   * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
   * [Athena](https://aws.amazon.com/athena/)
