@@ -26,8 +26,6 @@ Data powers new innovations, improvements in customer experience, and efficiency
 
 ![AI powered Monopolies](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
 
-[AI Powered Monopolies and the New World Order](https://towardsdatascience.com/ai-powered-monopolies-and-the-new-world-order-1c56cfc76e7d)
-
 While data is an important starting point, for data to be useful, it should be turned to Information.
 Data - Raw, unorganized facts about something
 Information - Data/Facts that is structured, organized, and presented with context
