@@ -32,7 +32,7 @@ Unified Model for Batch, Streaming & SQL
   * [Pravega](http://www.pravega.io/)
 
 ## Databases
-Access Patterns, Entity Modeling, User interactions, Data Analysis, Analytics, Aggregations etc.
+Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Aggregations etc.
 
 * [NoSQL, Relational, Document, Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 
