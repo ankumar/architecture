@@ -15,11 +15,8 @@ A popular pattern https://microservices.io/ enables rapid, frequent and reliable
 4. Organized around business capabilities
 5. Owned by a small team
 
-Related:
-* [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
-* [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE)
-* [Service Mesh](https://www.datawire.io/envoyproxy/service-mesh/)
-* [Query Language for API](https://graphql.org/)
+Well-Services:
+* [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
 
 # Data
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
