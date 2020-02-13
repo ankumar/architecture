@@ -15,7 +15,7 @@ A popular pattern https://microservices.io/ enables rapid, frequent and reliable
 4. Organized around business capabilities
 5. Owned by a small team
 
-Well-Services:
+Well:
 * [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
 
 # Data
