@@ -67,7 +67,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 |Measured service|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
 
-## Services
+## Cloud Native Services
 
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
 * [Cassandra Cloud](https://constellation.datastax.com/)
