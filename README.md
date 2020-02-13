@@ -56,7 +56,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 
-# Cloud Computing
+# Cloud Computing - Make Developers more productive
 
 |[Definition, Circa 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)| |
 |------------------------| ---------------------------------------------------------------------------------------------|
@@ -68,8 +68,6 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 
 
 ## Cloud Native Services
-
-# Make Developers more productive
 
 * [Cloud Run](https://cloud.google.com/run/)
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
