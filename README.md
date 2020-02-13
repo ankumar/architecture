@@ -56,7 +56,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 
-# [Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) - Make Developers more productive
+# [Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) - Developer productivity
 
 | | |
 |------------------------| ---------------------------------------------------------------------------------------------|
