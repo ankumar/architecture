@@ -26,8 +26,7 @@ Related:
 Unified Model for Batch, Streaming & SQL 
 
 * ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-* [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
-
+  * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
   * [BookKeeper](http://bookkeeper.apache.org/distributedlog/)
   * [LogDevice](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
   * [Pravega](http://www.pravega.io/)
