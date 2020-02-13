@@ -2,40 +2,8 @@ Architecture is about Systems Thinking including People, Process and Technology;
 
 Systems Thinking:
 [“If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” -Dr. Russell Ackoff](https://www.youtube.com/watch?v=OqEeIG8aPPk)
-
-**1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
-**2. Every system contains at least two essential parts and these must satisfy three conditions.**
-  * Every essential part of a system can affect its behavior or properties.
-  * The way an essential part affects the properties or behavior of the whole depends on the
-   state or activity of at least one other part of the system.
-  * Groups of essential parts, subsystems, also can affect the behavior and properties of the whole system and none has an independent effect on it.
-
-Some important properties of a system derive from its definition.
-  * When a system is taken apart it loses its essential properties.
-  * No part of a system can carry out the function that defines the system.
-  * When a system is taken apart its essential parts lose their ability to carry out the
-   function they have in the whole.
-
-Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.
-
-* Frameworks
-  * [The Twelve Factors](https://12factor.net/)
-  * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
-* Visual
-  * [Cloud Diagrams & Notes](https://www.awsgeek.com/)
-* Tools
-  * [The C4 model for visualising software architecture](https://c4model.com/)
-  * [AWS Well-Architected Tool](https://aws.amazon.com/well-architected-tool/)
-* Resources
-  * [Technical Leadership Masterclass](https://www.slideshare.net/RufM/technical-leadership-decisions)
-  * [Martin Fowler](https://martinfowler.com/)
-  * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
-  * [The Architect Elevator](https://architectelevator.com/)
-  * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
-* Anti-Architecture
-  * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
  
-## Apps
+# Services
 Decomposing an Application into Services; designing Modularity & Interfaces
 
 A popular patteen https://microservices.io/. The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
@@ -53,6 +21,7 @@ Related:
 * [Service Mesh](https://www.datawire.io/envoyproxy/service-mesh/)
 * [Query Language for API](https://graphql.org/)
 
+# Data
 ## Data Processing
 Unified Model for Batch, Streaming & SQL 
 
@@ -85,10 +54,10 @@ Access Patterns, Entity Modeling, User interactions, Data Analysis, Analytics, A
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 
-## Learning Systems
+# Learning Systems
 * [Robocars](https://diyrobocars.com/)
 
-## Cloud Computing
+# Cloud Computing
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
