@@ -37,9 +37,8 @@ What are the factors that is driving data today?
 3. Machine Learning on the rise
 4. Modeling physical world in real-time
 What is the problem with data today?
+
 Problem #1 - Spending the time on wrong things
-
-
 
 Problem #2 - Data is not designed and collected systematically
 Problem #3 - Companies have lots of data but not information
