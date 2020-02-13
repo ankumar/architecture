@@ -61,7 +61,11 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 [Definition,Circa 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 
 | On-demand self-service | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
-|------------------------| -------------------|
+|------------------------| ---------------------------------------------------------------------------------------------|
+|Broad network access|Capabilities are available over the network and accessed through standard mechanisms|
+|Resource pooling|The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically|
+|Rapid elasticity|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
+|Measured service|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
 
 ## Services
