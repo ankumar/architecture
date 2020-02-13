@@ -41,9 +41,13 @@ What is the problem with data today?
 Problem #1 - Spending the time on wrong things
 
 Problem #2 - Data is not designed and collected systematically
+
 Problem #3 - Companies have lots of data but not information
+
 Problem #4 - Data and data assets are not discoverable
+
 Problem #5 - Tools are not addressing complexity
+
 Problem #6 - It is not tools and technology but people and processes
 
 ## Learning Systems
