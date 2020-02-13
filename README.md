@@ -26,6 +26,19 @@ Data powers new innovations, improvements in customer experience, and efficiency
 
 ![AI powered Monopolies](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
 
+While data is an important starting point, for data to be useful, it should be turned to Information.
+Data - Raw, unorganized facts about something
+Information - Data/Facts that is structured, organized, and presented with context
+Knowledge - Understanding of Information with experience and intuition
+For data to be useful, every company must be able to turn data into information, and eventually into knowledge. Knowledge empowers understanding and decisions.
+What are the factors that is driving data today?
+1. Accessibility to scalable infra and platform
+2. Awareness of importance of data
+3. Machine Learning on the rise
+4. Modeling physical world in real-time
+What is the problem with data today?
+Problem #1 - Spending the time on wrong things
+
 ## Learning Systems
 * [Reinforcement Learning](https://diyrobocars.com/)
 
