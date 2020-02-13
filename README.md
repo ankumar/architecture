@@ -23,7 +23,7 @@ Related:
 
 # Data
 ## Learning Systems
-* [RL](https://diyrobocars.com/)
+* [Reinforcement Learning](https://diyrobocars.com/)
 
 ## Data Processing
 Unified Model for Batch, Streaming & SQL 
