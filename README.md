@@ -34,6 +34,9 @@ Unified Model for Batch, Streaming & SQL
 ## Databases
 Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Aggregations etc.
 
+## Learning Systems
+* [Robocars](https://diyrobocars.com/)
+
 * [NoSQL, Relational, Document, Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 
 * [NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
@@ -52,9 +55,6 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
   * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
-
-# Learning Systems
-* [Robocars](https://diyrobocars.com/)
 
 # Cloud Computing
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
