@@ -57,6 +57,11 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 
 # Cloud Computing
+
+[Definition,Circa 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+
+## Services
+
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
