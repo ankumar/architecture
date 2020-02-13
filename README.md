@@ -61,7 +61,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 [Definition,Circa 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 
 | On-demand self-service | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
-
+|------------------------| -------------------|
 
 
 ## Services
