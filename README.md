@@ -25,6 +25,7 @@ Related:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
 ![AI powered Monopolies](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
+[Reference: AI-powered Monopolies and the New World Order](https://towardsdatascience.com/ai-powered-monopolies-and-the-new-world-order-1c56cfc76e7d)
 
 While data is an important starting point, for data to be useful, it should be turned to Information.
 Data - Raw, unorganized facts about something
@@ -38,6 +39,14 @@ What are the factors that is driving data today?
 4. Modeling physical world in real-time
 What is the problem with data today?
 Problem #1 - Spending the time on wrong things
+
+
+
+Problem #2 - Data is not designed and collected systematically
+Problem #3 - Companies have lots of data but not information
+Problem #4 - Data and data assets are not discoverable
+Problem #5 - Tools are not addressing complexity
+Problem #6 - It is not tools and technology but people and processes
 
 ## Learning Systems
 * [Reinforcement Learning](https://diyrobocars.com/)
