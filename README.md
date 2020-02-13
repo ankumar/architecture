@@ -22,6 +22,9 @@ Related:
 * [Query Language for API](https://graphql.org/)
 
 # Data
+## Learning Systems
+* [Robocars](https://diyrobocars.com/)
+
 ## Data Processing
 Unified Model for Batch, Streaming & SQL 
 
@@ -33,9 +36,6 @@ Unified Model for Batch, Streaming & SQL
 
 ## Databases
 Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Aggregations etc.
-
-## Learning Systems
-* [Robocars](https://diyrobocars.com/)
 
 * [NoSQL, Relational, Document, Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 
