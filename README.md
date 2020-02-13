@@ -17,6 +17,8 @@ A popular pattern https://microservices.io/ enables rapid, frequent and reliable
 4. Organized around business capabilities
 5. Owned by a small team
 
+![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
+
 Well-Architected:
 * [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
 
