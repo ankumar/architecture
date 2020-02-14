@@ -18,7 +18,7 @@ Decomposing an Application into Services; designing Modularity & Interfaces
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 
 Well-Architected:
-* [Application Model](https://oam.dev/)
+* [Open Application Model](https://oam.dev/)
 * [Structure, Organization - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
 
