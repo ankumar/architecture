@@ -1,10 +1,10 @@
-Enterprise Architecture:
+# Enterprise Architecture:
 * [Cell - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 
-Leadership:
+# Leadership:
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
-Patterns:
+# Patterns:
 * [Microservices](https://microservices.io/patterns/index.html)
 * [The Twelve Factors](https://12factor.net/)
 * [Martin Fowler](https://martinfowler.com/)
@@ -16,5 +16,5 @@ Patterns:
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
 
-Anti-Architecture:
+# Anti-Architecture:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
