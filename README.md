@@ -8,6 +8,8 @@
 # Services
 Decomposing an Application into Services; designing Modularity & Interfaces
 
+![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
+
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 1. Highly maintainable & testable
 2. Loosely coupled
