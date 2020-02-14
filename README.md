@@ -1,9 +1,9 @@
 # Modernization
-## "If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” -Dr. Russell Ackoff
+## Improvements, Continuous & Discontinuous - "If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” -Dr. Russell Ackoff
 
-## Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8aPPk) including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
+## Architecture - is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8aPPk) including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
  
-## Well-Architected: "Software patterns aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
+## Well-Architected - "Software patterns aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
  
 # Services
 Decomposing an Application into Services; designing Modularity & Interfaces
@@ -80,7 +80,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 
-# Cloud Computing - Developer productivity
+# Cloud Computing - Developer Productivity
 
 |[Characteristics](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)| |
 |------------------------| ---------------------------------------------------------------------------------------------|
