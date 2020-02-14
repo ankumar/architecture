@@ -3,7 +3,12 @@
 
 ## Architecture - is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8aPPk) including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
  
-## Well-Architected - "Software [patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
+# Well-Architected
+"Software [patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
+
+* [Open Application Model](https://oam.dev/)
+* [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
+
 
 # Services
 Decomposing an Application into Services; designing Modularity & Interfaces
@@ -19,11 +24,6 @@ Decomposing an Application into Services; designing Modularity & Interfaces
 
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
-
-
-Well-Architected:
-* [Open Application Model](https://oam.dev/)
-* [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
 
 # Data-Intensive
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
@@ -99,7 +99,6 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
-
 ## Cloud Native Services
 
 * [Cloud Run](https://cloud.google.com/run/)
@@ -107,6 +106,5 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
-
 
 
