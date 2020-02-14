@@ -19,6 +19,7 @@ Decomposing an Application into Services; designing Modularity & Interfaces
 
 Well-Architected:
 * [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
+* [Service boundaries - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [Application Model](https://oam.dev/)
 
 # Data
