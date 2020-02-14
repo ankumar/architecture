@@ -6,10 +6,6 @@ Architecture - is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeI
 # Well-Architected
 **"Software [patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
 
-* [Open Application Model](https://oam.dev/)
-* [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
-
-
 # Services
 Decomposing an Application into Services; designing Modularity & Interfaces
 
@@ -101,6 +97,8 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 
 ## Cloud Native Services
 
+* [Open Application Model](https://oam.dev/)
+* [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
 * [Cloud Run](https://cloud.google.com/run/)
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
 * [Cassandra Cloud](https://constellation.datastax.com/)
