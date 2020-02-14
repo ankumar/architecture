@@ -42,6 +42,7 @@ What are the factors that is driving data today?
 What is the problem with data today?
 
 Problem #1 - Spending the time on wrong things
+(https://github.com/ankumar/Architecture/blob/master/images/data-intensive1.png)
 Problem #2 - Data is not designed and collected systematically
 Problem #3 - Companies have lots of data but not information
 Problem #4 - Data and data assets are not discoverable
