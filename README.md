@@ -18,9 +18,9 @@ Decomposing an Application into Services; designing Modularity & Interfaces
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 
 Well-Architected:
-* [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
-* [Structure, Organization - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [Application Model](https://oam.dev/)
+* [Structure, Organization - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
+* [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
 
 # Data
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
