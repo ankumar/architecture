@@ -7,6 +7,7 @@
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Amazon Builders Library](https://aws.amazon.com/builders-library/)
 * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
+* [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
 
 * Anti-Architecture
