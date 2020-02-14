@@ -3,7 +3,7 @@
 
 ## Architecture - is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8aPPk) including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture".
  
-## Well-Architected - "Software patterns aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
+## Well-Architected - "Software [patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Patterns.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
  
 # Services
 Decomposing an Application into Services; designing Modularity & Interfaces
