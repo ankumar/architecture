@@ -8,8 +8,6 @@
 # Services
 Decomposing an Application into Services; designing Modularity & Interfaces
 
-A popular pattern https://microservices.io/ enables rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.
-
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 1. Highly maintainable & testable
 2. Loosely coupled
