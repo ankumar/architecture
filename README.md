@@ -5,8 +5,6 @@
  
 ## Well-Architected - "Software [patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Patterns.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
 
-* [Enterprise Architecture - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
-
 # Services
 Decomposing an Application into Services; designing Modularity & Interfaces
 
