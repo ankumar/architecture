@@ -12,11 +12,12 @@ Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")<p align="center">It's not a race if we're all on the same team</p>
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
-1. Universal Principle
+Enabling Business to Focus on core value vs plumbing
+
+1.Universal Principle
   * Work backwards from Customer/Business outcomes
   * Build closed loop systems to optimize for continual Improvements & Learning
-2.	Technology Commoditization
-3.	Enabling Business to Focus on core value vs plumbing
+2.	Technology Commoditization	
 
 **Technology -**
 **"[Software Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
