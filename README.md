@@ -1,3 +1,5 @@
+<font size="12">
+ 
 # Modernization
 **"If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” -Dr. Russell Ackoff.**
 
@@ -62,5 +64,5 @@ Problem #6 - It is not tools and technology but people and processes
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
 
-
+</font>
 
