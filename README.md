@@ -8,6 +8,9 @@ Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8
 
 **"[Software Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
 
+[![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")
+<p align="center">Google: 100,000+ services</p>
+
 # Services
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
@@ -66,9 +69,6 @@ Problem #6 - It is not tools and technology but people and processes
 |**Resource pooling**|The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically|
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
-
-[![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")
-<p align="center">Google: 100,000+ services</p>
 
 </font>
 
