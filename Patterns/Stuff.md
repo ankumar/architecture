@@ -81,7 +81,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 
 ## Operational
-* [If everyone is responsible for [success, why not failure]? Root cause analysis exists to find blame](https://www.verica.io/inhumanity-of-root-cause-analysis/)
+* [If everyone is responsible for success, why not failure? Root cause analysis exists to find blame](https://www.verica.io/inhumanity-of-root-cause-analysis/)
 
 # Anti-Architecture:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
