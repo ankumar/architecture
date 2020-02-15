@@ -11,7 +11,9 @@ Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8
 1. Universal Principle
   * Work backwards from Customer/Business outcomes
   * Build closed loop systems to optimize for continual Improvements & Learning
+
 2.	Technology Commoditization
+
 3.	Enabling Business to Focus on core value vs plumbing
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
