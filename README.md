@@ -95,8 +95,6 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
-## Cloud Native Services
-
 
 
 
