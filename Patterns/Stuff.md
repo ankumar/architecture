@@ -18,3 +18,13 @@
 
 # Anti-Architecture:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
+
+# Cloud Computing:
+
+* [Open Application Model](https://oam.dev/)
+* [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
+* [Cloud Run](https://cloud.google.com/run/)
+* [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
+* [Cassandra Cloud](https://constellation.datastax.com/)
+* [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
+* [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
