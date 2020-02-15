@@ -12,7 +12,7 @@ Some important properties of a system derive from its definition.
   * When a system is taken apart its essential parts lose their ability to carry out the
    function they have in the whole.
 
-Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.
+**Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.**
 
 # Leadership:
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
