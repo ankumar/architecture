@@ -81,6 +81,12 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 
+
+## Developer Experience
+* Github
+  * 40 million Developers
+ 
+
 ## Delivery
 
 ## Operational
