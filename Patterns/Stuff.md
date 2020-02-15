@@ -1,7 +1,4 @@
-# Leadership:
-* [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
-
-# Enterprise Architecture:
+# System:
 **1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
 **2. Every system contains at least two essential parts and these must satisfy three conditions.**
   * Every essential part of a system can affect its behavior or properties.
@@ -17,6 +14,10 @@ Some important properties of a system derive from its definition.
 
 Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.
 
+# Leadership:
+* [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
+
+# Enterprise Architecture:
 * [Cell Based Architecture - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 
 # Patterns:
