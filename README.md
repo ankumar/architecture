@@ -21,7 +21,7 @@ Decomposing an Application into Services; designing Modularity & Interfaces
 5. Owned by a small team
 
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
-[1,500+ services](https://monzo.com/blog/we-built-network-isolation-for-1-500-services) 
+<p align="center" [1,500+ services](https://monzo.com/blog/we-built-network-isolation-for-1-500-services)>
 
 There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
 
