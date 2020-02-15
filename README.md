@@ -15,9 +15,13 @@ Decomposing an Application into Services & APIs; designing Modularity & Interfac
 
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 **1. Highly maintainable & testable**
+
 **2. Loosely coupled**
+
 **3. Independently deployable**
+
 **4. Organized around business capabilities**
+
 **5. Owned by a small team**
 
 There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
