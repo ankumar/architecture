@@ -20,12 +20,10 @@ Decomposing an Application into Services & APIs; designing Modularity & Interfac
 4. Organized around business capabilities
 5. Owned by a small team
 
+There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 <p align="center">Google 2011: 10,000 services</p>
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">New,FinTech: 1,500+ services</a> </p>
-
-There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
-
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")
 
 # Data-Intensive
