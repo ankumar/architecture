@@ -6,6 +6,13 @@
 # Well-Architected
 Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8aPPk) including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture". 
 
+1. One Guiding, Actionable & Universal Principle
+* Work backwards from Customer/Business outcomes
+* Build closed loop systems to optimize for continual Improvements & Learning
+2.	Technology Commoditization
+3.	Enabling Business to Focus on core value vs plumbing
+
+
 **"[Software Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
 
 # Services
