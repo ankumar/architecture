@@ -77,6 +77,7 @@ Problem #6 - It is not tools and technology but people and processes
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
+<p align="center">It's not a race if we're all on the same team</p>
 
 </font>
 
