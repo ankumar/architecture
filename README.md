@@ -39,7 +39,7 @@ There isn't a concrete, well-defined algorithm for decomposing a system into ser
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">FinTech, Monzo: 1,500+ services</a> </p>
 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")
-<p align="center">Google: 100,000+ services</p>
+<p align="center"><b>Google: 100,000+ services</b></p>
 
 # Data-Intensive
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
