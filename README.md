@@ -18,8 +18,8 @@ Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
-**Technology**
-**"[Software Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
+**Technology-**
+**" [Software Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
 
 # Services
 * Designing Modularity & Interfaces
