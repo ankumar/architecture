@@ -15,7 +15,7 @@ Some important properties of a system derive from its definition.
 **Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.**
 
 # Leadership:
-[](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
+![http://www.melconway.com/Home/Conways_Law.html(https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
 # Enterprise Architecture:
