@@ -29,6 +29,10 @@ Finally: When the performance of any essential part of a system, taken separatel
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Amazon Builders Library](https://aws.amazon.com/builders-library/)
 * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
+* [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
+* [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+* [Service Mesh](https://www.datawire.io/envoyproxy/service-mesh/)
+* [Query Language for API](https://graphql.org/)
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
 # Data-Intensive:
