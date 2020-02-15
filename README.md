@@ -73,7 +73,7 @@ Problem #6 - It is not tools and technology but people and processes
 
 # Cloud Computing
 
-|Developer Productivity|[Characteristics](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)|
+|[Characteristics](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
 |**Broad network access**|Capabilities are available over the network and accessed through standard mechanisms|
