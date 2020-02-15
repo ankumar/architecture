@@ -51,40 +51,6 @@ Problem #5 - Tools are not addressing complexity
 
 Problem #6 - It is not tools and technology but people and processes
 
-## AI
-* [Reinforcement Learning](https://diyrobocars.com/)
-
-## Data Processing
-Unified Model for Batch, Streaming & SQL 
-
-* ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
-  * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
-  * [BookKeeper](http://bookkeeper.apache.org/distributedlog/)
-  * [LogDevice](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
-  * [Pravega](http://www.pravega.io/)
-
-## Databases
-Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Aggregations etc.
-
-* [Relational,NoSQL,Document,Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
-
-* [NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
-  * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
-  * [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
-  * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
-    * [Advanced Design Patterns for Amazon DynamoDB](https://www.youtube.com/watch?v=jzeKPKpucS0)
-    * [Amazon DynamoDB Deep Dive](https://www.youtube.com/watch?v=jzeKPKpucS0)
-    * [Best Practices for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
-    * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
-
-* [Data Warehouse](https://www.wiley.com/en-us/Building+the+Data+Warehouse%2C+4th+Edition-p-9780764599446)
-  * [Presto processes hundreds of petabytes of data and quadrillions of rows per day at Facebook](https://www.facebook.com/notes/facebook-engineering/presto-interacting-with-petabytes-of-data-at-facebook/10151786197628920/)
-    * https://prestosql.io/paper.html
-  * [BigQuery](https://cloud.google.com/blog/products/gcp/inside-capacitor-bigquerys-next-generation-columnar-storage-format)
-  * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
-  * [Athena](https://aws.amazon.com/athena/)
-  * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
-
 # Cloud Computing - Developer Productivity
 
 |[Characteristics](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)| |
