@@ -15,7 +15,7 @@
 * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
-# Data-Intensive
+# Data-Intensive:
 
 ## Data Processing
 Unified Model for Batch, Streaming & SQL 
