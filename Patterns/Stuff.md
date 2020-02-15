@@ -15,9 +15,6 @@
 * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
-## AI
-* [Reinforcement Learning](https://diyrobocars.com/)
-
 ## Data Processing
 Unified Model for Batch, Streaming & SQL 
 
@@ -58,6 +55,9 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
+
+## AI
+* [Reinforcement Learning](https://diyrobocars.com/)
 
 # Anti-Architecture:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
