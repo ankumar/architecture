@@ -9,7 +9,8 @@ Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8
 **"[Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
 
 # Services
-Decomposing an Application into Services & APIs; designing Modularity & Interfaces
+* Designing Modularity & Interfaces
+* Decomposing an Application into Services & APIs
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 
