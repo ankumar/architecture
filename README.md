@@ -13,10 +13,10 @@ Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 Enabling Business to Focus on core value vs plumbing:
-1. Work backwards from Customer/Business outcomes
-2. Build closed loop systems to optimize for continual Improvements & Learning
-3. Technology Commoditization	
-4. "[Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
+1. **Work backwards from Customer/Business outcomes**
+2. **Build closed loop systems to optimize for continual Improvements & Learning**
+3. **Technology Commoditization**
+4. "**[Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."**
 
 # Services
 * Designing Modularity & Interfaces
