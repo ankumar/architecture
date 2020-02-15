@@ -50,6 +50,7 @@ Unified Model for Batch, Streaming & SQL
 ## Databases
 Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Aggregations etc.
 
+* [DB's Ranking](https://db-engines.com/en/ranking)
 * [Relational,NoSQL,Document,Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 
 * [NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
