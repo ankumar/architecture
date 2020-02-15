@@ -13,6 +13,8 @@ Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"><b>"It's not a race if we're all on the same team"</b></p>
 
+## Core Value
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
 **Enabling Business to Focus on core value vs plumbing:**
