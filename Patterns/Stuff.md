@@ -60,10 +60,10 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
   * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
     * Talks worth watching & still learn something new every time...
       * [Advanced Design Patterns for Amazon DynamoDB](https://www.youtube.com/watch?v=jzeKPKpucS0)
-      * [Amazon DynamoDB Deep Dive](https://www.youtube.com/watch?v=jzeKPKpucS0)
-      * [Advanced Design Patterns](https://www.youtube.com/watch?v=HaEPXoXVf2k)
+      * [Advanced Design Patterns - 2018](https://www.youtube.com/watch?v=HaEPXoXVf2k)
       * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
-
+      * [Advanced Design Patterns - 2017](https://www.youtube.com/watch?v=jzeKPKpucS0)
+     
 * [Data Warehouse](https://www.wiley.com/en-us/Building+the+Data+Warehouse%2C+4th+Edition-p-9780764599446)
   * [Presto processes hundreds of petabytes of data and quadrillions of rows per day at Facebook](https://www.facebook.com/notes/facebook-engineering/presto-interacting-with-petabytes-of-data-at-facebook/10151786197628920/)
     * https://prestosql.io/paper.html
