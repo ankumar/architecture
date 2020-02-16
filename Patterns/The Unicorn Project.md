@@ -1,4 +1,4 @@
-Technology needs to be embedded in the business not external to it or merely aligned with it - "The Unicorn Project"  by GeneKim, WSJ bestselling author: The Unicorn Project! DevOps researcher & enthusiast. Coauthor: DevOps Handbook, Phoenix Project, Accelerate. Tripwire founder. Clojure.
+"The Unicorn Project"  by GeneKim, WSJ bestselling author: The Unicorn Project! DevOps researcher & enthusiast. Coauthor: DevOps Handbook, Phoenix Project, Accelerate. Tripwire founder. Clojure.
 
 The Unicorn Project is a fictionalized story about a DevOps transformation taking place at the same time as The Phoenix Project. In this novel,Gene Kim introduces the five ideals:
 
