@@ -85,7 +85,8 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 
 ## Developer Experience
 * Github
-  * 40 million Developers
+![](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
+ <p align="center"> <b>40 million Developers</b> </p>
  
 
 ## Delivery
