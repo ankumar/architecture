@@ -73,7 +73,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 
 ## AI
 * Data quality
- * [Machine learning is a powerful tool for gleaning knowledge from massive amounts of data. While a great deal
+  * [Machine learning is a powerful tool for gleaning knowledge from massive amounts of data. While a great deal
 of machine learning research has focused on improving the accuracy and efficiency of training and inference
 algorithms, there is less attention in the equally important problem of monitoring the quality of data fed to machine
 learning. The importance of this problem is hard to dispute: errors in the input data can nullify any benefits
@@ -81,7 +81,7 @@ on speed and accuracy for training and inference. This argument points to a data
 learning that treats training and serving data as an important production asset, on par with the algorithm and
 infrastructure used for learning](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 * Architecture
- * [Reinforcement Learning](https://diyrobocars.com/)
+  * [Reinforcement Learning](https://diyrobocars.com/)
 
 # Cloud Computing:
 * [A Brief History](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_1000)
