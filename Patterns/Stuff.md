@@ -58,7 +58,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
   * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
   * [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
   * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
-    * [relational DB to single table](https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/) 
+    * [Relational DB to single table](https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/) 
     * Talks worth watching & still learn something new every time...
       * [Deep Dive](https://www.youtube.com/watch?v=6yqfmXiZTlM)
       * [Match Your Workload to the Right Database](https://www.youtube.com/watch?v=hwnNbLXN4vA)
