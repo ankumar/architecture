@@ -108,6 +108,7 @@ infrastructure used for learning](https://mlsys.org/Conferences/2019/doc/2019/16
 * [Observability](https://www.honeycomb.io/)
 * [RCA - If everyone is responsible for success, why not failure? Root cause analysis exists to find blame](https://www.verica.io/inhumanity-of-root-cause-analysis/)
 * [Incidents](https://www.adaptivecapacitylabs.com/blog/)
+* [Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
 
 # Anti-Architecture:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
