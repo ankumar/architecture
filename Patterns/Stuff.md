@@ -87,9 +87,8 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 
 
 # Developer Experience
-* Github
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
- <p align="center"> <b>40 million Developers</b> </p>
+ <p align="center"> <b>Github - 40 million Developers</b> </p>
  
 # Operational
 * [Observability](https://www.honeycomb.io/)
