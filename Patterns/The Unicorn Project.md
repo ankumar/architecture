@@ -22,21 +22,21 @@ This story will not be unfamiliar to anyone who works in a large corporation. Th
 * To speak clearly, you have to think clearly. To think clearly, you have to write clearly.
 * Employer engagement and customer satisfaction are the only things that matter. The rest will take care of itself.
 * Five ideals:
-1. Locality and simplicity.
-2. Focus, Flow and Joy.
-3. Improvement of Daily Work: Elevate improvement of daily work over daily work itself.
-4. Psychological Safety: Safety is a precondition of work.
-5. Customer Focus.
+  1. Locality and simplicity.
+  2. Focus, Flow and Joy.
+  3. Improvement of Daily Work: Elevate improvement of daily work over daily work itself.
+  4. Psychological Safety: Safety is a precondition of work.
+  5. Customer Focus.
 * People are trying to help. It is the process that is helpless. Reminds me of Gerry Weiberg’s Becoming a technical leader.
 * When engineers think of “the customer” in the abstract instead as a real person, you rarely set the right outcomes.
 * CEO keeps reminding of who the customers are and the vision/mission.
 * Architecture is about enabling Focus, Flow, Joy and Fast feedback.
 * Transformational Leader:
-1. Expects excellence.
-2. Pursuit of perfection.
-3. Urgency to achieve mission.
-4. Dissatisfaction with status quo.
-5. Zeal for customers.
+  1. Expects excellence.
+  2. Pursuit of perfection.
+  3. Urgency to achieve mission.
+  4. Dissatisfaction with status quo.
+  5. Zeal for customers.
 .....
 .....
 .....
