@@ -62,7 +62,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
     * Talks worth watching & still learn something new every time...
       * [Deep Dive](https://www.youtube.com/watch?v=6yqfmXiZTlM)
       * [Match Your Workload to the Right Database](https://www.youtube.com/watch?v=hwnNbLXN4vA)
-       * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
+      * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
       * [Advanced Design Patterns - 2018](https://www.youtube.com/watch?v=HaEPXoXVf2k)
       * [Advanced Design Patterns - 2017](https://www.youtube.com/watch?v=jzeKPKpucS0)
       
