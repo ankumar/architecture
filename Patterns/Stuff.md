@@ -74,6 +74,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 * [Reinforcement Learning](https://diyrobocars.com/)
 
 # Cloud Computing:
+* [A Brief History](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_1000)
 * [Open Application Model](https://oam.dev/)
 * [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
 * [Cloud Run](https://cloud.google.com/run/)
@@ -85,7 +86,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 
 # Developer Experience
 * Github
-![](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
+![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
  <p align="center"> <b>40 million Developers</b> </p>
  
 # Operational
