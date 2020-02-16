@@ -41,6 +41,7 @@ Some important properties of a system derive from its definition.
 ## Data Processing
 Unified Model for Batch, Streaming & SQL 
 
+* [The Evolution of Massive-Scale Data Processing](https://goo.gl/VlVAEp)
 * ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
   * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
   * [BookKeeper](http://bookkeeper.apache.org/distributedlog/)
