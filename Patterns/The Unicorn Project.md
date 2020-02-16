@@ -8,7 +8,9 @@ The Second Ideal is **Focus, Flow, and Joy**, It's all about how our daily work 
 The Third Ideal is Improvement of Daily Work,  Reflect upon what Toyota Andon teaches us about how we must elevate improvement of daily work over daily work itself.
 
 The Fourth Ideal is **Psychological Safety**, where we make it safe to talk about problems, because solving problems requires prevention which requires honesty, and honesty requires the absence of fear.
-The Fifth Ideal is Customer Focus, where we ruthlessly question whether something actually matters to our customers, as in, are they willing to pay us for it or is it only of value to our functional silo?
+
+The Fifth Ideal is **Customer Focus**, where we ruthlessly question whether something actually matters to our customers, as in, are they willing to pay us for it or is it only of value to our functional silo?
+
 The key protagonist, Maxine, is a talented lead developer and architect blamed for an outage and exiled on the Phoenix project. Throughout her journey, she partners with a team of corporate rebels, and together they confront their legacy and change-averse processes and apply the five ideals to lead a positive and lasting business, technology and cultural transformation.
 
 This story will not be unfamiliar to anyone who works in a large corporation. The challenges are common to many organizations that are trying to transform into a digital and elite company. The cultural and organizational principles, as described in the five ideals, are foundational to accomplishing sustainable business outcomes and are already being elevated and adopted by the community as DevOps core values and principles.
