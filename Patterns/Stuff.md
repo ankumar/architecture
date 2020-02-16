@@ -40,7 +40,7 @@ Some important properties of a system derive from its definition.
 # Data-Intensive:
 
 ## Data Processing
-**Unified Model for Batch, Streaming & SQL**
+**Unified Model for Batch, Streaming & SQL?**
 
 * [The Evolution of Massive-Scale Data Processing](https://goo.gl/VlVAEp)
 * ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
