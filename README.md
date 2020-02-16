@@ -95,7 +95,7 @@ Problem #6 - It is not tools and technology but people and processes
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
 
-<p align="center"><b>"Journey to Cloud is just begining"</b></p>
+<p align="center"><b>"Journey to the Cloud is Just Beginning"</b></p>
 
 </font>
 
