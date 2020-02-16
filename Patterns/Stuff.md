@@ -58,12 +58,11 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
   * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
   * [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
   * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
- 
- Talks worth watching & still learn something new every time... 
-    * [Advanced Design Patterns for Amazon DynamoDB](https://www.youtube.com/watch?v=jzeKPKpucS0)
-    * [Amazon DynamoDB Deep Dive](https://www.youtube.com/watch?v=jzeKPKpucS0)
-    * [Best Practices for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
-    * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
+    * Talks worth watching & still learn something new every time...
+      * [Advanced Design Patterns for Amazon DynamoDB](https://www.youtube.com/watch?v=jzeKPKpucS0)
+      * [Amazon DynamoDB Deep Dive](https://www.youtube.com/watch?v=jzeKPKpucS0)
+      * [Best Practices for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
+      * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 
 * [Data Warehouse](https://www.wiley.com/en-us/Building+the+Data+Warehouse%2C+4th+Edition-p-9780764599446)
   * [Presto processes hundreds of petabytes of data and quadrillions of rows per day at Facebook](https://www.facebook.com/notes/facebook-engineering/presto-interacting-with-petabytes-of-data-at-facebook/10151786197628920/)
