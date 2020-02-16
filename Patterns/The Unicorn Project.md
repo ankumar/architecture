@@ -15,6 +15,10 @@ The key protagonist, Maxine, is a talented lead developer and architect blamed f
 
 This story will not be unfamiliar to anyone who works in a large corporation. The challenges are common to many organizations that are trying to transform into a digital and elite company. The cultural and organizational principles, as described in the five ideals, are foundational to accomplishing sustainable business outcomes and are already being elevated and adopted by the community as DevOps core values and principles.
 
+
+------------
+
+
 [Another Good Summary of The Unicorn Project book](https://danlebrero.com/2020/02/05/the-unicorn-project-summary/)
 
 * Is not small vs big, but fast vs slow.
