@@ -79,9 +79,9 @@ Problem #5 - Tools are not addressing complexity
 
 Problem #6 - It is not tools and technology but people and processes
 
-# Performance
+# Human Performance
 [![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
-<p align="center"><b>"Human Performance - A Model"</b></p>
+<p align="center"><b>"Above & Below The Line - A Model"</b></p>
 
 # Cloud Computing
 
