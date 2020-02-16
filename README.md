@@ -19,7 +19,7 @@ Architecture is about [Systems Thinking](https://www.youtube.com/watch?v=OqEeIG8
 3. **Technology Commoditization**
 
 ## Open Source
-* Community & Company Driven Projects
+* Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 * Cloud would not have been possible without Linux
 
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
