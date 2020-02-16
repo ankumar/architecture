@@ -93,5 +93,9 @@ Problem #6 - It is not tools and technology but people and processes
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
+![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
+
+<p align="center"><b>"Cloud is just starting up"</b></p>
+
 </font>
 
