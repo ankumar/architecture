@@ -55,9 +55,8 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 * [Relational,NoSQL,Document,Graph:A one size fits all database doesn't fit anyone](https://www.allthingsdistributed.com/2018/06/purpose-built-databases-in-aws.html)
 
 * [NoSQL](https://www.youtube.com/watch?v=qI_g07C_Q5I)
-  * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
-  * [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
-  * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
+  * Dynamo
+    * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
     * [Relational DB to single table](https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/) 
     * Talks worth watching & still learn something new every time...
       * [Deep Dive](https://www.youtube.com/watch?v=6yqfmXiZTlM)
@@ -65,7 +64,9 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
       * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
       * [Advanced Design Patterns - 2018](https://www.youtube.com/watch?v=HaEPXoXVf2k)
       * [Advanced Design Patterns - 2017](https://www.youtube.com/watch?v=jzeKPKpucS0)
-      
+  
+  * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+  * [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
 * [Data Warehouse](https://www.wiley.com/en-us/Building+the+Data+Warehouse%2C+4th+Edition-p-9780764599446)
   * [Presto processes hundreds of petabytes of data and quadrillions of rows per day at Facebook](https://www.facebook.com/notes/facebook-engineering/presto-interacting-with-petabytes-of-data-at-facebook/10151786197628920/)
     * https://prestosql.io/paper.html
