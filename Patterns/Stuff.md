@@ -61,7 +61,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
     * Talks worth watching & still learn something new every time...
       * [Advanced Design Patterns for Amazon DynamoDB](https://www.youtube.com/watch?v=jzeKPKpucS0)
       * [Amazon DynamoDB Deep Dive](https://www.youtube.com/watch?v=jzeKPKpucS0)
-      * [Best Practices for DynamoDB](https://www.youtube.com/watch?v=HaEPXoXVf2k)
+      * [Advanced Design Patterns](https://www.youtube.com/watch?v=HaEPXoXVf2k)
       * [Under the Hood](https://www.youtube.com/watch?v=yvBR71D0nAQ)
 
 * [Data Warehouse](https://www.wiley.com/en-us/Building+the+Data+Warehouse%2C+4th+Edition-p-9780764599446)
