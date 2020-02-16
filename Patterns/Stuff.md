@@ -89,6 +89,7 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
  <p align="center"> <b>40 million Developers</b> </p>
  
 ## Operational
+* [Observability](https://www.honeycomb.io/)
 * [RCA - If everyone is responsible for success, why not failure? Root cause analysis exists to find blame](https://www.verica.io/inhumanity-of-root-cause-analysis/)
 * [Incidents](https://www.adaptivecapacitylabs.com/blog/)
 
