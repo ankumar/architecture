@@ -83,12 +83,12 @@ Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Agg
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 
 
-## Developer Experience
+# Developer Experience
 * Github
 ![](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
  <p align="center"> <b>40 million Developers</b> </p>
  
-## Operational
+# Operational
 * [Observability](https://www.honeycomb.io/)
 * [RCA - If everyone is responsible for success, why not failure? Root cause analysis exists to find blame](https://www.verica.io/inhumanity-of-root-cause-analysis/)
 * [Incidents](https://www.adaptivecapacitylabs.com/blog/)
