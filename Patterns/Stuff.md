@@ -17,7 +17,7 @@ Some important properties of a system derive from its definition.
 # Enterprise Architecture:
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 * [Cell Based Architecture - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
-* [DevOps](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
+* [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
 
 # Leadership:
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
