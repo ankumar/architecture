@@ -8,14 +8,13 @@ Architecture is about Systems Thinking including People, Process and Technology;
 **"If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” -Dr. Russell Ackoff.**
 
 # Strategy
-
-![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
-
 * **Technology needs to be embedded in the Business not external to it or merely aligned with it**
 * **Enabling Business to Focus on core value vs plumbing:**
   1. **Work backwards from Customer/Business outcomes**
   2. **Build closed loop systems to optimize for continual Improvements & Learning**
   3. **Technology Commoditization**
+  
+![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
 # Open Source
 * Cloud would not have been possible without open source
