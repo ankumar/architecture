@@ -49,6 +49,7 @@ Some important properties of a system derive from its definition.
   * [Pravega](http://www.pravega.io/)
 * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
   * API Compatible
+    * [Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/)
     * [Redpanda](https://vectorized.io/)
 
 ## Databases
