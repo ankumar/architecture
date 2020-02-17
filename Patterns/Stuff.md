@@ -48,8 +48,8 @@ Some important properties of a system derive from its definition.
   * [LogDevice](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
   * [Pravega](http://www.pravega.io/)
 * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
-* Kafka API Compatible
-  * [Redpanda](https://vectorized.io/)
+  * API Compatible
+    * [Redpanda](https://vectorized.io/)
 
 ## Databases
 **Access Patterns, Data Modeling, User interactions, Data Analysis, Analytics, Aggregations etc.**
