@@ -7,7 +7,7 @@ Architecture is about Systems Thinking including People, Process and Technology;
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff") 
 **"If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” -Dr. Russell Ackoff.**
 
-## Strategy
+# Strategy
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
@@ -17,7 +17,7 @@ Architecture is about Systems Thinking including People, Process and Technology;
   2. **Build closed loop systems to optimize for continual Improvements & Learning**
   3. **Technology Commoditization**
 
-## Open Source
+# Open Source
 * Cloud would not have been possible without open source
 * Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 * "[Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
