@@ -69,6 +69,8 @@ Some important properties of a system derive from its definition.
       * [Advanced Design Patterns - 2017](https://www.youtube.com/watch?v=jzeKPKpucS0)
   
   * [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+    * API Compatible
+      * [Syclla](https://www.scylladb.com/)
   * [CosmosDB](https://azure.microsoft.com/en-us/blog/a-technical-overview-of-azure-cosmos-db/)
 * [Data Warehouse](https://www.wiley.com/en-us/Building+the+Data+Warehouse%2C+4th+Edition-p-9780764599446)
   * [Presto processes hundreds of petabytes of data and quadrillions of rows per day at Facebook](https://www.facebook.com/notes/facebook-engineering/presto-interacting-with-petabytes-of-data-at-facebook/10151786197628920/)
