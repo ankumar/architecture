@@ -82,13 +82,7 @@ Some important properties of a system derive from its definition.
 
 ## AI
 * Data quality
-  * [Machine learning is a powerful tool for gleaning knowledge from massive amounts of data. While a great deal
-of machine learning research has focused on improving the accuracy and efficiency of training and inference
-algorithms, there is less attention in the equally important problem of monitoring the quality of data fed to machine
-learning. The importance of this problem is hard to dispute: errors in the input data can nullify any benefits
-on speed and accuracy for training and inference. This argument points to a data-centric approach to machine
-learning that treats training and serving data as an important production asset, on par with the algorithm and
-infrastructure used for learning](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
+  * [Data Validation for ML](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 * Architecture
   * [Reinforcement Learning](https://diyrobocars.com/)
 
