@@ -35,11 +35,11 @@ Architecture is about Systems Thinking including People, Process and Technology;
 
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 
-1. Highly maintainable & testable
-2. Loosely coupled
-3. Independently deployable
-4. Organized around business capabilities
-5. Owned by a small team
+**1. Highly maintainable & testable**
+**2. Loosely coupled**
+**3. Independently deployable**
+**4. Organized around business capabilities**
+**5. Owned by a small team**
 
 There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
 
@@ -66,18 +66,18 @@ What are the factors that is driving data today?
 4. Modeling physical world in real-time
 What is the problem with data today?
 
-Problem #1 - Spending the time on wrong things
+**Problem #1 - Spending the time on wrong things**
 ![](https://github.com/ankumar/Architecture/blob/master/images/data-intensive1.png)
 
-Problem #2 - Data is not designed and collected systematically
+**Problem #2 - Data is not designed and collected systematically**
 
-Problem #3 - Companies have lots of data but not information
+**Problem #3 - Companies have lots of data but not information**
 
-Problem #4 - Data and data assets are not discoverable
+**Problem #4 - Data and data assets are not discoverable**
 
-Problem #5 - Tools are not addressing complexity
+**Problem #5 - Tools are not addressing complexity**
 
-Problem #6 - It is not tools and technology but people and processes
+**Problem #6 - It is not tools and technology but people and processes**
 
 # Human Performance
 [![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
