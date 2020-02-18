@@ -8,12 +8,12 @@ Systems Thinking - **"If we have a system of improvement that’s directed at im
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff") 
 
 # Strategy
-* **Technology needs to be embedded in the Business not external to it or merely aligned with it**
 * **Enabling Business to Focus on core value vs plumbing:**
   1. **Work backwards from Customer/Business outcomes**
   2. **Build closed loop systems to optimize for continual Improvements & Learning**
   3. **Technology Commoditization**
-  
+* **Technology needs to be embedded in the Business not external to it or merely aligned with it**  
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
 # Open Source
