@@ -83,6 +83,7 @@ What is the problem with data today?
 |**Resource pooling**|The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically|
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
 <p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
 
