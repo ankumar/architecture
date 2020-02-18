@@ -74,10 +74,6 @@ What is the problem with data today?
 
 **Problem #6 - It is not tools and technology but people and processes**
 
-# Human Performance
-[![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
-<p align="center"><b>Above & Below The Line, A Model - "Broad, proactive learning keeps pace with change, continually recharging the sources of adaptive capacity that lead to resilient performance.”</b></p>
-
 # Cloud Computing
 
 |[Characteristics](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)|Developer Productivity|
@@ -98,6 +94,10 @@ What is the problem with data today?
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
 <p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
+
+# Human Performance
+[![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
+<p align="center"><b>Above & Below The Line, A Model - "Broad, proactive learning keeps pace with change, continually recharging the sources of adaptive capacity that lead to resilient performance.”</b></p>
 
 </font>
 
