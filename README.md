@@ -95,9 +95,5 @@ What is the problem with data today?
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")
 <p align="center"><b>Google: 100,000+ services</b></p>
 
-# Human Performance
-[![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
-<p align="center"><b>Above & Below The Line, A Model - "Broad, proactive learning keeps pace with change, continually recharging the sources of adaptive capacity that lead to resilient performance.”</b></p>
-
 </font>
 
