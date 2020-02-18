@@ -18,14 +18,6 @@ Systems Thinking: **"If we have a system of improvement that’s directed at imp
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
-# Open Source
-* Cloud would not have been possible without open source
-* Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
-* "[Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
-
-[![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
-<p align="center"><b>"It's not a race if we're all on the same team"</b></p>
-
 # Services
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
@@ -95,6 +87,14 @@ What is the problem with data today?
 |**Resource pooling**|The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically|
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
+
+# Open Source
+* Cloud would not have been possible without open source
+* Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
+* "[Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."
+
+[![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
+<p align="center"><b>"It's not a race if we're all on the same team"</b></p>
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
 <p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
