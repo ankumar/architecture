@@ -7,9 +7,6 @@ Architecture is about Systems Thinking including People, Process and Technology;
 Systems Thinking: **"If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.”**
 **-Dr. Russell Ackoff.**
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff") 
-
-
-# Strategy
 * **Enabling Business to Focus on core value vs plumbing:**
   1. **Work backwards from Customer/Business outcomes**
   2. **Build closed loop systems to optimize for continual Improvements & Learning**
