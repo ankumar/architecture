@@ -85,7 +85,7 @@ What is the problem with data today?
 * Open [Governance](https://github.com/cncf/toc/), stewardship & [principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
-<p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
+<p align="center"><b>"Cloud - Journey with Open Source is Just Beginning"</b></p>
 
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"><b>"Building a strong community - It's not a race if we're all on the same team"</b></p>
