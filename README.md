@@ -84,12 +84,13 @@ What is the problem with data today?
 
 # Open Source
 * Cloud would not have been possible without open source
+* Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles]
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
 <p align="center"><b>Cloud & Open Source - "I think the "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading.”</b></p>
 <p align="right"><b>-Adrian Cockcroft</b></p>
 
 * Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
-* Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
+(https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"><b>Community - "It's not a race if we're all on the same team"</b></p>
