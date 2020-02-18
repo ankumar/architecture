@@ -84,8 +84,8 @@ What is the problem with data today?
 
 # Open Source
 * Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
-![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
-<p align="center"><b>Cloud would not have been possible without open source</b></p>
+
+![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"><b>Cloud would not have been possible without open source</b></p>
 
 * Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 
