@@ -97,7 +97,7 @@ What is the problem with data today?
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
-<p align="center"><b>"Journey to the Cloud is Just Beginning"</b></p>
+<p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
 
 </font>
 
