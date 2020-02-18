@@ -102,12 +102,12 @@ Some important properties of a system derive from its definition.
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
  <p align="center"> <b>Github - 40 million Developers</b> </p>
  
- [![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
-<p align="center"><b>Above & Below The Line, A Model - "Broad, proactive learning keeps pace with change, continually recharging the sources of adaptive capacity that lead to resilient performance.”</b></p>
-
  * [Cloud Run](https://cloud.google.com/run/)
  
 # Operational:
+[![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
+<p align="center"><b>Above & Below The Line, A Model - "Broad, proactive learning keeps pace with change, continually recharging the sources of adaptive capacity that lead to resilient performance.”</b></p>
+
 * [Observability](https://www.honeycomb.io/)
 * [RCA - If everyone is responsible for success, why not failure? Root cause analysis exists to find blame](https://www.verica.io/inhumanity-of-root-cause-analysis/)
 * [Incidents](https://www.adaptivecapacitylabs.com/blog/)
