@@ -92,7 +92,6 @@ Some important properties of a system derive from its definition.
 * [Standards](https://docs.google.com/presentation/d/1wc9nJSyfjrUO2KpVgXt5KnSHVlWvXpho6eINkin5U5g/edit#slide=id.g12bfb019f3_2_34)
 * [Open Application Model](https://oam.dev/)
 * [Decouple developers from operations](https://www.youtube.com/watch?v=do-PrVi0ifk)
-* [Cloud Run](https://cloud.google.com/run/)
 * [Kafka Cloud Native](https://www.confluent.io/blog/introducing-cloud-native-experience-for-apache-kafka-in-confluent-cloud)
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
@@ -102,6 +101,8 @@ Some important properties of a system derive from its definition.
 # Developer Experience:
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
  <p align="center"> <b>Github - 40 million Developers</b> </p>
+ 
+ * [Cloud Run](https://cloud.google.com/run/)
  
 # Operational:
 * [Observability](https://www.honeycomb.io/)
