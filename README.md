@@ -88,7 +88,7 @@ What is the problem with data today?
 <p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
 
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
-<p align="center"><b>"It's not a race if we're all on the same team"</b></p>
+<p align="center"><b>"Building a strong community - It's not a race if we're all on the same team"</b></p>
 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Google: 100,000+ services</b></p>
