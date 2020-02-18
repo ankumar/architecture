@@ -51,14 +51,11 @@ There isn't a concrete, well-defined algorithm for decomposing a system into ser
 <p align="center"><b>Google: 100,000+ services</b></p>
 
 # Software 2.0
-
-Advances in machine learning (ML) over the last decade have opened up a radically new approach to building software systems. Dubbed [“Software 2.0”](https://medium.com/@karpathy/software-2-0-a64152b37c35), this approach focuses on training models to learn from data instead of explicitly writing code for the required behavior. 
-
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
 ![AI powered Monopolies](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
 
-While data is an important starting point, for data to be useful, it should be turned to Information.
+Advances in machine learning (ML) over the last decade have opened up a radically new approach to building software systems. Dubbed [“Software 2.0”](https://medium.com/@karpathy/software-2-0-a64152b37c35), this approach focuses on training models to learn from data instead of explicitly writing code for the required behavior. While data is an important starting point, for data to be useful, it should be turned to Information.
 Data - Raw, unorganized facts about something
 Information - Data/Facts that is structured, organized, and presented with context
 Knowledge - Understanding of Information with experience and intuition
