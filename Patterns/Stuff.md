@@ -39,6 +39,14 @@ Some important properties of a system derive from its definition.
 
 # Data-Intensive:
 
+## Science
+* Data quality
+  * [Data Validation for ML](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
+* Architecture
+  * [Reinforcement Learning](https://diyrobocars.com/)
+* Publications
+  * [Amazon](https://www.amazon.science/publications)
+  
 ## Data Processing
 **Unified Model for Batch, Streaming & SQL?**
 
@@ -80,14 +88,6 @@ Some important properties of a system derive from its definition.
   * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
-
-## Science
-* Data quality
-  * [Data Validation for ML](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
-* Architecture
-  * [Reinforcement Learning](https://diyrobocars.com/)
-* Publications
-  * [Amazon](https://www.amazon.science/publications)
 
 # Cloud Computing:
 * [A Brief History](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_1000)
