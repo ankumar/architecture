@@ -83,6 +83,8 @@ What is the problem with data today?
 |**Resource pooling**|The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically|
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
+![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
+<p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
 
 # Open Source
 * Cloud would not have been possible without open source
@@ -91,9 +93,6 @@ What is the problem with data today?
 
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"><b>"It's not a race if we're all on the same team"</b></p>
-
-![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
-<p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
 
 # Human Performance
 [![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
