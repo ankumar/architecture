@@ -81,9 +81,6 @@ What is the problem with data today?
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
-![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
-<p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
-
 # Open Source
 * Cloud would not have been possible without open source
 * Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
@@ -91,6 +88,9 @@ What is the problem with data today?
 
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"><b>"It's not a race if we're all on the same team"</b></p>
+
+![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
+<p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")
 <p align="center"><b>Google: 100,000+ services</b></p>
