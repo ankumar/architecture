@@ -82,6 +82,7 @@ What is the problem with data today?
 # Open Source
 * Cloud would not have been possible without open source
 * Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
+* Open [Governance](https://github.com/cncf/toc/)
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)
 <p align="center"><b>"Journey to the Cloud with Open Source is Just Beginning"</b></p>
