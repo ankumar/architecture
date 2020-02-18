@@ -6,7 +6,7 @@
 Architecture is about Systems Thinking including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture". 
 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
-<p align="center"><b>Systems Thinking:"If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.”</b></p>
+<p align="center"><b>Systems Thinking: "If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.”</b></p>
 <p align="right"><b>-Dr. Russell Ackoff.</b></p>
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
