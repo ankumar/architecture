@@ -24,6 +24,7 @@ Some important properties of a system derive from its definition.
 
 # Patterns:
 * [Microservices](https://microservices.io/patterns/index.html)
+* [Assembling Software from Independent Systems](https://scs-architecture.org/)
 * [The Twelve Factors](https://12factor.net/)
 * [Martin Fowler](https://martinfowler.com/)
 * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
