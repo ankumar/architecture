@@ -38,6 +38,12 @@ Some important properties of a system derive from its definition.
 * [Query Language for API](https://graphql.org/)
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
+# Developer Experience:
+![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
+ <p align="center"> <b>Github - 40 million Developers</b> </p>
+ 
+ * [Cloud Run](https://cloud.google.com/run/)
+ 
 # Data-Intensive:
 
 ## Science
@@ -109,12 +115,6 @@ Some important properties of a system derive from its definition.
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
-
-# Developer Experience:
-![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
- <p align="center"> <b>Github - 40 million Developers</b> </p>
- 
- * [Cloud Run](https://cloud.google.com/run/)
  
 # Operational:
 [![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
