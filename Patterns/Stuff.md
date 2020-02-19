@@ -95,6 +95,9 @@ Some important properties of a system derive from its definition.
  <b>Connecting in & across data centers  - Google: 100,000+ services</b></p>
 
 # Cloud Computing:
+
+![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
+
 * [A Brief History](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_1000)
 * [Standards](https://docs.google.com/presentation/d/1wc9nJSyfjrUO2KpVgXt5KnSHVlWvXpho6eINkin5U5g/edit#slide=id.g12bfb019f3_2_34)
 * [Open Application Model](https://oam.dev/)
@@ -103,7 +106,6 @@ Some important properties of a system derive from its definition.
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
-
 
 # Developer Experience:
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
