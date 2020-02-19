@@ -47,6 +47,8 @@ Some important properties of a system derive from its definition.
   * [Reinforcement Learning](https://diyrobocars.com/)
 * Publications
   * [Amazon](https://www.amazon.science/publications)
+  * [A 10-year Prediction for Enterprise-Grade ML](http://cidrdb.org/cidr2020/papers/p8-agrawal-cidr20.pdf)
+ 
   
 ## Data Processing
 **Unified Model for Batch, Streaming & SQL?**
