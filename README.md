@@ -99,8 +99,7 @@ What is the problem with data today?
 
 # Learning
 
-* <span style="color: red;"><b>"[Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md) aren't prescriptive rules that say do this because it works. They say this has worked in many cases, Try it and see if it works for you."</b>
-</span>
+* [Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 </font>
 
