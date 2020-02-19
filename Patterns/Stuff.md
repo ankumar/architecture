@@ -22,6 +22,12 @@ Some important properties of a system derive from its definition.
 # Leadership:
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
+# Developer Experience:
+![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
+ <p align="center"> <b>Github - 40 million Developers</b> </p>
+ 
+ * [Cloud Run](https://cloud.google.com/run/)
+
 # Patterns:
 * [Microservices](https://microservices.io/patterns/index.html)
 * [Assembling Software from Independent Systems](https://scs-architecture.org/)
@@ -38,12 +44,6 @@ Some important properties of a system derive from its definition.
 * [Query Language for API](https://graphql.org/)
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
-# Developer Experience:
-![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
- <p align="center"> <b>Github - 40 million Developers</b> </p>
- 
- * [Cloud Run](https://cloud.google.com/run/)
- 
 # Data-Intensive:
 
 ## Science
