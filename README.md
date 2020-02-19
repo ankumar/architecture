@@ -41,9 +41,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 # Software 2.0
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
-<p align="center">
 ![](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
-</p>
 <p align="center"><a href="https://towardsdatascience.com/ai-powered-monopolies-and-the-new-world-order-1c56cfc76e7d">AI-powered Monopolies and the New World Order</a> </p>
 
 Advances in machine learning (ML) over the last decade have opened up a radically new approach to building software systems. Dubbed [“Software 2.0”](https://medium.com/@karpathy/software-2-0-a64152b37c35), this approach focuses on training models to learn from data instead of explicitly writing code for the required behavior. 
