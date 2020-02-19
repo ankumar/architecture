@@ -27,6 +27,8 @@ Some important properties of a system derive from its definition.
  <p align="center"> <b>Github - 40 million Developers</b> </p>
  
  * [Cloud Run](https://cloud.google.com/run/)
+ * GitHub Actions
+   * [GCP Compute](https://github.com/GoogleCloudPlatform/github-actions)
 
 # Patterns:
 * [Microservices](https://microservices.io/patterns/index.html)
