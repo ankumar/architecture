@@ -99,7 +99,7 @@ What is the problem with data today?
 
 # Learning
 
-* [Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+* [Things](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 </font>
 
