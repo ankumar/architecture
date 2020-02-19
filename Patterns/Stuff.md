@@ -92,7 +92,7 @@ Some important properties of a system derive from its definition.
 # Distributed:
 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
- <b>Distributed - Google: 100,000+ services</b></p>
+ <b>Connecting in & across data centers  - Google: 100,000+ services</b></p>
 
 # Cloud Computing:
 * [A Brief History](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_1000)
