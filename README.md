@@ -25,13 +25,9 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 
 **1. Highly maintainable & testable**
-
 **2. Loosely coupled**
-
 **3. Independently deployable**
-
 **4. Organized around business capabilities**
-
 **5. Owned by a small team**
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Modern Bank, Monzo: 1,500+ services</a> </p>
@@ -87,8 +83,7 @@ What is the problem with data today?
 
 # Open Source
 <p align="center"><b>""new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading.”</b></p>
-<p align="right"><b>-Adrian Cockcroft</b></p>
-<p align="right"><b>VP, Cloud architecture strategy at Amazon Web Services</b></p>
+<p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 
 * Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 
