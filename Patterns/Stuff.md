@@ -15,6 +15,12 @@ Some important properties of a system derive from its definition.
 **Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.**
 
 # Enterprise Architecture:
+**1. Application developers are successful when their work IS noticed. 
+2. Platform developers are successful when their work is NOT noticed.
+  Good perspective!  
+  When done well, Platforms drive:
+  Speed for Devs  &  Stability/Scalability/Security for Ops.
+  Combining for a Win-Win!**
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 * [Inspired by Biology - Cell Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
@@ -23,16 +29,10 @@ Some important properties of a system derive from its definition.
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
 # Developer Experience:
-**Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed.
-Good perspective!  
-When done well, Platforms drive:
-Speed for Devs  &  Stability/Scalability/Security for Ops.
-Combining for a Win-Win!**
-
- * [Cloud Run](https://cloud.google.com/run/)
  * GitHub
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <b>Github - 40 million Developers</b> </p>
- * [GitHub Actions - GCP Compute](https://github.com/GoogleCloudPlatform/github-actions)
+   * [GitHub Actions - GCP Compute](https://github.com/GoogleCloudPlatform/github-actions)
+ * [Cloud Run](https://cloud.google.com/run/)
 
 # Patterns:
 * [Microservices](https://microservices.io/patterns/index.html)
