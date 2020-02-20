@@ -23,18 +23,16 @@ Some important properties of a system derive from its definition.
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
 # Developer Experience:
-** Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed.
+**Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed.
 Good perspective!  
 When done well, Platforms drive:
 Speed for Devs  &  Stability/Scalability/Security for Ops.
-Combining for a Win-Win! 
-**
+Combining for a Win-Win!**
 
  * [Cloud Run](https://cloud.google.com/run/)
  * GitHub
-![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)
- <p align="center"> <b>Github - 40 million Developers</b> </p>
-  * [GitHub Actions - GCP Compute](https://github.com/GoogleCloudPlatform/github-actions)
+![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <b>Github - 40 million Developers</b> </p>
+ * [GitHub Actions - GCP Compute](https://github.com/GoogleCloudPlatform/github-actions)
 
 # Patterns:
 * [Microservices](https://microservices.io/patterns/index.html)
