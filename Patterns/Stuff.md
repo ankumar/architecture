@@ -30,10 +30,10 @@ When done well, Platforms drive: <br>
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
 # Developer Experience:
- * GitHub
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <b>Github - 40 million Developers</b> </p>
-   * [GitHub Actions - GCP Compute](https://github.com/GoogleCloudPlatform/github-actions)
- * [Cloud Run](https://cloud.google.com/run/)
+   * [GitHub Actions]
+     * [GCP Compute](https://github.com/GoogleCloudPlatform/github-actions)
+   * [Cloud Run](https://cloud.google.com/run/)
 
 # Patterns:
 * [Microservices](https://microservices.io/patterns/index.html)
