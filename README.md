@@ -24,7 +24,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 
-**1. Highly maintainable & testable**
+**1. Highly maintainable & testable** <br>
 **2. Loosely coupled**
 **3. Independently deployable**
 **4. Organized around business capabilities**
