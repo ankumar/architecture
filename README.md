@@ -25,10 +25,10 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the microservice architecture - is an architectural style that structures an application as a collection of services that are
 
 **1. Highly maintainable & testable** <br>
-**2. Loosely coupled**
-**3. Independently deployable**
-**4. Organized around business capabilities**
-**5. Owned by a small team**
+**2. Loosely coupled** <br>
+**3. Independently deployable** <br>
+**4. Organized around business capabilities** <br>
+**5. Owned by a small team**<br>
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Modern Bank, Monzo: 1,500+ services</a> </p>
 
