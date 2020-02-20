@@ -17,10 +17,10 @@ Some important properties of a system derive from its definition.
 # Enterprise Architecture:
 Good perspective! <br>
 When done well, Platforms drive: <br>
-  Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
-  Combining for a Win-Win! <br>
-**1. Application developers are successful when their work IS noticed.**<br>
-**2. Platform developers are successful when their work is NOT noticed.**<br>
+1. Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
+2. Combining for a Win-Win! <br>
+**Application developers are successful when their work IS noticed.**<br>
+**Platform developers are successful when their work is NOT noticed.**<br>
   
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 * [Inspired by Biology - Cell Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
