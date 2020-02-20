@@ -15,13 +15,11 @@ Some important properties of a system derive from its definition.
 **Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.**
 
 # Enterprise Architecture:
-Good perspective! <br>
-When done well, Platforms drive: <br>
+**"Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed."**<br>
+Good perspective! When done well, Platforms drive: <br>
 1. Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
 2. Combining for a Win-Win! <br>
 
-**"Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed."**<br>
-  
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 * [Inspired by Biology - Cell Based Architecture](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
