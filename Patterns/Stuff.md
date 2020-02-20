@@ -31,7 +31,7 @@ When done well, Platforms drive: <br>
 
 # Developer Experience:
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <b>Github - 40 million Developers</b> </p>
-   * [GitHub Actions]
+   * GitHub Actions
      * [GCP Compute](https://github.com/GoogleCloudPlatform/github-actions)
    * [Cloud Run](https://cloud.google.com/run/)
 
