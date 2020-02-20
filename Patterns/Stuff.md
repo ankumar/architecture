@@ -54,6 +54,7 @@ Some important properties of a system derive from its definition.
 * Architecture
   * [Reinforcement Learning](https://diyrobocars.com/)
 * Publications
+  * [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
   * [Amazon](https://www.amazon.science/publications)
   * [A 10-year Prediction for Enterprise-Grade ML](http://cidrdb.org/cidr2020/papers/p8-agrawal-cidr20.pdf)
  
