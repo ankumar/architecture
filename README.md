@@ -44,31 +44,6 @@ Data powers new innovations, improvements in customer experience, and efficiency
 
 Advances in machine learning (ML) over the last decade have opened up a radically new approach to building software systems. Dubbed [“Software 2.0”](https://medium.com/@karpathy/software-2-0-a64152b37c35), this approach focuses on training models to learn from data instead of explicitly writing code for the required behavior. 
 
-While data is an important starting point, for data to be useful, it should be turned to Information.
-Data - Raw, unorganized facts about something
-Information - Data/Facts that is structured, organized, and presented with context
-Knowledge - Understanding of Information with experience and intuition
-For data to be useful, every company must be able to turn data into information, and eventually into knowledge. Knowledge empowers understanding and decisions.
-What are the factors that is driving data today?
-1. Accessibility to scalable infra and platform
-2. Awareness of importance of data
-3. Machine Learning on the rise
-4. Modeling physical world in real-time
-What is the problem with data today?
-
-**Problem #1 - Spending the time on wrong things**
-![](https://github.com/ankumar/Architecture/blob/master/images/data-intensive1.png)
-
-**Problem #2 - Data is not designed and collected systematically**
-
-**Problem #3 - Companies have lots of data but not information**
-
-**Problem #4 - Data and data assets are not discoverable**
-
-**Problem #5 - Tools are not addressing complexity**
-
-**Problem #6 - It is not tools and technology but people and processes**
-
 <p align="center"> <b> "In traditional software engineering, or Software 1.0, a program’s functionality is defined via code as dictated by a human. In the age of machine learning, we are increasingly observing Software 2.0 systems, where a program’s functionality is defined by the weights of neural networks as dictated by the data. You wouldn’t trust a piece of human-written code that hasn’t ever been debugged or tested, so why shouldn’t our data receive the same treatment now that it’s a first-class citizen in so many real-world systems?" </b> </p>
 
 # Open Source
