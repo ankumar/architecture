@@ -50,7 +50,7 @@ Good perspective! When done well, Platforms drive: <br>
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
 # Data-Intensive:
-While data is an important starting point, for data to be useful, it should be turned to Information.
+Data is an important starting point, for data to be useful, it should be turned to Information.
 Data - Raw, unorganized facts about something
 Information - Data/Facts that is structured, organized, and presented with context
 Knowledge - Understanding of Information with experience and intuition
