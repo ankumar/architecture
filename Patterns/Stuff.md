@@ -66,8 +66,8 @@ Good perspective! When done well, Platforms drive: <br>
 **Unified Model for Batch, Streaming & SQL?**
 
 * [The Evolution of Massive-Scale Data Processing](https://goo.gl/VlVAEp)
-* ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [One SQL to Rule Them All](https://arxiv.org/pdf/1905.12133.pdf)
+* ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
   * [BookKeeper](http://bookkeeper.apache.org/distributedlog/)
   * [LogDevice](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
   * [Pravega](http://www.pravega.io/)
