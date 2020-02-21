@@ -48,13 +48,12 @@ Advances in machine learning (ML) over the last decade have opened up a radicall
 
 # Open Source
 * Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
-* [Inner Sourcing - Applying open source best practices within organizations](https://github.com/InnerSourceCommons/InnerSourcePatterns)
-
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"><b>Cloud would not have been possible without open source</b></p>
 * Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"><b>"It's not a race if we're all on the same team"</b></p>
 
+* [Inner Sourcing - Applying open source best practices within organizations](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
 <p align="center"><b>""new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading.”</b></p> <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 
