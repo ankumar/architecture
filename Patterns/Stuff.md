@@ -50,6 +50,30 @@ Good perspective! When done well, Platforms drive: <br>
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
 # Data-Intensive:
+While data is an important starting point, for data to be useful, it should be turned to Information.
+Data - Raw, unorganized facts about something
+Information - Data/Facts that is structured, organized, and presented with context
+Knowledge - Understanding of Information with experience and intuition
+For data to be useful, every company must be able to turn data into information, and eventually into knowledge. Knowledge empowers understanding and decisions.
+What are the factors that is driving data today?
+1. Accessibility to scalable infra and platform
+2. Awareness of importance of data
+3. Machine Learning on the rise
+4. Modeling physical world in real-time
+What is the problem with data today?
+
+**Problem #1 - Spending the time on wrong things**
+![](https://github.com/ankumar/Architecture/blob/master/images/data-intensive1.png)
+
+**Problem #2 - Data is not designed and collected systematically**
+
+**Problem #3 - Companies have lots of data but not information**
+
+**Problem #4 - Data and data assets are not discoverable**
+
+**Problem #5 - Tools are not addressing complexity**
+
+**Problem #6 - It is not tools and technology but people and processes**
 
 ## Science
 * Data quality
