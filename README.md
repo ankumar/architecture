@@ -75,7 +75,7 @@ Advances in machine learning (ML) over the last decade have opened up a radicall
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
 # Learning
-* [A GOOD THING](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## [A GOOD THING](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 </font>
 
