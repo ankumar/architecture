@@ -13,7 +13,8 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ##   - **Work backwards from Customer/Business outcomes**
 ##   - **Build closed loop systems to optimize for continual Improvements & Learning**
 ##   - **Technology Commoditization**
-## **2. Technology needs to be embedded in the Business not external to it or merely aligned with it**  
+## **2. Technology needs to be embedded in the Business not external to it or merely aligned with it**
+##   - **[The Unicorn Project : A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.walmart.com/ip/The-Unicorn-Project-A-Novel-about-Developers-Digital-Disruption-and-Thriving-in-the-Age-of-Data-9781942788768/328305489)
 
 # Services
 * Designing Modularity & Interfaces
