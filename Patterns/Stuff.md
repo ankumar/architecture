@@ -55,6 +55,7 @@ Some important properties of a system derive from its definition.
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 
 # Data-Intensive:
+
 Data is an important starting point, for data to be useful, it should be turned to Information.
 Data - Raw, unorganized facts about something
 Information - Data/Facts that is structured, organized, and presented with context
@@ -81,7 +82,6 @@ What is the problem with data today?
 **Problem #6 - It is not tools and technology but people and processes**
 
 ## Science
-* [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
 * Data quality
   * [Data Validation for ML](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 * Architecture
@@ -134,6 +134,10 @@ What is the problem with data today?
   * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
+
+## Stanford
+ * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
+ * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
 
 # Distributed computing:
 
