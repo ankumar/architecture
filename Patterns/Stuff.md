@@ -32,8 +32,7 @@ Some important properties of a system derive from its definition.
      * [Compute: GCE, GKE, CLOUD RUN](https://github.com/GoogleCloudPlatform/github-actions)
    * [Desktop](https://desktop.github.com/)
    * [Mobile](https://github.com/mobile)  
-* Cloud Providers
-  * [Cloud Run](https://cloud.google.com/run/)
+* [Cloud Run](https://cloud.google.com/run/)
 * [OSS Visual Studio Code](https://github.com/microsoft/vscode)
   * [Facebook moving from lots of internally developed tools](https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development/)  
   
