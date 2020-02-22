@@ -21,9 +21,6 @@ Some important properties of a system derive from its definition.
 * [Cell Based Architecture - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
 
-# Leadership:
-* [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
-
 # Developer Experience:
 **"Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed."** Good perspective! When done well, Platforms drive: <br>
 1. Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
@@ -168,3 +165,6 @@ What is the problem with data today?
 
 # Anti-Architecture:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
+
+# Leadership:
+* [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
