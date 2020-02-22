@@ -1,4 +1,4 @@
-# [The Unicorn Project : A Novel about Developers, Digital Disruption, and Thriving in the Age of Data(https://www.walmart.com/ip/The-Unicorn-Project-A-Novel-about-Developers-Digital-Disruption-and-Thriving-in-the-Age-of-Data-9781942788768/328305489) <br>
+# [The Unicorn Project : A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.walmart.com/ip/The-Unicorn-Project-A-Novel-about-Developers-Digital-Disruption-and-Thriving-in-the-Age-of-Data-9781942788768/328305489) <br>
 By GeneKim, WSJ bestselling author: The Unicorn Project! DevOps researcher & enthusiast. Coauthor: DevOps Handbook, Phoenix Project, Accelerate. 
 Tripwire founder. Clojure.
 
