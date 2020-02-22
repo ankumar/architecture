@@ -28,8 +28,10 @@ Some important properties of a system derive from its definition.
 2. Combining for a Win-Win! <br>
  * Github
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <p align="center"><b> 40 million Developers </b> </p>
-   * [Workflows](https://github.com/features/actions)
+   * [Workflow (new feature)](https://github.com/features/actions)
      * [Compute: GCE, GKE, CLOUD RUN](https://github.com/GoogleCloudPlatform/github-actions)
+   * [Desktop](https://desktop.github.com/)
+   * [Mobile](https://github.com/mobile)  
 * Cloud Providers
   * [Cloud Run](https://cloud.google.com/run/)
 
