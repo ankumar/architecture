@@ -14,7 +14,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ###       - Build closed loop systems to optimize for continual Improvements & Learning
 ###       - Technology Commoditization
 ## **2. Technology needs to be embedded in the Business not external to it or merely aligned with it**
-###       - 
+###       - <>
 
 # Services
 * Designing Modularity & Interfaces
