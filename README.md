@@ -16,8 +16,8 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ## **2. Technology needs to be embedded in the Business not external to it or merely aligned with it**  
 
 # Services
-## * Designing Modularity & Interfaces
-## * Decomposing an Application into Services & APIs
+* Designing Modularity & Interfaces
+* Decomposing an Application into Services & APIs
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 
