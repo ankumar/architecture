@@ -72,7 +72,7 @@ Advances in machine learning (ML) over the last decade have opened up a radicall
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
-<p align="right">[The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)</p>
+[The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 
 # Learning
 * [A GOOD THING](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
