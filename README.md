@@ -46,7 +46,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ## <p align="center"> <b> "In traditional software engineering, or Software 1.0, a program’s functionality is defined via code as dictated by a human. In the age of machine learning, we are increasingly observing Software 2.0 systems, where a program’s functionality is defined by the weights of neural networks as dictated by the data. You wouldn’t trust a piece of human-written code that hasn’t ever been debugged or tested, so why shouldn’t our data receive the same treatment now that it’s a first-class citizen in so many real-world systems?" </b> </p>
 
 # Open Source
-## ""new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading.” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
+## " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## Over 1.3 million first time contributors joined the open source community in 2019 per [Octoverse report](https://octoverse.github.com/)
 * [2018 Octoverse report](https://octoverse.github.com/2018/)
 ## Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
