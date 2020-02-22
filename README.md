@@ -53,7 +53,7 @@ Advances in machine learning (ML) over the last decade have opened up a radicall
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"><b>"It's not a race if we're all on the same team"</b></p>
 
-* [Inner Sourcing - Applying open source best practices within organizations](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+* [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
 <p><b> New Model? </b><p>
 
