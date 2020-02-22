@@ -81,6 +81,7 @@ What is the problem with data today?
 **Problem #6 - It is not tools and technology but people and processes**
 
 ## Science
+* [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
 * Data quality
   * [Data Validation for ML](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 * Architecture
