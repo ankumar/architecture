@@ -54,11 +54,9 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 * [2018 Octoverse report](https://octoverse.github.com/2018/)
 
 ## Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
+## Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles]
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"><b>"It's not a race if we're all on the same team"</b></p>
-
-## Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
-![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"><b>Cloud would not have been possible without open source</b></p>
 
 ## <p><b> Newer  Model? </b><p>
 
@@ -76,6 +74,8 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 |**Resource pooling**|The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically|
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
+(https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
+![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"><b>Cloud would not have been possible without open source</b></p>
 
 # Learning
 ## [A GOOD THING](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
