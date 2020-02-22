@@ -1,3 +1,5 @@
+# The list here is not meant to be comprehensive, but a good starting point to be thoughtful...
+
 # System:
 **1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
 **2. Every system contains at least two essential parts and these must satisfy three conditions.**
