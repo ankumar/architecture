@@ -56,12 +56,10 @@ Advances in machine learning (ML) over the last decade have opened up a radicall
 <p align="center"><b>"It's not a race if we're all on the same team"</b></p>
 
 * [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
-
+-------
 <p><b> New Business Model? </b><p>
 
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
-
-----
 
 # Cloud Computing
 
