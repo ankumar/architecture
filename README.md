@@ -58,6 +58,8 @@ Advances in machine learning (ML) over the last decade have opened up a radicall
 
 <p><b> New Model? </b><p>
 
+[https://dbricks.co/ex200221a](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)
+
 * [Opensource's value and collaborating with cloud vendors](https://dbricks.co/ex200221a)
 
 * ""new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading.” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
