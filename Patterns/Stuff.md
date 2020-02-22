@@ -155,8 +155,8 @@ What is the problem with data today?
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 * The Amazon Effect
-   * []()
-   * [Commercial Open Source Software](https://coss.media/)
+   * [Open Source at AWS](https://aws.amazon.com/opensource)
+   * [Commercial Open Source Software](https://coss.media/oss-will-eat-cloud-computing/)
    * [Fork and Commoditize](https://thenewstack.io/fork-and-commoditize-gitlab-ceo-critiques-the-new-open-source-approach-by-amazon-web-services/)
  
 # Operational:
