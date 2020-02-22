@@ -51,7 +51,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ## " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## Over 1.3 million first time contributors joined the open source community in 2019 per [Octoverse report](https://octoverse.github.com/)
-* [2018 Octoverse report](https://octoverse.github.com/2018/)
+   - [2018 Octoverse report](https://octoverse.github.com/2018/)
 
 ## Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/); Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
