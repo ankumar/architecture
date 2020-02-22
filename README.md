@@ -10,9 +10,9 @@
 
 Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
 ## **1. Enabling Business to Focus on core value vs plumbing:**
-##   - Work backwards from Customer/Business outcomes**
-##   - Build closed loop systems to optimize for continual Improvements & Learning**
-##   - Technology Commoditization**
+##   - Work backwards from Customer/Business outcomes
+##   - Build closed loop systems to optimize for continual Improvements & Learning
+##   - Technology Commoditization
 ## **2. Technology needs to be embedded in the Business not external to it or merely aligned with it**
 ##   - [The Unicorn Project : A Novel about Developers, Digital Disruption, and Thriving in the Age of Data](https://www.walmart.com/ip/The-Unicorn-Project-A-Novel-about-Developers-Digital-Disruption-and-Thriving-in-the-Age-of-Data-9781942788768/328305489)
 
