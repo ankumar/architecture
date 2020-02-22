@@ -10,11 +10,11 @@
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
 Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
-## * **Enabling Business to Focus on core value vs plumbing:**
+## **Enabling Business to Focus on core value vs plumbing:**
 ##  1. **Work backwards from Customer/Business outcomes**
 ##  2. **Build closed loop systems to optimize for continual Improvements & Learning**
 ##  3. **Technology Commoditization**
-## * **Technology needs to be embedded in the Business not external to it or merely aligned with it**  
+## **Technology needs to be embedded in the Business not external to it or merely aligned with it**  
 
 # Services
 * Designing Modularity & Interfaces
