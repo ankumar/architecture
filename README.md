@@ -1,6 +1,6 @@
 <font size="16">
  
-# Modern Application Development - Iterating to Contextualize for big E Enterprise ...
+# Modern Application Development - Contextualize for big E Enterprise ...
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
