@@ -49,8 +49,8 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 # Open Source
 ## [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
-### " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
-### Over 1.3 million first time contributors joined the open source community in 2019 per [Octoverse report](https://octoverse.github.com/)
+## " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
+## Over 1.3 million first time contributors joined the open source community in 2019 per [Octoverse report](https://octoverse.github.com/)
    - [2018 Octoverse report](https://octoverse.github.com/2018/)
 
 ### Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/); Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
@@ -74,11 +74,9 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
-
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"><b>Cloud would not have been possible without open source</b></p>
 
 # Learning
 ### [A GOOD THING](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 </font>
-
