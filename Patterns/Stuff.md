@@ -23,7 +23,7 @@ Some important properties of a system derive from its definition.
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
 # Developer Experience:
-![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <p> <b> Github - 40 million Developers</b> </p>
+![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <p align="center"> <b> Github - 40 million Developers</b> </p>
 **"Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed."**<br>
 Good perspective! When done well, Platforms drive: <br>
 1. Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
