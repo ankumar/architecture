@@ -64,6 +64,8 @@ Advances in machine learning (ML) over the last decade have opened up a radicall
 
 # Cloud Computing
 
+[The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
@@ -71,8 +73,6 @@ Advances in machine learning (ML) over the last decade have opened up a radicall
 |**Resource pooling**|The provider’s computing resources are pooled to serve multiple consumers using a multi-tenant model, with different physical and virtual resources dynamically|
 |**Rapid elasticity**|Capabilities can be elastically provisioned and released to scale rapidly outward and inward with demand|
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
-
-[The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 
 # Learning
 * [A GOOD THING](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
