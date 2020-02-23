@@ -82,9 +82,6 @@ Data quality problem categories:
 <p align="right"><b>-Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 
 # Cloud Computing
-
-## [The NIST Definition of Cloud Computing](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
-
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
