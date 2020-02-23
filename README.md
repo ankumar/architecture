@@ -3,11 +3,14 @@
 # Modern Application Development - Big Enterprise Context...
 
 ## Legacy, "it makes actual money."
+1. Workloads 
+2. OnPrem
 ## Software development:
 1. Geenfield Projects
 2. Brownfield Projects
 ## Cloud Migrations:
 1. Serverless
+2. Rebuild Apps
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
