@@ -3,7 +3,7 @@
 # Modern Application Development - Big Enterprise Context...
 
 ## Legacy: 
-1. "it makes actual money."
+1. "it makes actual money"
 2. Workloads 
 3. OnPrem
 ## Software development:
