@@ -11,7 +11,8 @@
 2. Brownfield Projects
 ## Cloud Migrations:
 1. Serverless
-2. Rebuild Apps
+2. Kubernetes
+3. Rebuild Apps
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
