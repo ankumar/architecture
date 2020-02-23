@@ -27,6 +27,7 @@ Good perspective! When done well, Platforms drive: <br>
 1. Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
 2. Combining for a Win-Win! <br>
  * [Wicked Problem](https://leadingedgeforum.com/research/are-platform-organizations-a-wicked-problem/)
+ * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
  * Github
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <p align="center"><b> 40 million Developers </b> </p>
    * [Workflow (new feature)](https://github.com/features/actions)
