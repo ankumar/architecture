@@ -2,10 +2,12 @@
  
 # Modern Application Development - Big Enterprise Context...
 
+## Legacy, "it makes actual money."
 ## Software development:
 1. Geenfield Projects
 2. Brownfield Projects
-## Legacy, "it makes actual money."
+## Cloud Migrations:
+1. Serverless
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
