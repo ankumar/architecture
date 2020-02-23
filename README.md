@@ -14,8 +14,8 @@
 - Greenfield
 - Brownfield
 ### 3. Cloud & Platform:
-- Cost?
-- Time To Value?
+- Cost
+- Time To Value
 
 ## Improvements: 
 
