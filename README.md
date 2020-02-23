@@ -92,7 +92,4 @@ Data quality problem categories:
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"><b>Cloud would not have been possible without open source</b></p>
 
-# Learning
-## [A GOOD THING](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
-
 </font>
