@@ -14,7 +14,7 @@
 1. Cost?
 2. Time To Value?
 ## 4.Learning: 
-[Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+[Keeping Up With & Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
