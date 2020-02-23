@@ -7,11 +7,11 @@
 ## Legacy: 
 1. "it makes actual money"
 2. Workloads 
-3. OnPrem
 ## Software development:
 1. Geenfield Projects
 2. Brownfield Projects
 ## Cloud:
+1. Cost?
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
