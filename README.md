@@ -2,7 +2,7 @@
  
 # Application Development
 
-# 1. Architecture
+# Architecture
 
 ## Big Entertprise Context...
 ## <p align="center"> <b> "enterprises buy everything. If you're big enough and you have a big enough IT budget, most enterprises have a POC of everything that's for sale, period. There's some team in some pocket, maybe they came through via acquisition. Maybe they live in a different state. Maybe it's just a new project that came out. And what you tend to see, at least from my experiences, if I walk into a typical enterprise, they may tell me something like, "Hey, we have a POC, a Pivotal Cloud Foundry, OpenShift, and we want some of that new thing that we just saw from you guys. How do we get a POC going?" </b> </p> [- Kelsey Hightower, principal developer advocate at Google](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-staying-power-of-kubernetes-with-kelsey-hightower/)
@@ -35,7 +35,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ## [--> Learning...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
-# 2. Services
+# 1. Services
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
 
@@ -55,7 +55,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ## --> [Distributed systems are hard, Microservices increases operational complexity](https://queue.acm.org/detail.cfm?id=3380780)
 
-# 3. Software 2.0
+# 2. Software 2.0
 
 ### Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
@@ -73,7 +73,7 @@ Data quality problem categories:
 ## --> Data Validation & Software Engineering Practices? 
 </b> </p>
 
-# 4. Open Source
+# 3. Open Source
 ## - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## - Developers - Over 1.3 million first time contributors joined the open source community
 * [2019 Octoverse report](https://octoverse.github.com/)
@@ -85,7 +85,7 @@ Data quality problem categories:
 
 ## [--> Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
-# 5. Cloud Computing
+# 4. Cloud Computing
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
