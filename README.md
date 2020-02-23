@@ -8,12 +8,12 @@
 - "it makes actual money"
 - Workloads 
 ## 2.Software development:
-- Geenfield
+- Greenfield
 - Brownfield
 ## 3.Cloud:
 - Cost?
 - Time To Value?
-## 4.Learning: [Keeping Up With & Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## 4.Improvements: [Keeping Up With](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
