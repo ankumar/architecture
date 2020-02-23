@@ -13,8 +13,7 @@
 ## 3.Cloud:
 - Cost?
 - Time To Value?
-## 4.Learning: 
-[Keeping Up With & Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## 4.Learning: [Keeping Up With & Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
