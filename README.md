@@ -5,8 +5,7 @@
 ## Software development:
 1. Geenfield Projects
 2. Brownfield Projects
-## Existing 
-1. Legacy, "it makes actual money."
+## Legacy, "it makes actual money."
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
