@@ -17,6 +17,8 @@
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
 ## <p align="center"><b>Systems Thinking: "If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” <b>-Dr. Russell Ackoff.</b></p>
+ 
+Learning: [Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
@@ -29,8 +31,6 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ###       - Business mapped into technologies that underpin the delivery of that core value 
 ###       - Seeing Custom & Commodity technologies in the value chain
 ###       - Custom to Commodity & Viceversa to increase the value delivery for lower cost
-## **3. Learning:**
-###       - [Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 # Services
 * Designing Modularity & Interfaces
