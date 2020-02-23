@@ -26,6 +26,7 @@ Some important properties of a system derive from its definition.
 Good perspective! When done well, Platforms drive: <br>
 1. Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
 2. Combining for a Win-Win! <br>
+ * [Wicked Problem](https://leadingedgeforum.com/research/are-platform-organizations-a-wicked-problem/)
  * Github
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <p align="center"><b> 40 million Developers </b> </p>
    * [Workflow (new feature)](https://github.com/features/actions)
@@ -34,7 +35,7 @@ Good perspective! When done well, Platforms drive: <br>
    * [Mobile](https://github.com/mobile)  
 * [Cloud Run](https://cloud.google.com/run/)
 * [OSS Visual Studio Code](https://github.com/microsoft/vscode)
-  * [Facebook moving from lots of internally developed tools](https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development/)  
+  * [Facebook moving from lots of internally developed tools](https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development/) 
   
 # Patterns:
 * [Microservices](https://microservices.io/patterns/index.html)
