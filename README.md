@@ -8,8 +8,8 @@
 1. "it makes actual money"
 2. Workloads 
 ## Software development:
-1. Geenfield Projects
-2. Brownfield Projects
+1. Geenfield
+2. Brownfield
 ## Cloud:
 1. Cost?
 
