@@ -2,6 +2,12 @@
  
 # Modern Application Development - Big Enterprise Context...
 
+## Software development:
+1. Geenfield Projects
+2. Brownfield Projects
+## Existing 
+1. Legacy, "it makes actual money."
+
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
 ## <p align="center"><b>Systems Thinking: "If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” <b>-Dr. Russell Ackoff.</b></p>
