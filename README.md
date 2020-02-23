@@ -10,13 +10,10 @@
 ## Big-O's:
 ### 1. Legacy: 
 - "it makes actual money"
-- Workloads 
 ### 2. Software development:
-- Greenfield
-- Brownfield
+- Greenfield, Brownfield
 ### 3. Cloud & Platform:
-- Cost
-- Time To Value
+- Cost, Time To Value
 
 ## Improvements: 
 
