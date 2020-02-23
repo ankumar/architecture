@@ -55,8 +55,9 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Modern Bank, Monzo: 1,500+ services</a> </p>
 
-## --> [Distributed systems are hard, Microservices increases operational complexity](https://queue.acm.org/detail.cfm?id=3380780)
 ## **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.**
+
+## --> [Distributed systems are hard, Microservices increases operational complexity](https://queue.acm.org/detail.cfm?id=3380780)
 
 # 3. Software 2.0
 
@@ -100,10 +101,11 @@ Data quality problem categories:
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"> </p>
 
-## [--> Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 ## <p align="center"> <b>Cloud would not have been possible without open source</b> </p>
 
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>-Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
+
+## [--> Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 
 </font>
