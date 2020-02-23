@@ -59,7 +59,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ### Advances in machine learning (ML) over the last decade have opened up a radically new approach to building software systems. Dubbed [“Software 2.0”](https://medium.com/@karpathy/software-2-0-a64152b37c35), this approach focuses on training models to learn from data instead of explicitly writing code for the required behavior. 
 
-## --> Data Validations & Software Engineering Practices?
+## --> Data Validation & Software Engineering Practices?
 Data quality problem categories:
 - Data creation
 - Data labelling
