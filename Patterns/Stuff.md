@@ -84,12 +84,12 @@ What is the problem with data today?
   * [Data Validation for ML](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 * Architecture
   * [Reinforcement Learning](https://diyrobocars.com/)
+  * [AI-powered Monopolies and the New World Order](https://towardsdatascience.com/ai-powered-monopolies-and-the-new-world-order-1c56cfc76e7d)
 * Publications
   * [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
   * [Amazon](https://www.amazon.science/publications)
   * [A 10-year Prediction for Enterprise-Grade ML](http://cidrdb.org/cidr2020/papers/p8-agrawal-cidr20.pdf)
- 
-  
+   
 ## Data Processing
 **Unified Model for Batch, Streaming & SQL?**
 
