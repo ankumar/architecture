@@ -9,7 +9,7 @@
 ## Software development:
 1. Geenfield Projects
 2. Brownfield Projects
-## Cloud Migrations:
+## Cloud:
 1. Lift & Shift
 2. Rebuild
 3. Kubernetes
