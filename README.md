@@ -12,7 +12,7 @@
 ## Cloud Migrations:
 1. Serverless
 2. Kubernetes
-3. Rebuild Apps
+3. Rebuild
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
