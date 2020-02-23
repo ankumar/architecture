@@ -12,11 +12,6 @@
 1. Geenfield Projects
 2. Brownfield Projects
 ## Cloud:
-1. Lift & Shift
-2. Rebuild
-3. Kubernetes
-4. Serverless
-5. ...
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
