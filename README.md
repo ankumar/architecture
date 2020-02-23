@@ -13,6 +13,8 @@
 ## Cloud:
 1. Cost?
 2. Time To Value?
+## Learning: 
+[Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 # Architecture
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
@@ -21,8 +23,6 @@
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
 Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
-
-Learning: [Cognitive load](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## **1. Technology needs to be embedded in the Business not external to it or merely aligned with it**
 ###       - Work backwards from Customer/Business outcomes
