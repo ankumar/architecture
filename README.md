@@ -13,7 +13,7 @@
 ## 2.Software development:
 - Greenfield
 - Brownfield
-## 3.Cloud:
+## 3.Cloud Platform:
 - Cost?
 - Time To Value?
 
