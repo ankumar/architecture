@@ -14,7 +14,6 @@
 - Cost, Time To Value
 
 ## Improvements: 
-
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
 ## <p align="center"><b>Systems Thinking: "If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” <b>-Dr. Russell Ackoff.</b></p>
   
@@ -30,8 +29,10 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ##       - Business mapped into technologies that underpin the delivery of that core value 
 ##       - Seeing Custom & Commodity technologies in the value chain
 ##       - Custom to Commodity & Viceversa to increase the value delivery for lower cost
-## **3. Technology Strategy:**
-## 1. Services
+
+## Technology:
+
+### 1. Services
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
 
@@ -53,7 +54,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ## <>
 ## <>
 
-## 2. Software 2.0
+### 2. Software 2.0
 
 ### Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
@@ -71,7 +72,7 @@ Data quality problem categories:
 - Data quality evaluation
 </b> </p>
 
-## 3. Open Source
+### 3. Open Source
 ## - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## - Developers - Over 1.3 million first time contributors joined the open source community
 * [2019 Octoverse report](https://octoverse.github.com/)
@@ -84,7 +85,7 @@ Data quality problem categories:
 ### <p align="right"> <b> ".........it's not a race if we're all on the same team" </b> </p>
 ## [--> Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
-## 4. Cloud Computing
+### 4. Cloud Computing
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
