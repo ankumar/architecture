@@ -47,7 +47,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ## **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.**
 
-## --> Developers to focus on Business logic,Hiding Distributed systems complexity
+## --> Devs to focus on Business logic,Hiding Distributed systems complexity
 * https://cloud.google.com/run/
 * https://dapr.io/
 * https://oam.dev/
