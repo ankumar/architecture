@@ -172,7 +172,7 @@ What is the problem with data today?
 * [Incidents](https://www.adaptivecapacitylabs.com/blog/)
 * [Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
 
-# Anti-Architecture:
+# Anti-patterns:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
 
 # Leadership:
