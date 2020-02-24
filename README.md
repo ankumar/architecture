@@ -5,7 +5,7 @@
 # Big Enterprise:
 ## <p align="center"> <b> "enterprises buy everything. If you're big enough and you have a big enough IT budget, most enterprises have a POC of everything that's for sale, period. There's some team in some pocket, maybe they came through via acquisition. Maybe they live in a different state. Maybe it's just a new project that came out. And what you tend to see, at least from my experiences, if I walk into a typical enterprise, they may tell me something like, "Hey, we have a POC, a Pivotal Cloud Foundry, OpenShift, and we want some of that new thing that we just saw from you guys. How do we get a POC going?" </b> </p> [- Kelsey Hightower, principal developer advocate at Google](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-staying-power-of-kubernetes-with-kelsey-hightower/)
 
-## Big-O's:
+## Big O's:
 ### 1. Legacy: 
 - "it makes actual money"
 ### 2. Software development:
@@ -23,17 +23,16 @@
 Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
 
 ## **1. Technology needs to be embedded in the Business not external to it or merely aligned with it**
-###       - Work backwards from Customer/Business outcomes
-###       - Build closed loop systems to optimize for continual Improvements & Learning
-###       - Technology Commoditization
+##       - Work backwards from Customer/Business outcomes
+##       - Build closed loop systems to optimize for continual Improvements & Learning
+##       - Technology Commoditization
 ## **2. Focus on core value vs plumbing:**
-###       - Business mapped into technologies that underpin the delivery of that core value 
-###       - Seeing Custom & Commodity technologies in the value chain
-###       - Custom to Commodity & Viceversa to increase the value delivery for lower cost
+##       - Business mapped into technologies that underpin the delivery of that core value 
+##       - Seeing Custom & Commodity technologies in the value chain
+##       - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 ## **3. Technology Strategy:**
-###       - [--> Learning ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
-
-# 1. Services
+##       - [--> Learning ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## 1. Services
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
 
@@ -55,7 +54,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ## <>
 ## <>
 
-# 2. Software 2.0
+## 2. Software 2.0
 
 ### Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
@@ -73,7 +72,7 @@ Data quality problem categories:
 - Data quality evaluation
 </b> </p>
 
-# 3. Open Source
+## 3. Open Source
 ## - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## - Developers - Over 1.3 million first time contributors joined the open source community
 * [2019 Octoverse report](https://octoverse.github.com/)
@@ -86,7 +85,7 @@ Data quality problem categories:
 ### <p align="right"> <b> ".........it's not a race if we're all on the same team" </b> </p>
 ## [--> Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
-# 4. Cloud Computing
+## 4. Cloud Computing
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
