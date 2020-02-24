@@ -87,7 +87,7 @@ Data quality problem categories:
 
 ### 4. Cloud Computing | [--> Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 ## - On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
-## <p align="center"> <b>- Cloud would not have been possible without open source</b> </p>
+## <p> <b>- Cloud would not have been possible without open source</b> </p>
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
