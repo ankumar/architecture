@@ -83,8 +83,7 @@ Data quality problem categories:
 ### <p align="right"> <b> ".........it's not a race if we're all on the same team" </b> </p>
 ## [--> Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
-### 4. Cloud Computing 
-## [--> Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+### 4. Cloud Computing | [--> Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
