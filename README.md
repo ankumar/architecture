@@ -47,7 +47,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ## **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.**
 
-## --> Devs to focus on Business logic,Hiding Distributed systems complexity
+## > Devs to focus on Business logic,Hiding Distributed systems complexity
 * https://cloud.google.com/run/
 * https://dapr.io/
 * https://oam.dev/
@@ -62,18 +62,18 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ## <p align="center"> <b> "In traditional software engineering, or Software 1.0, a program’s functionality is defined via code as dictated by a human. In the age of machine learning, we are increasingly observing Software 2.0 systems, where a program’s functionality is defined by the weights of neural networks as dictated by the data. You wouldn’t trust a piece of human-written code that hasn’t ever been debugged or tested, so why shouldn’t our data receive the same treatment now that it’s a first-class citizen in so many real-world systems?"
 
-## --> Data Validation 
+## > Data Validation 
 Data quality problem categories:
 - Data creation
 - Data labelling
 - Data manipulation
 - Data quality evaluation
-## --> Software Engineering Practices
+## > Software Engineering Practices
 * https://algorithmia.com/enterprise
 * https://algorithmia.com/blog/introducing-github-source-code-management-for-algorithmia
 </b> </p>
 
-### 3. Open Source | [--> Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+### 3. Open Source > [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 ## - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>-Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## - Developers - Over 1.3 million first time contributors joined the open source community
 * [2019 Octoverse report](https://octoverse.github.com/)
@@ -85,7 +85,7 @@ Data quality problem categories:
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 ### <p align="right"> <b> ".........it's not a race if we're all on the same team" </b> </p>
 
-### 4. Cloud Computing | [--> Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+### 4. Cloud Computing > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 ## - On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
 ## <p> <b>- Cloud would not have been possible without open source</b> </p>
 |Characteristics|Developer Productivity|
@@ -100,5 +100,5 @@ Data quality problem categories:
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>-Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 #
-## [--> References ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## [> References ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 </font>
