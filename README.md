@@ -6,12 +6,9 @@
 ## <p align="center"> <b> "enterprises buy everything. If you're big enough and you have a big enough IT budget, most enterprises have a POC of everything that's for sale, period. There's some team in some pocket, maybe they came through via acquisition. Maybe they live in a different state. Maybe it's just a new project that came out. And what you tend to see, at least from my experiences, if I walk into a typical enterprise, they may tell me something like, "Hey, we have a POC, a Pivotal Cloud Foundry, OpenShift, and we want some of that new thing that we just saw from you guys. How do we get a POC going?" </b> </p> [- Kelsey Hightower, principal developer advocate at Google](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-staying-power-of-kubernetes-with-kelsey-hightower/)
 
 ## Big O's:
-### 1. Legacy: 
-- "it makes actual money"
-### 2. Software development:
-- Greenfield, Brownfield
-### 3. Cloud & Platform:
-- Cost, Time To Value
+### 1. Legacy: "it makes actual money"
+### 2. Software development: Greenfield & Brownfield
+### 3. Cloud & Platform: Cost, Time To Value
 
 ## Improvements: 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
