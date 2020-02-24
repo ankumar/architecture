@@ -22,13 +22,13 @@
 Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
 
 ## **1. Technology needs to be embedded in the Business not external to it or merely aligned with it**
-       - Work backwards from Customer/Business outcomes
-       - Build closed loop systems to optimize for continual Improvements & Learning
-       - Technology Commoditization
+         - Work backwards from Customer/Business outcomes
+         - Build closed loop systems to optimize for continual Improvements & Learning
+         - Technology Commoditization
 ## **2. Focus on core value vs plumbing:**
-       - Business mapped into technologies that underpin the delivery of that core value 
-       - Seeing Custom & Commodity technologies in the value chain
-       - Custom to Commodity & Viceversa to increase the value delivery for lower cost
+         - Business mapped into technologies that underpin the delivery of that core value 
+         - Seeing Custom & Commodity technologies in the value chain
+         - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
 ## Architecture:
 
