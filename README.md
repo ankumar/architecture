@@ -83,7 +83,8 @@ Data quality problem categories:
 ### <p align="right"> <b> ".........it's not a race if we're all on the same team" </b> </p>
 ## [--> Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
-### 4. Cloud Computing
+### 4. Cloud Computing 
+## [--> Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
@@ -98,12 +99,6 @@ Data quality problem categories:
 
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>-Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
-
-## [--> Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
-
-##
-##
-##
-
+#
 ## [--> References ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 </font>
