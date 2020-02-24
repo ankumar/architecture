@@ -31,11 +31,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 ###       - Seeing Custom & Commodity technologies in the value chain
 ###       - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
-## [--> Learning for elements](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
-## Services
-## Data-Driven
-## Open Source
-## Cloud Computing
+## [--> Learning ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 # 1. Services
 * Designing Modularity & Interfaces
