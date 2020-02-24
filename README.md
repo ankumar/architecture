@@ -29,7 +29,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ## Architecture:
 
-### 1. Services
+### 1. Services |--> Developers to focus on Business logic,Hiding Distributed systems complexity
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
 
@@ -46,8 +46,6 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Modern Bank, Monzo: 1,500+ services</a> </p>
 
 ## **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.**
-
-## --> Developers to focus on Business logic,Hiding Distributed systems complexity
 
 ### 2. Software 2.0
 
