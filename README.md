@@ -29,7 +29,7 @@ Architecture is about **Systems Thinking** including People, Process and Technol
 
 ## Architecture:
 
-### 1. Services |--> Developers to focus on Business logic,Hiding Distributed systems complexity
+### 1. Services | --> Developers to focus on Business logic,Hiding Distributed systems complexity
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
 
