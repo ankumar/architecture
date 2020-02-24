@@ -8,7 +8,7 @@
 ## Big O's:
 ### 1. Software development: Greenfield & Brownfield
 ### 2. Legacy: "it makes actual money"
-### 3. Cloud: Cost
+### 3. Cloud: Early days, Cost
 
 ## Improvements: 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
