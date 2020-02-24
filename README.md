@@ -95,7 +95,7 @@ Data quality problem categories:
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"> </p>
-
+## on the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
 ## <p align="center"> <b>Cloud would not have been possible without open source</b> </p>
 
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
