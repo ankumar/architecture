@@ -26,7 +26,8 @@ Architecture is about **Systems Thinking** including People, Process and Technol
          - Business mapped into technologies that underpin the delivery of that core value 
          - Seeing Custom & Commodity technologies in the value chain
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
-         
+
+
 "Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella
 
 ## Architecture:
