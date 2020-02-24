@@ -79,7 +79,7 @@ Data quality problem categories:
 * [2019 Octoverse report](https://octoverse.github.com/)
 * [2018 Octoverse report](https://octoverse.github.com/2018/)
 ## - Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
-* “if you want to go fast go alone, but if you want to go far, go together”
+## - “if you want to go fast go alone, but if you want to go far, go together”
 ## - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 ### <p align="left"> <b> "it's not a race it's a marathon" </b> </p>
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
