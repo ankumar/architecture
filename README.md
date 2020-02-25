@@ -37,6 +37,9 @@ Big-O, Know Thy Complexities!
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
 ### > Delivery & Operations, Services Model
+1. Streaming - Stateless & Stateful
+2. Database - NoSQL, SQL, ...
+3. Data - 
 
 ## 1. Services 
 * Designing Modularity & Interfaces
