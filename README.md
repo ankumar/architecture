@@ -39,6 +39,7 @@ Big-O, Know Thy Complexities!
 ### > Open source best practices, Inner Sourcing
 ### 1. Apps 
 - Stateless & Stateful Services
+- State: NoSQL & SQL 
 ### 2. Data Catalog
 - All types of Data
 -- Databses, NoSQL & SQL
