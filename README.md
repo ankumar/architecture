@@ -85,8 +85,7 @@ Data quality problem categories:
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 ### <p align="right"> <b> ".........it's not a race if we're all on the same team" </b> </p>
 
-## > Inner Sourcing
-[Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+## > [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
 ## 4. Cloud Computing
 ## - On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
