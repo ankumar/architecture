@@ -16,7 +16,7 @@ Big-O, Know Thy Complexities!
   
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
-Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella
+"Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella
 
 "One of the biggest tragedies in modern organisation design is the separation of tech and business. A big part of the role of technical leader and architect is to break down these barriers" - Martin Fowler, O’Reilly Software Arhitecture Conference
 
