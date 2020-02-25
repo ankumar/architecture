@@ -31,7 +31,7 @@
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
 ## Architecture:
-### 1. Services 
+## 1. Services 
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
 
@@ -54,7 +54,7 @@
 * https://dapr.io/
 * https://oam.dev/
 
-### 2. Software 2.0
+## 2. Software 2.0
 
 ### Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
@@ -75,7 +75,7 @@ Data quality problem categories:
 * https://algorithmia.com/blog/introducing-github-source-code-management-for-algorithmia
 </b> </p>
 
-### 3. Open Source > [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+## 3. Open Source > [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 ## - “if you want to go fast go alone, but if you want to go far, go together”
 ## - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>- Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## <p> <b>- Cloud would not have been possible without open source</b> </p>
@@ -88,7 +88,7 @@ Data quality problem categories:
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 ### <p align="right"> <b> ".........it's not a race if we're all on the same team" </b> </p>
 
-### 4. Cloud Computing > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+## 4. Cloud Computing > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 ## - On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
