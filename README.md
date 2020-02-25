@@ -88,7 +88,7 @@ Data quality problem categories:
 ## > Inner Sourcing
 [Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
-## 4. Cloud Computing > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+## 4. Cloud Computing
 ## - On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
@@ -101,6 +101,8 @@ Data quality problem categories:
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"> </p>
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
+
+## > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 #
 ## [> Learning Stuff...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 </font>
