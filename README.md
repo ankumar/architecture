@@ -11,7 +11,7 @@
 ### 2. Legacy: "it makes actual money"
 ### 3. Cloud: Early days
 
-"Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella
+**"Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella**
 
 ## Improvements: 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
@@ -29,8 +29,8 @@ Architecture is about **Systems Thinking** including People, Process and Technol
          - Business mapped into technologies that underpin the delivery of that core value 
          - Seeing Custom & Commodity technologies in the value chain
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
-## Architecture:
 
+## Architecture:
 ### 1. Services 
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
