@@ -116,6 +116,7 @@ What is the problem with data today?
   * Dynamo
     * [Amazon.com fits 90% of Retail workloads into DynamoDB](https://www.allthingsdistributed.com/2017/10/a-decade-of-dynamo.html)
     * [Relational DB to single table](https://www.trek10.com/blog/dynamodb-single-table-relational-modeling/) 
+    * [Single Table Design](https://www.alexdebrie.com/posts/dynamodb-single-table/)
     * Talks worth watching & still learn something new every time...
       * [Deep Dive](https://www.youtube.com/watch?v=6yqfmXiZTlM)
       * [Match Your Workload to the Right Database](https://www.youtube.com/watch?v=hwnNbLXN4vA)
