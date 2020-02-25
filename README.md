@@ -102,5 +102,5 @@ Data quality problem categories:
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 #
-## [> References ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## [> Learning Stuff...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 </font>
