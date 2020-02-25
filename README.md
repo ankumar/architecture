@@ -34,7 +34,7 @@ Anything is possible for a company when its culture is about listening, learning
 ### > Devs to focus on Business logic, Hiding Distributed systems complexity
 ### > Value of Data & Quality; Business models around data
 ### > Open source best practices; Inner Sourcing
-### > Services Model
+### > Services Model; Delivery & Operations
 
 ## 1. Services 
 * Designing Modularity & Interfaces
