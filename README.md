@@ -41,10 +41,10 @@ Big-O, Know Thy Complexities!
 - Stateless & Stateful Services
 - State: NoSQL & SQL 
 ### 2. Data Catalog
-- All types of Data
- -- Databses
- -- Data Warehouses
- -- Data Lake
+- All types of Data:
+ Databses, 
+ Data Warehouses, 
+ Data Lake
 
 ---
 
