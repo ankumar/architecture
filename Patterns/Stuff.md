@@ -30,6 +30,7 @@ Good perspective! When done well, Platforms drive: <br>
  * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
  * Github
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <p align="center"><b> 40 million Developers </b> </p>
+## "I maintain @github Actions is a shining beacon of developer experience done right." - @QuinnyPig
    * [Workflow (new feature)](https://github.com/features/actions)
      * [Compute: GCE, GKE, CLOUD RUN](https://github.com/GoogleCloudPlatform/github-actions)
    * [Desktop](https://desktop.github.com/)
