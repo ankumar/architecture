@@ -20,6 +20,10 @@ Anything is possible for a company when its culture is about listening, learning
 
 "One of the biggest tragedies in modern organisation design is the separation of tech and business. A big part of the role of technical leader and architect is to break down these barriers" - Martin Fowler, O’Reilly Software Arhitecture Conference
 
+"Changing technology is (comparatively) easy compared to changing culture"
+
+"Culture needs to change as our tech approaches change, but we’ve got to be patient, empathetic and realistic "
+
 ## **1. Technology needs to be embedded in the Business not external to it or merely aligned with it**
          - Work backwards from Customer/Business outcomes
          - Build closed loop systems to optimize for continual Improvements & Learning
