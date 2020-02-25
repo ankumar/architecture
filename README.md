@@ -42,7 +42,7 @@ Big-O, Know Thy Complexities!
 - State: NoSQL & SQL 
 ### 2. Data Catalog
 - All types of Data
--- Databses, NoSQL & SQL
+-- Databses
 -- Data Warehouses
 -- Data Lake
 ---
