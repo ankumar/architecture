@@ -38,7 +38,8 @@ Big-O, Know Thy Complexities!
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
 1. Apps 
--- Stateless & Stateful (NoSQL & SQL)
+-- Service, Stateless & Stateful
+-- NoSQL & SQL
 2. Data Lake
 -- Data Catalog
 ---
