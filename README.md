@@ -17,9 +17,9 @@
   
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
-Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
+- Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
 
-**"Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella**
+- Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella
 
 ## **1. Technology needs to be embedded in the Business not external to it or merely aligned with it**
          - Work backwards from Customer/Business outcomes
