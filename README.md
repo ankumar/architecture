@@ -41,7 +41,7 @@ Big-O, Know Thy Complexities!
 - Stateless & Stateful Services
 - State: NoSQL & SQL 
 ### 2. Data Catalog
-- All Of the Data:
+- Every Type:
  Databses, 
  Data Warehouses, 
  Data Lake
