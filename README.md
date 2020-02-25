@@ -29,9 +29,9 @@ Anything is possible for a company when its culture is about listening, learning
 
 ## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
 
-> Devs to focus on Business logic, Hiding Distributed systems complexity
-> [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
-> [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+> Devs to focus on Business logic, Hiding Distributed systems complexity <br>
+> [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns) <br>
+> [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf) <br>
 
 ## 1. Services 
 * Designing Modularity & Interfaces
