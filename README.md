@@ -41,7 +41,7 @@ Big-O, Know Thy Complexities!
 - Services: Stateless & Stateful
 - State: Data Stores & Storage
 ### 2. Data Catalog
-- Every Type:
+- 
  Databases, 
  Data Warehouses, 
  Data Lake
