@@ -38,8 +38,8 @@ Big-O, Know Thy Complexities!
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
 ### 1. Apps 
-- Stateless & Stateful Services
-- State: Databases - NoSQL & SQL, Storage
+- Services: Stateless & Stateful
+- State: Databases & Storage
 ### 2. Data Catalog
 - Every Type:
  Databases, 
