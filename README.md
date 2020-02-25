@@ -40,8 +40,8 @@ Big-O, Know Thy Complexities!
 1. Apps 
 - Stateless & Stateful Services
 - NoSQL & SQL
-2. Data Lake
-- Data Catalog
+2. Data Catalog
+- Data Lake
 ---
 
 ## 1. Services 
