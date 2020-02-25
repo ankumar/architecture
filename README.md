@@ -37,7 +37,7 @@ Big-O, Know Thy Complexities!
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
-1. App 
+1. Apps 
 - Stateless & Stateful (NoSQL & SQL)
 2. Data Lake
 - Data Catalog
