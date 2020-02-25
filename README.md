@@ -39,7 +39,8 @@ Big-O, Know Thy Complexities!
 ### > Open source best practices, Inner Sourcing
 1. Streaming - Stateless & Stateful
 2. Database - NoSQL, SQL, ...
-3. Data - 
+3. DataLake
+---
 ---
 
 ## 1. Services 
