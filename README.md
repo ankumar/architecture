@@ -33,7 +33,7 @@ Big-O, Know Thy Complexities!
 
 ## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
 
-### > Delivery & Operations, Services Model
+### > Delivery & Operations, SaaS Model
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
