@@ -41,7 +41,6 @@ Big-O, Know Thy Complexities!
 2. Database - NoSQL, SQL, ...
 3. Data Lake
 ---
----
 
 ## 1. Services 
 * Designing Modularity & Interfaces
