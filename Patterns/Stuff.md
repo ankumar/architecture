@@ -54,6 +54,7 @@ Good perspective! When done well, Platforms drive: <br>
 * [Service Mesh](https://www.datawire.io/envoyproxy/service-mesh/)
 * [Query Language for API](https://graphql.org/)
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
+* [Serverless Patterns](https://docs.google.com/document/d/1I6jaJyrsSTrrXEtrwSqH6aSuKRkyYhJU7LaYedVmvck/)
 
 # Data-Intensive:
 
