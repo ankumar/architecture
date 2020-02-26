@@ -122,6 +122,5 @@ Data quality problem categories:
 
 ## > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 ---
----
 ## [> Learning Stuff...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 </font>
