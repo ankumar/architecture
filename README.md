@@ -40,7 +40,7 @@ Big-O, Know Thy Complexities!
 - Database
 - Data Warehouse
 - Data Lake
-![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg?w=1348&q=90) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg?w=1348&q=90)
+![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg?w=90&q=90) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg?w=90&q=90)
 ### > Delivery & Operations, As a Service
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
