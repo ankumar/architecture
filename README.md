@@ -46,6 +46,8 @@ Big-O, Know Thy Complexities!
 ### > Open source best practices, Inner Sourcing
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 ---
+---
+---
 ## 1. Services 
 * Designing Modularity & Interfaces
 * Decomposing an Application into Services & APIs
