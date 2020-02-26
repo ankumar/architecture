@@ -67,9 +67,9 @@ Big-O, Know Thy Complexities!
 ## **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.**
 
 ## > Devs to focus on Business logic, Hiding Distributed systems complexity, Examples:
-* https://cloud.google.com/run/
-* https://dapr.io/
-* https://oam.dev/
+* [GCP Cloud Run -Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
+* [Distributed Application Runtime -An event-driven, portable runtime for building microservices on cloud and edge](https://dapr.io/)
+* [Open Application Model -A team-centric standard for building cloud native apps](https://oam.dev/)
 
 ## 2. Data
 
