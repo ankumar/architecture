@@ -1,4 +1,4 @@
-# The list here is not meant to be comprehensive, hopefully a good starting point...
+# The list here is not meant to be comprehensive, hopefully a good starting point for directions...
 
 # System:
 **1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
@@ -17,6 +17,7 @@ Some important properties of a system derive from its definition.
 **Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.**
 
 # Enterprise Architecture:
+## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture"
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 * [Cell Based Architecture - Inspired by Biology](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
 * [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
