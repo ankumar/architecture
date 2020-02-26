@@ -36,7 +36,10 @@ Big-O, Know Thy Complexities!
 - Services: Stateless & Stateful
 - State: Stores & Storage
 ### 2. Data Catalog
-- Database, Data Warehouse, Data Lake
+- Steams & Tables
+- Database
+- Data Warehouse
+- Data Lake
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 ### > Delivery & Operations, As a Service
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
