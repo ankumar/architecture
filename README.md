@@ -93,7 +93,7 @@ Data quality problem categories:
 </b> </p>
 
 ## 3. Open Source
-## - “if you want to go fast go alone, but if you want to go far, go together”
+## - “if you want to go fast go alone, but if you want to go far, go together” - Shay Banon, Chairman/CEO/Co-Founder, Elastic
 ## - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>- Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## <p> <b>- Cloud would not have been possible without open source</b> </p>
 ## - Developers - Over 1.3 million first time contributors joined the open source community
