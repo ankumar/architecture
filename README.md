@@ -36,7 +36,7 @@ Big-O, Know Thy Complexities!
 - Services: Stateless & Stateful
 - State: Stores & Storage
 ### 2. Data Catalog
-- Steams & Tables
+- Streams & Tables
 - Database
 - Data Warehouse
 - Data Lake
