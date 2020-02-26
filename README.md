@@ -31,7 +31,7 @@ Big-O, Know Thy Complexities!
          - Seeing Custom & Commodity technologies in the value chain
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
-## Software architecture:
+## Software Architecture:
 ### 1. Apps 
 - Services: Stateless & Stateful
 - State: Stores & Storage
