@@ -100,7 +100,7 @@ Data quality problem categories:
 ## - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 ### <p align="left"> <b> "it's not a race it's a marathon" </b> </p>
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
-### <p align="right"> <b> ".........it's not a race if we're all on the same team" </b> </p>
+### <p align="center"> "This is one of the best keynotes I've ever seen. *Allergies*" </p>
 
 ## > [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
