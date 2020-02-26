@@ -88,7 +88,7 @@ Data quality problem categories:
 - Data manipulation
 - Data quality evaluation
 ## > Software Engineering Practices, Examples:
-* https://algorithmia.com/enterprise
+* [Organize, Manage, and Deploy your company’s ML model portfolio](https://algorithmia.com/enterprise)
 * https://algorithmia.com/blog/introducing-github-source-code-management-for-algorithmia
 </b> </p>
 
