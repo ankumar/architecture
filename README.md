@@ -41,7 +41,7 @@ Big-O, Know Thy Complexities!
 - Data Warehouse
 - Data Lake
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
-### > Delivery & Operations, As a Service
+### > Delivery & Operations, Service Model "As a Service"
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
