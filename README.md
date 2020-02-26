@@ -89,7 +89,8 @@ Data quality problem categories:
 - Data manipulation
 - Data quality evaluation
 ![https://www.datacouncil.ai/](https://github.com/ankumar/Architecture/blob/master/images/Data%20Council.png)
-<p align="right">[- Data Council](https://www.datacouncil.ai/)</p>
+<p align="right"> <a href="https://www.datacouncil.ai/">- Data Council </p>
+ 
 ## > Software Engineering Practices, Examples:
 * [Organize, Manage, and Deploy your company’s ML model portfolio](https://algorithmia.com/enterprise)
 * [GitHub Source Code Management for Algorithms](https://algorithmia.com/blog/introducing-github-source-code-management-for-algorithmia)
