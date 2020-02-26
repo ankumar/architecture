@@ -31,7 +31,7 @@ Big-O, Know Thy Complexities!
          - Seeing Custom & Commodity technologies in the value chain
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
-## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture":
+## Software architecture:
 ### 1. Apps 
 - Services: Stateless & Stateful
 - State: Stores & Storage
