@@ -104,6 +104,7 @@ What is the problem with data today?
   * [BookKeeper](http://bookkeeper.apache.org/distributedlog/)
   * [LogDevice](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
   * [Pravega](http://www.pravega.io/)
+  * [Scalog](https://www.usenix.org/conference/nsdi20/presentation/ding)
 * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
   * API Compatible
     * [Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/)
