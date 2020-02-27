@@ -33,8 +33,10 @@ Big-O, Time & Space: Planning, **Know Thy Complexities!**
 
 ## Software Architecture:
 ### 1. Apps 
-- Services - Stateless & Stateful
-- State - Stores & Storage
+- Services
+--- Stateless & Stateful
+- State
+--- Stores & Storage
 ### 2. Data Catalog
 - Streams
 - Tables
