@@ -8,7 +8,7 @@
 Big-O, Time & Space: Planning, **Know Thy Complexities!**
 1. Software: **Modular**, Greenfield & Brownfield
 2. Legacy: "it makes actual money", **[Refactoring](https://microservices.io/microservices/2020/02/21/devnexus.html)**
-3. Cloud: **Deploy Containers & Scheduled Cost Effective**
+3. Cloud: **Deploy Containers & Cost Effective Scheduling**
 
 ## Improvements: 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
