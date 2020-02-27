@@ -103,6 +103,7 @@ Data quality problem categories:
 ## <p> <b>- Cloud would not have been possible without open source</b> </p>
 ## - Developers - Over 1.3 million first time contributors joined the open source community
 * [2019 Octoverse report](https://octoverse.github.com/)
+-- After the United States, open source use picked up speed in China, India, and Germany this year. Developers in China forked and cloned 48% more projects than last year
 * [2018 Octoverse report](https://octoverse.github.com/2018/)
 ## - Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 ## - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
