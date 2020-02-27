@@ -98,8 +98,7 @@ Data quality problem categories:
 </b> </p>
 
 ## 3. Open Source
-## - “if you want to go fast go alone, but if you want to go far, go together”
-## "Feels like it's time to really focus on accelerating the abundance of open source, collaborating to make the pie bigger for all. Abundance, not scarcity. I'm so, so happy to see Elastic doing well, and love this community where we can build together, even when we compete"
+## - “if you want to go fast go alone, but if you want to go far, go together”. "Feels like it's time to really focus on accelerating the abundance of open source, collaborating to make the pie bigger for all. Abundance, not scarcity. I'm so, so happy to see Elastic doing well, and love this community where we can build together, even when we compete"
 ## - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>- Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ## <p> <b>- Cloud would not have been possible without open source</b> </p>
 ## - Developers - Over 1.3 million first time contributors joined the open source community
