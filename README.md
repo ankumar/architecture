@@ -10,8 +10,6 @@ Future: Big-O, Know Thy Complexities!
 2. Legacy: "it makes actual money", **[Refactoring](https://microservices.io/microservices/2020/02/21/devnexus.html)**
 3. Cloud: Early days, **Deploy Containers, Scheduled Cost Effective**
 
-modular systems, deployed in containers, run automagically by schedulers which live on someone else’s computer.
-
 ## Improvements: 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
 ## <p align="center"><b>Systems Thinking: "If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” <b>- Dr. Russell Ackoff.</b></p>
