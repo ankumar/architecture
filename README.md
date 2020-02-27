@@ -112,6 +112,8 @@ Data quality problem categories:
 ## > [Inner Sourcing - Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 
 ## 4. Cloud Computing
+## "Feels like it's time to really focus on accelerating the abundance of open source, collaborating to make the pie bigger for all. Abundance, not scarcity. I'm so, so happy to see Elastic doing well, and love this community where we can build together, even when we compete"
+
 ## - On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
 |Characteristics|Developer Productivity|
 |------------------------| ---------------------------------------------------------------------------------------------|
@@ -125,8 +127,8 @@ Data quality problem categories:
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 
-- Wrt  Open Distro for Elasticsearch, Shay (CEO) said, "We haven't seen Open Distro really make any change or difference for us". 
-Lots of good, incl AWS/others contributing to Elasticsearch/Lucene & seemingly no bad. Turns out cloud/open source are force multipliers Smiling face with 3 hearts
+## How much has cloud hurt Elastic? Open Distro for Elasticsearch, Shay (CEO) said, "We haven't seen Open Distro really make any change or difference for us". 
+## Lots of good, incl AWS/others contributing to Elasticsearch/Lucene & seemingly no bad. Turns out cloud/open source are force multipliers.
 
 ## > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 ---
