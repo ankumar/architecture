@@ -8,7 +8,7 @@
 ## Context Specific, **Big-O:Time & Space, Know Thy Complexities!**
 ## 1. **Legacy:** "it makes actual money", **Refactor**
 ## 2. **Architecture:** Greenfield & Brownfield, **Modular**
-## 3. **Cloud:** **Data Gravity, Containers & Cost Effective Scheduling**
+## 3. **Cloud:** **Containers & Cost Effective Scheduling, Data Gravity**
 
 ## Improvements: 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
