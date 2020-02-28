@@ -97,6 +97,7 @@ Data quality problem categories:
 <p align="center"> <a href="https://www.datacouncil.ai/"> <b> Data Council </b> </p>
  
 ## > Software Engineering Practices, Examples:
+* [ML development is harder than traditional software development;Production ML is Even Harder](https://www.slideshare.net/matei/scaling-up-machine-learning-development)
 * [Organize, Manage, and Deploy your company’s ML model portfolio](https://algorithmia.com/enterprise)
 * [GitHub Source Code Management for Algorithms](https://algorithmia.com/blog/introducing-github-source-code-management-for-algorithmia)
 </b> </p>
