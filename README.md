@@ -36,11 +36,9 @@
    - Stateful
 - State
    - Stores
+   - Databases
    - Storage
 ### 2. Data Catalog
-- Streams
-- Tables
-- Database
 - Data Warehouse
 - Data Lake
 ### > Delivery & Operations, Model "As a Service"
