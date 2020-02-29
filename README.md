@@ -44,6 +44,7 @@
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
+### > [> Learning ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 ---
 ---
@@ -130,6 +131,4 @@ Data quality problem categories:
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 
 ## > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
----
-## [> Learning Stuff...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 </font>
