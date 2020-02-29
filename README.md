@@ -45,7 +45,7 @@
 - Database
 - Data Warehouse
 - Data Lake
-### > Delivery & Operations, Service Model "As a Service"
+### > Delivery & Operations, Model "As a Service"
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
