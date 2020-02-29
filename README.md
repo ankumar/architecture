@@ -35,8 +35,7 @@
    - Stateless
    - Stateful
 - State
-   - Stores
-   - Databases
+   - Purpose-built Databases
    - Storage
 ### 2. Data Catalog
 - Data Warehouse
