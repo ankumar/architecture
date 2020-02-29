@@ -31,12 +31,9 @@
 
 ## Software Architecture:
 ### 1. Apps 
-- Services
-   - Stateless
-   - Stateful
+- Services - Stateless & Stateful
 - State
-   - Purpose-built Databases
-   - Storage
+   - Purpose-built Databases & Storage
 ### 2. Data Catalog
 - Data Warehouse
 - Data Lake
