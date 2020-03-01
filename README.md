@@ -44,7 +44,7 @@
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
-### > [>> Learning & Leading Change ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+### > [>> Leading Change ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ---
 ---
 ## 1. Services 
