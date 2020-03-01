@@ -18,7 +18,8 @@
 ## 3. **Cloud:** **Containers & Cost Effective Scheduling, Data Gravity**
 
 ## Enterprise Architecture:
-### Context Specific - Know Thy Complexities! Big-O, **Time & "Space"**
+### Context Specific - Know Thy Complexities!, Big-O
+![](https://images.app.goo.gl/HZ87ZBaXQ8q6La9n8)
 #### <p align="center"> <b> "enterprises buy everything. If you're big enough and you have a big enough IT budget, most enterprises have a POC of everything that's for sale, period. There's some team in some pocket, maybe they came through via acquisition. Maybe they live in a different state. Maybe it's just a new project that came out. And what you tend to see, at least from my experiences, if I walk into a typical enterprise, they may tell me something like, "Hey, we have a POC, a Pivotal Cloud Foundry, OpenShift, and we want some of that new thing that we just saw from you guys. How do we get a POC going?" </b> </p> [- Kelsey Hightower, principal developer advocate at Google](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-staying-power-of-kubernetes-with-kelsey-hightower/)
 ## **1. Technology needs to be embedded in the Business not external to it or merely aligned with it**
          - Work backwards from Customer/Business outcomes
