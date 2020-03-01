@@ -36,8 +36,7 @@
 ### > Open source best practices, Inner Sourcing
 
 ### 1. Apps 
-#### - Services
- - Stateless & Stateful
+ - Services, Stateless & Stateful
  - Purpose-built Databases
 ### 2. Data Catalog
  - Data Warehouse
