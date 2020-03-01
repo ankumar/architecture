@@ -37,14 +37,14 @@
 
 ### 1. Apps 
 #### - Services
-####  - Stateless
+  - Stateless
 ####  - Stateful
-#### - State
-####   - Purpose-built Databases
+ - State
+ - Purpose-built Databases
 ####   - Storage
 ### 2. Data Catalog
-#### - Data Warehouse
-#### - Data Lake
+ - Data Warehouse
+ - Data Lake
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
