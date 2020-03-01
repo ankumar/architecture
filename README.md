@@ -37,11 +37,8 @@
 
 ### 1. Apps 
 #### - Services
-  - Stateless
-####  - Stateful
- - State
- - Purpose-built Databases
-####   - Storage
+ - Stateless & Stateful
+ - Purpose-built Databases, Storage
 ### 2. Data Catalog
  - Data Warehouse
  - Data Lake
