@@ -82,7 +82,6 @@
 <p align="center"> <a href="https://www.datacouncil.ai/"> <b> Data Council </b> </p>
 
 ## <p align="center"> <b> "In traditional software engineering, or Software 1.0, a program’s functionality is defined via code as dictated by a human. In the age of machine learning, we are increasingly observing Software 2.0 systems, where a program’s functionality is defined by the weights of neural networks as dictated by the data. You wouldn’t trust a piece of human-written code that hasn’t ever been debugged or tested, so why shouldn’t our data receive the same treatment now that it’s a first-class citizen in so many real-world systems?"
-## [The High Interest Credit Card of Technical Debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf), ML systems are particularly susceptible to new and interesting forms of tech debt.
 
 ## > 1. Data Validation 
 Data quality problem categories:
