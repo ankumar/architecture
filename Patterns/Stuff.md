@@ -94,6 +94,7 @@ What is the problem with data today?
   * [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
   * [Amazon](https://www.amazon.science/publications)
   * [A 10-year Prediction for Enterprise-Grade ML](http://cidrdb.org/cidr2020/papers/p8-agrawal-cidr20.pdf)
+  * [The High Interest Credit Card of Technical Debt - ML systems are particularly susceptible to new and interesting forms of tech debt](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43146.pdf)
    
 ## Data Processing
 **Unified Model for Batch, Streaming & SQL?**
