@@ -22,7 +22,7 @@ Some important properties of a system derive from its definition.
 
 * Cell Based Architecture
   * [How AWS Minimizes the Blast Radius of Failures - Cell based architecture starts at 21:07](https://www.youtube.com/watch?v=swQbA4zub20)
-  * [WSO2 - Enterprise](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
+  * [WSO2 - Enterprise Reference](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
   * [Highscalability - Circa 2012](http://highscalability.com/blog/2012/5/9/cell-architectures.html)
 * [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
 
