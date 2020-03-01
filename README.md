@@ -30,20 +30,22 @@
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
 ## Software Architecture:
-### 1. Apps 
-- Services
-  - Stateless
-  - Stateful
-- State
-   - Purpose-built Databases
-   - Storage
-### 2. Data Catalog
-- Data Warehouse
-- Data Lake
 ### > Delivery & Operations, Model "As a Service"
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
+
+### 1. Apps 
+#### - Services
+####  - Stateless
+####  - Stateful
+#### - State
+####   - Purpose-built Databases
+####   - Storage
+### 2. Data Catalog
+#### - Data Warehouse
+#### - Data Lake
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
 ### > [> Learning ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
