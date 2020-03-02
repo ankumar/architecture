@@ -188,6 +188,6 @@ What is the problem with data today?
 ## Sometimes architects wonder how they get attention up in the "penthouse". This is it - leadership is starved for meaningful, neutral advice. As an architect neutrality is the most important asset. It provides tremendous value to leadership, they usually don't get unbiased information from anybody else, everybody else has an agenda (usually money) - @ghohpe #OReillySACon #OReillySAConQuotes
 
 # Academic:
-## Stanford
+## Stanford - Matei Zaharia
  * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
  * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
