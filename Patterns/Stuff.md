@@ -142,6 +142,7 @@ What is the problem with data today?
     * https://prestosql.io/paper.html
   * [BigQuery](https://cloud.google.com/blog/products/gcp/inside-capacitor-bigquerys-next-generation-columnar-storage-format)
   * [Snowflake](http://pages.cs.wisc.edu/~remzi/Classes/739/Spring2004/Papers/p215-dageville-snowflake.pdf)
+    * https://www.infoq.com/presentations/snowflake-architecture/
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 
