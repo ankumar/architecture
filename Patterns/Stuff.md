@@ -145,12 +145,7 @@ What is the problem with data today?
   * [Athena](https://aws.amazon.com/athena/)
   * [Redshift](https://www.allthingsdistributed.com/2018/11/amazon-redshift-performance-optimization.html)
 
-## Stanford
- * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
- * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
-
 # Distributed computing:
-
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Connecting in & across data centers  - Google: 100,000+ services</b></p>
 
@@ -191,3 +186,8 @@ What is the problem with data today?
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
 ## Sometimes architects wonder how they get attention up in the "penthouse". This is it - leadership is starved for meaningful, neutral advice. As an architect neutrality is the most important asset. It provides tremendous value to leadership, they usually don't get unbiased information from anybody else, everybody else has an agenda (usually money) - @ghohpe #OReillySACon #OReillySAConQuotes
+
+# Academic:
+## Stanford
+ * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
+ * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
