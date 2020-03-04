@@ -176,9 +176,6 @@ What is the problem with data today?
 * [Incidents](https://www.adaptivecapacitylabs.com/blog/)
 * [Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
 
-# Anti-patterns:
-* A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
-
 # Leadership:
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
@@ -191,3 +188,6 @@ What is the problem with data today?
 ## Stanford - Matei Zaharia
  * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
  * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
+
+# Anti-patterns:
+* A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
