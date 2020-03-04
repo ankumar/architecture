@@ -45,8 +45,7 @@ Good perspective! When done well, Platforms drive: <br>
   * [Facebook moving from lots of internally developed tools](https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development/) 
   
 # Patterns:
-Designing Modularity & Interfaces
-Decomposing an Application into Services & APIs
+Designing Modularity & Interfaces, Decomposing an Application into Services & APIs
 * [Microservices](https://microservices.io/patterns/index.html)
 * [Assembling Software from Independent Systems](https://scs-architecture.org/)
 * [The Twelve Factors](https://12factor.net/)
