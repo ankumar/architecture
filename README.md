@@ -50,8 +50,6 @@
 ---
 ---
 ## 1. Services
-![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
-## In the future the majority of managed infrastructure offerings will be backed by open interfaces, but not necessarily open source projects.
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
 
