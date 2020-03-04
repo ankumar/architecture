@@ -1,5 +1,4 @@
 # The list here is not meant to be comprehensive, hopefully resource for directions...
-![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
 # System:
 **1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
@@ -181,11 +180,12 @@ What is the problem with data today?
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
 
 # Leadership:
-## "Best way to get another peer architect is to train one" - Sonya Natanzon
- 
-* [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
+![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
 ## Sometimes architects wonder how they get attention up in the "penthouse". This is it - leadership is starved for meaningful, neutral advice. As an architect neutrality is the most important asset. It provides tremendous value to leadership, they usually don't get unbiased information from anybody else, everybody else has an agenda (usually money) - @ghohpe #OReillySACon #OReillySAConQuotes
+
+## "Best way to get another peer architect is to train one" - Sonya Natanzon
+* [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
 
 # Academic:
 ## Stanford - Matei Zaharia
