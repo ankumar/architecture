@@ -43,9 +43,7 @@
 ### 2. Data 
  - Data Warehouse
  - Data Lake
-
-![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
-
+ 
 ### > [>> Leading Change ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ---
 ---
