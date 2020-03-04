@@ -50,6 +50,8 @@
 ---
 ---
 ## 1. Services
+[![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
+ <b>Connecting in & across data centers  - Google: 100,000+ services</b></p>
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
 
