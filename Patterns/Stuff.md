@@ -1,4 +1,5 @@
 # The list here is not meant to be comprehensive, hopefully resource for directions...
+![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
 # System:
 **1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
