@@ -5,8 +5,6 @@
 **3. We're still filling the Data Warehouse / Data Lake with stuff.** <br/>
 **4. But in terms of infrastructure, we are using GCP Cloud and going "server less" where possible, Ex: BigQuery** <br/>
 
-**These two pics will continue to be displayed until awareness improves. I.e. until the end of the AI hype. :-)**
-
 ![](https://github.com/ankumar/Architecture/blob/master/images/The%20AI%20Hierarchy%20of%20Needs.png)
 ### The AI Hierarchy of Needs - https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
 **--- Most data-powered features lack the black box. There is usually better ROI for simpler functionality and automation of existing workflows.**
