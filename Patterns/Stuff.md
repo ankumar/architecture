@@ -177,12 +177,16 @@ What is the problem with data today?
 * [Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
 
 # Leadership:
-![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
-
 ## Sometimes architects wonder how they get attention up in the "penthouse". This is it - leadership is starved for meaningful, neutral advice. As an architect neutrality is the most important asset. It provides tremendous value to leadership, they usually don't get unbiased information from anybody else, everybody else has an agenda (usually money) - @ghohpe #OReillySACon #OReillySAConQuotes
 
 ## "Best way to get another peer architect is to train one" - Sonya Natanzon
 * [Technical Leadership Masterclass](https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf)
+
+* [Prof. Richard Rumelt | Good Strategy/Bad Strategy](https://www.youtube.com/watch?v=UZrTl16hZdk)
+* [Simon Wardley | Create situational awareness in business...](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
+
+
+![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
 # Academic:
 ## Stanford - Matei Zaharia
