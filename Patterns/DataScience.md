@@ -5,11 +5,11 @@
 3. We're still filling the Data Warehouse / Data Lake with stuff.
 4. But in terms of infrastructure, we are using GCP Cloud and going "server less" where possible, Ex: BigQuery
 
-## The AI Hierarchy of Needs https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
+### The AI Hierarchy of Needs https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
 
-## Paper, Hidden Technical Debt in Machine Learning Systems: https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
+### Paper, Hidden Technical Debt in Machine Learning Systems: https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
 Most data-powered features lack the black box. There is usually better ROI for simpler functionality and automation of existing workflows.
 
 These two pics will continue to be displayed until awareness improves. I.e. until the end of the AI hype. :-)
