@@ -24,7 +24,8 @@ Some important properties of a system derive from its definition.
   * [How AWS Minimizes the Blast Radius of Failures - Cell based architecture starts at 21:07](https://www.youtube.com/watch?v=swQbA4zub20)
   * [WSO2 - Enterprise Reference](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
   * [Highscalability - Circa 2012](http://highscalability.com/blog/2012/5/9/cell-architectures.html)
-* [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
+* DevOps
+  * [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
 
 # Developer:
 **"Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed."** <br>
