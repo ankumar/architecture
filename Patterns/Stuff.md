@@ -20,6 +20,9 @@ Some important properties of a system derive from its definition.
 ## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture"
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 
+* **Design**
+   * [Taking a Lean Thinking perspective](https://doi.org/10.4233/uuid:9a984128-64f2-41f2-83ee-441787362d46)
+   
 * **Cell Based Architecture**
   * [How AWS Minimizes the Blast Radius of Failures - Cell based architecture starts at 21:07](https://www.youtube.com/watch?v=swQbA4zub20)
   * [WSO2 - Enterprise Reference](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
