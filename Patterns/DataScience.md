@@ -9,9 +9,9 @@
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/The%20AI%20Hierarchy%20of%20Needs.png)
 ### The AI Hierarchy of Needs - https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
+* **- Most data-powered features lack the black box. There is usually better ROI for simpler functionality and automation of existing workflows.**
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
 ### Paper, Hidden Technical Debt in Machine Learning Systems - https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
-* **Most data-powered features lack the black box. There is usually better ROI for simpler functionality and automation of existing workflows.**
 
 ### 1. Strive to get from a push-based workflow (fill the lake) to a pull-based. i.e select use cases of business value and ingest the data they need into the lake.
 ### 2. Take use cases all the way and show value before embarking on new use cases.
