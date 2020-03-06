@@ -89,9 +89,9 @@ What is the problem with data today?
 **Problem #5 - Tools are not addressing complexity**
 
 **Problem #6 - It is not tools and technology but people and processes**
+
 ![https://www.datacouncil.ai/](https://github.com/ankumar/Architecture/blob/master/images/Data%20Council.png)
 <p align="center"> <a href="https://www.datacouncil.ai/"> <b> Data Council </b> </p>
- 
 ## Science
 * Data quality
   * [Data Validation for ML](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
