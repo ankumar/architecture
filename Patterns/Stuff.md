@@ -66,6 +66,7 @@ Designing Modularity & Interfaces, Decomposing an Application into Services & AP
 # Data-Intensive:
 ![https://www.datacouncil.ai/](https://github.com/ankumar/Architecture/blob/master/images/Data%20Council.png)
 <p align="center"> <a href="https://www.datacouncil.ai/"> <b> Data Council </b> </p>
+ 
 Data is an important starting point, for data to be useful, it should be turned to Information.
 Data - Raw, unorganized facts about something
 Information - Data/Facts that is structured, organized, and presented with context
