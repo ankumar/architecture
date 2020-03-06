@@ -1,4 +1,4 @@
-# Lean & Agile Practices:
+# Lean & Agile:
 
 1. We're a company, just starting out on our DataScience / Machine Learning journey.
 2. We don't have it all figured out yet. 
