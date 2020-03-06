@@ -1,10 +1,5 @@
 # Lean & Agile:
 
-**1. We're a company, just starting out on our DataScience / Machine Learning journey.** <br/>
-**2. We don't have it all figured out yet.** <br/>
-**3. We're still filling the Data Warehouse / Data Lake with stuff.** <br/>
-**4. But in terms of infrastructure, we are using GCP Cloud and going "server less" where possible, Ex: BigQuery** <br/>
-
 ![](https://github.com/ankumar/Architecture/blob/master/images/The%20AI%20Hierarchy%20of%20Needs.png)
 ### <p align="center"> (https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007) </p>
 **--- Most data-powered features lack the black box. There is usually better ROI for simpler functionality and automation of existing workflows.**
