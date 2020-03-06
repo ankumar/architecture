@@ -99,6 +99,10 @@ What is the problem with data today?
 * Architecture
   * [Reinforcement Learning](https://diyrobocars.com/)
   * [AI-powered Monopolies and the New World Order](https://towardsdatascience.com/ai-powered-monopolies-and-the-new-world-order-1c56cfc76e7d)
+  * [ML development is harder than traditional software development;Production ML is Even Harder](https://www.slideshare.net/matei/scaling-up-machine-learning-development)
+  * [Organize, Manage, and Deploy your company’s ML model portfolio](https://algorithmia.com/enterprise)
+  * [GitHub Source Code Management for Algorithms](https://algorithmia.com/blog/introducing-github-source-code-management-for-algorithmia)
+  
 * Publications
   * [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
   * [Amazon](https://www.amazon.science/publications)
