@@ -1,11 +1,12 @@
 # Lean & Agile:
 
-**1. We're a company, just starting out on our DataScience / Machine Learning journey.**
-**2. We don't have it all figured out yet.**
-**3. We're still filling the Data Warehouse / Data Lake with stuff.**
-**4. But in terms of infrastructure, we are using GCP Cloud and going "server less" where possible, Ex: BigQuery**
+**1. We're a company, just starting out on our DataScience / Machine Learning journey.** <br/>
+**2. We don't have it all figured out yet.** <br/>
+**3. We're still filling the Data Warehouse / Data Lake with stuff.** <br/>
+**4. But in terms of infrastructure, we are using GCP Cloud and going "server less" where possible, Ex: BigQuery** <br/>
 
-These two pics will continue to be displayed until awareness improves. I.e. until the end of the AI hype. :-)
+**These two pics will continue to be displayed until awareness improves. I.e. until the end of the AI hype. :-)**
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/The%20AI%20Hierarchy%20of%20Needs.png)
 ### The AI Hierarchy of Needs - https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
