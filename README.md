@@ -90,10 +90,6 @@ Data quality problem categories:
 ### - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>- Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
 ### <p> <b>- Cloud would not have been possible without open source</b> </p>
 ### - Developers - Over 1.3 million first time contributors joined the open source community
-* [2019 Octoverse report](https://octoverse.github.com/)
--- After the United States, open source use picked up speed in China, India, and Germany this year. Developers in China forked and cloned 48% more projects than last year
-* [2018 Octoverse report](https://octoverse.github.com/2018/)
--- collaborating more than ever before, with 1.1 billion contributions—and counting, transcending borders and barriers of all varieties to create something unquantifiable: a community of leaders, dreamers, dissenters, tinkerers, and doers building the way forward.
 ### - How much has cloud hurt Elastic? "We haven't seen Open Distro really make any change or difference for us". Lots of good, incl AWS/others contributing to Elasticsearch/Lucene & seemingly no bad. Turns out cloud/open source are force multipliers. -  Shay Banon (CEO)
 ### - Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 ### - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
