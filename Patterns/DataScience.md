@@ -23,3 +23,5 @@
 ### 15. For collected personal data, split the PII out and make a link to the personal data to prepare for deletion.
 ### 16. Separate integration from computation. Computation should be performed without awareness of coordinates, and be easily testable. Data transfer and integration should be a separate step. E.g. for egress, first save results to a lake dataset, then copy to a destination database
 ### 17. When collecting events, avoid processing, improving quality, or reordering. Collect the raw events and partition by arrival time, then curate events in batch (or stream) processes. Curation needs depend on downstream use, and you should avoid making a global decision.
+
+-- https://www.scling.com/reading-list
