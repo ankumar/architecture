@@ -39,6 +39,11 @@ Good perspective! When done well, Platforms drive: <br>
  * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
 
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <p align="center"><b> 40 million Developers </b> </p>
+### - Developers - Over 1.3 million first time contributors joined the open source community
+* [2019 Octoverse report](https://octoverse.github.com/)
+-- After the United States, open source use picked up speed in China, India, and Germany this year. Developers in China forked and cloned 48% more projects than last year
+* [2018 Octoverse report](https://octoverse.github.com/2018/)
+-- collaborating more than ever before, with 1.1 billion contributions—and counting, transcending borders and barriers of all varieties to create something unquantifiable: a community of leaders, dreamers, dissenters, tinkerers, and doers building the way forward.
 ## "I maintain @github Actions is a shining beacon of developer experience done right." - @QuinnyPig
    * [Workflow (new feature)](https://github.com/features/actions)
      * [Compute: GCE, GKE, CLOUD RUN](https://github.com/GoogleCloudPlatform/github-actions)
