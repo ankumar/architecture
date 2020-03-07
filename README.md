@@ -47,9 +47,9 @@
 ### > [>> Leading Change ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ---
 ## 1. Services
+### <p align="center"> "APIs are forever, code is not..." - Mike Amundsen </p>
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
-## <p align="center"> "APIs are forever, code is not..." - Mike Amundsen </p>
 **1. Highly maintainable & testable** <br>
 **2. Loosely coupled** <br>
 **3. Independently deployable** <br>
