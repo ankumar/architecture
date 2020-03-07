@@ -59,7 +59,7 @@
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">A Modern Bank, Monzo: 1,500+ services, Strong DevOps & Observability</a> </p>
 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
- <b>Connecting In & Across Data centers  - Google: 100,000+ services</b></p>
+ <b>Connecting IN & ACROSS Data centers  - Google: 100,000+ services</b></p>
 ## > Devs to focus on Business logic, Hiding Distributed systems complexity
 **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
 
