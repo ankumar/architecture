@@ -21,6 +21,7 @@ Some important properties of a system derive from its definition.
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 
 * **Design**
+   * [Business value as an architectural attribute](https://martinfowler.com/articles/value-architectural-attribute.html)
    * [Organizational Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
    * [Taking a Lean Thinking perspective](https://doi.org/10.4233/uuid:9a984128-64f2-41f2-83ee-441787362d46)
    
