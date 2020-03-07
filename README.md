@@ -15,6 +15,7 @@
 "Changing technology is (comparatively) easy compared to changing culture" / "Culture needs to change as our tech approaches change, but we’ve got to be patient, empathetic and realistic "
 ## 1. **Legacy:** "it makes actual money"
 ## 2. **Architecture:** Greenfield & Brownfield, Systems and Data
+- [Business value as an architectural attribute](https://martinfowler.com/articles/value-architectural-attribute.html)
 ## 3. **Cloud:** **Containers & Cost Effective Scheduling, Data Gravity**
 
 ## Enterprise Architecture:
