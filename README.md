@@ -1,6 +1,6 @@
 <font size="16">
  
-# Application Development - Blending New with the Old Architecture...
+# Application Development - Blending New & Old...
 
 ## Systems Thinking: 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
