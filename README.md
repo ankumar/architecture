@@ -56,7 +56,7 @@
 **4. Organized around business capabilities** <br>
 **5. Owned by a small team**<br>
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
-<p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">A Modern Bank, Monzo: 1,500+ services</a> </p>
+<p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">A Modern Bank, Monzo: 1,500+ services , Needs DevOps Culture & Strong Observability</a> </p>
 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Connecting In & Across Data centers  - Google: 100,000+ services</b></p>
