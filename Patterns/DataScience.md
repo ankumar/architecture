@@ -1,7 +1,7 @@
 # Lean & Agile:
-
 ![](https://github.com/ankumar/Architecture/blob/master/images/The%20AI%20Hierarchy%20of%20Needs.png)
 ### https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
 **--- Most data-powered features lack the black box. There is usually better ROI for simpler functionality and automation of existing workflows.**
 ### Paper: Hidden Technical Debt in Machine Learning Systems - https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf
