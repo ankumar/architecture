@@ -66,6 +66,8 @@ Designing Modularity & Interfaces, Decomposing an Application into Services & AP
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 * [Serverless Patterns](https://docs.google.com/document/d/1I6jaJyrsSTrrXEtrwSqH6aSuKRkyYhJU7LaYedVmvck/)
 * [Domain-Driven Design](https://www.dddheuristics.com/)
+* [Distributed Application Runtime- An event-driven, portable runtime for building microservices on cloud and edge](https://dapr.io/)
+* [Open Application Model- A team-centric *standard* for building cloud native apps](https://oam.dev/)
 
 # Data-Intensive: 
 Data is an important starting point, for data to be useful, it should be turned to Information.
