@@ -16,7 +16,6 @@
 ## 1. **Legacy:** "it makes actual money"
 ## 2. **Architecture:** Greenfield & Brownfield, Systems and Data
 ## 3. **Cloud:** **Containers & Cost Effective Scheduling, Data Gravity**
-- [Business value as an architectural attribute](https://martinfowler.com/articles/value-architectural-attribute.html)
 
 ## Enterprise Architecture:
 ![](https://github.com/ankumar/Architecture/blob/master/images/Big-O.gif)
