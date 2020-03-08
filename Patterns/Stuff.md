@@ -57,6 +57,13 @@ Good perspective! When done well, Platforms drive: <br>
   
 # Patterns:
 Designing Modularity & Interfaces, Decomposing an Application into Services & APIs
+![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
+[Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
+**1. Highly maintainable & testable** <br>
+**2. Loosely coupled** <br>
+**3. Independently deployable** <br>
+**4. Organized around business capabilities** <br>
+**5. Owned by a small team**<br>
 * [Microservices](https://microservices.io/patterns/index.html)
 * [Assembling Software from Independent Systems](https://scs-architecture.org/)
 * [The Twelve Factors](https://12factor.net/)
