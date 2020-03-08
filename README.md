@@ -38,7 +38,6 @@
 ### > Open source best practices, Inner Sourcing
 
 ## 1. Services
-### Apps 
  - Services, Stateless & Stateful
  - Purpose-built Databases
 ### <p align="center"> "APIs are forever, code is not..." - Mike Amundsen </p>
