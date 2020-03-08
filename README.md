@@ -43,9 +43,9 @@
 ### 2. Data 
  - Data Warehouse
  - Data Lake
- 
-### > [>> Leading Change ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+
 ---
+
 ## 1. Services
 ### <p align="center"> "APIs are forever, code is not..." - Mike Amundsen </p>
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
@@ -116,4 +116,13 @@ Data quality problem categories:
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 
 ## > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+
+____
+____
+
+THINK IN SYSTEMS - Large Scale Macro
+FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
+ENGAGE OTHERS TO DO THE SAME - Collective, Deeply Shared View
+
+### > [>> Learning ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 </font>
