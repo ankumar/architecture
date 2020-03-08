@@ -50,7 +50,7 @@
  - "APIs are forever, code is not..." - Mike Amundsen
  
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
-<p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Strong DevOps & Observability - A Modern Bank, Monzo: 1,500+ services </a> </p>
+<p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">A Nerwork, Needs Strong DevOps & Observability / A Modern Bank, Monzo: 1,500+ services </a> </p>
 
 ## > Devs to focus on Business logic, Hiding Distributed systems complexity
 **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
