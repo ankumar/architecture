@@ -107,9 +107,9 @@ Data quality problem categories:
 ## > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 ____
 
-# 1. THINK IN SYSTEMS - Large Scale Macro
-# 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
-# 3. ENGAGE OTHERS TO DO THE SAME - Collective, Deeply Shared View
+## 1. THINK IN SYSTEMS - Large Scale Macro
+## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
+## 3. ENGAGE OTHERS TO DO THE SAME - Collective, Deeply Shared View
 
 ### > [>> Learning ...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 </font>
