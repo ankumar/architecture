@@ -1,6 +1,6 @@
 <font size="16">
  
-# Application Development
+# Platforms
 
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
 ## 1. SYSTEMS THINKING - Large Scale Macro Environment [>>>...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
