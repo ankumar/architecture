@@ -37,14 +37,10 @@
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
 
-### 1. Apps 
+## 1. Services
+### Apps 
  - Services, Stateless & Stateful
  - Purpose-built Databases
-### 2. Data 
- - Data Warehouse
- - Data Lake
-
-## 1. Services
 ### <p align="center"> "APIs are forever, code is not..." - Mike Amundsen </p>
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
@@ -65,7 +61,8 @@
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
 
 ## 2. Data
-
+ - Data Warehouse
+ - Data Lake
 ### Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
 ![](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
