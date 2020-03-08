@@ -5,7 +5,7 @@
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
 ## 1. SYSTEMS THINKING - Large Scale Macro Environment [>>>...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
-## 3. ENGAGE OTHERS TO DO THE SAME - Collective, Deeply Shared View
+## 3. ENGAGE OTHERS TO DO THE SAME - Collective highly targeted unit, Shared View
 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
 ## <p align="center"><b>"If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” <b>- Dr. Russell Ackoff.</b></p>
