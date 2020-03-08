@@ -55,6 +55,7 @@
 ## > Devs to focus on Business logic, Hiding Distributed systems complexity
 **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
 * [Preparing for a future Microservices journey using DDD & Wardley Maps](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
+- https://www.youtube.com/watch?v=1cnLMuBABo0
 
 **Examples:**
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
