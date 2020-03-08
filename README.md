@@ -38,9 +38,13 @@
 ### > Open source best practices, Inner Sourcing
 
 ## 1. Services
+[![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
+ <b>Connecting In & Across Regions  - Google: 100,000+ services</b></p>
+ 
+### <p align="center"> "APIs are forever, code is not..." - Mike Amundsen </p>
  - Services, Stateless & Stateful
  - Purpose-built Databases
-### <p align="center"> "APIs are forever, code is not..." - Mike Amundsen </p>
+ 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
 **1. Highly maintainable & testable** <br>
@@ -51,8 +55,6 @@
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Strong DevOps & Observability - A Modern Bank, Monzo: 1,500+ services </a> </p>
 
-[![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
- <b>Connecting IN & ACROSS Data centers  - Google: 100,000+ services</b></p>
 ## > Devs to focus on Business logic, Hiding Distributed systems complexity
 **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
 
