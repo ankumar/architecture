@@ -2,6 +2,8 @@
  
 # Application Development
 
+![[Systems thinking for a better world | Rebecca Mills ][https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI)
+
 ## 1. SYSTEMS THINKING - Large Scale Macro Environment [>>>...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
 ## 3. ENGAGE OTHERS TO DO THE SAME - Collective, Deeply Shared View
