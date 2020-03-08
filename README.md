@@ -41,7 +41,7 @@
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Connecting In & Across Regions  - Google: 100,000+ services</b></p>
  
-### <p align="center"> "APIs are forever, code is not..." - Mike Amundsen </p>
+### <p> "APIs are forever, code is not..." - Mike Amundsen </p>
  - Services, Stateless & Stateful
  - Purpose-built Databases
  
@@ -52,6 +52,7 @@
 **3. Independently deployable** <br>
 **4. Organized around business capabilities** <br>
 **5. Owned by a small team**<br>
+
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Strong DevOps & Observability - A Modern Bank, Monzo: 1,500+ services </a> </p>
 
