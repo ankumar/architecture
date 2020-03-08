@@ -1,5 +1,3 @@
-<font size="16">
-         
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
 ## 1. SYSTEMS THINKING - Large Scale Macro, Technology, Processes & People [>>>...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
@@ -110,5 +108,3 @@ Data quality problem categories:
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 
 ## > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
-____
-</font>
