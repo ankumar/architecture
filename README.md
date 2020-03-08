@@ -32,14 +32,7 @@
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
 ## Software Architecture:
-1. APIs
-2. Analytics
-3. Artificial Intelligence
-4. Machine Learning
-5. Cheaper Processing
-6. Edge Computing
-7. Self-service &
-8. (critically) a platform team with a matrix mindset
+APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.
 ### > Delivery & Operations, Model "As a Service"
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
