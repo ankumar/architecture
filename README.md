@@ -55,6 +55,8 @@
 **There isn't a concrete, well-defined algorithm for decomposing a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
 * [https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/ag5X7ql1US8Bot" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps" title="Preparing for a future Microservices journey using DDD &amp; Wardley Maps" target="_blank">Preparing for a future Microservices journey using DDD &amp; Wardley Maps</a> </strong> from <strong><a href="https://www.slideshare.net/SusanneKaiser3" target="_blank">Susanne Kaiser</a></strong> </div>
+
 **Examples:**
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
 
