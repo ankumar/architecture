@@ -2,7 +2,7 @@
  
 # Application Development
 
-## 1. SYSTEMS THINKING - Large Scale Macro [>>>...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## 1. SYSTEMS THINKING - Large Scale Macro Environment [>>>...](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
 ## 3. ENGAGE OTHERS TO DO THE SAME - Collective, Deeply Shared View
 
