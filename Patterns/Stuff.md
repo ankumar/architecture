@@ -66,6 +66,7 @@ Designing Modularity & Interfaces, Decomposing an Application into Services & AP
 **4. Organized around business capabilities** <br>
 **5. Owned by a small team**<br>
 * [Microservices](https://microservices.io/patterns/index.html)
+* [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623)
 * [Assembling Software from Independent Systems](https://scs-architecture.org/)
 * [The Twelve Factors](https://12factor.net/)
 * [Martin Fowler](https://martinfowler.com/)
