@@ -38,7 +38,7 @@
 ## Software Architecture:
 APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
 
-### > [no code](https://twitter.com/kelseyhightower/status/961026365146320896) 
+### > [no code](https://twitter.com/kelseyhightower/status/961026365146320896), new way of thinking about actual problem 
 ### > Delivery & Operations, Model "As a Service"
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
