@@ -102,6 +102,7 @@ Data quality problem categories:
 
 ## 4. Cloud Computing
 ### - On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
+- https://www.youtube.com/watch?v=ZVRI214nnto
 | **Characteristics** | **Developer Productivity** |
 |------------------------| ---------------------------------------------------------------------------------------------|
 | **On-demand self-service** | A consumer can unilaterally provision computing capabilities, such as server time and network storage, as needed automatically without requiring human interaction |
