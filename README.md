@@ -36,8 +36,9 @@
 ## [>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## Software Architecture:
+APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
+
 ### > [no code](https://twitter.com/kelseyhightower/status/961026365146320896) 
-- APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
 ### > Delivery & Operations, Model "As a Service"
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
