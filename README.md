@@ -33,7 +33,7 @@
          - Seeing Custom & Commodity technologies in the value chain
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
-## [>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## **3. [>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## Software Architecture:
 **APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
