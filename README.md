@@ -3,11 +3,12 @@
 ## Software Delivery - **APIs, Analytics, Artificial intelligence, Machine learning, Cheaper processing, Edge computing, Self-service & (critically) a Platform Team with a matrix mindset.**
 
 ### > [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896), New ways of thinking about solving actual problem 
+### > [DevOps](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ### > Delivery & Operations, Model "As a Service"
 ### > Hiding Distributed systems complexity, Devs to focus on Business logic
 ### > Value of Data & Quality, Business models around data
 ### > Open source best practices, Inner Sourcing
-### > [DevOps](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+
 
 ## 1. Services
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
