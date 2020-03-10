@@ -1,4 +1,4 @@
-# Hyperscale - Software Delivery
+# Hyperscale Software Delivery
 
 **APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
 
