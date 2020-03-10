@@ -1,6 +1,6 @@
 # Digital Platforms
 
-## **APIs, Analytics, Artificial Intelligence, Machine Learning, Cheaper processing, Edge Computing, Self-service & (critically) a Platform Team with a matrix mindset.** 
+## **APIs, Analytics, Artificial Intelligence, Machine Learning, Cost, Edge Computing, Self-service & (critically) a Platform Team with a matrix mindset.** 
 ## Hyperscale:
 ### > Delivery & Operations, Model "As a Service"
 ### > Value of Data & Quality, Business models around data
