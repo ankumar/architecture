@@ -1,5 +1,10 @@
 # The list here is not meant to be comprehensive, hopefully macro environments ...
 
+[![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
+## 1. SYSTEMS THINKING - Large Scale Macro Environment, Technology/Processes/People
+## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
+## 3. ENGAGE OTHERS TO DO THE SAME - Collective highly targeted unit, Shared View
+
 # System:
 **1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
 **2. Every system contains at least two essential parts and these must satisfy three conditions.**
