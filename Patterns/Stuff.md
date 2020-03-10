@@ -61,6 +61,7 @@ Some important properties of a system derive from its definition.
   * [WSO2 - Enterprise Reference](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
   * [Highscalability - Circa 2012](http://highscalability.com/blog/2012/5/9/cell-architectures.html)
 * **DevOps**
+  * [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
   * [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
 
 # Developer:
