@@ -7,7 +7,7 @@ Good perspective! When done well, Platforms drive: <br>
 2. Combining for a Win-Win! <br>
  * [Wicked Problem](https://leadingedgeforum.com/research/are-platform-organizations-a-wicked-problem/)
  * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
-
+ 
 ![Developers Developers Developers ...](https://github.com/ankumar/Architecture/blob/master/images/Github.png)<p align="center"> <p align="center"><b> 40 million Developers </b> </p>
 ### - Developers - Over 1.3 million first time contributors joined the open source community
 * [2019 Octoverse report](https://octoverse.github.com/)
@@ -22,6 +22,36 @@ Good perspective! When done well, Platforms drive: <br>
 * [Cloud Run](https://cloud.google.com/run/)
 * [OSS Visual Studio Code](https://github.com/microsoft/vscode)
   * [Facebook moving from lots of internally developed tools](https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development/) 
+
+# Patterns:
+Designing Modularity & Interfaces, Decomposing an Application into Services & APIs
+![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
+[Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
+
+**1. Highly maintainable & testable** <br>
+**2. Loosely coupled** <br>
+**3. Independently deployable** <br>
+**4. Organized around business capabilities** <br>
+**5. Owned by a small team**<br>
+* [Microservices](https://microservices.io/patterns/index.html)
+* [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623)
+* [Assembling Software from Independent Systems](https://scs-architecture.org/)
+* [The Twelve Factors](https://12factor.net/)
+* [Martin Fowler](https://martinfowler.com/)
+* [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
+* [The Architect Elevator](https://architectelevator.com/)
+* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [Amazon Builders Library](https://aws.amazon.com/builders-library/)
+* [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
+* [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
+* [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE)
+* [Service Mesh](https://www.datawire.io/envoyproxy/service-mesh/)
+* [Query Language for API](https://graphql.org/)
+* [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
+* [Serverless Patterns](https://docs.google.com/document/d/1I6jaJyrsSTrrXEtrwSqH6aSuKRkyYhJU7LaYedVmvck/)
+* [Domain-Driven Design](https://www.dddheuristics.com/)
+* [Distributed Application Runtime- An event-driven, portable runtime for building microservices on cloud and edge](https://dapr.io/)
+* [Open Application Model- A team-centric *standard* for building cloud native apps](https://oam.dev/)
   
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
 ## 1. SYSTEMS THINKING - Large Scale Macro Environment, Technology/Processes/People
@@ -89,36 +119,6 @@ Some important properties of a system derive from its definition.
   * [State of DevOps 2019](https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
   * [DevOps Transformation](https://github.com/ankumar/Architecture/blob/master/Patterns/The%20Unicorn%20Project.md)
   
-# Patterns:
-Designing Modularity & Interfaces, Decomposing an Application into Services & APIs
-![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
-[Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
-
-**1. Highly maintainable & testable** <br>
-**2. Loosely coupled** <br>
-**3. Independently deployable** <br>
-**4. Organized around business capabilities** <br>
-**5. Owned by a small team**<br>
-* [Microservices](https://microservices.io/patterns/index.html)
-* [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623)
-* [Assembling Software from Independent Systems](https://scs-architecture.org/)
-* [The Twelve Factors](https://12factor.net/)
-* [Martin Fowler](https://martinfowler.com/)
-* [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
-* [The Architect Elevator](https://architectelevator.com/)
-* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
-* [Amazon Builders Library](https://aws.amazon.com/builders-library/)
-* [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
-* [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
-* [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE)
-* [Service Mesh](https://www.datawire.io/envoyproxy/service-mesh/)
-* [Query Language for API](https://graphql.org/)
-* [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
-* [Serverless Patterns](https://docs.google.com/document/d/1I6jaJyrsSTrrXEtrwSqH6aSuKRkyYhJU7LaYedVmvck/)
-* [Domain-Driven Design](https://www.dddheuristics.com/)
-* [Distributed Application Runtime- An event-driven, portable runtime for building microservices on cloud and edge](https://dapr.io/)
-* [Open Application Model- A team-centric *standard* for building cloud native apps](https://oam.dev/)
-
 # Data-Intensive: 
 Data is an important starting point, for data to be useful, it should be turned to Information.
 Data - Raw, unorganized facts about something
