@@ -3,6 +3,26 @@
 ## 1. SYSTEMS THINKING - Large Scale Macro Environment, Technology/Processes/People
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
 ## 3. ENGAGE OTHERS TO DO THE SAME - Collective highly targeted unit, Shared View
+        
+# System:
+**1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
+**2. Every system contains at least two essential parts and these must satisfy three conditions.**
+  * Every essential part of a system can affect its behavior or properties.
+  * The way an essential part affects the properties or behavior of the whole depends on the
+   state or activity of at least one other part of the system.
+  * Groups of essential parts, subsystems, also can affect the behavior and properties of the whole system and none has an independent effect on it.
+
+Some important properties of a system derive from its definition.
+  * When a system is taken apart it loses its essential properties.
+  * No part of a system can carry out the function that defines the system.
+  * When a system is taken apart its essential parts lose their ability to carry out the
+   function they have in the whole.
+
+**Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.**
+
+# Enterprise Architecture:
+## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture"
+![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 
 [![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
 ## <p align="center"><b>"If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” <b>- Dr. Russell Ackoff.</b></p>
@@ -31,26 +51,6 @@
          - Business mapped into technologies that underpin the delivery of that core value 
          - Seeing Custom & Commodity technologies in the value chain
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
-        
-# System:
-**1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
-**2. Every system contains at least two essential parts and these must satisfy three conditions.**
-  * Every essential part of a system can affect its behavior or properties.
-  * The way an essential part affects the properties or behavior of the whole depends on the
-   state or activity of at least one other part of the system.
-  * Groups of essential parts, subsystems, also can affect the behavior and properties of the whole system and none has an independent effect on it.
-
-Some important properties of a system derive from its definition.
-  * When a system is taken apart it loses its essential properties.
-  * No part of a system can carry out the function that defines the system.
-  * When a system is taken apart its essential parts lose their ability to carry out the
-   function they have in the whole.
-
-**Finally: When the performance of any essential part of a system, taken separately, is improved, the performance of the whole may not be.**
-
-# Enterprise Architecture:
-## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture"
-![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 
 * **Design**
    * [Business value as an architectural attribute](https://martinfowler.com/articles/value-architectural-attribute.html)
