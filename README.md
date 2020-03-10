@@ -85,5 +85,3 @@ Data quality problem categories:
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 
 ## > [Service Model - SaaS](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
-
-## **[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)**
