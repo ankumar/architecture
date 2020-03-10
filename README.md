@@ -3,7 +3,7 @@
 ## **APIs, Analytics, Artificial Intelligence, Machine Learning, Cost, Edge Computing, Self-service & (critically) a Platform Team with a matrix mindset.** 
 ## Hyperscale:
 ### > Delivery & Operations, Model "As a Service"
-### > Value of Data & Quality, Business models around data
+### > Data & Quality, Business models around data
 ### > Delivery & Performance, [DevOps](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ### > New ways of thinking about solving actual problem, [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896)
 
