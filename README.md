@@ -1,6 +1,6 @@
 # Hyperscale
 
-## **[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)**
+## **[> DevOps](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)**
 
 # Software Delivery
 
