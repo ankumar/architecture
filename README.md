@@ -19,7 +19,7 @@
 ## 2. **Architecture:** Greenfield & Brownfield, Systems and Data
 ## 3. **Cloud:** **Cost Effective Scheduling, Data Gravity**
 
-## Enterprise Architecture:
+## Enterprise:
 ![](https://github.com/ankumar/Architecture/blob/master/images/Big-O.gif)
 <p> <b> Context Specific - Know Thy Complexities! </b> </p>
 
@@ -35,7 +35,7 @@
 
 ## **3. [>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)**
 
-## Software Architecture:
+## Software:
 **APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
 
 ### > [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896), New ways of thinking about solving actual problem 
