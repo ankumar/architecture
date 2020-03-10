@@ -5,7 +5,6 @@
 ### > [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896), New ways of thinking about solving actual problem 
 ### > [DevOps](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ### > Delivery & Operations, Model "As a Service"
-###  > Hiding Distributed systems complexity, Devs to focus on Business logic
 ###  > Value of Data & Quality, Business models around data
 ###  > Open source best practices, Inner Sourcing
 
