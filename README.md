@@ -1,6 +1,6 @@
 # Hyperscale
 
-## Software Delivery & Operational
+(https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
 
 **APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
 
