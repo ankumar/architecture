@@ -52,6 +52,7 @@ Some important properties of a system derive from its definition.
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
 * **Design**
+   * [The Science of Digital Platforms](https://leadingedgeforum.com/media/1752/3-digital-platforms_b-murray.pdf)
    * [Business value as an architectural attribute](https://martinfowler.com/articles/value-architectural-attribute.html)
    * [Organizational Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
    * [Taking a Lean Thinking perspective](https://doi.org/10.4233/uuid:9a984128-64f2-41f2-83ee-441787362d46)
