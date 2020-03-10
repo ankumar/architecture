@@ -1,6 +1,6 @@
 # Hyperscale
 
-(https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
+![https://services.google.com/fh/files/misc/state-of-devops-2019.pdf](https://github.com/ankumar/Architecture/blob/master/images/State%20of%20DevOps%202019.png)
 
 ## **[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)**
 
