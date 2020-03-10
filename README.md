@@ -1,8 +1,8 @@
 # Hyperscale
 
-## Software Delivery - **APIs, Analytics, Artificial intelligence, Machine learning, Cheaper processing, Edge computing, Self-service & (critically) a Platform Team with a matrix mindset.**
-
+## Digital Platforms - **APIs, Analytics, Artificial intelligence, Machine learning, Cheaper processing, Edge computing, Self-service & (critically) a Platform Team with a matrix mindset.**
 [The Science of Digital Platforms](https://leadingedgeforum.com/media/1752/3-digital-platforms_b-murray.pdf)
+
 ### > New ways of thinking about solving actual problem, [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896)
 ### > Delivery & Operations, Model "As a Service"
 ###  > Value of Data & Quality, Business models around data
