@@ -4,7 +4,7 @@
 ## Hyperscale:
 ### > Delivery & Operations, Model "As a Service"
 ### > Value of Data & Quality, Business models around data
-### > Software Delivery & Performance, [DevOps](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+### > Delivery & Performance, [DevOps](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ### > New ways of thinking about solving actual problem, [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896)
 
 ## 1. Services
