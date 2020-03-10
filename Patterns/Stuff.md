@@ -4,6 +4,34 @@
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
 ## 3. ENGAGE OTHERS TO DO THE SAME - Collective highly targeted unit, Shared View
 
+[![Systems Thinking](https://github.com/ankumar/Architecture/blob/master/images/Russell%20Ackoff.png)](https://www.youtube.com/watch?v=OqEeIG8aPPk "Dr. Russell Ackoff")
+## <p align="center"><b>"If we have a system of improvement that’s directed at improving the parts taken separately, you can be absolutely sure that the performance of the whole will not be improved. The performance of a system depends on how the parts fit, not how they act taken separately.” <b>- Dr. Russell Ackoff.</b></p>
+
+![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
+
+"Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella
+
+"One of the biggest tragedies in modern organisation design is the separation of tech and business. A big part of the role of technical leader and architect is to break down these barriers" - Martin Fowler, O’Reilly Software Arhitecture Conference
+
+"Changing technology is (comparatively) easy compared to changing culture" / "Culture needs to change as our tech approaches change, but we’ve got to be patient, empathetic and realistic "
+## 1. **Legacy:** "it makes actual money"
+## 2. **Architecture:** Greenfield & Brownfield, Systems and Data
+## 3. **Cloud:** **Cost Effective Scheduling, Data Gravity**
+
+## Enterprise:
+![](https://github.com/ankumar/Architecture/blob/master/images/Big-O.gif)
+<p> <b> Context Specific - Know Thy Complexities! </b> </p>
+
+#### <p align="center"> <b> "enterprises buy everything. If you're big enough and you have a big enough IT budget, most enterprises have a POC of everything that's for sale, period. There's some team in some pocket, maybe they came through via acquisition. Maybe they live in a different state. Maybe it's just a new project that came out. And what you tend to see, at least from my experiences, if I walk into a typical enterprise, they may tell me something like, "Hey, we have a POC, a Pivotal Cloud Foundry, OpenShift, and we want some of that new thing that we just saw from you guys. How do we get a POC going?" </b> </p> [- Kelsey Hightower, principal developer advocate at Google](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/the-staying-power-of-kubernetes-with-kelsey-hightower/)
+## **1. Technology needs to be embedded in the Business not external to it or merely aligned with it**
+         - Work backwards from Customer/Business outcomes
+         - Build closed loop systems to optimize for continual Improvements & Learning
+         - Technology Commoditization
+## **2. Focus on core value vs plumbing:**
+         - Business mapped into technologies that underpin the delivery of that core value 
+         - Seeing Custom & Commodity technologies in the value chain
+         - Custom to Commodity & Viceversa to increase the value delivery for lower cost
+        
 # System:
 **1. A system is a whole that is defined by its function(s) in one or more containing systems.** <br>
 **2. Every system contains at least two essential parts and these must satisfy three conditions.**
