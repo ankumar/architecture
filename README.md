@@ -1,6 +1,6 @@
 # Hyperscale
 
-## Software Delivery - **APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
+## Software Delivery - **APIs, Analytics, Artificial intelligence, Machine learning, Cheaper processing, Edge computing, Self-service & (critically) a Platform Team with a matrix mindset.**
 
 ### > [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896), New ways of thinking about solving actual problem 
 ### > Delivery & Operations, Model "As a Service"
