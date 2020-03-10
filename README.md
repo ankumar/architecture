@@ -2,6 +2,8 @@
 
 (https://services.google.com/fh/files/misc/state-of-devops-2019.pdf)
 
+## **[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)**
+
 # Software Delivery
 
 **APIs, analytics, artificial intelligence, machine learning, cheaper processing, edge computing, self-service and (critically) a platform team with a matrix mindset.**
