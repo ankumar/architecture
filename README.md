@@ -1,7 +1,6 @@
 # Digital Platforms
 
-## Platform is a perspective, serving our customers
-## **APIs, Analytics, Artificial Intelligence, Machine Learning, Cost, Edge Computing, Self-service & (critically) a Platform Team with a matrix mindset.** 
+## Platform is a perspective, serving our customers - **APIs, Analytics, Artificial Intelligence, Machine Learning, Cost, Edge Computing, Self-service & (critically) a Platform Team with a matrix mindset.** 
 ## Hyperscale:
 ### > Development & Operations, Model "As a Service"
 ### > Data & Quality, Business models around data
