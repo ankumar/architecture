@@ -1,6 +1,7 @@
 # Digital Platforms
 
-## Platform is a perspective, serving our customers, Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, Cost, Edge Computing, Self-service & (critically) a Platform Team with a matrix mindset.** 
+## Platform is a perspective, serving our customers
+## Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, Cost, Edge Computing, Self-service & (critically) a Platform Team with a matrix mindset.** 
 ### > Development & Operations, Model "As a Service"
 ### > Data & Quality, Business models around data
 ### > Development, [Code](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
