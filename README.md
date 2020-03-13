@@ -8,15 +8,15 @@
 ### > New ways of thinking about solving actual problem, [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896)
 
 ## 1. Services
+- "APIs are forever, code is not..." - Mike Amundsen
+ - Services, Stateless & Stateful
+ - State, Purpose-built Databases
+ 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Connecting In & Across Regions  - Google: 100,000+ services</b></p>
  
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">A visualisation of network of microservices, Strong DevOps & Observability / A Modern Bank, Monzo: 1,500+ services </a> </p>
-
- - "APIs are forever, code is not..." - Mike Amundsen
- - Services, Stateless & Stateful
- - State, Purpose-built Databases
  
 ## > Devs to focus on Business logic, Hiding Distributed systems complexity
 **There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
