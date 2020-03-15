@@ -58,7 +58,7 @@ Data quality problem categories:
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 ### <p align="center"> "Allergies - *it's not a race it's a marathon ... it's not a race if we're all on the same team*" </p>
 
-## > Inner Sourcing
+## > InnerSource
 ### >> [GitHub Whitepaper](https://resources.github.com/whitepapers/introduction-to-innersource/)
 ### >> [Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
 ### >> [Spotify Guilds – Cultivating Knowledge Sharing in Large-scale Agile Organizations](https://cacm.acm.org/magazines/2020/3/243029-spotify-guilds/abstract)
