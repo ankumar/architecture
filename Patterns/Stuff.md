@@ -170,6 +170,7 @@ What is the problem with data today?
 * [RCA - If everyone is responsible for success, why not failure? Root cause analysis exists to find blame](https://www.verica.io/inhumanity-of-root-cause-analysis/)
 * [Incidents](https://www.adaptivecapacitylabs.com/blog/)
 * [Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
+* [Study of complex systems](https://www.complexityexplorer.org/)
 
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
 ## 1. SYSTEMS THINKING - Large Scale Macro Environment, Technology/Processes/People
