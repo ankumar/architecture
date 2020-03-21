@@ -5,7 +5,7 @@
 ### > Development & Operations, Model "As a Service"
 ### > Data & Quality, Business models around data
 ### > Development, [Code](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
-### > New ways of thinking about solving actual problem, [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896) / [Everybody](https://twitter.com/conways_law/status/1238539198203822081)
+### > New ways of thinking about solving actual problem, [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896) / [Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 ## 1. Services
 - "APIs are forever, code is not..." - Mike Amundsen
