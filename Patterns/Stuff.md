@@ -145,8 +145,7 @@ What is the problem with data today?
 
 # Cloud Computing:
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
-## In the future the majority of managed infrastructure offerings will be backed by open interfaces, but not necessarily open source projects.
-* [An Application Development/Execution Platform for the Rest of Us](https://twitter.com/conways_law/status/1238539198203822081)
+## In the future the majority of managed infrastructure offerings will be backed by open interfaces, but not necessarily open source projects. * [An Application Development/Execution Platform for the Rest of Us](https://twitter.com/conways_law/status/1238539198203822081)
 
 * [SCREAMING IN THE CLOUD](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
 * [A Brief History](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_1000)
