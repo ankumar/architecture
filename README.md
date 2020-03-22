@@ -1,13 +1,13 @@
 # Digital Platforms
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
-> New ways of thinking about solving actual problem, [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896) / [Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
+> New ways of thinking about solving actual business problem, [Nocode](https://twitter.com/kelseyhightower/status/961026365146320896) / [Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 ## 1. Platform is a perspective, serving our customers
 ## 2. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
 ### > Data & Quality, Business models around data
 ### > Development & Operations, Model "As a Service"
-### > Development, [Code](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+### > Development, [Complexity](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## 1. Services
 - "APIs are forever, code is not..." - Mike Amundsen
