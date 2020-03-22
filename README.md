@@ -7,7 +7,7 @@
 ## 2. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
 ### > Data & Quality, Business models around data
 ### > Development & Operations, Model "As a Service"
-### > Development, [Complexity](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+### > Development, [Dealing with the Complexity](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## 1. Services
 - "APIs are forever, code is not..." - Mike Amundsen
