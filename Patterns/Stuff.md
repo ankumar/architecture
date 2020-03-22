@@ -145,6 +145,8 @@ What is the problem with data today?
 
 # Cloud Computing:
 ## In the future the majority of managed infrastructure offerings will be backed by open interfaces, but not necessarily open source projects.
+## On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.”
+- https://www.youtube.com/watch?v=ZVRI214nnto
 
 * [SCREAMING IN THE CLOUD](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
 * [A Brief History](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_1000)
