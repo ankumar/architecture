@@ -1,7 +1,7 @@
 # Digital Platforms
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
-> New ways of thinking about solving actual business problem
+> New ways of thinking about solving business problem
 
 [1. Nocode - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896) / 
 [2. Dark - Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2) / 
