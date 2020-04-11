@@ -33,7 +33,7 @@
 **Examples:**
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
 
-## 2. Data
+## 2. Data & Quality
  - Data Catalog
  - Data Warehouse
  - Data Lake
