@@ -2,9 +2,10 @@
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
 > New ways of thinking about solving actual business problem
-[Nocode - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
-[Dark - Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
-[Mel Conway - An Application Development, Execution Platform for the Rest of Us](https://twitter.com/conways_law/status/1238539198203822081)
+
+[1. Nocode - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896) / 
+[2. Dark - Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2) / 
+[3. Mel Conway - An Application Development, Execution Platform for the Rest of Us](https://twitter.com/conways_law/status/1238539198203822081)
 
 ## 1. Platform is a perspective, Serving our customers
 ## 2. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
