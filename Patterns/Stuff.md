@@ -1,6 +1,6 @@
 # The list here is not meant to be comprehensive, hopefully macro environments ...
 
-# Developer:
+# Developer Experience:
 **"Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed."** <br>
 Good perspective! When done well, Platforms drive: <br>
 1. Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
