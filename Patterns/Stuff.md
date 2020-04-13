@@ -99,7 +99,7 @@ What is the problem with data today?
 ![https://www.datacouncil.ai/](https://github.com/ankumar/Architecture/blob/master/images/Data%20Council.png)
 <p align="center"> <a href="https://www.datacouncil.ai/"> <b> Data Council </b> </p>
  
-## Science
+## Data Science
 * Data quality
   * [Data Validation for ML](https://mlsys.org/Conferences/2019/doc/2019/167.pdf)
 * Architecture
@@ -191,13 +191,13 @@ What is the problem with data today?
 * [Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
 * [Study of complex systems](https://www.complexityexplorer.org/)
 
-# Leadership:
+# Design & Architecture:
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
 ## 1. SYSTEMS THINKING - Large Scale Macro Environment, Technology/Processes/People
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
 ## 3. ENGAGE OTHERS TO DO THE SAME - Collective highly targeted unit, Shared View
   
-## Enterprise Architecture:
+## Enterprise:
 ## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture"
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 
@@ -230,7 +230,6 @@ Some important properties of a system derive from its definition.
 ## 2. **Architecture:** Greenfield & Brownfield, Systems and Data
 ## 3. **Cloud:** **Cost Effective Scheduling, Data Gravity**
 
-## Enterprise:
 ![](https://github.com/ankumar/Architecture/blob/master/images/Big-O.gif)
 <p> <b> Context Specific - Know Thy Complexities! </b> </p>
 
