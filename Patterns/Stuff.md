@@ -31,7 +31,7 @@ Good perspective! When done well, Platforms drive: <br>
 ## - Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 ## - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
-## <p align="center"> "Allergies - *it's not a race it's a marathon ... it's not a race if we're all on the same team*" </p>
+## <p align="center"> "*it's not a race it's a marathon ... it's not a race if we're all on the same team*" </p>
 
 ## > InnerSource - Open source best practices within organization
 ## >> [GitHub Whitepaper](https://resources.github.com/whitepapers/introduction-to-innersource/)
