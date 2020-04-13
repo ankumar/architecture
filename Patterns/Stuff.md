@@ -197,7 +197,6 @@ What is the problem with data today?
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
 ## 3. ENGAGE OTHERS TO DO THE SAME - Collective highly targeted unit, Shared View
   
-## Enterprise:
 ## Architecture is about **Systems Thinking** including People, Process and Technology; synthesis of multiple perspectives, including social dynamics, domain-driven design, business models, and software architecture. It's not about code, and it's not a synonym for "software architecture"
 ![http://www.melconway.com/Home/Conways_Law.html](https://github.com/ankumar/Architecture/blob/master/images/Conways%20Law.png)
 
@@ -221,6 +220,7 @@ Some important properties of a system derive from its definition.
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/wardley.jpeg)
 
+## Enterprise:
 "Anything is possible for a company when its culture is about listening, learning, and harnessing individual passions and talents to the company’s mission." - Satya Nadella
 
 "One of the biggest tragedies in modern organisation design is the separation of tech and business. A big part of the role of technical leader and architect is to break down these barriers" - Martin Fowler, O’Reilly Software Arhitecture Conference
