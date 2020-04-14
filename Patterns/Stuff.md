@@ -58,6 +58,7 @@ Designing Modularity & Interfaces, Decomposing an Application into Services & AP
 * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
 * [The Architect Elevator](https://architectelevator.com/)
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [AWS Well-Architected Labs](https://wellarchitectedlabs.com)
 * [Amazon Builders Library](https://aws.amazon.com/builders-library/)
 * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
 * [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
