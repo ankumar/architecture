@@ -1,4 +1,4 @@
-# Digital Platforms
+# Platforms & Applications
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
 > New ways of thinking about solving business problem
