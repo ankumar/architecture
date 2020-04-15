@@ -24,6 +24,7 @@ Good perspective! When done well, Platforms drive: <br>
 * [Cloud Run](https://cloud.google.com/run/)
 * [OSS Visual Studio Code](https://github.com/microsoft/vscode)
   * [Facebook moving from lots of internally developed tools](https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development/) 
+* [data catalog and visualization](https://datarow.com/)
 * [Wicked Problem](https://leadingedgeforum.com/research/are-platform-organizations-a-wicked-problem/)
   * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
 
