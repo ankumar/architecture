@@ -14,7 +14,7 @@
 ### > Modeling Services - DevOps & Ops
 ### > Business Models - Data & Quality
 ### >> Software [Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
-## 3. KPI - Single Metric, Measure Time To Value Everywhere.
+## 3. Measurements - Single Metric, Measure Time To Value Everywhere.
 
 ## 1. Services
 - "APIs are forever, code is not..." - Mike Amundsen
