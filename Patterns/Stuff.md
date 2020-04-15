@@ -1,5 +1,9 @@
 # The list here is not meant to be comprehensive, hopefully macro environments ...
 
+# Software Engineering:
+
+* [Software Art Thou: Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?time_continue=177&v=RhdlBHHimeM)
+
 # Developer Experience:
 **"Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed."** <br>
 Good perspective! When done well, Platforms drive: <br>
