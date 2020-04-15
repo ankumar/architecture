@@ -8,10 +8,13 @@
 [3. Mel Conway - An Application Development, Execution Platform for the Rest of Us](https://twitter.com/conways_law/status/1238539198203822081)
 
 ## 1. Platform is a perspective, Serving our customers
+### "Platform” with a standardized interface allowing decentralized development.
+### Programs built with it are “continually valid and observable from the very beginning of its construction”.
 ## 2. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
 ### > Modeling Services - DevOps & Ops
 ### > Business Models - Data & Quality
 ### >> Software [Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+## 3. KPI - Single Metric, Measure Time To Value Everywhere.
 
 ## 1. Services
 - "APIs are forever, code is not..." - Mike Amundsen
