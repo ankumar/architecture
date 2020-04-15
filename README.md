@@ -9,7 +9,7 @@
 
 ## 1. Platform is a perspective, Serving our customers
 ## 2. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
-### > DevOps & Ops, Modeling "As a Service" 
+### > DevOps & Ops, Modeling Services 
 ### > Data & Quality, Business Models
 ### >> Software [Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
