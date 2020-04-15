@@ -251,6 +251,8 @@ Some important properties of a system derive from its definition.
          - Custom to Commodity & Viceversa to increase the value delivery for lower cost
 
 * **Design**
+   * [The elephant in the architecture](https://www.oreilly.com/radar/the-elephant-in-the-architecture/)
+   “One of the biggest tragedies, I feel, in much of the software world, is how we divorce ourselves, and organizations create barriers between the business side, and the technical side, and it's important for an architect, as a technical leader, to go out, and try and break down those barriers …”
    * [The Science of Digital Platforms](https://leadingedgeforum.com/media/1752/3-digital-platforms_b-murray.pdf)
    * [Business value as an architectural attribute](https://martinfowler.com/articles/value-architectural-attribute.html)
    * [Organizational Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
