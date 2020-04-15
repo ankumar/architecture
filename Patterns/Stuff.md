@@ -2,6 +2,7 @@
 
 # Software Engineering:
 
+* [Margaret Hamilton](https://www.youtube.com/watch?v=ZbVOF0Uk5lU)
 * [Software Art Thou: Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?time_continue=177&v=RhdlBHHimeM)
 
 # Developer Experience:
