@@ -31,11 +31,11 @@ Good perspective! When done well, Platforms drive: <br>
 # Open Source:
  - “if you want to go fast go alone, but if you want to go far, go together”. "Feels like it's time to really focus on accelerating the abundance of open source, collaborating to make the pie bigger for all. Abundance, not scarcity. I'm so, so happy to see Elastic doing well, and love this community where we can build together, even when we compete"
  - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>- Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
-## <p> <b>- Cloud would not have been possible without open source</b> </p>
-## - Developers - Over 1.3 million first time contributors joined the open source community
-## - How much has cloud hurt Elastic? "We haven't seen Open Distro really make any change or difference for us". Lots of good, incl AWS/others contributing to Elasticsearch/Lucene & seemingly no bad. Turns out cloud/open source are force multipliers. -  Shay Banon (CEO)
-## - Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
-## - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
+ <p> <b>- Cloud would not have been possible without open source</b> </p>
+ - Developers - Over 1.3 million first time contributors joined the open source community
+ - How much has cloud hurt Elastic? "We haven't seen Open Distro really make any change or difference for us". Lots of good, incl AWS/others contributing to Elasticsearch/Lucene & seemingly no bad. Turns out cloud/open source are force multipliers. -  Shay Banon (CEO)
+ - Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
+ - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 ## <p align="center"> "*it's not a race it's a marathon ... it's not a race if we're all on the same team*" </p>
 
@@ -191,7 +191,7 @@ What is the problem with data today?
 [![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
 <p align="center"><b>Above & Below The Line - "A Model, Broad, proactive learning keeps pace with change, continually recharging the sources of adaptive capacity that lead to resilient performance.”</b></p>
 
-SLI/SLO:
+SLI/SLO/SLA:
 * [Observability](https://www.honeycomb.io/)
 
 Learning From Incident Analysis:
@@ -202,6 +202,7 @@ Learning From Incident Analysis:
 * [Study of complex systems](https://www.complexityexplorer.org/)
 
 Chaos Engineering:
+* </>
 
 # Design & Architecture:
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
