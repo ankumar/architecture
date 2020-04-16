@@ -37,12 +37,12 @@ Good perspective! When done well, Platforms drive: <br>
  - Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
  - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
-## <p align="center"> "*it's not a race it's a marathon ... it's not a race if we're all on the same team*" </p>
+<p align="center"> "*it's not a race it's a marathon ... it's not a race if we're all on the same team*" </p>
 
-## > InnerSource - Open source best practices within organization
-## >> [GitHub Whitepaper](https://resources.github.com/whitepapers/introduction-to-innersource/)
-## >> [Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
-## >> [Spotify Guilds – Cultivating Knowledge Sharing in Large-scale Agile Organizations](https://cacm.acm.org/magazines/2020/3/243029-spotify-guilds/abstract)
+> InnerSource - Open source best practices within organization
+ >> [GitHub Whitepaper](https://resources.github.com/whitepapers/introduction-to-innersource/)
+ >> [Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
+ >> [Spotify Guilds – Cultivating Knowledge Sharing in Large-scale Agile Organizations](https://cacm.acm.org/magazines/2020/3/243029-spotify-guilds/abstract)
 
  “Guilds or Communities of practice (CoPs) are not a new phenomenon. Communities existed in the cave times, when people gathered around a fire to discuss strategies for cornering prey. Communities are cultivated for their potential to influence the knowledge culture and bring value on the individual level (e.g. forum for expanding skills and expertise, strong sense of professional identity), team/project level (e.g. arena for problem solving, quick answers to questions) and company level (e.g. coordination and standardization across units, knowledge-based alliances, increased retention of talent). In large-scale agile organizations, CoPs are recognized for alleviating the inter-team coordination.”
 
