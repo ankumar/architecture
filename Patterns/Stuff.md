@@ -187,16 +187,21 @@ What is the problem with data today?
    * [Commercial Open Source Software](https://coss.media/oss-will-eat-cloud-computing/)
    * [Fork and Commoditize](https://thenewstack.io/fork-and-commoditize-gitlab-ceo-critiques-the-new-open-source-approach-by-amazon-web-services/)
  
-# Operational:
+# Ops:
 [![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
 <p align="center"><b>Above & Below The Line - "A Model, Broad, proactive learning keeps pace with change, continually recharging the sources of adaptive capacity that lead to resilient performance.”</b></p>
 
-* [Beyond the "Fix-it" Treadmill](https://queue.acm.org/detail.cfm?id=3380780)
+SLI/SLO:
 * [Observability](https://www.honeycomb.io/)
+
+Learning From Incident Analysis:
+* [Beyond the "Fix-it" Treadmill](https://queue.acm.org/detail.cfm?id=3380780)
 * [RCA - If everyone is responsible for success, why not failure? Root cause analysis exists to find blame](https://www.verica.io/inhumanity-of-root-cause-analysis/)
 * [Incidents](https://www.adaptivecapacitylabs.com/blog/)
 * [Human Performance in Software](https://queue.acm.org/detail.cfm?id=3380776)
 * [Study of complex systems](https://www.complexityexplorer.org/)
+
+Chaos Engineering:
 
 # Design & Architecture:
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
