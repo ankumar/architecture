@@ -29,12 +29,13 @@ Good perspective! When done well, Platforms drive: <br>
   * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
 
 # Open Source:
+ <p> <b>- Cloud would not have been possible without open source</b> </p>
  - “if you want to go fast go alone, but if you want to go far, go together”. "Feels like it's time to really focus on accelerating the abundance of open source, collaborating to make the pie bigger for all. Abundance, not scarcity. I'm so, so happy to see Elastic doing well, and love this community where we can build together, even when we compete"
  - " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading. ” <p align="right"><b>- Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
- <p> <b>- Cloud would not have been possible without open source</b> </p>
- - Developers - Over 1.3 million first time contributors joined the open source community
+ - Over 1.3 million first time contributors joined the open source community
+ - Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
+ - Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
  
-
 * InnerSource - Open source best practices within organization
   * [GitHub Whitepaper](https://resources.github.com/whitepapers/introduction-to-innersource/)
   * [Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
