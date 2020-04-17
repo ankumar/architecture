@@ -39,6 +39,7 @@ Good perspective! When done well, Platforms drive: <br>
   * [GitHub Whitepaper](https://resources.github.com/whitepapers/introduction-to-innersource/)
   * [Open source best practices within organization](https://github.com/InnerSourceCommons/InnerSourcePatterns)
   * [Spotify Guilds – Cultivating Knowledge Sharing in Large-scale Agile Organizations](https://cacm.acm.org/magazines/2020/3/243029-spotify-guilds/abstract)
+
 “Guilds or Communities of practice (CoPs) are not a new phenomenon. Communities existed in the cave times, when people gathered around a fire to discuss strategies for cornering prey. Communities are cultivated for their potential to influence the knowledge culture and bring value on the individual level (e.g. forum for expanding skills and expertise, strong sense of professional identity), team/project level (e.g. arena for problem solving, quick answers to questions) and company level (e.g. coordination and standardization across units, knowledge-based alliances, increased retention of talent). In large-scale agile organizations, CoPs are recognized for alleviating the inter-team coordination.”
 
 # Services:
