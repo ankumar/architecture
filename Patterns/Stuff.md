@@ -35,6 +35,7 @@ Good perspective! When done well, Platforms drive: <br>
 * Over 1.3 million first time contributors joined the open source community
 * Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 * Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
+* How much has cloud hurt Elastic? "We haven't seen Open Distro really make any change or difference for us". Lots of good, incl AWS/others contributing to Elasticsearch/Lucene & seemingly no bad. Turns out cloud/open source are force multipliers. -  Shay Banon (CEO)
 
 * InnerSource - Open source best practices within organization
   * [GitHub Whitepaper](https://resources.github.com/whitepapers/introduction-to-innersource/)
