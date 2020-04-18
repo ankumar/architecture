@@ -15,7 +15,8 @@
 ### > DevOps & Ops - Modeling Services
 ### > Data & Quality - Modeling Business
 ### 4. Learning
-### >> [Amazon's CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+### > [Amazon's CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+### > [Pstterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## 1. Modeling Services
 - "APIs are forever, code is not..." - Mike Amundsen
@@ -69,5 +70,3 @@ Data Quality problem categories:
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"> </p>
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
-
-### >> [Software Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
