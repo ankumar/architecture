@@ -12,7 +12,7 @@
 ### Programs built with it are “continually valid and observable from the very beginning of its construction”.
 ## 2. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
 ### > Modeling Services - DevOps & Ops
-### > Business Models - Data & Quality
+### > Modeling Business - Data & Quality
 ### >> Software [Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ## 3. Measurements - Single Metric, Measure Time To Value Everywhere.
 
