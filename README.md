@@ -12,7 +12,7 @@
 ### > DevOps & Ops - Modeling Services
 ### > Data & Quality - Modeling Business
 ### 4. Learning
-### > [Amazon's Technology & Business w/ CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+### > [Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 ### > [Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## 1. Modeling Services
