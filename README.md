@@ -11,8 +11,8 @@
 ### "Platform” with a standardized interface allowing decentralized development.
 ### Programs built with it are “continually valid and observable from the very beginning of its construction”.
 ## 2. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
-### > Modeling Services - DevOps & Ops
-### > Modeling Business - Data & Quality
+### > DevOps & Ops - Modeling Services
+### > Data & Quality - Modeling Business
 ### >> Software [Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ## 3. Measurements - Single Metric, Measure Time To Value Everywhere.
 
