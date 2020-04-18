@@ -16,7 +16,7 @@
 ### > Data & Quality - Modeling Business
 ### 4. Learning
 ### > [Amazon's CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
-### > [Pstterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+### > [Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## 1. Modeling Services
 - "APIs are forever, code is not..." - Mike Amundsen
