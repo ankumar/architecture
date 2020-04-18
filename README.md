@@ -16,7 +16,7 @@
 ### >> Software [Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 ## 3. Measurements - Single Metric, Measure Time To Value Everywhere.
 
-## 1. Services
+## 1. Modeling Services
 - "APIs are forever, code is not..." - Mike Amundsen
  - Services, Stateless & Stateful
  - State, Purpose-built Databases
@@ -36,7 +36,7 @@
 **Examples:**
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
 
-## 2. Data & Quality
+## 2. Modeling Business
  - Data Catalog
  - Data Warehouse
  - Data Lake
