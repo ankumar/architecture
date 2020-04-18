@@ -7,14 +7,15 @@
 [2. Holistic approach - Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2) / 
 [3. An Application Development, Execution Platform for the Rest of Us - Mel Conway](https://twitter.com/conways_law/status/1238539198203822081)
 
-## 1. Platform is a perspective, Serving our customers
+## 1. Measurements - Single Metric, Measure Time To Value Everywhere.
+## 2. Platform is a perspective, Serving our customers
 ### "Platform” with a standardized interface allowing decentralized development.
 ### Programs built with it are “continually valid and observable from the very beginning of its construction”.
-## 2. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
+## 3. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
 ### > DevOps & Ops - Modeling Services
 ### > Data & Quality - Modeling Business
-### >> Software [Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
-## 3. Measurements - Single Metric, Measure Time To Value Everywhere.
+### 4. Learning
+### >> [Amazon's CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
 ## 1. Modeling Services
 - "APIs are forever, code is not..." - Mike Amundsen
@@ -69,3 +70,4 @@ Data Quality problem categories:
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
 
+### >> [Software Development](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
