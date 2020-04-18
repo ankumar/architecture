@@ -290,7 +290,7 @@ Some important properties of a system derive from its definition.
 # Anti-patterns:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
 
-# Terminology
+# Terminology:
 * Cloud Native - Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
 * Inner Source - Global & Local, Open source best practices within organization
 * Cell-Based Architecture - System Availability & Minimize the "blast radius" of any failures
