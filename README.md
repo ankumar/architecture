@@ -16,17 +16,6 @@
 ### > [Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 ## 1. Modeling Services
-- "APIs are forever, code is not..." - Mike Amundsen
- - Services, Stateless & Stateful
- - State, Purpose-built Databases
-    * IN-MEMORY - Memcached, Redis, ...
-    * RELATIONAL - Oracle, SQL Server, PostgresSQL, MySQL, MariaDB, ...
-    * KEY VALUE - Cassandra, CosmosDB, ...
-    * WIDE COLUMN - Cassandra, CosmosDB, ...
-    * DOCUMENT - MongoDB, CosmosDB, ...
-    * TIME-SERIES
-    * LEDGER
- 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Google: 100,000+ services - Networking In & Across Regions </b></p>
  
@@ -35,6 +24,16 @@
  
 ## > Devs to focus on Business logic, Hiding Distributed systems complexity
 **There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
+- "APIs are forever, code is not..." - Mike Amundsen
+- Services, Stateless & Stateful
+- State, Purpose-built Databases
+    * IN-MEMORY - Memcached, Redis, ...
+    * RELATIONAL - Oracle, SQL Server, PostgresSQL, MySQL, MariaDB, ...
+    * KEY VALUE - Cassandra, CosmosDB, ...
+    * WIDE COLUMN - Cassandra, CosmosDB, ...
+    * DOCUMENT - MongoDB, CosmosDB, ...
+    * TIME-SERIES
+    * LEDGER
 * Preparing for a future Microservices journey using DDD & Wardley Maps
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
