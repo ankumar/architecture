@@ -263,6 +263,8 @@ Some important properties of a system derive from its definition.
    * [Business value as an architectural attribute](https://martinfowler.com/articles/value-architectural-attribute.html)
    * [Organizational Culture](https://cloud.google.com/solutions/devops/devops-culture-westrum-organizational-culture)
    * [Taking a Lean Thinking perspective](https://doi.org/10.4233/uuid:9a984128-64f2-41f2-83ee-441787362d46)
+   * [Resources for Software and Systems Architects](http://www.bredemeyer.com/)
+   * [The Architect Elevator](https://architectelevator.com/)
    
 * **Cell Based Architecture**
   * [How AWS Minimizes the Blast Radius of Failures - Cell based architecture starts at 21:07](https://www.youtube.com/watch?v=swQbA4zub20)
