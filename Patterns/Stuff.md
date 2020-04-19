@@ -65,16 +65,11 @@ There are many useful heuristics for defining the boundaries of a service
 **4. Organized around business capabilities** <br>
 **5. Owned by a small team**<br>
 
-* [Microservices](https://microservices.io/patterns/index.html)
 * [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623)
 * [Assembling Software from Independent Systems](https://scs-architecture.org/)
 * [The Twelve Factors](https://12factor.net/)
 * [Martin Fowler](https://martinfowler.com/)
 * [Untangling Microservices, or Balancing Complexity in Distributed Systems](https://vladikk.com/2020/04/09/untangling-microservices/)
-* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
-* [AWS Well-Architected Labs](https://wellarchitectedlabs.com)
-* [Amazon Builders Library](https://aws.amazon.com/builders-library/)
-* [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
 * [Historical Context & Shifts](https://slidr.io/kameshsampath/sail-smoothly-in-the-cloud-an-introduction-to-istio#1)
 * [Modular Monoliths](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 * [Service Mesh](https://www.datawire.io/envoyproxy/service-mesh/)
@@ -191,10 +186,14 @@ What is the problem with data today?
 * [Cassandra Cloud](https://constellation.datastax.com/)
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
+* [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * The Amazon Effect
    * [Open Source at AWS](https://aws.amazon.com/opensource)
    * [Commercial Open Source Software](https://coss.media/oss-will-eat-cloud-computing/)
    * [Fork and Commoditize](https://thenewstack.io/fork-and-commoditize-gitlab-ceo-critiques-the-new-open-source-approach-by-amazon-web-services/)
+   * [AWS Well-Architected Labs](https://wellarchitectedlabs.com)
+   * [Amazon Builders Library](https://aws.amazon.com/builders-library/)
+   * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
  
 # Ops:
 [![](https://github.com/ankumar/Architecture/blob/master/images/Above%20The%20Line.png)](https://www.youtube.com/embed/8bxj-FLEi10 "")
