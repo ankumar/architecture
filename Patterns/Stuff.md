@@ -293,11 +293,6 @@ Some important properties of a system derive from its definition.
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps.jpeg) ![](https://github.com/ankumar/Architecture/blob/master/images/Kotter%208%20Steps2.jpeg)
 
-# Academic:
-## Stanford - Matei Zaharia
- * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
- * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
-
 # Anti-patterns:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
 
@@ -310,3 +305,8 @@ Some important properties of a system derive from its definition.
 * [Control vs Data plane](http://www.cs.cmu.edu/~4D/papers/greenberg-ccr05.pdf) - </>
 * [Lean Enterprise](https://learning.oreilly.com/library/view/lean-enterprise/9781491946527/) - Single Metric, Measure Time to Value everywhere
 * [Conway's Law](http://www.melconway.com/Home/Conways_Law.html) - How to Organize Organization for Optimal Development / "Shipping the Org Chart",  Pay the cost later in internal tools & stitching data together
+
+# Academic:
+## Stanford - Matei Zaharia
+ * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
+ * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
