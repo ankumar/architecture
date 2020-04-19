@@ -25,7 +25,6 @@ Good perspective! When done well, Platforms drive: <br>
 * [Cloud Run](https://cloud.google.com/run/)
 * [OSS Visual Studio Code](https://github.com/microsoft/vscode)
   * [Facebook moving from lots of internally developed tools](https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development/) 
-* [data catalog and visualization](https://datarow.com/)
 * [Wicked Problem](https://leadingedgeforum.com/research/are-platform-organizations-a-wicked-problem/)
   * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
 
@@ -37,7 +36,6 @@ Good perspective! When done well, Platforms drive: <br>
 * Community & Company Driven [Projects](https://www.linuxfoundation.org/projects/)
 * Open [Governance](https://github.com/cncf/toc/), Stewardship & [Principles](https://github.com/cncf/toc/blob/master/PRINCIPLES.md#toc-operating-principles)
 * How much has cloud hurt Elastic? "We haven't seen Open Distro really make any change or difference for us". Lots of good, incl AWS/others contributing to Elasticsearch/Lucene & seemingly no bad. Turns out cloud/open source are force multipliers. -  Shay Banon (CEO)
-
 
 [![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"> "*it's not a race it's a marathon ... it's not a race if we're all on the same team*" </p>
@@ -124,6 +122,7 @@ What is the problem with data today?
   * [ML development is harder than traditional software development;Production ML is Even Harder](https://www.slideshare.net/matei/scaling-up-machine-learning-development)
   * [Organize, Manage, and Deploy your company’s ML model portfolio](https://algorithmia.com/enterprise)
   * [GitHub Source Code Management for Algorithms](https://algorithmia.com/blog/introducing-github-source-code-management-for-algorithmia)
+  * [Data catalog & Visualization](https://datarow.com/)
   
 * Publications
   * [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
@@ -142,7 +141,7 @@ What is the problem with data today?
   * [Pravega](http://www.pravega.io/)
   * [Scalog](https://www.usenix.org/conference/nsdi20/presentation/ding)
 * [Kafka](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
-  * API Compatible
+  * API Compatible:
     * [Event Hubs](https://azure.microsoft.com/en-us/services/event-hubs/)
     * [Redpanda](https://vectorized.io/)
 
