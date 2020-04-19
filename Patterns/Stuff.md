@@ -48,6 +48,8 @@ Good perspective! When done well, Platforms drive: <br>
   * [Spotify Guilds – Cultivating Knowledge Sharing in Large-scale Agile Organizations](https://cacm.acm.org/magazines/2020/3/243029-spotify-guilds/abstract)   “Guilds or Communities of practice (CoPs) are not a new phenomenon. Communities existed in the cave times, when people gathered around a fire to discuss strategies for cornering prey. Communities are cultivated for their potential to influence the knowledge culture and bring value on the individual level (e.g. forum for expanding skills and expertise, strong sense of professional identity), team/project level (e.g. arena for problem solving, quick answers to questions) and company level (e.g. coordination and standardization across units, knowledge-based alliances, increased retention of talent). In large-scale agile organizations, CoPs are recognized for alleviating the inter-team coordination.”
 
 # Services:
+Designing Modularity & Interfaces, Decomposing an Application into Services & APIs:
+
 Historical Context: [Martin Fowler](https://twitter.com/martinfowler) & [James Lewis](https://twitter.com/boicy) In 2014 described the emerging microservices architectural style, identified 9 common characteristics ( size wasn't on the list, size is one of the least useful ). 
 There are many useful heuristics for defining the boundaries of a service
 * A Service is responsible for a specific business capability
@@ -58,8 +60,6 @@ There are many useful heuristics for defining the boundaries of a service
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
-
-Designing Modularity & Interfaces, Decomposing an Application into Services & APIs:
 **1. Highly maintainable & testable** <br>
 **2. Loosely coupled** <br>
 **3. Independently deployable** <br>
