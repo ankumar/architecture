@@ -56,10 +56,10 @@ There are many useful heuristics for defining the boundaries of a service
 * Size is not a heuristics because it is not measurable
 * Recommend a Service per team, since that's what's needed for Team Autonomy, unless there is a darn good reason for a team to have more
 
-Designing Modularity & Interfaces, Decomposing an Application into Services & APIs
 ![](https://github.com/ankumar/Architecture/blob/master/images/Microservices1.jpg)
 [Microservices](https://www.youtube.com/watch?v=wgdBVIX9ifA) - also known as the [microservice architecture](https://microservices.io/index.html) is an architectural style that structures an application as a collection of services that are
 
+Designing Modularity & Interfaces, Decomposing an Application into Services & APIs:
 **1. Highly maintainable & testable** <br>
 **2. Loosely coupled** <br>
 **3. Independently deployable** <br>
