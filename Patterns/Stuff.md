@@ -4,6 +4,7 @@
 
 * [Margaret Hamilton](https://www.youtube.com/watch?v=ZbVOF0Uk5lU)
 * [Software Art Thou: Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?time_continue=177&v=RhdlBHHimeM)
+* [How Did Software Get So Reliable Without Proof? ](https://www.gwern.net/docs/math/1996-hoare.pdf)
 
 # Developer Experience:
 **"Application developers are successful when their work IS noticed. Platform developers are successful when their work is NOT noticed."** <br>
