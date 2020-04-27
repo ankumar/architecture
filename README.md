@@ -2,8 +2,10 @@
 
 ### > Pattern - People front and center
 [1. An Application Development, Execution Platform for the Rest of Us - Mel Conway](https://twitter.com/conways_law/status/1238539198203822081)
+
 [2. Holistic approach - Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
-[3. Write nothing; Deploy nowhere! - Nocode](https://twitter.com/kelseyhightower/status/961026365146320896) / 
+
+[3. Write nothing; Deploy nowhere! - Nocode](https://twitter.com/kelseyhightower/status/961026365146320896)
 
 ### > [Pattern - Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
