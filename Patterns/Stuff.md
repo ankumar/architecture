@@ -19,6 +19,11 @@
 </>
 
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Services.md)
+
+# Data-Intensive:
+</>
+
+[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Data-Intensive.md)
   
 # Cloud Computing:
 </>
