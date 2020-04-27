@@ -8,7 +8,7 @@
 * [How Did Software Get So Reliable Without Proof? ](https://www.gwern.net/docs/math/1996-hoare.pdf)
 
 # Developer Experience:
-> [""](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
+[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
 
 # Open Source:
 * Cloud would not have been possible without open source
