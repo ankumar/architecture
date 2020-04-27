@@ -8,7 +8,6 @@
 ## 3. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
 ### > DevOps & Ops - Modeling Services
 ### > Data & Quality - Modeling Business
-### 4. Learning
 
 # Software Engineering:
 
