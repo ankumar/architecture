@@ -9,7 +9,7 @@ Good perspective! When done well, Platforms drive: <br>
 -- After the United States, open source use picked up speed in China, India, and Germany this year. Developers in China forked and cloned 48% more projects than last year
 * [2018 Octoverse report](https://octoverse.github.com/2018/)
 -- collaborating more than ever before, with 1.1 billion contributions—and counting, transcending borders and barriers of all varieties to create something unquantifiable: a community of leaders, dreamers, dissenters, tinkerers, and doers building the way forward.
-## "I maintain @github Actions is a shining beacon of developer experience done right." - @QuinnyPig
+## Tooling - "I maintain @github Actions is a shining beacon of developer experience done right." - @QuinnyPig
    * [Workflow (new feature)](https://github.com/features/actions)
      * [Compute: GCE, GKE, CLOUD RUN](https://github.com/GoogleCloudPlatform/github-actions)
    * [Desktop](https://desktop.github.com/)
