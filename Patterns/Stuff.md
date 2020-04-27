@@ -8,9 +8,13 @@
 * [How Did Software Get So Reliable Without Proof? ](https://www.gwern.net/docs/math/1996-hoare.pdf)
 
 # Developer Experience:
+</>
+
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
 
 # Open Source:
+</>
+
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Open%20Source.md)
 
 # Services:
