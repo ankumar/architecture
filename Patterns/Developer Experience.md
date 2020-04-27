@@ -10,12 +10,20 @@ Good perspective! When done well, Platforms drive: <br>
 * [2018 Octoverse report](https://octoverse.github.com/2018/)
 -- collaborating more than ever before, with 1.1 billion contributions—and counting, transcending borders and barriers of all varieties to create something unquantifiable: a community of leaders, dreamers, dissenters, tinkerers, and doers building the way forward.
 ## Tooling - "I maintain @github Actions is a shining beacon of developer experience done right." - @QuinnyPig
+GitHub:
    * [Workflow (new feature)](https://github.com/features/actions)
      * [Compute: GCE, GKE, CLOUD RUN](https://github.com/GoogleCloudPlatform/github-actions)
    * [Desktop](https://desktop.github.com/)
    * [Mobile](https://github.com/mobile)  
+
+GCP:
 * [Cloud Run](https://cloud.google.com/run/)
+
+Azure OSS:
 * [OSS Visual Studio Code](https://github.com/microsoft/vscode)
   * [Facebook moving from lots of internally developed tools](https://developers.facebook.com/blog/post/2019/11/19/facebook-microsoft-partnering-remote-development/) 
+
+Spotify: https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/
+
 * [Wicked Problem](https://leadingedgeforum.com/research/are-platform-organizations-a-wicked-problem/)
   * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
