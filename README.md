@@ -7,9 +7,9 @@
 
 > Programs built with it are “continually valid and observable from the very beginning of its construction”.
 ## 3. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
-> DevOps & Ops - Modeling Services
+> Modeling Services - DevOps & Ops
 
-> Data & Quality - Modeling Business
+> Modeling Business - Data & Quality
 ##
 ### > [Pattern - People front and center](https://twitter.com/conways_law/status/1238539198203822081)
 [1. Holistic approach - Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
