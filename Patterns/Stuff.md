@@ -10,32 +10,32 @@
 
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Design%20%26%20Architecture.md)
 
-# Developer Experience:
+## Developer Experience:
 </>
 
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
 
-# Open Source:
+## Open Source:
 </>
 
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Open%20Source.md)
 
-# Services:
+## Services:
 </>
 
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Services.md)
 
-# Data-Intensive:
+## Data-Intensive:
 </>
 
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Data-Intensive.md)
   
-# Cloud Computing:
+## Cloud Computing:
 </>
 
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Cloud%20Computing.md)
  
-# Ops:
+## Ops:
 </>
 
 [>](https://github.com/ankumar/Architecture/blob/master/Patterns/Ops.md)
