@@ -1,5 +1,3 @@
-# The list here is not meant to be comprehensive, hopefully macro environments ...
-
 # Software Engineering:
 
 * [Margaret Hamilton - Apollo project (1969)](https://www.youtube.com/watch?v=ZbVOF0Uk5lU)
