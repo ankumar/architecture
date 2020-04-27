@@ -68,6 +68,7 @@ Data Quality problem categories:
 - Data manipulation
 - Data quality evaluation 
 
+**Examples:**
 [AI for Full-Self Driving](https://www.youtube.com/watch?v=hx7BXih7zx8)
 
 ## > 2. Software Engineering Practices:
