@@ -56,7 +56,8 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 **Examples:**
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
 
-## 2. Modeling Business
+## 2. Modeling Business 
+["All models are wrong, but some are useful."](https://www.itsonlyamodel.com/)
  - Data Catalog
  - Data Warehouse
  - Data Lake
