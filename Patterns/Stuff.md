@@ -55,10 +55,6 @@
 
 # Academic:
 ## Stanford
-Matei Zaharia:
  * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
- * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
- 
- 
- 
+ * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) 
  * [Knowledge Graphs](https://web.stanford.edu/class/cs520/)
