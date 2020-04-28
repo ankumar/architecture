@@ -57,7 +57,6 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
 
 ## 2. Modeling Business 
-["All models are wrong, but some are useful."](https://www.itsonlyamodel.com/)
 ### Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
 ![](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
@@ -76,6 +75,8 @@ Data Quality problem categories:
 ## > 2. Software Engineering Practices:
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
+
+["All models are wrong, but some are useful."](https://www.itsonlyamodel.com/)
 
 ## 3. Cloud Computing
 | **Characteristics** | **Developer Productivity** |
