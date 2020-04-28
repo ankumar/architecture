@@ -54,6 +54,9 @@
 * [Conway's Law](http://www.melconway.com/Home/Conways_Law.html) - How to Organize Organization for Optimal Development / "Shipping the Org Chart",  Pay the cost later in internal tools & stitching data together
 
 # Academic:
-## Stanford - Matei Zaharia
+## Stanford
+Matei Zaharia:
  * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
  * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/)
+ 
+ * [Knowledge Graphs](https://web.stanford.edu/class/cs520/)
