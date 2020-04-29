@@ -6,9 +6,6 @@
 * [How Did Software Get So Reliable Without Proof? ](https://www.gwern.net/docs/math/1996-hoare.pdf)
 
 # Design & Architecture:
-</>
-
-[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Design%20%26%20Architecture.md)
 
 ## Developer Experience:
 </>
@@ -43,7 +40,7 @@
 # Systems Thinking:
 </>
 
-[>]()
+[>](https://github.com/ankumar/Architecture/blob/master/Patterns/%20Systems%20Thinking.md)
 
 
 # Anti-patterns:
