@@ -14,7 +14,7 @@
 ### > [Pattern - People front and center](https://twitter.com/conways_law/status/1238539198203822081)
 [1. Holistic approach - Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
-[2. Write nothing; Deploy nowhere! - Nocode](https://twitter.com/kelseyhightower/status/961026365146320896)
+[2. Write nothing; Deploy nowhere! - Low code/no code](https://twitter.com/kelseyhightower/status/961026365146320896)
 
 ### > [Pattern - Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
