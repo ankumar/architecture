@@ -38,6 +38,8 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
     * REST
     * Kafka
     * GraphQL
+      * You can take any source schema, such as JSON, SOAP, SQL, gRPC, and query it as GraphQL without changing the source service — query anything, run anywhere!
+    
 - Services: 
     * Stateless - Product Catalog, UGC, ...
     * Stateful - User Shopping Cart, Inventory, ...
