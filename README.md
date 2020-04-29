@@ -1,7 +1,7 @@
 # Platform & Applications
 
 ## 1. Measurements
-> Time To Value
+> Single Metric, Time To Value
 ## 2. Platform is a perspective, Serving our customers
 > "Platform” with a standardized interface allowing decentralized development.
 
