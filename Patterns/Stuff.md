@@ -10,37 +10,37 @@
 ## Developer Experience:
 </>
 
-[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
 
 ## Open Source:
 </>
 
-[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Open%20Source.md)
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Open%20Source.md)
 
 ## Services:
 </>
 
-[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Services.md)
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Services.md)
 
 ## Data-Intensive:
 </>
 
-[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Data-Intensive.md)
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Data-Intensive.md)
   
 ## Cloud Computing:
 </>
 
-[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Cloud%20Computing.md)
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Cloud%20Computing.md)
  
 ## Ops:
 </>
 
-[>](https://github.com/ankumar/Architecture/blob/master/Patterns/Ops.md)
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Ops.md)
 
 # Systems Thinking:
 </>
 
-[>](https://github.com/ankumar/Architecture/blob/master/Patterns/%20Systems%20Thinking.md)
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/%20Systems%20Thinking.md)
 
 
 # Anti-patterns:
