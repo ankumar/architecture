@@ -19,7 +19,8 @@
 
 ## Services:
 - "APIs are forever, code is not..." - Mike Amundsen
-    * REST, Kafka, GraphQL, ...
+    * [GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
+    * REST, Kafka, 
     
 - Services: 
     * Stateless - Product Catalog, UGC, ...
