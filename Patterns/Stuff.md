@@ -10,7 +10,8 @@
     * [Declarative - GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
     * [REST - OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
     * [Event-driven/Asynchronous - AsyncAPI](https://www.asyncapi.com/)
-    * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+    * More Styles:
+      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
     
 - Services: 
     * Stateless - Product Catalog, UGC, ...
