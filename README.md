@@ -4,10 +4,10 @@
 > "Platform” with a standardized interface allowing decentralized development.
 
 > Programs built with it are “continually valid and observable from the very beginning of its construction”.
-### > [Tools, People front and center](https://twitter.com/conways_law/status/1238539198203822081)
-[1. High - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
+### > [Tools like Microsoft Excel?, People front and center](https://twitter.com/conways_law/status/1238539198203822081)
+[1. High code - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 
-[2. Medium - Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
+[2. Medium code - Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 [3. Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
 
