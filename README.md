@@ -12,7 +12,7 @@
 [3. Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
 
 ### > [Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
-**A Customer centric Journey from eCommerce -> Cloud -> AI -> Health -> Open Source ...**
+**An "Agile" Customer centric Journey from eCommerce -> Cloud -> AI -> Health -> Open Source ...**
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
 Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.
