@@ -13,7 +13,7 @@
 [>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
 
 ## Services:
-- "APIs are forever, code is not..." - Mike Amundsen
+- APIs
     * [GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
     * REST, gRPC, ...
     * [OpenAPI](https://www.openapis.org/)
