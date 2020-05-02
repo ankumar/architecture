@@ -4,7 +4,7 @@
 > "Platform” with a standardized interface allowing decentralized development.
 
 > Programs built with it are “continually valid and observable from the very beginning of its construction”.
-### > [Pattern - People front and center](https://twitter.com/conways_law/status/1238539198203822081)
+### > [Pattern - Tools, People front and center](https://twitter.com/conways_law/status/1238539198203822081)
 [1. Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 
 [2. Holistic approach - Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
