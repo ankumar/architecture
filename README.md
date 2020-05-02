@@ -14,6 +14,7 @@
 * [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
 
 [2. Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+
 **An "Agile" customer centric eCommerce -> Cloud -> AI -> Health -> Open Source ...**
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
