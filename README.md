@@ -8,6 +8,7 @@
 ## > [Design](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 [1. Tools, People front and center like Microsoft Excel?](https://twitter.com/conways_law/status/1238539198203822081)
+
 [High code - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 
 [Medium code - Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
