@@ -9,7 +9,7 @@
 
 [2. Holistic approach - Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
-[3. Write nothing; Deploy nowhere! - Low code/no code](https://twitter.com/kelseyhightower/status/961026365146320896)
+[3. Write nothing; Deploy nowhere! - Low code/no code - Microsoft Excel?](https://twitter.com/kelseyhightower/status/961026365146320896)
 
 ### > [Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 **A Customer centric Journey from eCommerce -> Cloud -> AI -> Health -> Open Source ...**
