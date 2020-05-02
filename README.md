@@ -4,6 +4,7 @@
 > Single Metric, Time To Value
 ## 2. Platform is a perspective, Serving our customers
 > "Platform” with a standardized interface allowing decentralized development.
+
 > Programs built with it are “continually valid and observable from the very beginning of its construction”.
 ## 3. Value Chain - **APIs, Analytics, Artificial Intelligence, Machine Learning, ...** 
 ### > [Pattern - People front and center](https://twitter.com/conways_law/status/1238539198203822081)
