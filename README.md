@@ -4,14 +4,14 @@
 > "Platform” with a standardized interface allowing decentralized development.
 
 > Programs built with it are “continually valid and observable from the very beginning of its construction”.
-### > [Pattern - Tools, People front and center](https://twitter.com/conways_law/status/1238539198203822081)
+### > [ools, People front and center](https://twitter.com/conways_law/status/1238539198203822081)
 [1. Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 
 [2. Holistic approach - Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 [3. Write nothing; Deploy nowhere! - Low code/no code](https://twitter.com/kelseyhightower/status/961026365146320896)
 
-### > [Pattern - Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+### > [Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 **A Customer centric Journey from eCommerce -> Cloud -> AI -> Health -> Open Source ...**
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
