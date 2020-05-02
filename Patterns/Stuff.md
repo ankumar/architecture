@@ -20,7 +20,7 @@
     
   - Stateless - Product Catalog, UGC, ...
   - Stateful - User Shopping Cart, ...
-  - State, Purpose-built Databases: IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
+  - State - Purpose-built Databases: IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 **Examples:**
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
