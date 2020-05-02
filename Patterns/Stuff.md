@@ -21,6 +21,9 @@
 - "APIs are forever, code is not..." - Mike Amundsen
     * [GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
     * REST, gRPC, ...
+    * [OpenAPI](https://www.openapis.org/)
+    * [AsyncAPI](https://www.asyncapi.com/)
+    * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
     
 - Services: 
     * Stateless - Product Catalog, UGC, ...
