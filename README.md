@@ -1,6 +1,6 @@
 # Platform & Applications
 
-## Platform is a perspective, Serving our customers;Tools, APIs, Analytics, Artificial Intelligence, Machine Learning, ... 
+## Platform is a perspective, Serving our customers; Tools, APIs, Analytics, Artificial Intelligence, Machine Learning, ... 
 > "Platform” with a standardized interface allowing decentralized development.
 
 > Programs built with it are “continually valid and observable from the very beginning of its construction”.
