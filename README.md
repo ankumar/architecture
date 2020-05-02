@@ -19,5 +19,5 @@ Hi Werner, I was wondering... what advice would you offer to somebody who'd like
 
 in one tweet? 1) if you want to be a VP of Engineering focus on teams and people and how to make them succesfull 2) wanna be a CTO? Simplify.  Focus on the business, what is the simplest, most robust Tech/Ops that makes the business succeed.
 
-### > [Design](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+
 
