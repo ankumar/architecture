@@ -27,3 +27,6 @@
  * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
  * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) 
  * [Knowledge Graphs](https://web.stanford.edu/class/cs520/)
+ 
+ # Anti-patterns:
+* A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
