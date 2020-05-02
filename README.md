@@ -14,7 +14,7 @@
 ### > [Pattern - Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
 
-A Journey Growing Business starting from eCommerce -> Cloud -> Open Source -> AI -> Health ... 
+A Customer centric Disruptive Journey Growing Business starting from eCommerce -> Cloud -> Open Source -> AI -> Health ... 
 
 Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.
 
