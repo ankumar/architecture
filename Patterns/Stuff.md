@@ -1,5 +1,3 @@
-# Design & Architecture:
-
 ## Developer Experience:
 </>
 
