@@ -26,8 +26,6 @@
 **Examples:**
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
 
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Services.md)
-
 ## Data-Intensive:
 ### Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
@@ -49,9 +47,6 @@ Data Quality problem categories:
 ## > 2. Software Engineering Practices:
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
-
-
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Data-Intensive.md)
   
 ## Cloud Computing:
 | **Characteristics** | **Developer Productivity** |
@@ -65,26 +60,7 @@ Data Quality problem categories:
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"> </p>
 [![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
-
-
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Cloud%20Computing.md)
  
-## Open Source:
-</>
-
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Open%20Source.md)
-
-## Ops:
-</>
-
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Ops.md)
-
-# Systems Thinking:
-</>
-
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/%20Systems%20Thinking.md)
-
-
 # Anti-patterns:
 * A [big ball of mud](http://www.laputan.org/mud/) is a software system that lacks a perceivable architecture. Although undesirable from a software engineering point of view, such systems are common in practice due to business pressures, developer turnover and code entropy. They are a type of design anti-pattern.
 
@@ -104,8 +80,3 @@ Data Quality problem categories:
  * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) 
  * [Knowledge Graphs](https://web.stanford.edu/class/cs520/)
  
- 
- ## Developer Experience:
-</>
-
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
