@@ -12,11 +12,6 @@
 
 [>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
 
-## Open Source:
-</>
-
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Open%20Source.md)
-
 ## Services:
 - "APIs are forever, code is not..." - Mike Amundsen
     * [GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
@@ -53,6 +48,11 @@
 
 [>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Cloud%20Computing.md)
  
+## Open Source:
+</>
+
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Open%20Source.md)
+
 ## Ops:
 </>
 
