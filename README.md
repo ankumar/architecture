@@ -12,7 +12,7 @@
 * [High code - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 * [Medium code - Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 * [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
-  * [JavaScript, APIs & Markup](https://www.netlify.com/jamstack/) 
+  * [JAM](https://snipcart.com/blog/jamstack) 
 
 [2. Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
