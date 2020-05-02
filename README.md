@@ -19,21 +19,5 @@ Hi Werner, I was wondering... what advice would you offer to somebody who'd like
 
 in one tweet? 1) if you want to be a VP of Engineering focus on teams and people and how to make them succesfull 2) wanna be a CTO? Simplify.  Focus on the business, what is the simplest, most robust Tech/Ops that makes the business succeed.
 
-### > [Patterns](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+### > [Design](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
-## 1. Modeling Services
-[![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
- <b>Google: 100,000+ services - Networking In & Across Regions </b></p>
- 
-![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
-<p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">A Modern App, Monzo Bank: 1,600+ services - A visualisation of network of microservices w/ Strong DevOps & Observability</a> </p>
- 
-## > 1. Devs to focus on Business logic, Hiding Distributed systems complexity
-**There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) a system into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
-
-* Preparing for a future Microservices journey using DDD & Wardley Maps
-  - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
-  - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
-
-**Examples:**
-* [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
