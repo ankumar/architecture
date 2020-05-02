@@ -12,6 +12,8 @@
 
 [2. Write nothing; Deploy nowhere! - Low code/no code](https://twitter.com/kelseyhightower/status/961026365146320896)
 
+[3. Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
+
 ### > [Pattern - Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
 
