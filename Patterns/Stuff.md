@@ -11,7 +11,7 @@
 * Preparing for a future Microservices journey using DDD & Wardley Maps
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
-  - APIs: Unified API Design, simple process for API developers to make their own decisions on which style to use
+  - APIs: Unified API Design, simple process for API developers on which style to use
     * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
     * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
     * [Event-driven/Asynchronous](https://www.asyncapi.com/)
