@@ -1,20 +1,4 @@
-## Developer Experience:
-</>
-
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
-
 ## Services:
-- APIs
-    * [Declarative - GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
-    * [REST - OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
-    * [Event-driven/Asynchronous - AsyncAPI](https://www.asyncapi.com/)
-    * More Styles:
-      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-    
-- Stateless - Product Catalog, UGC, ...
-- Stateful - User Shopping Cart, ...
-- State, Purpose-built Databases: IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
-
 ## 1. Modeling Services
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Google: 100,000+ services - Networking In & Across Regions </b></p>
@@ -28,6 +12,16 @@
 * Preparing for a future Microservices journey using DDD & Wardley Maps
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
+  - APIs
+    * [Declarative - GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
+    * [REST - OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+    * [Event-driven/Asynchronous - AsyncAPI](https://www.asyncapi.com/)
+    * More Styles:
+      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+    
+  - Stateless - Product Catalog, UGC, ...
+  - Stateful - User Shopping Cart, ...
+  - State, Purpose-built Databases: IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 **Examples:**
 * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
@@ -109,3 +103,9 @@ Data Quality problem categories:
  * [Value of Data and AI](https://canvas.stanford.edu/courses/114221)
  * [Principles of Data-Intensive Systems](http://web.stanford.edu/class/cs245/) 
  * [Knowledge Graphs](https://web.stanford.edu/class/cs520/)
+ 
+ 
+ ## Developer Experience:
+</>
+
+[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
