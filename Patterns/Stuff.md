@@ -16,7 +16,7 @@
 - APIs
     * [Declarative - GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
     * [OpenAPI - REST](https://github.com/OAI/OpenAPI-Specification/)
-    * [AsyncAPI](https://www.asyncapi.com/)
+    * [Event-driven/Asynchronous - AsyncAPI](https://www.asyncapi.com/)
     * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
     
 - Services: 
