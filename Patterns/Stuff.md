@@ -14,13 +14,15 @@
    * Purpose-built Databases - IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 ---
  * Specifications:
-   * [Open Application Model](https://github.com/oam-dev/spec)
-   * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html) - [Landscape](https://landscape.graphql.org/)   
+   * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
    * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
    * [Event-driven/Asynchronous](https://www.asyncapi.com/)
-     * [Dapr](https://dapr.io/) 
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+   * Labs:
+     * [Open Application Model](https://github.com/oam-dev/spec)
+     * (https://landscape.graphql.org/) 
+     * [Dapr](https://dapr.io/) 
 
 ## Data-Intensive:
 ### Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
