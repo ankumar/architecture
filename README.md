@@ -10,9 +10,7 @@
 [1. Tools & Experiences](https://twitter.com/conways_law/status/1238539198203822081)
 
 [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
-
-Medium Code:
-* [Frontend, JAMstack](https://snipcart.com/blog/jamstack) 
+* [Frontend, JAMstack](https://snipcart.com/blog/jamstack)
 * [Backend, Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 High Code:
