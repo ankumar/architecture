@@ -19,8 +19,8 @@
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
    * "Labs":
-     * [GCP - Cloud Run, Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
-     * [Cloud - AWS](https://aws.amazon.com/amplify/)
+     * [GCP, Cloud Run](https://cloud.google.com/run/)
+     * [AWS](https://aws.amazon.com/amplify/)
      * [GraphQL](https://landscape.graphql.org/) 
      * [Dapr](https://dapr.io/)
      * [Open Application Model](https://github.com/oam-dev/spec)
