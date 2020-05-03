@@ -5,11 +5,11 @@
 * Components
 * Tools
 3. **Hybrid:**
-1.Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
-2.GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
-4. Planes - Management, Control & Data:
+* Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
+* GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
+4. **Planes - Management, Control & Data:**
 https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
-6. Sidecar pattern:
+6. **[Sidecar pattern:](https://microservices.io/patterns/deployment/sidecar.html)**
 Azure CTO Incubations
 OAM (w/ Alibaba Team) - The Open Application Model specification 
 DAPR - Distributed Application Runtime
