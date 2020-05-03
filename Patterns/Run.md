@@ -8,17 +8,17 @@
 * Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
 * GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
 4. **Planes - Management, Control & Data:**
-https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
+* https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
 6. **[Sidecar pattern:](https://microservices.io/patterns/deployment/sidecar.html)**
-Azure CTO Incubations
-OAM (w/ Alibaba Team) - The Open Application Model specification 
-DAPR - Distributed Application Runtime
-KEDA - Kubernetes Event-driven Autoscaling
-Distributed State Management for Serverless
-Kubernetes native applications
-Secure networking
-Service Catalog & Call Graph - API Shark
-...
+1. Azure CTO Incubations
+* OAM (w/ Alibaba Team) - The Open Application Model specification 
+* DAPR - Distributed Application Runtime
+* KEDA - Kubernetes Event-driven Autoscaling
+2. Distributed State Management for Serverless
+3. Kubernetes native applications
+5. Secure networking
+5. Service Catalog & Call Graph - API Shark
+6. ...
 
 
 
