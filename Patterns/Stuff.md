@@ -7,7 +7,6 @@
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
  * Unified API Design
  * Stateless - Product Catalog, UGC, ... 
-   * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
  * Stateful - User Shopping Cart, ...
  * State Management:
    * Data Modeling
@@ -20,6 +19,7 @@
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
    * "Labs":
+     * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
      * [Cloud - AWS](https://aws.amazon.com/amplify/)
      * [Open Application Model](https://github.com/oam-dev/spec)
      * [GraphQL Landscape](https://landscape.graphql.org/) 
