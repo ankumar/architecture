@@ -1,4 +1,4 @@
-* [Conway](https://twitter.com/conways_law/status/1238539198203822081)
+[Conway](https://twitter.com/conways_law/status/1238539198203822081)
 
 [>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
 
