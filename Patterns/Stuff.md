@@ -7,6 +7,7 @@
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
 * Unified API Design
     * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
+      * [Landscape](https://landscape.graphql.org/) 
     * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
     * [Event-driven/Asynchronous](https://www.asyncapi.com/)
       * [Dapr](https://dapr.io/) 
