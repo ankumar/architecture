@@ -19,7 +19,7 @@ Code:
 
 **2. Technology & Business**
 
-**An "Agile" customer centric Journey eCommerce -> Cloud -> AI -> Health -> Open Source ...**
+**An "Agile" customer centric growth eCommerce + Cloud + AI + Health + Open Source + </>**
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
 Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.
