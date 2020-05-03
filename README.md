@@ -1,7 +1,7 @@
 # Platform & Applications
 
-**1. Technology & Business**
-## Platform is a perspective, Serving customers 
+##1. Technology & Business
+Platform is a perspective, Serving customers 
 
 **An "Agile" customer centric growth, eCommerce + Cloud + AI + Health + Open Source + </>**
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
@@ -11,7 +11,7 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 
 -- [Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
-**2. Tools & Experiences**
+##2. Tools & Experiences
 
 **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
 
