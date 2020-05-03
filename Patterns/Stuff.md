@@ -12,13 +12,14 @@
     * More Styles:
       * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
  * Stateless - Product Catalog, UGC, ... ; Stateful - User Shopping Cart, ...
+   * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
  * State Management - Data Modeling & Purpose-built Databases, IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 **Examples:**
 
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Google: 100,000+ services - Networking In & Across Regions </b></p>
- * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
+ 
  
 ![](https://images.ctfassets.net/ro61k101ee59/2bmS9TVlJc5einK9YLBY3V/992367961e649dd0343a3486616601fd/Image-1.png?w=1348&q=90)
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Microservices: A Modern App, Monzo Bank: 1,600+ services - A visualisation of network of microservices w/ Strong DevOps & Observability</a> </p>
