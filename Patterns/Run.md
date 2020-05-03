@@ -1,0 +1,5 @@
+* [GCP, Cloud Run](https://cloud.google.com/run/)
+     * [AWS, Amplify](https://aws.amazon.com/amplify/)
+     * [GraphQL](https://landscape.graphql.org/) 
+     * [Dapr](https://dapr.io/)
+     * [Open Application Model](https://github.com/oam-dev/spec)
