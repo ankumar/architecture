@@ -18,7 +18,7 @@
    * [Event-driven/Asynchronous](https://www.asyncapi.com/)
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-   * **"Labs":**
+ * **"Labs":**
      * [AWS, Amplify](https://aws.amazon.com/amplify/)
      * [GraphQL](https://landscape.graphql.org/) 
      * [Open Application Model](https://github.com/oam-dev/spec)
