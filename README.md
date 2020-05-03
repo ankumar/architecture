@@ -13,7 +13,7 @@
 * [Frontend, JAMstack](https://snipcart.com/blog/jamstack)
 * [Backend, Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
-High Code:
+Code:
 * [Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 
 [2. Technology & Business w/ Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
