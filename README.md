@@ -24,6 +24,7 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 
 - "Platform” with a standardized interface allowing decentralized development.
 - Programs built with it are “continually valid and observable from the very beginning of its construction”.
+
 [Build>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 
