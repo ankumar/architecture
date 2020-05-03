@@ -21,7 +21,7 @@
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
    * Labs:
      * [Open Application Model](https://github.com/oam-dev/spec)
-     * (https://landscape.graphql.org/) 
+     * [GraphQL Landscape](https://landscape.graphql.org/) 
      * [Dapr](https://dapr.io/) 
 
 ## Data-Intensive:
