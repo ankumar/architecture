@@ -5,7 +5,7 @@
 * Preparing for a future Microservices journey using DDD & Wardley Maps
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
- * Unified API Desig
+ * Unified API Design
  * Stateless - Product Catalog, UGC, ... 
    * [GCP Cloud Run- Run stateless containers on a fully managed environment](https://cloud.google.com/run/)
  * Stateful - User Shopping Cart, ...
