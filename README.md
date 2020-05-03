@@ -1,5 +1,3 @@
-# Platform & Applications
-
 ## 1. Technology & Business
 **An "Agile" customer centric growth ...**
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
