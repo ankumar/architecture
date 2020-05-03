@@ -8,6 +8,7 @@
 ## > [Design](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 1. Tools & Experiences
+
 [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
 * [Frontend, JAMstack](https://snipcart.com/blog/jamstack)
 * [Backend, Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
@@ -16,6 +17,7 @@ Code:
 * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 
 2. Technology & Business
+
 **An "Agile" customer centric Journey eCommerce -> Cloud -> AI -> Health -> Open Source ...**
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
