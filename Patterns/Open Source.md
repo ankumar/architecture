@@ -3,6 +3,7 @@
 "Linux", "Hadoop", "React", "Kubernetes", "Git", [DB-Engines](https://db-engines.com/en/ranking), [Code](https://code.visualstudio.com/) , ...
 
 [Foundational elements yielding Innovations](https://dirkriehle.com/publications/2019-selected/the-innovations-of-open-source/)
+
 **1. Business model Innovation**
 
 **2. Process Innovation**
