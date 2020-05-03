@@ -12,7 +12,7 @@
  * State Management:
    * Data Modeling
    * Purpose-built Databases - IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
-
+---
  * Specifications:
    * [Open Application Model](https://github.com/oam-dev/spec)
    * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html) - [Landscape](https://landscape.graphql.org/)   
