@@ -19,6 +19,7 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 * [Cloud - AWS](https://aws.amazon.com/amplify/)
 
-[Build>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+[Build Apps>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+
 
 
