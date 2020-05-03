@@ -18,8 +18,8 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 * [Conway](https://twitter.com/conways_law/status/1238539198203822081)
 
-[Build>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 * [Cloud - AWS](https://aws.amazon.com/amplify/)
+[Build>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 
