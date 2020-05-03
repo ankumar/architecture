@@ -27,6 +27,6 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 
 -- [Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
-### > [Buuld](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+### > [Build](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 
