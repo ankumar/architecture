@@ -1,5 +1,7 @@
 ## 1. Technology & Business
 **An "Agile" customer centric growth ...**
+
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
 -- [Amazon CTO Werner Vogels, eCommerce + Cloud + AI + Health + Open Source + </>](https://queue.acm.org/detail.cfm?id=1142065)
 
