@@ -11,8 +11,8 @@
 * **Application & Microservices** - https://martinfowler.com/articles/microservices.html
    * Ex: [Demo App - Hipster Shop](https://github.com/GoogleCloudPlatform/microservices-demo)
 * **Stateless & Stateful services** - A definition [Twelve-Factor App -> Processes](https://12factor.net/processes)
-   * Service checking availability of items is stateless - the data (state) is stored by another backend system.
-   * Service like shopping cart is stateful, items are stored and retrieved.
+   * Service checking availability of items is **stateless** - the data (state) is stored by another backend system.
+   * Service like shopping cart is **stateful**, items are stored and retrieved.
 * **Hybrid** - An Architecture where we use a public cloud provider in combination with private, own data center.
 * [**Enterprise**](https://learning.oreilly.com/library/view/lean-enterprise/9781491946527/) - Single Metric, Measure **Time to Value** everywhere
    * **Governance**
