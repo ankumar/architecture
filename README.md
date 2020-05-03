@@ -11,6 +11,7 @@
 
 High Code:
 * [Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
+
 Medium Code:
 * [Frontend, JAMstack](https://snipcart.com/blog/jamstack) 
 * [Backend, Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
