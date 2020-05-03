@@ -17,8 +17,7 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 * [Conway](https://twitter.com/conways_law/status/1238539198203822081)
 ---
 * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
-
-[Build Apps>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+* [Build Apps>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 
 
