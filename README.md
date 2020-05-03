@@ -12,7 +12,7 @@
 [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
 * [Frontend, JAMstack](https://snipcart.com/blog/jamstack)
 * [Backend, Holistic approach, Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
-* [Microsoft Excel?](https://twitter.com/conways_law/status/1238539198203822081)
+* [Next Gen Microsoft Excel?](https://twitter.com/conways_law/status/1238539198203822081)
 
 Code: 
 * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
