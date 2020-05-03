@@ -21,6 +21,7 @@
 *. ...
 
 
+ - IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 * [GCP, Cloud Run](https://cloud.google.com/run/)
      * [AWS, Amplify](https://aws.amazon.com/amplify/)
