@@ -13,7 +13,7 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 
 **2. Tools & Experiences**
 
-**"Platform” with a standardized interface allowing decentralized development.Programs built with it are “continually valid and observable from the very beginning of its construction”.**
+**"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
 
 [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
 * [Frontend - JAMstack](https://snipcart.com/blog/jamstack)
