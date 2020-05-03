@@ -10,7 +10,7 @@
  * Stateful - User Shopping Cart, ...
  * State Management:
    * Data Modeling
-   * Purpose-built Databases - IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
+   * Purpose-built Databases
 ---
  * Specifications:
    * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
