@@ -11,10 +11,6 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 
 -- [Amazon CTO Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
-## Platform is a perspective, Serving customers 
-- "Platform” with a standardized interface allowing decentralized development.
-- Programs built with it are “continually valid and observable from the very beginning of its construction”.
-
 **2. Tools & Experiences**
 
 [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
@@ -26,6 +22,9 @@ in one tweet? 1) if you want to be a VP of Engineering focus on teams and people
 * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 * [Cloud - AWS](https://aws.amazon.com/amplify/)
 
+## Platform is a perspective, Serving customers 
+- "Platform” with a standardized interface allowing decentralized development.
+- Programs built with it are “continually valid and observable from the very beginning of its construction”.
 [Build>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 
