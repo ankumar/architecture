@@ -1,7 +1,7 @@
 # Platform & Applications
 
 ## 1. Technology & Business
-**An "Agile" customer centric growth...**
+**An "Agile" customer centric growth ...**
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
 -- [Amazon CTO Werner Vogels, eCommerce + Cloud + AI + Health + Open Source + </>](https://queue.acm.org/detail.cfm?id=1142065)
 
@@ -11,7 +11,7 @@
 
 ## 2. Tools & Experiences
 
-Platform is a perspective, Serving customers... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
+Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
 
 [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
 * [Frontend - JAMstack](https://snipcart.com/blog/jamstack)
