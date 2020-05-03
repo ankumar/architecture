@@ -5,7 +5,7 @@
 
 > Programs built with it are “continually valid and observable from the very beginning of its construction”.
 
-## > [Design](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+### > [Design](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 **1. Tools & Experiences**
 
