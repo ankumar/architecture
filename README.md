@@ -14,10 +14,10 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 [Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
 * [Frontend - JAMstack](https://snipcart.com/blog/jamstack)
 * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
-* [Conway](https://twitter.com/conways_law/status/1238539198203822081)
 ---
 * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 * [Build Apps>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
+
 
 
 
