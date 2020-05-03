@@ -10,9 +10,8 @@
    * [**Shopify Journey**](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 * **Application & Microservices** - https://martinfowler.com/articles/microservices.html
    * Ex: [Demo App - Hipster Shop](https://github.com/GoogleCloudPlatform/microservices-demo)
-   
-   https://github.com/ankumar/Architecture/blob/master/images/microservices.png
-   
+![](https://github.com/ankumar/Architecture/blob/master/images/microservices.png)
+Monoliths vs Microservices, both architectural patterns are valid, and for complex organizations, a mix of both is inevitable.
 * **Stateless & Stateful services** - A definition [Twelve-Factor App -> Processes](https://12factor.net/processes)
    * Service checking availability of items is **stateless** - the data (state) is stored by another backend system.
    * Service like shopping cart is **stateful**, items are stored and retrieved.
