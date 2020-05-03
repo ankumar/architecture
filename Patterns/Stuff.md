@@ -12,9 +12,8 @@
     * More Styles:
       * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
     
-  - Stateless - Product Catalog, UGC, ...
-  - Stateful - User Shopping Cart, ...
-  - State - Purpose-built Databases & Data Modeling for IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
+ * stateless - Product Catalog, UGC, ... ; Stateful - User Shopping Cart, ...
+ * State - Purpose-built Databases & Data Modeling for IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 **Examples:**
 
