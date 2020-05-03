@@ -8,8 +8,12 @@
    * [**Cell-Based Architecture**](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
    * [**Control vs Data plane**](http://www.cs.cmu.edu/~4D/papers/greenberg-ccr05.pdf)
    * [**Shopify Journey**](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
-* Application & Microservices - https://martinfowler.com/articles/microservices.html
+* **Application & Microservices** - https://martinfowler.com/articles/microservices.html
    * Ex: [Demo App - Hipster Shop](https://github.com/GoogleCloudPlatform/microservices-demo)
+* **Stateless & Stateful services** - A definition [Twelve-Factor App -> Processes](https://12factor.net/processes)
+   * Service checking availability of items is stateless - the data (state) is stored by another backend system.
+   * Service like shopping cart is stateful, items are stored and retrieved.
+* **Hybrid** - An Architecture where we use a public cloud provider in combination with private, own data center.
 * [**Enterprise**](https://learning.oreilly.com/library/view/lean-enterprise/9781491946527/) - Single Metric, Measure **Time to Value** everywhere
    * **Governance**
      * [**Cloud**](https://aws.amazon.com/blogs/enterprise-strategy/governance-in-the-cloud-and-in-the-digital-age-part-one/)
