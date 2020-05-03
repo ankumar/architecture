@@ -47,5 +47,6 @@ Data Quality problem categories:
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
    
-
+**Examples:**
+* [Deep Learning Training Platform](https://determined.ai/developers/)
  
