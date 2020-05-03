@@ -5,15 +5,14 @@
 * Preparing for a future Microservices journey using DDD & Wardley Maps
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
-* Unified API Design, simple process for developers on which style to use
+* Unified API Design
     * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)
     * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
     * [Event-driven/Asynchronous](https://www.asyncapi.com/)
     * More Styles:
       * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-    
  * Stateless - Product Catalog, UGC, ... ; Stateful - User Shopping Cart, ...
- * State - Purpose-built Databases & Data Modeling for IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
+ * State Management - Data Modeling & Purpose-built Databases, IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 **Examples:**
 
