@@ -17,6 +17,7 @@
   - State - Purpose-built Databases & Data Modeling for IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 **Examples:**
+
 [![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Google: 100,000+ services - Networking In & Across Regions </b></p>
  
