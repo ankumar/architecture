@@ -22,8 +22,6 @@
        * Stateful - User Shopping Cart, ...
        * **Data Modeling**
      * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
-     * Purpose-built Databases
-       * IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
