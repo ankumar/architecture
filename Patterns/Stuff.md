@@ -5,6 +5,7 @@
 **Design Principles:**
  * Developer Experience
    * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/) 
+ * [Open Application Model](https://github.com/oam-dev/spec)
  * Unified API
    * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
    * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
@@ -24,7 +25,6 @@
  * **Decisions:**
      * [AWS, Amplify](https://aws.amazon.com/amplify/)
      * [GraphQL](https://landscape.graphql.org/) 
-     * [Open Application Model](https://github.com/oam-dev/spec)
      * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
      * Databases
        * IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
