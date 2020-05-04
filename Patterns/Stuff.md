@@ -14,7 +14,7 @@
    * State Management:
      * **Data Modeling**
  * Developer Experience:
-   * APIs, Services & Data:
+   * APIs, Service, Data & Infra:
      * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/) 
 ---     
 * **Preparing for a future Microservices journey using DDD & Wardley Maps**
