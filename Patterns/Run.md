@@ -1,6 +1,6 @@
 # Runtime
 ## Kubernetes:
-1. Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
+Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
 
   * OAM (w/ Alibaba Team)- [Open Application Model](https://github.com/oam-dev/spec) specification   
   * DAPR - [Distributed Application Runtime](https://dapr.io/)
