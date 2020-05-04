@@ -46,7 +46,7 @@ Data Quality problem categories:
 **Examples:**
 * [AI for Full-Self Driving](https://www.youtube.com/watch?v=hx7BXih7zx8)
 
-## > b. Software Engineering Practices:
+## > b. Software Engineering Practices
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
    
