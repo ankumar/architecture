@@ -2,7 +2,7 @@
 **Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
   * OAM (w/ Alibaba Team)- [Open Application Model](https://github.com/oam-dev/spec) specification   
   * DAPR - [Distributed Application Runtime](https://dapr.io/)
-  * KEDA - Kubernetes Event-driven Autoscaling
+  * KEDA - [Kubernetes Event-driven Autoscaling](https://keda.sh)
   * Distributed State Management for Serverless
   * Kubernetes native applications
   * Secure networking
