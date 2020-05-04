@@ -18,7 +18,6 @@
  * State Management:
    * Data Modeling
    * Purpose-built Databases
----
  * **"Labs":**
      * [AWS, Amplify](https://aws.amazon.com/amplify/)
      * [GraphQL](https://landscape.graphql.org/) 
