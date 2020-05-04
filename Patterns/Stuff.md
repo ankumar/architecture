@@ -1,5 +1,5 @@
 ## 1. APIs: 
-**Design Principles:**
+**Design Principles:** Devs to focus on Business logic, Hiding Distributed systems complexity, [An Application Model](https://github.com/oam-dev/spec)
  * Services - **There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) [a system](https://queue.acm.org/detail.cfm?id=3395214) into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
    * Unified API
      * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
@@ -12,7 +12,7 @@
    * State Management:
      * Data Modeling
      * Purpose-built Databases
- * Developer Experience: Devs to focus on Business logic, Hiding Distributed systems complexity, [An Application Model](https://github.com/oam-dev/spec)
+ * Developer Experience:
    * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/) 
 ---     
 * **Preparing for a future Microservices journey using DDD & Wardley Maps**
