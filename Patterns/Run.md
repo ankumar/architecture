@@ -1,12 +1,7 @@
 # Runtime
-
-1. **Scheduler:**
-* [Smart Scheduler on top of an orchestrator with tasks encapsulated & labelled](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
-
 ## Kubernetes:
-1. **Planes - Management, Control & Data:**
-* https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
-2. **[Sidecar pattern:](https://microservices.io/patterns/deployment/sidecar.html)**
+1. Cross-cutting concerns in a [*sidecar*]https://microservices.io/patterns/deployment/sidecar.html process or container that runs alongside the service instance
+
 * Azure CTO Incubations
   * OAM (w/ Alibaba Team) - The Open Application Model specification 
   * DAPR - Distributed Application Runtime
@@ -16,6 +11,13 @@
 * Secure networking
 * Service Catalog & Call Graph - API Shark
 *. ...
+
+
+1. **Planes - Management, Control & Data:**
+* https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
+
+**Scheduler:**
+* [Smart Scheduler on top of an orchestrator with tasks encapsulated & labelled](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
 
 2. **Hybrid:**
 * Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
