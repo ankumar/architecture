@@ -17,8 +17,11 @@
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
  * **Decisions:**
-     * [AWS, Amplify](https://aws.amazon.com/amplify/)
-     * [GraphQL](https://landscape.graphql.org/) 
+     * [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+       * Stateless - Product Catalog, UGC, ... 
+       * Stateful - User Shopping Cart, ...
+       * State Management:
+       * **Data Modeling**
      * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
      * Purpose-built Databases
        * IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
