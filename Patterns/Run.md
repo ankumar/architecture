@@ -23,10 +23,7 @@ Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/depl
 
  - IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
-* [GCP, Cloud Run](https://cloud.google.com/run/)
-* [AWS, Amplify](https://aws.amazon.com/amplify/)
-* [GraphQL](https://landscape.graphql.org/) 
-     
+
     
 
 
