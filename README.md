@@ -15,7 +15,7 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 * [Frontend - JAMstack](https://snipcart.com/blog/jamstack)
 * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
-Build/Deploy:
+**Build/Deploy:**
 * [Build Apps>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md)
 
 
