@@ -15,6 +15,7 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 * [Frontend - JAMstack](https://snipcart.com/blog/jamstack)
 * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
+Build/Deploy:
 * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
 
 ---
