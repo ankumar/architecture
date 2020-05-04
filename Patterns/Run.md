@@ -1,6 +1,6 @@
 # Runtime
 ## Kubernetes:
-1. Cross-cutting concerns in a [sidecar]https://microservices.io/patterns/deployment/sidecar.html process or container that runs alongside the service instance
+1. Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
 
 * Azure CTO Incubations
   * OAM (w/ Alibaba Team) - The Open Application Model specification 
