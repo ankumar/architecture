@@ -8,6 +8,7 @@
      * [Event-driven/Asynchronous](https://www.asyncapi.com/)
      * More Styles:
        * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+       * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
    * Stateless - Product Catalog, UGC, ... 
    * Stateful - User Shopping Cart, ...
    * State Management:
