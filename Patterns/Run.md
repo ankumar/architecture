@@ -9,7 +9,7 @@
   * Service Catalog & Call Graph - API Shark
   *. ...
 
-1. **Planes - Management, Control & Data:**
+**Planes - Management, Control & Data:**
 * https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
 
 **Scheduler:**
