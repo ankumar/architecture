@@ -19,7 +19,7 @@
 * Preparing for a future Microservices journey using DDD & Wardley Maps
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
- * **"Labs":**
+ * **Decisions:**
      * [AWS, Amplify](https://aws.amazon.com/amplify/)
      * [GraphQL](https://landscape.graphql.org/) 
      * [Open Application Model](https://github.com/oam-dev/spec)
