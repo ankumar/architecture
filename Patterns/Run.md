@@ -1,7 +1,9 @@
 # The Stack
   
   * [AWS, Amplify](https://aws.amazon.com/amplify/)
-  * [GraphQL](https://landscape.graphql.org/) 
+  * [GraphQL](https://landscape.graphql.org/)
+  * Purpose-built Databases
+    * IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 ## Kubernetes:
 **Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
