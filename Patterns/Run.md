@@ -4,10 +4,10 @@
   * [DAPR, Distributed Application Runtime](https://dapr.io/)
   * [KEDA, Kubernetes Event-driven Autoscaling](https://keda.sh)
   * [Distributed State Management for Serverless](https://cloudstate.io)
-  * Kubernetes native applications
-  * Secure networking
-  * Service Catalog & Call Graph - API Shark
-  *. ...
+  * [Kubernetes native applications](https://operatorhub.io)
+  * [Secure networking](https://www.projectcalico.org)
+  * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
+  * ...
 
 **Planes - Management, Control & Data:**
 * https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
