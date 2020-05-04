@@ -11,8 +11,7 @@
    * Stateless - Product Catalog, UGC, ... 
    * Stateful - User Shopping Cart, ...
    * State Management:
-     * Data Modeling
-     * Purpose-built Databases
+     * **Data Modeling**
  * Developer Experience:
    * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/) 
 ---     
@@ -23,7 +22,7 @@
      * [AWS, Amplify](https://aws.amazon.com/amplify/)
      * [GraphQL](https://landscape.graphql.org/) 
      * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
-     * Databases
+     * Purpose-built Databases
        * IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 ## 2. Data-Intensive:
