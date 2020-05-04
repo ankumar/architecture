@@ -23,7 +23,7 @@
      * [AWS, Amplify](https://aws.amazon.com/amplify/)
      * [GraphQL](https://landscape.graphql.org/) 
      * [Open Application Model](https://github.com/oam-dev/spec)
-
+     * [GCP, Cloud Run](https://cloud.google.com/run/)     
 ---
 * Runtime:
      * https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md
