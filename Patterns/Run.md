@@ -4,10 +4,7 @@
 * [Smart Scheduler on top of an orchestrator with tasks encapsulated & labelled](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
 
 ## Kubernetes:
-1. **Hybrid:**
-* Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
-* GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
-2. **Planes - Management, Control & Data:**
+1. **Planes - Management, Control & Data:**
 * https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
 6. **[Sidecar pattern:](https://microservices.io/patterns/deployment/sidecar.html)**
 * Azure CTO Incubations
@@ -20,6 +17,9 @@
 * Service Catalog & Call Graph - API Shark
 *. ...
 
+2. **Hybrid:**
+* Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
+* GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
 
  - IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
