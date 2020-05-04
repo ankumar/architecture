@@ -10,6 +10,7 @@
   * ...
 
 **Planes - Management, Control & Data:**
+* [GCP, Cloud Run](https://cloud.google.com/run/)   
 * https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
 
 **Scheduler - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled:**
