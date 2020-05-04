@@ -1,4 +1,3 @@
-# Runtime
 ## Kubernetes:
 Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
 
