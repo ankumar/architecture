@@ -20,7 +20,6 @@
      * [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
        * Stateless - Product Catalog, UGC, ... 
        * Stateful - User Shopping Cart, ...
-       * State Management:
        * **Data Modeling**
      * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
      * Purpose-built Databases
