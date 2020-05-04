@@ -1,4 +1,4 @@
-# The Stack:
+# The Stack
   
   * [AWS, Amplify](https://aws.amazon.com/amplify/)
   * [GraphQL](https://landscape.graphql.org/) 
