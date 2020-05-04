@@ -11,12 +11,7 @@
      * More Styles:
        * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
        * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-   * [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
-     * Stateless - Product Catalog, UGC, ... 
-     * Stateful - User Shopping Cart, ...
-     * State Management:
-       * **Data Modeling**
-
+       
 ---     
 * **Preparing for a future Microservices journey using DDD & Wardley Maps**
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
