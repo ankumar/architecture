@@ -12,7 +12,7 @@
    * State Management:
      * Data Modeling
      * Purpose-built Databases
- * Developer Experience: Devs to focus on Business logic, Hiding Distributed systems complexity, [Application Model](https://github.com/oam-dev/spec)
+ * Developer Experience: Devs to focus on Business logic, Hiding Distributed systems complexity, [An Application Model](https://github.com/oam-dev/spec)
    * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/) 
 ---     
 * **Preparing for a future Microservices journey using DDD & Wardley Maps**
