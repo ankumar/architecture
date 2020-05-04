@@ -18,9 +18,9 @@
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
  * **Decisions:**
      * [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+       * **Data Modeling**
        * Stateless - Product Catalog, UGC, ... 
        * Stateful - User Shopping Cart, ...
-       * **Data Modeling**
      * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
 
 ## 2. Data-Intensive:
