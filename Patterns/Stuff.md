@@ -16,7 +16,7 @@
    * Data Modeling
    * Purpose-built Databases
 ---     
-* Preparing for a future Microservices journey using DDD & Wardley Maps
+* **Preparing for a future Microservices journey using DDD & Wardley Maps**
   - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
   - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
  * **Decisions:**
