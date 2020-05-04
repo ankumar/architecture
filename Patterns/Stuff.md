@@ -1,6 +1,5 @@
 ## 1. APIs: 
 **Design Principles:**
- * [Application Model](https://github.com/oam-dev/spec)
  * Unified API
    * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
    * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
@@ -13,7 +12,8 @@
    * State Management:
      * Data Modeling
      * Purpose-built Databases
- * Developer Experience - Devs to focus on Business logic, Hiding Distributed systems complexity.
+ * Developer Experience:
+ 1. Devs to focus on Business logic, Hiding Distributed systems complexity, [Application Model](https://github.com/oam-dev/spec)
    * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/) 
 ---     
 * **Preparing for a future Microservices journey using DDD & Wardley Maps**
