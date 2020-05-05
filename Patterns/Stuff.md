@@ -17,7 +17,7 @@
        * More Styles:
          * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
          * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-     * **Developer Experience for **Apps, Services, Platform,  Process & Tools, Organization & Culture**
+     * **Developer Experience for bring together Apps, Services, Platform,  Process & Tools, Organization & Culture**
        * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
        * [IDE](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
      * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
