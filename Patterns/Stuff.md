@@ -4,24 +4,22 @@
 **There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) [a system](https://queue.acm.org/detail.cfm?id=3395214) into services. As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.** <br/>
    * Developer Experience: **Apps, Services, Platform,  Process & Tools, Organization & Culture**
      * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/) 
-      
-      
-       * Types:
-     * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
-     * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
-     * [Event-driven/Asynchronous](https://www.asyncapi.com/)
-     * More Styles:
-       * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-       * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-       
-* **Preparing for a future Microservices journey using DDD & Wardley Maps**
-  - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
-  - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
- * **Decisions:**
+     
+   * **Preparing for a future Microservices journey using DDD & Wardley Maps**
+      - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
+      - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
+   * **Decisions:**
      * [Services - Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
        * **Data Modeling**
        * Stateless - Product Catalog, UGC, ... 
        * Stateful - User Shopping Cart, ...
+     * Interfaces:
+       * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
+       * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+       * [Event-driven/Asynchronous](https://www.asyncapi.com/)
+       * More Styles:
+         * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+         * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
      * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
 
 ## 2. Data-Intensive:
