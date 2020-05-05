@@ -27,7 +27,7 @@
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
 ![](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
-<p align="center"> <a href="https://www.itsonlyamodel.com/">"All models are wrong, but some are useful."</a> </p>
+<p> <a href="https://www.itsonlyamodel.com/">"All models are wrong, but some are useful."</a> </p>
 
 ### Advances in machine learning (ML) over the last decade have opened up a radically new approach to building software systems. Dubbed [“Software 2.0”](https://medium.com/@karpathy/software-2-0-a64152b37c35), this approach focuses on training models to learn from data instead of explicitly writing code for the required behavior. 
 ## > a. Data Validation 
