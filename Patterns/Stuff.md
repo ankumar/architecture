@@ -19,8 +19,8 @@
            * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
            * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
      * **Process & Tools, Platform**
-       * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
        * [Setup](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
+       * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
        * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
 
 ## 2. Data-Intensive:
