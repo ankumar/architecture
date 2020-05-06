@@ -14,7 +14,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
  * **Interfaces**
    * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
    * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
-   * [Event-driven/Asynchronous](https://www.asyncapi.com/)
+   * [Event-driven/Async](https://www.asyncapi.com/)
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
      * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
