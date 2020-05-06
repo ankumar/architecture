@@ -8,7 +8,7 @@
    * **Developer Experience for Bringing Together**
      * [Organization & Culture](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
        * Services - Shipping Org Chart
-         * **Data Modeling**
+         * Data Modeling
          * Stateless - Product Catalog, UGC, ... 
          * Stateful - User Shopping Cart, ...
        * Interfaces
