@@ -11,14 +11,14 @@
          * **Data Modeling**
          * Stateless - Product Catalog, UGC, ... 
          * Stateful - User Shopping Cart, ...
-       * **Interfaces:**
+       * Interfaces
          * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
          * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
          * [Event-driven/Asynchronous](https://www.asyncapi.com/)
          * More Styles:
            * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
            * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-     * Process & Tools, Platform
+     * **Process & Tools, Platform**
        * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
        * [Setup](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
        * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
