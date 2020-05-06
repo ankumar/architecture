@@ -19,7 +19,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
      * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
   * **Tools**
-    * Terminal
+    * Terminal>_
       * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
     * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
