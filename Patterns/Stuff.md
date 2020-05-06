@@ -5,22 +5,23 @@
    * **Preparing for a future Microservices journey using DDD & Wardley Maps**
       - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
       - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
-   * **Developer Experience for bringing together Apps, Services, Platform,  Process & Tools, Organization & Culture**
-     * [Services - Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
-       * **Data Modeling**
-       * Stateless - Product Catalog, UGC, ... 
-       * Stateful - User Shopping Cart, ...
-     * **Interfaces:**
-       * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
-       * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
-       * [Event-driven/Asynchronous](https://www.asyncapi.com/)
-       * More Styles:
-         * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-         * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-
+   * **Developer Experience for Bringing Together
+     * Organization & Culture**
+       * [Services - Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+         * **Data Modeling**
+         * Stateless - Product Catalog, UGC, ... 
+         * Stateful - User Shopping Cart, ...
+       * **Interfaces:**
+         * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
+         * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+         * [Event-driven/Asynchronous](https://www.asyncapi.com/)
+         * More Styles:
+           * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+           * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+     * Process & Tools, Platform
        * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
        * [IDE](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
-     * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
+       * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
 
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
