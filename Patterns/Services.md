@@ -32,3 +32,4 @@ There are many useful heuristics for defining the boundaries of a service
 * [Domain-Driven Design](https://www.dddheuristics.com/)
 * [Distributed Application Runtime- An event-driven, portable runtime for building microservices on cloud and edge](https://dapr.io/)
 * [Open Application Model- A team-centric *standard* for building cloud native apps](https://oam.dev/)
+* [Microsoft Coyote](https://microsoft.github.io/coyote/)
