@@ -1,9 +1,9 @@
 ## 1. Software-Intensive: 
 **Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
 
-* **Preparing for a future Microservices journey using DDD & Wardley Maps**
+* **Preparing for a future Microservices journey using DDD & Wardley Maps - **
 [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
- [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
+[-Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
    
 * [Organization & Culture - Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
   * Services - 
