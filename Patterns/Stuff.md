@@ -20,7 +20,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
      * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
   * **Tools**
     * Code to Cloud
-      * [GitHub](https://github.com/features/codespaces)
+      * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
     * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
     * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
