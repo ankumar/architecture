@@ -6,7 +6,7 @@
       - [Slides](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
       - [Video](https://www.youtube.com/watch?v=1cnLMuBABo0)
    * **Developer Experience for Bringing Together**
-     1[Organization & Culture - Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+     * [Organization & Culture - Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
        * Services
          * Data Modeling
          * Stateless - Product Catalog, UGC, ... 
@@ -18,7 +18,7 @@
          * More Styles:
            * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
            * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-     2**Process & Tools - Platform**
+     * **Process & Tools - Platform**
        * [Setup](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
        * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
        * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
