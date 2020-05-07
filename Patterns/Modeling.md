@@ -19,7 +19,7 @@ Two bits of knowledge are needed at the beginning of the design process:
 5. https://microservices.io/patterns/decomposition/decompose-by-business-capability.html
      * https://microservices.io/patterns/decomposition/decompose-by-subdomain.html
 6. [Things More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
-     * [Relational: MySQL - FB, UBER, Quora, ...]()
+     * [Relational: MySQL - FB, UBER, Quora, ...](https://www.quora.com/q/quoraengineering/MySQL-sharding-at-Quora)
        * Sharding (Vertical / Horizontal)
        * No JOINS policy in code
        * API based queries on Database
