@@ -13,7 +13,7 @@ Two bits of knowledge are needed at the beginning of the design process:
 
 Services should be organized around Business concepts, a.k.a. Business capabilities or DDD subdomains/bounded contexts. Their names and responsibilities should reflect the Business [2][4][5]
 
-## API  - "APIs are forever, code is not..." - Mike Amundsen ; API Governance [3]
+## API  - "APIs are forever, code is not..." - [Mike Amundsen](http://amundsen.com/blog/) ; API Governance [3]
 ## Data Modeling
 * NoSQL - Designing denormalized data models is way harder than RDBMS, it's also a completely different mental model. The shift is hard ...
 * Relational -  Common Patterns [6]
