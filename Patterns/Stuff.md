@@ -14,11 +14,11 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
  * **Programming Model**
    * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
    * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
-   * [Event-driven/Async](https://www.asyncapi.com/)
-   * [Workflow](https://cadenceworkflow.io/)
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
      * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+   * [Event-driven/Async](https://www.asyncapi.com/)
+   * [Workflow](https://cadenceworkflow.io/)
   * **Tools**
     * Terminal>_
       * [GitHub - Codespaces](https://github.com/features/codespaces)
