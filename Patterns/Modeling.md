@@ -12,14 +12,14 @@ Two bits of knowledge are needed at the beginning of the design process:
 
 
 
-https://queue.acm.org/detail.cfm?id=3395214
-https://vladikk.com/2020/04/09/untangling-microservices/
-The challenge is how to mix decision elements within a team or set of teams to optimize effectiveness without slowing down production.
-https://speakerdeck.com/vladikk/balancing-coupling-in-distributed-systems
-https://microservices.io/patterns/decomposition/decompose-by-business-capability.html
-https://microservices.io/patterns/decomposition/decompose-by-subdomain.html
-Things More Developers Knew About Databases
-Relational: MySQL - FB, UBER, Quora, ...
+1. https://queue.acm.org/detail.cfm?id=3395214
+2. https://vladikk.com/2020/04/09/untangling-microservices/
+3. [The challenge is how to mix decision elements within a team or set of teams to optimize effectiveness without slowing down production](https://blogs.mulesoft.com/dev/management-dev/improve-api-governance-with-distributed-decision-making/)
+4. https://speakerdeck.com/vladikk/balancing-coupling-in-distributed-systems
+5. https://microservices.io/patterns/decomposition/decompose-by-business-capability.html
+ * https://microservices.io/patterns/decomposition/decompose-by-subdomain.html
+6. [Things More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+* [Relational: MySQL - FB, UBER, Quora, ...]()
 Sharding (Vertical / Horizontal)
 No JOINS policy in code
 API based queries on Database
