@@ -6,7 +6,7 @@
 ## Framework  
   * [AWS, Amplify](https://aws.amazon.com/amplify/)
   * [GraphQL](https://landscape.graphql.org/)
-  * Purpose-built Databases
+  * Purpose-built Databases - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
     * IN-MEMORY, RELATIONAL, KEY VALUE, DOCUMENT, TIME-SERIES, LEDGER
 
 ## Kubernetes:
