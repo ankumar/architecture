@@ -26,7 +26,7 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 ## Kubernetes:
 Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, & Staging and Production environments.
 
-**Planes - Management, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):**
+**Management - [Planes, Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):**
 * [GCP, Cloud Run](https://cloud.google.com/run/)   
 * https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
 
