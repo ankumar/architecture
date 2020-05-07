@@ -16,6 +16,8 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
      * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
    * [Event-driven/Async](https://www.asyncapi.com/)
    * [Workflow](https://cadenceworkflow.io/)
+   
+   * [Multi-Model](http://www.mm-adt.org/)
   * **Tools**
     * Terminal>_
       * [GitHub - Codespaces](https://github.com/features/codespaces)
