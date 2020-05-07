@@ -24,6 +24,10 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
     * IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
 ## Kubernetes:
+**Planes - Management, Control & Data:**
+* [GCP, Cloud Run](https://cloud.google.com/run/)   
+* https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
+
 **Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
   * [OAM (w/ Alibaba Team), Open Application Model](https://github.com/oam-dev/spec) specification   
   * [DAPR, Distributed Application Runtime](https://dapr.io/)
@@ -33,10 +37,6 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
   * [Secure networking](https://www.projectcalico.org)
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
   * ...
-
-**Planes - Management, Control & Data:**
-* [GCP, Cloud Run](https://cloud.google.com/run/)   
-* https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
 
 **Scheduler - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled:**
 * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
