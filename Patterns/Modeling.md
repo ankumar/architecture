@@ -10,7 +10,7 @@ Two bits of knowledge are needed at the beginning of the design process:
 * A preliminary notion of how the system will be organized. Without this, you can't begin to break down the design work. [1]
 
 
-
+---
 
 1. https://queue.acm.org/detail.cfm?id=3395214
 2. https://vladikk.com/2020/04/09/untangling-microservices/
