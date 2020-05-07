@@ -9,6 +9,12 @@ Two bits of knowledge are needed at the beginning of the design process:
 * An (initial) understanding of the system boundaries (and any boundaries on the design and development process too)—what's in scope and what's out of scope.
 * A preliminary notion of how the system will be organized. Without this, you can't begin to break down the design work. [1]
 
+# Boundaries - Balancing Coupling in Distributed Systems [2][4]
+
+## API  - "APIs are forever, code is not..." - Mike Amundsen ; API Governance [3]
+## Data Modeling
+* NoSQL - Designing denormalized data models is way harder than RDBMS, it's also a completely different mental model. The shift is hard ...
+* Relational -  Common Patterns [6]
 
 ---
 
