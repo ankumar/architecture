@@ -1,12 +1,13 @@
 # Design
-"Good design means then when I make a change, it’s as if the entire program was crafted in anticipation of it. I can solve a task with just a few choice function calls that slot in perfectly, leaving not the slightest ripple on the placid surface of the code."  -- Game Programming Patterns
+"Good design means then when I make a change, it’s as if the entire program was crafted in anticipation of it. I can solve a task with just a few choice function calls that slot in perfectly, leaving not the slightest ripple on the placid surface of the code."  -- [Game Programming Patterns](https://gameprogrammingpatterns.com/contents.html)
 
 The definition of design itself is quite interesting: 
-That kind of intellectual activity which creates a whole from its diverse parts may be called the design of a system.
+- That kind of intellectual activity which creates a whole from its diverse parts may be called the design of a system.
+
 Thinking about design, we more naturally think about it the other way around: how to decompose the whole into a set of parts that will work together to accomplish the system goals. Of course, parts do have to fit together to produce the intended whole again.
 Two bits of knowledge are needed at the beginning of the design process:
-• An (initial) understanding of the system boundaries (and any boundaries on the design and development process too)—what's in scope and what's out of scope.
-• A preliminary notion of how the system will be organized. Without this, you can't begin to break down the design work. [1]
+* An (initial) understanding of the system boundaries (and any boundaries on the design and development process too)—what's in scope and what's out of scope.
+* A preliminary notion of how the system will be organized. Without this, you can't begin to break down the design work. [1]
 
 
 
