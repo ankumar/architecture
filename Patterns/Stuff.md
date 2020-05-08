@@ -17,6 +17,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    * [Workflow](https://cadenceworkflow.io/)
    
    * [Multi-Model](http://www.mm-adt.org/)
+  
   * **Tools**
   
   **Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
