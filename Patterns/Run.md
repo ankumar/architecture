@@ -1,4 +1,5 @@
 # The Stack
+**Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
   
 ## Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard, A Sample:
