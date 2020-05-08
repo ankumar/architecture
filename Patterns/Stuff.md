@@ -18,6 +18,8 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    
    * [Multi-Model](http://www.mm-adt.org/)
   * **Tools**
+  **Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
+
     * **Terminal>_**
       * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
