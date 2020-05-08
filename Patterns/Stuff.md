@@ -1,5 +1,6 @@
-## 1. Software-Intensive:
 [Organization & Culture - Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+
+## 1. Software-Intensive:
 
 * **Preparing for a future Microservices journey using DDD & Wardley Maps**
 [**- Slides**](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
