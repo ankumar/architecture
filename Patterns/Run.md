@@ -26,9 +26,9 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 ## Kubernetes:
 Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, & Staging and Production environments.
 
-**Management - Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):
-  * [GCP, Cloud Run](https://cloud.google.com/run/)
+**Management - Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):**
   * Service Mesh - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
+  * [GCP, Cloud Run](https://cloud.google.com/run/)
   * https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
 
 **Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
