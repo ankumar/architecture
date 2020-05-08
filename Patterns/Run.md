@@ -1,6 +1,8 @@
 # The Stack
 **Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
-  
+1. [**Cross-cutting concerns**](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) - Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
+2. **Separation of Compute & Storage**
+
 ## Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard, A Sample:
 
@@ -23,7 +25,6 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
   * [GraphQL](https://landscape.graphql.org/)
 
 ## Kubernetes:
-**Separation of Compute & Storage** - Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
 
 **1.Management - Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):**
 
