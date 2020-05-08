@@ -19,7 +19,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    
    * [Multi-Model](http://www.mm-adt.org/)
   * **Tools**
-    * Terminal>_
+    * **Terminal>_**
       * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
     * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
