@@ -45,9 +45,9 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
   
   * ...
 
-**4.Scheduler - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled:**
+**5.Scheduler - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled:**
 * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
 
-**5.Hybrid:**
+**6.Hybrid:**
 * Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
 * GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
