@@ -2,8 +2,12 @@
 
 ## 1. Software-Intensive:
    
-  * **Services -** 
+ * **Services -** 
 There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) [a system](https://queue.acm.org/detail.cfm?id=3395214) into [services](https://github.com/ankumar/Architecture/blob/master/Patterns/Modeling.md). As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
+   * **Preparing for a future Microservices journey using DDD & Wardley Maps**
+[**- Slides**](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
+[**- Video**](https://www.youtube.com/watch?v=1cnLMuBABo0)
+
  * **Programming Model**
    * [Declarative/GraphQL](https://reactjs.org/blog/2015/05/01/graphql-introduction.html)  
    * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
@@ -15,8 +19,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    
    * [Multi-Model](http://www.mm-adt.org/)
   
-  * **Tools**
-  
+ * **Tools**
     * **Terminal>_**
       * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
