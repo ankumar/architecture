@@ -1,6 +1,4 @@
-## 1. Software-Intensive: 
-**Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
-
+## 1. Software-Intensive:
 [Organization & Culture - Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
 
 * **Preparing for a future Microservices journey using DDD & Wardley Maps**
