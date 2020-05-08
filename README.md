@@ -11,7 +11,7 @@
 
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
 
-**[Low code/no code - Write nothing; Deploy nowhere! - **Unit Billing Model:**](https://twitter.com/kelseyhightower/status/961026365146320896)**
+**[Low code/no code - Write nothing; Deploy nowhere! - Unit Billing Model:](https://twitter.com/kelseyhightower/status/961026365146320896)**
 * [Frontend - JAMstack](https://snipcart.com/blog/jamstack)
 * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
