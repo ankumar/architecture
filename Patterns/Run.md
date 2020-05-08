@@ -24,7 +24,7 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
     * IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
 ## Kubernetes:
-**Separation of Compute & Storage** - Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, & Staging and Production environments.
+**Separation of Compute & Storage** - Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
 
 **1.Management - Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):**
 
