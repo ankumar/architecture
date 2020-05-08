@@ -1,6 +1,6 @@
 # Standardized Tech Stack
 **Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
-* [**Cross-cutting concerns**](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526):
+[**Cross-cutting concerns**](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526):
   * Programs are optimized for managing cross-cutting concerns in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
 
 Cloud:
