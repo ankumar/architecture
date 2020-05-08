@@ -1,4 +1,4 @@
-# The Stack
+# Standardized Tech Stack
 **Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
 1. **Separation of Compute & Storage**
 2. [**Cross-cutting concerns**](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) - Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
