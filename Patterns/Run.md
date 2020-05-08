@@ -2,8 +2,9 @@
 **Design Principles: Devs to focus on Business logic, Hiding Distributed systems complexity.**
 * [**Cross-cutting concerns**](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) - 
   * Programs are optimized for managing cross-cutting concerns in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
-* Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
-* Separation of Compute & Storage
+Cloud:
+  * Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
+  * Separation of Compute & Storage
 
 ## Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard, A Sample:
