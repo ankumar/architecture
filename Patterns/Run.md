@@ -20,8 +20,6 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 ## Framework  
   * [AWS, Amplify](https://aws.amazon.com/amplify/)
   * [GraphQL](https://landscape.graphql.org/)
-  * Purpose-built Databases - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
-    * IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
 ## Kubernetes:
 **Separation of Compute & Storage** - Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
