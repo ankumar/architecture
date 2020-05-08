@@ -15,7 +15,7 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 
 **- About 1s**
 
-  * https://web.dev/vitals/
+ 1. https://web.dev/vitals/
   
 ## Framework  
   * [AWS, Amplify](https://aws.amazon.com/amplify/)
