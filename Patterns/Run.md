@@ -34,10 +34,14 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
   * [OAM (w/ Alibaba Team), Open Application Model](https://github.com/oam-dev/spec) specification   
   * [DAPR, Distributed Application Runtime](https://dapr.io/)
   * [KEDA, Kubernetes Event-driven Autoscaling](https://keda.sh)
-  * [Distributed State Management for Serverless](https://cloudstate.io)
   * [Kubernetes native applications](https://operatorhub.io)
   * [Secure networking](https://www.projectcalico.org)
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
+  
+  * [Distributed State Management for Serverless](https://cloudstate.io)
+    * Purpose-built Databases - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
+    * IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
+    
   * ...
 
 **4.Scheduler - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled:**
