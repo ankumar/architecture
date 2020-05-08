@@ -24,15 +24,15 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
     * IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
 ## Kubernetes:
-Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, & Staging and Production environments.
+**Separation of Compute & Storage** - Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, & Staging and Production environments.
 
-**Management - Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):**
+**1.Management - Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):**
 
-**Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
+**2.Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
   * [GCP, Cloud Run](https://cloud.google.com/run/)
   * https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
 
-**Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
+**3.Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
   * [OAM (w/ Alibaba Team), Open Application Model](https://github.com/oam-dev/spec) specification   
   * [DAPR, Distributed Application Runtime](https://dapr.io/)
   * [KEDA, Kubernetes Event-driven Autoscaling](https://keda.sh)
@@ -42,14 +42,9 @@ Network topology, Authentication, Cloud resource provisioning, Deployment, Loggi
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
   * ...
 
-**Scheduler - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled:**
+**4.Scheduler - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled:**
 * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
 
-**Hybrid:**
+**5.Hybrid:**
 * Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
 * GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
-
-
-    
-
-
