@@ -3,9 +3,8 @@
 
   * Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
   * Cloud - Separation of Compute & Storage; Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
-  * Resilience - [Resilience - Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777)
-    * Visualize Software, Architecture & Code
-
+  * Visualize Software, Architecture & Code - [Resilience - Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777)
+  
 ## Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard, A Sample:
 
