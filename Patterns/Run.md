@@ -6,6 +6,7 @@
 **Cloud:**
   * Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
   * Separation of Compute & Storage
+  
 **Resilience:**
   * [Resilience - Above the Line, Below the Line](https://queue.acm.org/detail.cfm?id=3380777)
       * Visualize Software, Architecture & Code
