@@ -18,6 +18,10 @@ There are many useful heuristics for defining the boundaries of a service
 **4. Organized around business capabilities** <br>
 **5. Owned by a small team**<br>
 
+* **Preparing for a future Microservices journey using DDD & Wardley Maps**
+[**- Slides**](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
+[**- Video**](https://www.youtube.com/watch?v=1cnLMuBABo0)
+---
 * [On the criteria to be used in decomposing systems into modules](https://dl.acm.org/doi/10.1145/361598.361623)
 * [Assembling Software from Independent Systems](https://scs-architecture.org/)
 * [The Twelve Factors](https://12factor.net/)
