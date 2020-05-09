@@ -17,9 +17,7 @@ There are many useful heuristics for defining the boundaries of a service
 **3. Independently deployable** <br>
 **4. Organized around business capabilities** <br>
 **5. Owned by a small team**<br>
-
 ---
-
 **Preparing for a future Microservices journey using DDD & Wardley Maps**
 [**- Slides**](https://www.slideshare.net/SusanneKaiser3/preparing-for-a-future-microservices-journey-using-ddd-wardley-maps)
 [**- Video**](https://www.youtube.com/watch?v=1cnLMuBABo0)
