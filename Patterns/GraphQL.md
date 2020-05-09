@@ -18,8 +18,8 @@ https://landscape.graphql.org/
         * https://public-api.shiphero.com/auth  (used for getting tokens)
         * https://public-api.shiphero.com/graphql (used for fetching and modifying your data)     
 4. **Expedia** - 
-    * https://www.apollographql.com/customers/expediagroup/ 
-    * 
+    * https://www.apollographql.com/customers/expediagroup/
+   
 
 
 
