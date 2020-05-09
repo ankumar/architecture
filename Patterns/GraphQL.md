@@ -1,4 +1,4 @@
-May 1st, 2020, Five year anniversary of GraphQL Open Source announcement!.
+May 1st/2020, Five year anniversary of GraphQL Open Source announcement!.
 
 **Introduction** - https://reactjs.org/blog/2015/05/01/graphql-introduction.html
 
