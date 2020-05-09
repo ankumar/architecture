@@ -14,5 +14,11 @@ https://landscape.graphql.org/
 3. **Modern Fulfillment as Service** - https://shiphero.com/
     * https://developer.shiphero.com/getting-started
     * 2 endpoints:
-        * https://public-api.shiphero.com/auth(used for getting tokens)
-        * https://public-api.shiphero.com/graphql(used for fetching and modifying your data)
+        * https://public-api.shiphero.com/auth 
+        * https://public-api.shiphero.com/graphql
+
+
+(used for getting tokens)
+
+
+(used for fetching and modifying your data)
