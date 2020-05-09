@@ -18,7 +18,7 @@ https://landscape.graphql.org/
         * https://public-api.shiphero.com/auth  (used for getting tokens)
         * https://public-api.shiphero.com/graphql (used for fetching and modifying your data)     
 4. **Expedia** - https://www.apollographql.com/customers/expediagroup/
-5. **Rebuilding our tech stack for the new Facebook.com** - https://engineering.fb.com/web/facebook-redesign/
+5. **Rebuilding tech stack for the new Facebook.com** - https://engineering.fb.com/web/facebook-redesign/
    
 
 
