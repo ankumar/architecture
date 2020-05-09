@@ -10,7 +10,7 @@
 **Design:**
 1. **Highly Aligned, Loosely Coupled**
 2. **Reversible & Irreversible Decisions**
-3. [**Teams**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
 ## 2. Tools & Services
 
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
