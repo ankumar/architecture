@@ -6,7 +6,7 @@ https://landscape.graphql.org/
 * https://www.prisma.io/
  
 
-
+---
 
 **Use cases:**
 1. **Merchants** - Shopify: https://shopify.dev/concepts/about-apis 
