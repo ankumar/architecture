@@ -10,8 +10,8 @@ https://landscape.graphql.org/
 ---
 
 **Use Cases:**
-1. **Merchants** - Shopify: https://shopify.dev/concepts/about-apis 
-2. **Developers** - GitHub: https://developer.github.com/v4/
+1. **Developers**, GitHub: https://developer.github.com/v4/
+2. **Merchants**, Shopify: https://shopify.dev/concepts/about-apis 
 3. **Modern Fulfillment as Service** - https://shiphero.com/
     * https://developer.shiphero.com/getting-started
     * 2 endpoints:
