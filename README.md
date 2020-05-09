@@ -9,7 +9,7 @@
 
 **Design:**
 1. **Highly Aligned, Loosely Coupled**
-2. **Reversible & Irreversible Decisions**
+2. [**Reversible & Irreversible Decisions**](https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm)
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
 ## 2. Tools & Services
 
