@@ -24,8 +24,7 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
  2. https://web.dev/vitals/
   
 ## Framework  
-  * [AWS, Amplify](https://aws.amazon.com/amplify/)
-  * [GraphQL](https://landscape.graphql.org/)
+  </>
 
 ## Kubernetes:
 
