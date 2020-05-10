@@ -11,10 +11,10 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
    * [Event-driven/Async](https://www.asyncapi.com/)
-   * [Workflow - Spans Multiple Requests](https://cadenceworkflow.io/)
+   * [Spans Multiple Requests/Workflow](https://cadenceworkflow.io/)
    * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
    
-   * [Multi-Model - Unified](http://www.mm-adt.org/)
+   * [Unified/Multi-Model](http://www.mm-adt.org/)
   
  * **Tools**
     * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
