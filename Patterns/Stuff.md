@@ -11,7 +11,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
    * [Event-driven/Async](https://www.asyncapi.com/)
-   * [Workflow](https://cadenceworkflow.io/)
+   * [Workflow - Spans Multiple Requests](https://cadenceworkflow.io/)
    * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
    
    * [Multi-Model](http://www.mm-adt.org/)
