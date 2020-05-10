@@ -17,7 +17,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    * [Unified/Multi-Model](http://www.mm-adt.org/)
   
  * **Tools**
-    * [Backstage - Spotify Developer Portal](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
+    * [Developer Portal/Backstage - Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
     * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
     * **Terminal>_**
       * [GitHub - Codespaces](https://github.com/features/codespaces)
