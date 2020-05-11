@@ -8,4 +8,7 @@ Secondary Indexes Per Table
 * 5 local secondary indexes
 * initial limit of 20 global secondary indexes per table
 
-**Cassandra** - 
+**Cassandra** - https://docs.datastax.com/en/cql-oss/3.x/cql/cql_reference/refLimits.html
+
+* Cells in a partition: ~2 billion (231); single column value size: 2 GB ( 1 MB is recommended)
+* Blob size: 2 GB ( less than 1 MB is recommended)
