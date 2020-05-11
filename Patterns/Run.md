@@ -27,9 +27,9 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 
 ## Data Modeling
 
-1. Single Table
-* [GraphQL](https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design)
+1. Single Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
 2. Multi Table
+* [GraphQL](https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design)
 
 ## Kubernetes:
 
