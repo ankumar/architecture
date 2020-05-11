@@ -25,7 +25,7 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
   
 ## Framework
 
-## Data Modeling
+### Data Modeling
 
 1. Single Table Design
 * https://www.alexdebrie.com/posts/dynamodb-single-table/
