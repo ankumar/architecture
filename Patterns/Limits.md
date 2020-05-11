@@ -12,3 +12,13 @@ Secondary Indexes Per Table
 
 * Cells in a partition: ~2 billion (2^31); single column value size: 2 GB ( **1 MB is recommended** )
 * Blob size: 2 GB ( less than 1 MB is recommended)
+
+**CosmosDB** - https://docs.microsoft.com/en-us/azure/cosmos-db/concepts-limits
+
+* Maximum size of an item -	2 MB (UTF-8 length of JSON representation)
+* API's:
+  * Cassandra
+  * MongoDB
+  * Gremlin
+  * Table
+  * Etcd
