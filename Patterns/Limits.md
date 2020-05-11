@@ -10,5 +10,5 @@ Secondary Indexes Per Table
 
 **Cassandra** - https://docs.datastax.com/en/cql-oss/3.x/cql/cql_reference/refLimits.html
 
-* Cells in a partition: ~2 billion (2^31); single column value size: 2 GB ( **1 MB is recommended**)
+* Cells in a partition: ~2 billion (2^31); single column value size: 2 GB ( **1 MB is recommended** )
 * Blob size: 2 GB ( less than 1 MB is recommended)
