@@ -23,8 +23,13 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
  2. https://web.dev/vitals/
   
-## Framework  
-  </>
+## Framework
+
+## Data Modeling
+
+1. Single Table
+* [GraphQL](https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design)
+2. Multi Table
 
 ## Kubernetes:
 
