@@ -20,9 +20,9 @@ Hipster Shop SandBox:
 * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
 * [Distributed Data]()
   * [Saga](https://microservices.io/patterns/data/saga.html)
+    * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
   * [CQRS](https://microservices.io/patterns/data/cqrs.html)
   * [API Composition](https://microservices.io/patterns/data/api-composition.html)
-    * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
   * [Delete](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 * Dynamo:
   * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
