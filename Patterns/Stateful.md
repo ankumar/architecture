@@ -1,6 +1,6 @@
 [micro]Services **hard parts**:
 
-1. 
+1. **Boundaries Right**
 2. **State Management**
 
 Dynamo:
