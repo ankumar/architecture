@@ -3,8 +3,8 @@
 2. **Distributed State Management**
 
 Desgin:
-1. Data Consisteny
-2. </>
+1. </>
+2. Data Consisteny
 3. Deleting Data, Ex: CCPA
 
 SandBox, Hipster Shop:
