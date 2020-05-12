@@ -12,7 +12,7 @@ SandBox, Hipster Shop:
 
 ----
 
-Patterns: [Why?](https://www.oreilly.com/content/why-a-pattern-language-for-microservices/)
+**Patterns:** [Why?](https://www.oreilly.com/content/why-a-pattern-language-for-microservices/)
 * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
 * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
@@ -25,7 +25,7 @@ Patterns: [Why?](https://www.oreilly.com/content/why-a-pattern-language-for-micr
 * [Functions](https://flink.apache.org/stateful-functions.html)
 * [Serverless](https://cloudstate.io)
 
-DBaaS: **Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
+**DBaaS: Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
 
 **Landscape** - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
