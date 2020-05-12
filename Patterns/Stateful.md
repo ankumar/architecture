@@ -18,10 +18,6 @@ Hipster Shop SandBox:
 
 2. https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html
 
-1. Dynamo:
-* Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
-* GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
-
 [Patterns](https://www.oreilly.com/content/why-a-pattern-language-for-microservices/):
 1. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
 * [Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
@@ -34,8 +30,11 @@ Hipster Shop SandBox:
 4. []()
 
 Model:
-1. [Functions](https://flink.apache.org/stateful-functions.html)
-2. [Serverless](https://cloudstate.io)
+1. Dynamo:
+* Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
+* GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
+2. [Functions](https://flink.apache.org/stateful-functions.html)
+3. [Serverless](https://cloudstate.io)
 
 DBaaS Landscape:
 1. [YugabyteDB Comparisons](https://docs.yugabyte.com/latest/comparisons/)
