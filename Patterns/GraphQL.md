@@ -4,8 +4,7 @@ May 1st, 2020, **Five year anniversary of GraphQL Open Source announcement!**.
 
 **Landscape** - https://landscape.graphql.org/
   * https://aws.amazon.com/graphql/ 
-    * [AWS - Amplify](https://aws.amazon.com/amplify/)
-    * w/ [Apache Velocity Template Language (VTL)](https://docs.aws.amazon.com/appsync/latest/devguide/resolver-mapping-template-reference-overview.html)
+    * [AWS - Amplify](https://aws.amazon.com/amplify/) w/ [Apache Velocity Template Language (VTL)](https://docs.aws.amazon.com/appsync/latest/devguide/resolver-mapping-template-reference-overview.html)
   * https://www.apollographql.com/ 
   * https://www.prisma.io/
 
