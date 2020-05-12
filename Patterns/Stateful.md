@@ -32,6 +32,6 @@ SandBox, Hipster Shop:
 
 2. DBaaS Landscape: **Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly." - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
-* [YugabyteDB Comparisons](https://docs.yugabyte.com/latest/comparisons/)
 * [Cassandra / Cloud Native](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
+* [YugabyteDB Comparisons](https://docs.yugabyte.com/latest/comparisons/)
 
