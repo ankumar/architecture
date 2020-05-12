@@ -18,7 +18,7 @@ Model:
 1. [Functions](https://flink.apache.org/stateful-functions.html)
 2. [Serverless](https://cloudstate.io)
 
-Landscape:
+DBaaS Landscape:
 1. [YugabyteDB Comparisons](https://docs.yugabyte.com/latest/comparisons/)
 2. [Cassandra / Cloud Native](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
 
