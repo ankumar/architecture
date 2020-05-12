@@ -22,4 +22,5 @@ Model:
 
 Landscape:
 1. [YugabyteDB Comparisons](https://docs.yugabyte.com/latest/comparisons/)
+2. [Cassandra / Cloud Native](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
 
