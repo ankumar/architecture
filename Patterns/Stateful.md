@@ -13,12 +13,7 @@ Hipster Shop SandBox:
 
 ----
 
-**Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
-* IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
-
-2. https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html
-
-[Patterns](https://www.oreilly.com/content/why-a-pattern-language-for-microservices/):
+[1. Patterns](https://www.oreilly.com/content/why-a-pattern-language-for-microservices/):
 1. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
 * [Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
 2. [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
@@ -29,7 +24,9 @@ Hipster Shop SandBox:
 * []()
 4. []()
 
-Model:
+2. https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html
+
+2. Model: **Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly." - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 1. Dynamo:
 * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
 * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
