@@ -32,10 +32,12 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 ## Kubernetes:
 
 **1.Management - Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html):**
-**Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
+
+* **Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
   * [GCP, Cloud Run](https://cloud.google.com/run/)
   * https://crossplane.io - is a universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
-**Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
+
+* **Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
   * [OAM (w/ Alibaba Team), Open Application Model](https://github.com/oam-dev/spec) specification   
   * [DAPR, Distributed Application Runtime](https://dapr.io/)
   * [KEDA, Kubernetes Event-driven Autoscaling](https://keda.sh)
