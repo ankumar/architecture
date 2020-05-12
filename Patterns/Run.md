@@ -46,9 +46,8 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
   * ...
   
-**4.Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
-    * IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
-  * [Distributed State Management for Serverless](https://cloudstate.io)
+**4.State Management**
+  * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
 **5.Scheduler - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled:**
 * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
