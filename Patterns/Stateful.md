@@ -7,6 +7,8 @@ Desgin:
 2. Data Consisteny
 3. Deleting Data, Ex: CCPA
 
+---
+
 SandBox, Hipster Shop:
 * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
 * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
