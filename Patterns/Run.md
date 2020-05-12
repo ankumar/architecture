@@ -23,12 +23,6 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
  2. https://web.dev/vitals/
   
-## Framework
-
-### Data Modeling
-
-</>
-
 ## Kubernetes:
 
 **1. Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
