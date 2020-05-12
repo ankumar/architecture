@@ -1,5 +1,6 @@
-[micro]Services **hard parts**:
+[micro]Services
 
+**Hard Parts**
 1. **Boundaries Right**
 2. **Distributed State Management**
 
