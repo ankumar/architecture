@@ -1,4 +1,4 @@
-**Hard Parts**
+**Services, Hard Parts**
 1. **Boundaries Right**
 2. **Distributed State Management**
 
