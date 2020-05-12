@@ -2,6 +2,7 @@
 * [**Architecture Decision Records (ADR's)**](https://engineering.walmart.com/adrs) 
   * Irreversible: “Some decisions are **consequential** and **irreversible** or nearly irreversible [..] these decisions must be made methodically, carefully, slowly, with **great deliberation and consultation**”
   * Reversible: "But **most decisions** aren’t like that – they are **changeable, reversible** – they’re two-way doors. If you’ve made a suboptimal [reversible] decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through."
+  * [Architecture Decision Records at Spotify](https://www.infoq.com/news/2020/04/architecture-decision-records/)
 * [**Conway's Law**](http://www.melconway.com/Home/Conways_Law.html) - How to Organize Organization for Optimal Development / "Shipping the Org Chart",  Pay the cost later in internal tools & stitching data together
   * Inverse Conway Maneuver - **"organizations should evolve their team and organizational structure to achieve the desired architecture"**
   * **“One of the biggest tragedies, I feel, in much of the software world, is how we divorce ourselves, and organizations create barriers between the business side, and the technical side, and it's important for an architect, as a technical leader, to go out, and try and break down those barriers …”** – [By Martin Fowler, The elephant in the Architecture](https://www.oreilly.com/radar/the-elephant-in-the-architecture/) 
