@@ -17,7 +17,7 @@ Use Cases:
 
 Patterns:
 1. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
-* [Why?)[https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html]
+* [Why?[(https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html]
 2. [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
 3. []()
 4. []()
