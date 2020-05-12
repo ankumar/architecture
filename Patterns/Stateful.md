@@ -3,6 +3,8 @@
 1. **Boundaries Right**
 2. **State Management**
 
+Use Cases:
+1. [Deleting Data, Ex: CCPA](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
 
 ----
 
@@ -12,10 +14,6 @@
 1. Dynamo:
 * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
 * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
-
-
-Use Cases:
-1. [Deleting Data, Ex: CCPA](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
 
 [Patterns](https://www.oreilly.com/content/why-a-pattern-language-for-microservices/):
 1. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
