@@ -7,6 +7,10 @@ Use Cases:
 1. [Consisten
 1. [Deleting Data, Ex: CCPA](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
 
+Hipster Shop SandBox:
+* [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
+* [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
+
 ----
 
 **Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
