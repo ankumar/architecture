@@ -2,9 +2,9 @@
 1. **Boundaries Right**
 2. **Distributed State Management**
 
-**Use Cases:**
-1. **Data Consisteny**
-2. **Deleting Data, Ex: CCPA**
+Use Cases:
+1. Data Consisteny
+2. Deleting Data, Ex: CCPA
 
 SandBox, Hipster Shop:
 * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
