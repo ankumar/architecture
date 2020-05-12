@@ -3,7 +3,7 @@
 1. **Boundaries Right**
 2. **Distributed State Management**
 
-Use Cases [1]:
+Use Cases:
 1. Data Consisteny 
 2. Deleting Data, Ex: CCPA
 
