@@ -5,7 +5,7 @@ Irreversible: “Some decisions are **consequential** and **irreversible** or ne
 
 Reversible: "But **most decisions** aren’t like that – they are **changeable, reversible** – they’re two-way doors. If you’ve made a suboptimal [reversible] decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through."
     
-   * [Architecture Decision Records at Spotify](https://www.infoq.com/news/2020/04/architecture-decision-records/)
+    * [Architecture Decision Records at Spotify](https://www.infoq.com/news/2020/04/architecture-decision-records/)
     
 * [**Conway's Law**](http://www.melconway.com/Home/Conways_Law.html) - How to Organize Organization for Optimal Development / "Shipping the Org Chart",  Pay the cost later in internal tools & stitching data together
   * Inverse Conway Maneuver - **"organizations should evolve their team and organizational structure to achieve the desired architecture"**
