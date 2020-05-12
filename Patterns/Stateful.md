@@ -11,7 +11,7 @@
 
 1.Dynamo:
 1. Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
-2. Multi Table - GraphQL - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
+2. GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
 
 
 Use Cases:
