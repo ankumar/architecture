@@ -13,7 +13,7 @@ Dynamo:
 * IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
  
 Use Cases:
-1. [Deleting Data](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
+1. [Deleting Data, Ex: Compliance](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
 
 Patterns:
 1. [Microservice Architecture](https://microservices.io/patterns/microservices.html)
