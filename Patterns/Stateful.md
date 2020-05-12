@@ -4,8 +4,8 @@
 2. **Distributed State Management**
 
 Use Cases:
-1. [Consisten
-1. [Deleting Data, Ex: CCPA](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
+1. Consisteny [1]
+1. Deleting Data, Ex: CCPA *2*
 
 Hipster Shop SandBox:
 * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
@@ -15,6 +15,8 @@ Hipster Shop SandBox:
 
 **Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
 * IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
+
+2. https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html
 
 1. Dynamo:
 * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
