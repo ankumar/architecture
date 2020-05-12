@@ -5,7 +5,7 @@
 
 Use Cases [1]:
 1. Consisteny 
-1. Deleting Data, Ex: CCPA
+2. Deleting Data, Ex: CCPA
 
 Hipster Shop SandBox:
 * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
@@ -20,9 +20,10 @@ Hipster Shop SandBox:
 3. [Data Consistency]()
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
   * []()
+  * [Delete](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
 4. []()
 
-2. https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html
+
 
 2. Model: **Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly." - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 1. Dynamo:
