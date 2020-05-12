@@ -2,9 +2,10 @@
 1. **Boundaries Right**
 2. **Distributed State Management**
 
-Use Cases:
+Desgin:
 1. Data Consisteny
-2. Deleting Data, Ex: CCPA
+2. </>
+3. Deleting Data, Ex: CCPA
 
 SandBox, Hipster Shop:
 * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
@@ -22,6 +23,10 @@ SandBox, Hipster Shop:
   * [CQRS](https://microservices.io/patterns/data/cqrs.html)
   * [API Composition](https://microservices.io/patterns/data/api-composition.html)
   * [Delete](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
+* 
+  * [Object ]()
+  * [Data Transfer Object](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
+  
 * [Functions](https://flink.apache.org/stateful-functions.html)
 * [Serverless](https://cloudstate.io)
 
