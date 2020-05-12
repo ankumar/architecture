@@ -30,6 +30,8 @@ SandBox, Hipster Shop:
 * [Functions](https://flink.apache.org/stateful-functions.html)
 * [Serverless](https://cloudstate.io)
 
+---
+
 **DBaaS: Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
 
 **Landscape** - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
