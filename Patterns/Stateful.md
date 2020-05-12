@@ -1,7 +1,7 @@
 [micro]Services **hard parts**:
 
 1. **Boundaries Right**
-2. **State Management**
+2. **Distributed State Management**
 
 Use Cases:
 1. [Deleting Data, Ex: CCPA](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html)
