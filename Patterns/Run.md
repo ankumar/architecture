@@ -31,7 +31,7 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 
 ## Kubernetes:
 
-**1.Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
+**1. Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
 * **Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
   * [GCP, Cloud Run](https://cloud.google.com/run/)
@@ -46,12 +46,12 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
   * ...
   
-**2.Manage State**
+**2. Manage State**
   * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
-**3.Manage Schedule, Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled**
+**3. Manage Schedule, Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled**
 * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
 
-**4.Manage Hybrid**
+**4. Manage Hybrid**
 * Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
 * GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
