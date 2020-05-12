@@ -22,9 +22,6 @@ Patterns: [Why?](https://www.oreilly.com/content/why-a-pattern-language-for-micr
   * [CQRS](https://microservices.io/patterns/data/cqrs.html)
   * [API Composition](https://microservices.io/patterns/data/api-composition.html)
   * [Delete](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
-* Dynamo:
-  * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
-  * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
 * [Functions](https://flink.apache.org/stateful-functions.html)
 * [Serverless](https://cloudstate.io)
 
@@ -34,4 +31,7 @@ DBaaS: **Purpose-built Databases** - "It wasn't that long ago when the DBAs owne
 
 * [Cassandra / Cloud Native](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
 * [YugabyteDB Comparisons](https://docs.yugabyte.com/latest/comparisons/)
+* Dynamo:
+  * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
+  * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
 
