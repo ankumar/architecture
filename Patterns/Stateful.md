@@ -18,7 +18,7 @@ Usecases:
 
 Model:
 1. [Functions](https://flink.apache.org/stateful-functions.html)
-2. [Distributed State Management for Serverless](https://cloudstate.io)
+2. [Serverless](https://cloudstate.io)
 
 Landscape:
 1. [YugabyteDB Comparisons](https://docs.yugabyte.com/latest/comparisons/)
