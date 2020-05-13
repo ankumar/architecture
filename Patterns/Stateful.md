@@ -24,8 +24,6 @@ Desgin:
   * [CQRS](https://microservices.io/patterns/data/cqrs.html)
   * [API Composition](https://microservices.io/patterns/data/api-composition.html)
   * [Delete](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
-* [Functions](https://flink.apache.org/stateful-functions.html)
-* [Serverless](https://cloudstate.io)
 
 ---
 
