@@ -1,7 +1,7 @@
 # Services, Hard Parts
 
 1. Apps
-2, Distributed Data Management
+2. Distributed Data Management
 3. Purpose-built Databases
 
 ## Apps
