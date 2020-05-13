@@ -20,8 +20,9 @@ Data Consistency
 Deleting Data - Cross cutting concerns, Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing;Abstraction ... 
   * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 
-## Streaming aaS 
+## Streaming
 
+</>
 
 ## DBaaS 
 
