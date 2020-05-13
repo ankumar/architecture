@@ -2,7 +2,7 @@
 
 1. Apps
 2. Data Consistency
-* Deleting Data, Ex: CCPA
+- Deleting Data, Ex: CCPA
 3. Purpose-built Databases
 
 ## Boundaries Right
