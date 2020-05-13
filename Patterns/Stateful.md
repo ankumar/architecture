@@ -2,18 +2,14 @@
 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement transactions using the Saga pattern and queries using the CQRS pattern.
 
-1. Apps - **Getting Boundaries Right**
-2. Distributed Data Management - **Data Consistency & Deleting Data, Ex: CCPA**
-3. Purpose-built Databases - **SQL & NoSQL**
-
-## Apps
+## Apps - Getting Boundaries Right
     
 Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern. The Data model comprises of
 
 1. Collection of Domain models like Customer, Order & Item
 2. Schema of the underlying database like Tables/Columns
 
-## Distributed Data Management
+## Distributed Data Management - Data Consistency & Deleting Data, Ex: CCPA
 
 Data Consistency
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
@@ -25,7 +21,7 @@ Deleting Data - Cross cutting concerns, Data Catalog of Online microservices & O
 
 </>
 
-## DBaaS 
+## DBaaS - Purpose-built Databases, SQL & NoSQL
 
 **Landscape** - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
