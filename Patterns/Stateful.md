@@ -11,16 +11,15 @@ Desgin:
 * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
 * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
-* [Distributed Data]()
+* Apps
+  * [Object-relational mapping(ORMs)]()
+  * [Data transfer object(DTOs)](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
+* Distributed Data
   * [Saga](https://microservices.io/patterns/data/saga.html)
     * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
   * [CQRS](https://microservices.io/patterns/data/cqrs.html)
   * [API Composition](https://microservices.io/patterns/data/api-composition.html)
   * [Delete](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
-* Apps
-  * [Object-relational mapping(ORMs)]()
-  * [Data transfer object(DTOs)](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
-  
 * [Functions](https://flink.apache.org/stateful-functions.html)
 * [Serverless](https://cloudstate.io)
 
