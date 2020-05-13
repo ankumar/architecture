@@ -35,6 +35,7 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 
 * **Multi-cloud**
   * [Crossplane](https://crossplane.io) - open source universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
+  * [AWS Outposts](https://aws.amazon.com/outposts/)
   * Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
   * GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
 
