@@ -5,9 +5,7 @@
 3. Purpose-built Databases - **SQL & NoSQL**
 
 ## Apps
-  
-APIs - REST, GraphQL or gRPC or anything else 
-  
+    
 Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
 
 The Data model comprises of
@@ -15,6 +13,7 @@ The Data model comprises of
 2. Schema of the underlying database like Tables/Columns
   
 ## Distributed Data Management
+
 Data Consistency
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
 
@@ -22,7 +21,6 @@ Deleting Data - Cross cutting concerns, Data Catalog of Online microservices & O
   * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 
 ## Streaming aaS 
-
 
 
 ## DBaaS 
