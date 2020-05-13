@@ -5,8 +5,6 @@
 3. Purpose-built Databases - **SQL & NoSQL**
 
 ## Apps
-[Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
-  * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   
 APIs - REST, GraphQL or gRPC or anything else 
   
