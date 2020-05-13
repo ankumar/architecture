@@ -39,14 +39,6 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 
 * **Inner Source** - Global & Local dichotomy, Open source best practices within organization
 
-* **Serverless** - A [serverless](https://cloudstate.io) application is one that provides maximum business value over its application lifecycle and one that costs nothing to run when not used, excluding data storage costs.
-
-* **SQL** - [SQL](https://en.wikipedia.org/wiki/SQL), or structured query language, is a domain-specific language developed for managing relational database management systems. It can be used to query, define, and manipulate data within a database as well as their organizational structures. SQL is ubiquitous among relational databases.
-
-* **Stateless & Stateful services** - A definition [Twelve-Factor App -> Processes](https://12factor.net/processes)
-  * Service checking availability of items is **stateless** - the data (state) is stored by another backend system.
-  * Service like shopping cart is **stateful**, items are stored and retrieved.
-
 * **ORM** - ORMs, or object-relational mappers, are abstraction layers that translate between the data representations used in relational databases and the representation in memory used with object-oriented programming. The ORM provides an object-oriented interface to data within the database, attempting to reduce the amount of code and use familiar archetypes to speed up development.
 
 * **Object-relational impedance mismatch** - Object-relational impedance mismatch refers to the difficulty of translating between an object-oriented application and a relational database. Since the data structures vary significantly, it can be difficult to faithfully and performantly mutate and transcribe the programmatic data structures to the format used by the storage backend.
@@ -56,6 +48,14 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 * **Persistence framework** - A persistence framework is a middeware abstraction layer developed to bridge the gap between program data and databases. Persistence frameworks may also be ORMs if the abstraction they employ maps objects to relational entities.
 
 * **Query builder** - A [query builder](https://softwareengineering.stackexchange.com/questions/138115/what-are-the-advantages-to-using-sql-query-builders) is an abstraction layer that helps developers access and control databases by providing a controlled interface which adds usability, safety, or flexibility features. Typically, query builders are relatively light-weight, focus on easing data access and data representation, and do not attempt to translate the data into a specific programming paradigm.
+
+* **Serverless** - A [serverless](https://cloudstate.io) application is one that provides maximum business value over its application lifecycle and one that costs nothing to run when not used, excluding data storage costs.
+
+* **SQL** - [SQL](https://en.wikipedia.org/wiki/SQL), or structured query language, is a domain-specific language developed for managing relational database management systems. It can be used to query, define, and manipulate data within a database as well as their organizational structures. SQL is ubiquitous among relational databases.
+
+* **Stateless & Stateful services** - A definition [Twelve-Factor App -> Processes](https://12factor.net/processes)
+  * Service checking availability of items is **stateless** - the data (state) is stored by another backend system.
+  * Service like shopping cart is **stateful**, items are stored and retrieved.
 
 
 
