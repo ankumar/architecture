@@ -44,3 +44,5 @@ A keyspace is the top-level database object that controls the replication for th
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
    
 ---
+
+https://github.com/ankumar/Architecture/blob/master/Patterns/Terminology.md
