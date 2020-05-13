@@ -39,3 +39,7 @@ Data Consistency & Deleting Data, Ex: CCPA
   * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
   * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
 
+---
+## Glossary 
+
+* Data mapper: A data mapper is a design pattern or piece of software that maps programming data structures to those stored in a database. Data mappers attempt to synchronize changes between the two sources while keeping them independent of each other. The mapper itself is responsible for maintaining a working translation, freeing developers to iterate the application data structures without concern for the database representation.
