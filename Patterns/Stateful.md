@@ -12,7 +12,7 @@
     * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
   * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
 
-* APIs - REST, GraphQL or gRPC
+* APIs - REST, GraphQL or gRPC or anything else 
 
 * Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
   * [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
