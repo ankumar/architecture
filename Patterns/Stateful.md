@@ -1,7 +1,6 @@
-**Services, Hard Parts**
-1. **Boundaries Right**
-2. **Distributed State Management**
+# Services, Hard Parts
 
+## Boundaries Right
 Desgin:
 1. </>
 2. Data Consisteny
@@ -17,6 +16,8 @@ Desgin:
 * Apps
   * [Object-relational mapping(ORMs)]()
   * [Data transfer object(DTOs)](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
+  
+## Distributed State Management
 * Distributed Data
   * [Saga](https://microservices.io/patterns/data/saga.html)
     * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
