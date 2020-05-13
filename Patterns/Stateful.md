@@ -9,8 +9,10 @@
 Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
 
 The Data model comprises of
-1. Collection of Domain models like Customer, Order & Item 
-2. Schema of the underlying database like Tables/Columns
+* Collection of Domain models like Customer, Order & Item 
+
+
+* Schema of the underlying database like Tables/Columns
 
 Dynamo:
 * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
