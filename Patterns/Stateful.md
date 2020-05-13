@@ -36,9 +36,9 @@ Deleting Data - Cross cutting concerns, Data Catalog of Online microservices & O
 **"It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."**
 
 * Big Table: A keyspace is the top-level database object that controls the replication for the object it contains at each datacenter in the cluster. Keyspaces contain tables, materialized views and user-defined types, functions and aggregates. Typically, a cluster has one keyspace per application. Since replication is controlled on a per-keyspace basis, store data with different replication requirements (at the same datacenter) in different keyspaces. Keyspaces are not a significant map layer within the data model.
-  1 [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
-  2 [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
-  3 Dynamo
+  1. [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
+  2. [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
+  3. [DynamoDB](https://aws.amazon.com/dynamodb/)
 * Spanner:
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
    
