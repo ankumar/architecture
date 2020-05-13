@@ -13,8 +13,6 @@
   * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
 
 * APIs - REST, GraphQL or gRPC
-  * [Functions](https://flink.apache.org/stateful-functions.html)
-  * [Serverless](https://cloudstate.io)
 
 * Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
   * [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
@@ -42,9 +40,11 @@
 ## Glossary 
 
 * **Data mapper**: A [data mapper](https://www.martinfowler.com/eaaCatalog/dataMapper.html) is a design pattern or piece of software that maps programming data structures to those stored in a database. Data mappers attempt to synchronize changes between the two sources while keeping them independent of each other. The mapper itself is responsible for maintaining a working translation, freeing developers to iterate the application data structures without concern for the database representation.
+* **Functions**: A [Functions](https://flink.apache.org/stateful-functions.html) ...
 * **Injection attack**: An injection attack is an attack in which a malicious user attempts to execute unwanted database operations using specially crafted input in user-facing application fields. Often, this is used to retrieve data that should not be accessible or to delete or mangle information in the database.
 * **ORM**: ORMs, or object-relational mappers, are abstraction layers that translate between the data representations used in relational databases and the representation in memory used with object-oriented programming. The ORM provides an object-oriented interface to data within the database, attempting to reduce the amount of code and use familiar archetypes to speed up development.
 * **Object-relational impedance mismatch**: Object-relational impedance mismatch refers to the difficulty of translating between an object-oriented application and a relational database. Since the data structures vary significantly, it can be difficult to faithfully and performantly mutate and transcribe the programmatic data structures to the format used by the storage backend.
 * **Persistence framework**: A persistence framework is a middeware abstraction layer developed to bridge the gap between program data and databases. Persistence frameworks may also be ORMs if the abstraction they employ maps objects to relational entities.
 * **Query builder**: A [query builder](https://softwareengineering.stackexchange.com/questions/138115/what-are-the-advantages-to-using-sql-query-builders) is an abstraction layer that helps developers access and control databases by providing a controlled interface which adds usability, safety, or flexibility features. Typically, query builders are relatively light-weight, focus on easing data access and data representation, and do not attempt to translate the data into a specific programming paradigm.
+* **Serverless**: A [Serverless](https://cloudstate.io) ...
 * **SQL**: [SQL](https://en.wikipedia.org/wiki/SQL), or structured query language, is a domain-specific language developed for managing relational database management systems. It can be used to query, define, and manipulate data within a database as well as their organizational structures. SQL is ubiquitous among relational databases.
