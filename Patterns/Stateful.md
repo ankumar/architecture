@@ -26,7 +26,7 @@ Deleting Data - Cross cutting concerns, Data Catalog of Online microservices & O
 
 ## Streaming aaS 
 
----
+
 
 ## DBaaS 
 
