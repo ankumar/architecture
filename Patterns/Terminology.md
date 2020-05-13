@@ -25,6 +25,8 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 
 * **Data mapper** - A [data mapper](https://www.martinfowler.com/eaaCatalog/dataMapper.html) is a design pattern or piece of software that maps programming data structures to those stored in a database. Data mappers attempt to synchronize changes between the two sources while keeping them independent of each other. The mapper itself is responsible for maintaining a working translation, freeing developers to iterate the application data structures without concern for the database representation.
 
+* **DTOs** - A Pattern https://martinfowler.com/eaaCatalog/dataTransferObject.html
+
 * [**Enterprise**](https://learning.oreilly.com/library/view/lean-enterprise/9781491946527/) - Single Metric, Measure **Time to Value** everywhere
   * **Governance**
   * [**Cloud**](https://aws.amazon.com/blogs/enterprise-strategy/governance-in-the-cloud-and-in-the-digital-age-part-one/)
