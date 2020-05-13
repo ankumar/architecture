@@ -21,6 +21,7 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
   * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
  
 **Code/Deploy:**
+
  * SandBox, Hipster Shop
    * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
    * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
