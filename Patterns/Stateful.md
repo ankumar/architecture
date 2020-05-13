@@ -6,9 +6,8 @@
 
 ## Apps
 * [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
-    * https://www.oreilly.com/content/why-a-pattern-language-for-microservices/
- 
   * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
+    * [Patterns](https://www.oreilly.com/content/why-a-pattern-language-for-microservices/)
     * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   
 * APIs - REST, GraphQL or gRPC or anything else 
