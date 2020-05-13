@@ -45,4 +45,4 @@ A keyspace is the top-level database object that controls the replication for th
    
 ---
 
-https://github.com/ankumar/Architecture/blob/master/Patterns/Terminology.md
+Glossary - https://github.com/ankumar/Architecture/blob/master/Patterns/Terminology.md
