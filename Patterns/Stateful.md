@@ -10,15 +10,9 @@ In a microservice architecture each service’s database is private to that serv
     
 Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern. The Data model comprises of
 
-1. Collection of Domain models like Customer, Order & Item 
-
-
+1. Collection of Domain models like Customer, Order & Item
 2. Schema of the underlying database like Tables/Columns
 
-Dynamo:
-* Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
-* GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design  
-  
 ## Distributed Data Management
 
 Data Consistency
@@ -41,6 +35,9 @@ Deleting Data - Cross cutting concerns, Data Catalog of Online microservices & O
   1. [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
   2. [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
   3. [DynamoDB](https://aws.amazon.com/dynamodb/)
+    * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
+    * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design  
+  
 * Spanner:
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
    
