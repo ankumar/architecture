@@ -50,4 +50,8 @@ Data Quality problem categories:
    
 **Examples:**
 * [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
- 
+Yhe goal of the platform is to enable Deep Learning Engineers to focus more of their time and energy on their ultimate goal — training high-quality models. They achieve this by tightly integrating all of the functionality DL Engineers need to train models at scale, including:
+- High-performance distributed training that just works
+- State-of-the-art hyperparameter search
+- Experiment management with experiment tracking, log management, metrics visualization, reproducibility, and dependency management
+- Flexibility - a fully open source system that supports both Tensorflow and PyTorch, and can run in the cloud or on-prem
