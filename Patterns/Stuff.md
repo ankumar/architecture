@@ -49,8 +49,9 @@ Data Quality problem categories:
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
    
 **Examples:**
-* [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
-Yhe goal of the platform is to enable Deep Learning Engineers to focus more of their time and energy on their ultimate goal — training high-quality models. They achieve this by tightly integrating all of the functionality DL Engineers need to train models at scale, including:
+[Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
+
+The goal of the platform is to enable Deep Learning Engineers to focus more of their time and energy on their ultimate goal — training high-quality models. They achieve this by tightly integrating all of the functionality DL Engineers need to train models at scale, including:
 - High-performance distributed training that just works
 - State-of-the-art hyperparameter search
 - Experiment management with experiment tracking, log management, metrics visualization, reproducibility, and dependency management
