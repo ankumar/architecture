@@ -1,8 +1,8 @@
 # Services, Hard Parts
 
-1. Apps - Getting Boundaries Right
-2. Distributed Data Management - Data Consistency & Deleting Data, Ex: CCPA
-3. Purpose-built Databases - 
+1. Apps - **Getting Boundaries Right**
+2. Distributed Data Management - **Data Consistency & Deleting Data, Ex: CCPA**
+3. Purpose-built Databases - **SQL & NoSQL**
 
 ## Apps
 * [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
