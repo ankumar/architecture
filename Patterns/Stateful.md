@@ -17,7 +17,7 @@ Desgin:
   * [CQRS](https://microservices.io/patterns/data/cqrs.html)
   * [API Composition](https://microservices.io/patterns/data/api-composition.html)
   * [Delete](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
-* 
+* Apps
   * [Object-relational mapping(ORMs)]()
   * [Data transfer object(DTOs)](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
   
