@@ -6,18 +6,20 @@
 
 ## Apps
 1. Getting Boundaries Right
+
 * [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
     * https://www.oreilly.com/content/why-a-pattern-language-for-microservices/
  
   * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
     * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
   * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
-* Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
-  * [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
 
 * APIs  
   * [Functions](https://flink.apache.org/stateful-functions.html)
   * [Serverless](https://cloudstate.io)
+
+* Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
+  * [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
   
 ## Distributed Data Management
 Data Consistency & Deleting Data, Ex: CCPA
