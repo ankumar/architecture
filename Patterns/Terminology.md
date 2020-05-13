@@ -1,6 +1,8 @@
 # Glossary:
 
 * **Application & Microservices** - https://martinfowler.com/articles/microservices.html
+  * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
+    * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   * Ex: [Demo App - Hipster Shop](https://github.com/GoogleCloudPlatform/microservices-demo)
 ![](https://github.com/ankumar/Architecture/blob/master/images/microservices.png)
 Monoliths vs Microservices, both architectural patterns are valid, and for complex organizations, a mix of both is inevitable.
