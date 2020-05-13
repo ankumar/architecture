@@ -11,6 +11,10 @@ Data Access patterns - Mapping between application & database structures. The tw
 The Data model comprises of
 1. Collection of Domain models like Customer, Order & Item 
 2. Schema of the underlying database like Tables/Columns
+
+Dynamo:
+* Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
+* GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design  
   
 ## Distributed Data Management
 
@@ -37,9 +41,7 @@ A keyspace is the top-level database object that controls the replication for th
 * Big Table:
   * [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
   * [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
-  * Dynamo:
-    * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
-    * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
+  * Dynamo
 * Spanner:
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
    
