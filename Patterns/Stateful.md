@@ -7,12 +7,6 @@ Desgin:
 2. Data Consisteny
 3. Deleting Data, Ex: CCPA
 
-----
-
-
-
-----
-
 **Patterns:** [Why?](https://www.oreilly.com/content/why-a-pattern-language-for-microservices/)
 * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
