@@ -14,8 +14,8 @@
   * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
   * [Object-relational mapping(ORMs)]()
   * [Data transfer object(DTOs)](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
-  * [Functions](https://flink.apache.org/stateful-functions.html)
-  * [Serverless](https://cloudstate.io)
+* [Functions](https://flink.apache.org/stateful-functions.html)
+* [Serverless](https://cloudstate.io)
   
 ## Distributed Data Management
 * [Saga](https://microservices.io/patterns/data/saga.html)
