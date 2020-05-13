@@ -1,23 +1,27 @@
 # Services, Hard Parts
 
 1. Apps
-2. Data Consistency
-3. Deleting Data, Ex: CCPA
-4. Purpose-built Databases
+2, Distributed Data Management
+3. Purpose-built Databases
 
-## Boundaries Right
+## Apps
+1. Getting Boundaries Right
 * [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
     * https://www.oreilly.com/content/why-a-pattern-language-for-microservices/
  
   * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
     * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
   * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
+* Map between application & database structures. The two major categories are the active record pattern and the data mapper pattern.
   * [Object-relational mapping(ORMs)]()
   * [Data transfer object(DTOs)](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
-* [Functions](https://flink.apache.org/stateful-functions.html)
-* [Serverless](https://cloudstate.io)
+  
+  * [Functions](https://flink.apache.org/stateful-functions.html)
+  * [Serverless](https://cloudstate.io)
   
 ## Distributed Data Management
+2.1 Data Consistency
+2.2 Deleting Data, Ex: CCPA
 * [Saga](https://microservices.io/patterns/data/saga.html)
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
 * [CQRS](https://microservices.io/patterns/data/cqrs.html)
