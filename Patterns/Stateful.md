@@ -12,7 +12,7 @@
   * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
     * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
   * [Monolithic Architecture](https://microservices.io/patterns/monolithic.html)
-* Access patterns - Mapping  between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper (ORMs & [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)) pattern. 
+* Access patterns - [Mapping](https://www.martinfowler.com/eaaCatalog/dataMapper.html)  between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper (ORMs & [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)) pattern. 
 
 * APIs  
   * [Functions](https://flink.apache.org/stateful-functions.html)
