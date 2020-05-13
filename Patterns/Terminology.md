@@ -5,11 +5,11 @@
 Monoliths vs Microservices, both architectural patterns are valid, and for complex organizations, a mix of both is inevitable.
 
 * [**Architecture Decision Records (ADR's)**](https://engineering.walmart.com/adrs) 
-  * [Architecture Decision Records at Spotify](https://www.infoq.com/news/2020/04/architecture-decision-records/)
-
+  
 Irreversible: “Some decisions are **consequential** and **irreversible** or nearly irreversible [..] these decisions must be made methodically, carefully, slowly, with **great deliberation and consultation**”
 
 Reversible: "But **most decisions** aren’t like that – they are **changeable, reversible** – they’re two-way doors. If you’ve made a suboptimal [reversible] decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through."
+   * [Architecture Decision Records at Spotify](https://www.infoq.com/news/2020/04/architecture-decision-records/)
 
 * **Cell-Based Architecture** - System Availability & Minimize the **"blast radius"** of any failures
    * [**Cell-Based Architecture**](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
