@@ -28,7 +28,7 @@
 **Landscape** - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
 * Multi-Modal
-  * [Cassandra / Cloud Native](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
+  * [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
   * [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
 * Dynamo:
