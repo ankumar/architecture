@@ -2,7 +2,7 @@
 
 ## Boundaries Right
 1. Apps
-2. Data Consistency
+
 3. Deleting Data, Ex: CCPA
 
 * [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
@@ -17,6 +17,8 @@
   * [Serverless](https://cloudstate.io)
   
 ## Distributed Data Management
+Data Consistency
+
 * [Saga](https://microservices.io/patterns/data/saga.html)
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
 * [CQRS](https://microservices.io/patterns/data/cqrs.html)
