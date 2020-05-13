@@ -1,4 +1,6 @@
-
+# SandBox, Hipster Shop**
+    * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
+    * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
 
 ## 1. Software-Intensive:
    
@@ -25,10 +27,6 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
     * **AI Assisted**
       * [Python and JavaScript](https://www.kite.com/)
-      
- * **SandBox, Hipster Shop**
-    * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
-    * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
 
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
