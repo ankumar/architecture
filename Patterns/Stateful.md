@@ -29,8 +29,8 @@
 
 * Multi-Modal
   * [Cassandra / Cloud Native](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
-  * [YugabyteDB Comparisons](https://docs.yugabyte.com/latest/comparisons/)
-  * [ScyllaDB]()
+  * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
+  * [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
 * Dynamo:
   * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
   * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
