@@ -2,7 +2,7 @@
 
 ## Boundaries Right
 1. Apps
-2. Data Consisteny
+2. Data Consistency
 3. Deleting Data, Ex: CCPA
 
 * [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
