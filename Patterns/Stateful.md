@@ -16,8 +16,9 @@
 * Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
   
 ## Distributed Data Management
-* [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
-* Delete Data - Cross cutting concerns, Common Abstraction, Data Catalog of Online microservices & Offline Warehouses, Data Discoverability, Access & Processing ... 
+*Data Consistency
+  * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
+* Deleting Data - Cross cutting concerns, Common Abstraction, Data Catalog of Online microservices & Offline Warehouses, Data Discoverability, Access & Processing ... 
   * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 
 ## DBaaS 
