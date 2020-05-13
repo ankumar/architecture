@@ -14,6 +14,10 @@
   * [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
 
 * Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
+
+The Data model comprises of
+1. Collection of Domain models like Customer, Order & Item 
+2. Schema of the underlying database like Tables/Columns
   
 ## Distributed Data Management
 * Data Consistency
