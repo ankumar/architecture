@@ -1,5 +1,7 @@
 # Services, Hard Parts
 
+In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement transactions using the Saga pattern and queries using the CQRS pattern. In this class you will learn how to implement transactions using the Saga pattern and queries using the CQRS pattern using with Redis.
+
 1. Apps - **Getting Boundaries Right**
 2. Distributed Data Management - **Data Consistency & Deleting Data, Ex: CCPA**
 3. Purpose-built Databases - **SQL & NoSQL**
