@@ -31,14 +31,15 @@ A keyspace is the top-level database object that controls the replication for th
 
 **Landscape** - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
-* Multi-Modal
+* Big Table:
   * [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
-  * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
   * [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
-* Dynamo:
-  * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
-  * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
-
+  * Dynamo:
+    * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
+    * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
+* Spanner:
+  * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
+   
 ---
 ## Glossary 
 
