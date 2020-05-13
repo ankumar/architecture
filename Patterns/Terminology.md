@@ -1,5 +1,7 @@
 # Glossary:
 
+* **APIs** - REST, GraphQL or gRPC or anything else 
+
 * **Application & Microservices** - https://martinfowler.com/articles/microservices.html
   * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
     * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
@@ -60,6 +62,3 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 * **Stateless & Stateful services** - A definition [Twelve-Factor App -> Processes](https://12factor.net/processes)
   * Service checking availability of items is **stateless** - the data (state) is stored by another backend system.
   * Service like shopping cart is **stateful**, items are stored and retrieved.
-
-
-
