@@ -49,5 +49,5 @@ Data Quality problem categories:
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
    
 **Examples:**
-* [Deep Learning Training Platform](https://determined.ai/developers/)
+* [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
  
