@@ -1,10 +1,11 @@
 # Services, Hard Parts
 
-## Boundaries Right
 1. Apps
+2. Data Consistency
+3. Deleting Data, Ex: CCPA
+4. Purpose-built Databases
 
-
-
+## Boundaries Right
 * [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
     * https://www.oreilly.com/content/why-a-pattern-language-for-microservices/
  
@@ -17,20 +18,15 @@
   * [Serverless](https://cloudstate.io)
   
 ## Distributed Data Management
-Data Consistency
-
 * [Saga](https://microservices.io/patterns/data/saga.html)
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
 * [CQRS](https://microservices.io/patterns/data/cqrs.html)
 * [API Composition](https://microservices.io/patterns/data/api-composition.html)
-
-Deleting Data, Ex: CCPA
-
 * [Delete](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 
 ## DBaaS 
 
-**Purpose-built Databases** - "It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
+"It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."
 
 **Landscape** - IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 
