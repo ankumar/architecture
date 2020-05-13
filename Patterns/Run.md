@@ -46,5 +46,4 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 **2. Manage State**
   * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
-**3. Manage Scheduler, Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled**
-* [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
+  
