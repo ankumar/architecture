@@ -11,9 +11,9 @@
     * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   
 * APIs - REST, GraphQL or gRPC or anything else 
+  * * [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
 
 * Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern.
-  * [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
   
 ## Distributed Data Management
 * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
