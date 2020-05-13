@@ -1,4 +1,4 @@
-# Terminology:
+# Glossary:
 * [**Architecture Decision Records (ADR's)**](https://engineering.walmart.com/adrs) 
   * [Architecture Decision Records at Spotify](https://www.infoq.com/news/2020/04/architecture-decision-records/)
 
