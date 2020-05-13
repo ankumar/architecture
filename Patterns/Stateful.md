@@ -8,8 +8,7 @@ Desgin:
 3. Deleting Data, Ex: CCPA
 
 **Patterns:** 
-* [Patterns, Why?]
-  * https://en.wikipedia.org/wiki/Software_design_pattern
+* [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
   * https://www.oreilly.com/content/why-a-pattern-language-for-microservices/
  
 * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
