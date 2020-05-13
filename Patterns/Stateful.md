@@ -1,12 +1,10 @@
 # Services, Hard Parts
 
-1. Apps
-2. Distributed Data Management
-3. Purpose-built Databases
+1. Apps - Getting Boundaries Right
+2. Distributed Data Management - Data Consistency & Deleting Data, Ex: CCPA
+3. Purpose-built Databases - 
 
 ## Apps
-1. Getting Boundaries Right
-
 * [Patterns, Why?](https://en.wikipedia.org/wiki/Software_design_pattern)
     * https://www.oreilly.com/content/why-a-pattern-language-for-microservices/
  
@@ -22,7 +20,6 @@
   * [DTOs](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
   
 ## Distributed Data Management
-Data Consistency & Deleting Data, Ex: CCPA
 * [Saga](https://microservices.io/patterns/data/saga.html)
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
 * [CQRS](https://microservices.io/patterns/data/cqrs.html)
