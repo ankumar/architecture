@@ -48,6 +48,8 @@ and general purpose programming model for the cloud, packaged as FaaS (Function 
 
 * **Inner Source** - Global & Local dichotomy, Open source best practices within organization
 
+* **Jamstack** - https://jamstack.org/
+
 * **ORM** - ORMs, or object-relational mappers, are abstraction layers that translate between the data representations used in relational databases and the representation in memory used with object-oriented programming. The ORM provides an object-oriented interface to data within the database, attempting to reduce the amount of code and use familiar archetypes to speed up development.
 
 * **Object-relational impedance mismatch** - Object-relational impedance mismatch refers to the difficulty of translating between an object-oriented application and a relational database. Since the data structures vary significantly, it can be difficult to faithfully and performantly mutate and transcribe the programmatic data structures to the format used by the storage backend.
