@@ -18,7 +18,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
     * **Custom** 
       * [Developer Portal/Backstage - Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
       * [Deployment Model](https://github.com/ankumar/Architecture/blob/master/Patterns/Run.md)
-    * **Rmmote backed by Cloud**
+    * **Remote backed by Cloud**
       * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
     * **AI Assisted**
