@@ -37,6 +37,3 @@ Deleting Data - Cross cutting concerns, Data Catalog of Online microservices & O
 * Spanner:
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
    
----
-
-Glossary - https://github.com/ankumar/Architecture/blob/master/Patterns/Terminology.md
