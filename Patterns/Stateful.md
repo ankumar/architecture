@@ -9,7 +9,7 @@ Data Access patterns - Mapping between application & database structures. The tw
 1. Collection of Domain models like Customer, Order & Item
 2. Schema of the underlying database like Tables/Columns
 
-## Distributed Data Management - Data Consistency
+## Distributed Data Management 
 
 Data Consistency
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
