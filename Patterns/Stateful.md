@@ -4,7 +4,7 @@ In a microservice architecture each service’s database is private to that serv
 
 ## Apps - Getting Boundaries Right
 
-Data modeling - typically needs to happen on (at least) two levels:
+**Data modeling** - typically needs to happen on (at least) two levels:
 
 * On the database level
 * On the application level (i.e., in your programming language)
@@ -16,17 +16,17 @@ The way how the application models are represented on both levels might differ d
 * Databases typically have more powerful data modeling capabilities, like indexes, cascading deletes, or a variety of additional constraints (e.g. unique, not null, ...)
 * Databases and programming languages have different technical constraints
     
-Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern. The Data model comprises of
+**Data Access patterns** - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern. The Data model comprises of
 
 1. Collection of domain models like Customer, Order, Item, ...
 2. Schema of the underlying database like Tables/Columns
 
 ## Distributed Data Management 
 
-Data Consistency
+**Data Consistency**
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
 
-Deleting Data - (Ex: CCPA) Cross cutting concerns, Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing;Abstraction ... 
+**Deleting Data** - (Ex: CCPA) Cross cutting concerns, Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing;Abstraction ... 
   * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 
 ## Streaming
