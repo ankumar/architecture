@@ -9,12 +9,12 @@ Data Access patterns - Mapping between application & database structures. The tw
 1. Collection of Domain models like Customer, Order & Item
 2. Schema of the underlying database like Tables/Columns
 
-## Distributed Data Management - Data Consistency & Deleting Data, Ex: CCPA
+## Distributed Data Management - Data Consistency
 
 Data Consistency
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
 
-Deleting Data - Cross cutting concerns, Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing;Abstraction ... 
+Deleting Data - (Ex: CCPA) Cross cutting concerns, Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing;Abstraction ... 
   * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 
 ## Streaming
