@@ -14,7 +14,7 @@
 
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
 
-[Low code/no code - Write nothing; Deploy nowhere!](https://twitter.com/kelseyhightower/status/961026365146320896)
+Low code/no code, Write nothing; Deploy nowhere! - https://twitter.com/kelseyhightower/status/961026365146320896
 
   * [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
     * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV) 
