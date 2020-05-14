@@ -37,7 +37,10 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
   * **Business Continuity**
     * [**COVID19 Context**](https://azure.microsoft.com/en-us/blog/update-3-business-continuity-azure/)
      
-* **Functions** - A [Functions](https://flink.apache.org/stateful-functions.html) ...
+* **Functions** - Functions are the general purpose element in serverless computing today, and lead the way to a simplified
+and general purpose programming model for the cloud, packaged as FaaS (Function as a Service) offerings. Different cloud platforms have different names for their FaaS offerings—AWS Lambda for Amazon Web Services(AWS), Google Cloud Functions for Google Cloud Platform, IBM Cloud Functions for IBM Cloud, and Azure Functions for Microsoft Azure. They all have similar features, and we refer to them as cloud functions or FaaS offerings interchangeably.
+
+   * [Stateful Functions](https://flink.apache.org/stateful-functions.html) 
 
 * **Hybrid** - An Architecture where we use a public cloud provider in combination with private, own data center.
 
