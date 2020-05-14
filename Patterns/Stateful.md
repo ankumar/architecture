@@ -49,5 +49,6 @@ The way how the application models are represented on both levels might differ d
     * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design  
   
 * Spanner:
+  * [CockroachDB](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
    
