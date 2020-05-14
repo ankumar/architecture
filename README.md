@@ -26,4 +26,4 @@ Low code/no code, Write nothing; Deploy nowhere! - https://twitter.com/kelseyhig
   * Online Hipster Shop "Sandbox"
       * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
       * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
-   * Domain Specific - </>
+   * More Domain Specific ... - </>
