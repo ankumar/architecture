@@ -22,7 +22,7 @@ The way how the application models are represented on both levels might differ d
 2. Schema of the underlying database like in 
 * Relational databases (like PostgreSQL), they are stored in tables.
 * Document databases (like MongoDB), they are stored in collections.
-* Keyspace in Cassandra is an object that holds together all column families (or tables) of a design.
+* Big Table databases (like Cassandra), Keyspace is an object that holds together all column families (or tables) of a design.
 
 ## Distributed Data Management 
 
