@@ -22,7 +22,7 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
  
 Code/Deploy/Operate - https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
 
-  * Build Domain Specific Sandbox
+  * Domain Specific Sandbox
     * Hipster Shop
       * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
       * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
