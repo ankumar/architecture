@@ -20,8 +20,7 @@ Low code/no code, Write nothing; Deploy nowhere! - https://twitter.com/kelseyhig
   * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
  
 Code/Deploy/Operate, **"Simplicitly for tomorrow..."** - https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
-    * Domain Specific Sandbox
-      * Online Hipster Shop
-        * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
-        * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
-      * 
+  * Online Hipster Shop
+      * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
+      * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
+   * Domain Specific Sandbox - </>
