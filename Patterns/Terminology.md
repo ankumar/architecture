@@ -22,7 +22,7 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
   * [**Shopify Journey**](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
 * **Cloud Native** - Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs** exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
-
+  
 * [**Conway's Law**](http://www.melconway.com/Home/Conways_Law.html) - How to Organize Organization for Optimal Development / "Shipping the Org Chart",  Pay the cost later in internal tools & stitching data together
   * Inverse Conway Maneuver - **"organizations should evolve their team and organizational structure to achieve the desired architecture"**
   * **“One of the biggest tragedies, I feel, in much of the software world, is how we divorce ourselves, and organizations create barriers between the business side, and the technical side, and it's important for an architect, as a technical leader, to go out, and try and break down those barriers …”** – [By Martin Fowler, The elephant in the Architecture](https://www.oreilly.com/radar/the-elephant-in-the-architecture/) 
@@ -55,7 +55,14 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 
 * **Query builder** - A [query builder](https://softwareengineering.stackexchange.com/questions/138115/what-are-the-advantages-to-using-sql-query-builders) is an abstraction layer that helps developers access and control databases by providing a controlled interface which adds usability, safety, or flexibility features. Typically, query builders are relatively light-weight, focus on easing data access and data representation, and do not attempt to translate the data into a specific programming paradigm.
 
-* **Serverless** - A [serverless](https://cloudstate.io) application is one that provides maximum business value over its application lifecycle and one that costs nothing to run when not used, excluding data storage costs.
+* **Serverless** - Serverless Computing provides an interface that greatly simplifies cloud programming, and represents an evolution that closely parallels past advances in programmer productivity, such as the transition from assembly language to high-level programming languages. Although it is arguably an oxymoron—you are still using servers to compute—the name caught on because it suggests that the cloud user simply writes the code and delegates the considerable server system administration tasks required by conventional cloud computing to the cloud provider.  The three fundamental differences between Serverless and conventional Cloud Computing are:
+
+1. Decoupling of computation and storage; they scale separately and are priced independently.
+2. The abstraction of executing a piece of code instead of allocating resources on which to execute that code.
+3. Paying for the code execution instead of paying for resources you have allocated to executing the code.
+
+  * [Cloud Programming Simplified: A Berkeley View on Serverless Computing](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2019/EECS-2019-3.html)
+  * A [serverless](https://cloudstate.io) application is one that provides maximum business value over its application lifecycle and one that costs nothing to run when not used, excluding data storage costs.
 
 * **SQL** - [SQL](https://en.wikipedia.org/wiki/SQL), or structured query language, is a domain-specific language developed for managing relational database management systems. It can be used to query, define, and manipulate data within a database as well as their organizational structures. SQL is ubiquitous among relational databases.
 
