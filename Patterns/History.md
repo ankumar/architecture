@@ -1,6 +1,7 @@
 # Computing
 
 * From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
+* Happy 20 years, The History of HAProxy - https://www.haproxy.com/blog/the-history-of-haproxy/
 
 # API
 
