@@ -6,8 +6,8 @@ In a microservice architecture each service’s database is private to that serv
 
 **Data modeling** - typically needs to happen on (at least) two levels:
 
-* On the database level
-* On the application level (i.e., in your programming language)
+* On the **database** level
+* On the **application** level (i.e., in your programming language)
 
 The way how the application models are represented on both levels might differ due to a few reasons:
 
