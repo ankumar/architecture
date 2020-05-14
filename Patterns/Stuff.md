@@ -21,6 +21,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
     * **Remote backed by Cloud**
       * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
+      * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
     * **AI Assisted**
       * [Python and JavaScript](https://www.kite.com/)
 
