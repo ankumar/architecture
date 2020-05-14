@@ -18,7 +18,7 @@ The way how the application models are represented on both levels might differ d
     
 **Data Access patterns** - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern. The Data model comprises of
 
-1. Collection of domain models like Customer, Order, Item, ...
+1. Collection of application domain models like Customer, Order, Item, ...
 2. Schema of the underlying database like in 
 * Relational databases (like PostgreSQL), they are stored in tables.
 * Document databases (like MongoDB), they are stored in collections.
