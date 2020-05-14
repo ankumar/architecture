@@ -3,6 +3,18 @@
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement transactions using the Saga pattern and queries using the CQRS pattern.
 
 ## Apps - Getting Boundaries Right
+
+Data modeling - typically needs to happen on (at least) two levels:
+
+* On the database level
+* On the application level (i.e., in your programming language)
+
+The way how the application models are represented on both levels might differ due to a few reasons:
+
+* Databases and programming languages use different data types
+* Relations are represented differently in a database than in a programming language
+* Databases typically have more powerful data modeling capabilities, like indexes, cascading deletes, or a variety of additional constraints (e.g. unique, not null, ...)
+* Databases and programming languages have different technical constraints
     
 Data Access patterns - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern. The Data model comprises of
 
