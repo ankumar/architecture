@@ -14,15 +14,12 @@
 
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
 
-**"Simplicitly for tomorrow..."**
-
 Low code/no code, Write nothing; Deploy nowhere! - https://twitter.com/kelseyhightower/status/961026365146320896
-
   * [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
     * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV) 
   * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
  
-  * Code/Deploy/Operate - https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
+  * Code/Deploy/Operate, **"Simplicitly for tomorrow..."** -  https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
     * Domain Specific Sandbox
       * Online Hipster Shop
         * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
