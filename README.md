@@ -13,9 +13,8 @@
 ## 2. Tools & Services
 
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
-
 ![](https://github.com/ankumar/Architecture/blob/master/images/roofshots.png)
-A Race to Higher Level Systems - consistent, short-term, incremental “roofshots” that make our Products better year after year ...
+-- A Race to Higher Level Systems - consistent, short-term, incremental “roofshots” that make our Products better year after year ...
 
 Low code/no code, Write nothing; Deploy nowhere! - https://twitter.com/kelseyhightower/status/961026365146320896
   * [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
