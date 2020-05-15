@@ -6,10 +6,15 @@ An example set of related transactions ...
 
 **Begin transaction**
     Start book hotel request
+    
     End book hotel request
+    
     Start book flight request
+    
     End book flight request
+    
     Start book car rental request
+    
     End book car rental request
 **End transaction**
 
