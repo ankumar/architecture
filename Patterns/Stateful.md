@@ -75,6 +75,7 @@ An example for Booking Travel ...
   2. [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
   3. [DynamoDB](https://aws.amazon.com/dynamodb/)
     * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
+    * GraphQL/Single Table - https://www.goingserverless.com/blog/single-table-dynamodb-for-appsync
     * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design  
   
 * Spanner:
