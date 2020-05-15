@@ -2,9 +2,7 @@
 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
-An example ...
-
-**Begin transaction**
+An example ... **Begin transaction**
     
     Start book hotel request
     
