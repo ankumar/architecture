@@ -21,7 +21,7 @@ An example ...
 
 ## Apps - Getting Boundaries Right
 
-**Data modeling** - typically needs to happen on (at least) two levels:
+**1. Data modeling** - typically needs to happen on (at least) two levels:
 
 * On the **database** level
 * On the **application** level (i.e., in your programming language)
@@ -33,7 +33,7 @@ The way how the application models are represented on both levels might differ d
 * Databases typically have more powerful data modeling capabilities, like indexes, cascading deletes, or a variety of additional constraints (e.g. unique, not null, ...)
 * Databases and programming languages have different technical constraints
     
-**Data Access patterns** - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern. The Data model comprises of
+**2. Data Access patterns** - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the data mapper pattern. The Data model comprises of
 
 1. Collection of application domain models like Customer, Order, Item, ...
 2. Schema of the underlying database like in 
