@@ -1,8 +1,8 @@
-# Services, Hard Parts
+# “Stateful” systems ... 
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/stateful.jpeg)
 
-An ontology of “stateful” systems ... 
+An ontology ... 
 * All stateless systems are stateless in no more than 4 ways.
 * All stateful systems are stateful in ... 21 possible ways?
   * With examples from Kafka (sticky partitioning), Cassandra (hinted handoffs).
