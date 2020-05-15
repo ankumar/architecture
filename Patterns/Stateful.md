@@ -5,6 +5,7 @@ An ontology of “stateful” systems ...
 * All stateless systems are stateless in no more than 4 ways.
 * All stateful systems are stateful in ... 21 possible ways?
   * With examples from Kafka (sticky partitioning), Cassandra (hinted handoffs).
+* [A Paper - Locality, Statefulness, and Causality in Distributed Information Systems](https://arxiv.org/pdf/1909.09357.pdf)
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/stateful.jpeg)
 
