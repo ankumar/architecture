@@ -4,6 +4,7 @@ An ontology of “stateful” systems ...
 * All stateless systems are stateless in no more than 4 ways.
 * All stateful systems are stateful in ... 21 possible ways?
   * With examples from Kafka (sticky partitioning), Cassandra (hinted handoffs).
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/stateful.jpeg)
 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
