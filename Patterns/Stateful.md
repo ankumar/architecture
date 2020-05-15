@@ -5,6 +5,7 @@ In a microservice architecture each service’s database is private to that serv
 An example set of related transactions ...
 
 **Begin transaction**
+    
     Start book hotel request
     
     End book hotel request
