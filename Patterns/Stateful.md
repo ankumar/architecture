@@ -19,7 +19,7 @@ An example ...
     End book car rental request
 **End transaction**
 
-## Apps - Getting Boundaries Right
+## App Data
 
 **1. Data modeling** - typically needs to happen on (at least) two levels:
 
