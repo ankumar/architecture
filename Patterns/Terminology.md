@@ -33,7 +33,7 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 
 * [**Enterprise**](https://learning.oreilly.com/library/view/lean-enterprise/9781491946527/) - Single Metric, Measure **Time to Value** everywhere
   * **Governance**
-  * [**Cloud**](https://aws.amazon.com/blogs/enterprise-strategy/governance-in-the-cloud-and-in-the-digital-age-part-one/)
+    * [**Cloud**](https://aws.amazon.com/blogs/enterprise-strategy/governance-in-the-cloud-and-in-the-digital-age-part-one/)
   * **Business Continuity**
     * [**COVID19 Context**](https://azure.microsoft.com/en-us/blog/update-3-business-continuity-azure/)
      
