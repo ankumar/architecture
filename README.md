@@ -22,7 +22,7 @@ Low code/no code, Write nothing; Deploy nowhere! - https://twitter.com/kelseyhig
     * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV) 
   * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
  
- Code/Deploy/Operate, **Simplifying...** - https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
+ Code/Deploy/Operate, **Simplifying...** https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
   * Online Hipster Shop "Sandbox"
       * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
       * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
