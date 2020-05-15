@@ -51,14 +51,14 @@ An example for Booking Travel ...
     End book car rental request
 **End transaction**
 
-**1. Kafka** - </>
-
-**2. Data Consistency**
+**1. Data Consistency**
   * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html)
   * Implementations:
     * https://eventuate.io/docs/manual/eventuate-tram/latest/getting-started-eventuate-tram-sagas.html
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
+
+**2. Kafka** - </>
 
 **3. Deleting Data** - (Ex: CCPA) Cross cutting concerns, Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing;Abstraction ... 
   * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
