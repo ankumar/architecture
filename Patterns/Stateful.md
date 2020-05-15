@@ -10,7 +10,6 @@ An ontology of “stateful” systems ...
 ![](https://github.com/ankumar/Architecture/blob/master/images/stateful.jpeg)
 
 ## Application Data
-In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
 **1. Data modeling** - typically needs to happen on (at least) two levels:
 
@@ -33,6 +32,7 @@ The way how the application models are represented on both levels might differ d
 * Big Table databases (like Cassandra), Keyspace is an object that holds together all column families (or tables) of a design.
 
 ## Distributed Data Management 
+In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
 An example for Booking Travel ... 
 
