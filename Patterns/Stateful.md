@@ -58,9 +58,11 @@ An example for Booking Travel ...
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
 
-**2.Event-driven/Async** - </>
-    * Span Multiple Requests/Workflow
+**2.Event-driven/Async**
 
+Span Multiple Requests/Workflow
+  * (AsyncAPI specification)(https://www.asyncapi.com/)
+  
 **3. Deleting Data** - (Ex: CCPA) 
 
 Cross cutting concerns - Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing;Abstraction ... 
