@@ -58,7 +58,8 @@ An example for Booking Travel ...
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
 
-**2. Kafka** - </>
+**2.Event-driven/Async** - </>
+    * Span Multiple Requests/Workflow
 
 **3. Deleting Data** - (Ex: CCPA) 
 
