@@ -28,5 +28,5 @@ Low code/no code, Write nothing; Deploy nowhere! - https://twitter.com/kelseyhig
       * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
    * More Domain Specific ... - </>
       * Business Flows (beyond a single request/reply)
-      * Data Intensive
+      * Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
       * ...
