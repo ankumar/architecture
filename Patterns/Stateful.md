@@ -1,8 +1,8 @@
 # “Stateful” ... 
 
-* Looked for a Definition in [Designing Data-Intensive Applications](https://dataintensive.net/) Book
+1. Looked for a Definition in [Designing Data-Intensive Applications](https://dataintensive.net/) Book
 
-An ontology of “stateful” systems ... 
+2. An ontology of “stateful” systems ... 
 * All systems are stateful. They only differ in the time it takes to restore state, when it was lost.
 * All stateless systems are stateless in no more than 4 ways.
 * All stateful systems are stateful in ... 21 possible ways?
