@@ -32,5 +32,5 @@ Low code/no code, Write nothing; Deploy nowhere! - https://twitter.com/kelseyhig
       * Learning Systems, Tasks
       
       Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
-        * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
-        * [Covariant](https://covariant.ai/solutions)
+          * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
+          * [Covariant](https://covariant.ai/solutions)
