@@ -65,7 +65,7 @@ An example for Booking Travel ...
 **2.Event-driven/Async**
 
 Span Multiple Requests/Workflow
-  * (AsyncAPI specification)(https://www.asyncapi.com/)
+  * [AsyncAPI specification](https://www.asyncapi.com/)
   
 **3. Deleting Data** - (Ex: CCPA) 
 
