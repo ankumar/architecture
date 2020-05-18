@@ -18,7 +18,8 @@ Irreversible: “Some decisions are **consequential** and **irreversible** or ne
 Reversible: "But **most decisions** aren’t like that – they are **changeable, reversible** – they’re two-way doors. If you’ve made a suboptimal [reversible] decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through."
    
 * **Cell-Based Architecture** - System Availability & Minimize the **"blast radius"** of any failures
-  * [**•	WSO2 - Enterprise Reference**](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
+  * [How AWS Minimizes the Blast Radius of Failures - Cell based architecture starts at 21:07](https://www.youtube.com/watch?v=swQbA4zub20)
+  * [**WSO2 - Enterprise Reference**](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
   * [**Control vs Data plane**](http://www.cs.cmu.edu/~4D/papers/greenberg-ccr05.pdf)
   * [**Shopify Journey**](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
