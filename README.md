@@ -25,8 +25,8 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
  
 **Code/Deploy/Operate, Simplify to Low code/no code ...** https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
    * Online Hipster Shop "Sandbox"
-      * [GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
-      * [YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
+      * [Microservices / GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
+      * [SQL / YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
    * More, Domain Specific ... - </>
       * Business Flows (beyond a single request/reply)
       * Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
