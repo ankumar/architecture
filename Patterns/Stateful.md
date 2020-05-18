@@ -46,6 +46,7 @@ In a microservice architecture each service’s database is private to that serv
 
 * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html), Implementations:
     * https://eventuate.io/docs/manual/eventuate-tram/latest/getting-started-eventuate-tram-sagas.html
+    * [A Distributed Transaction Solution Open Sourced by Alibaba](http://seata.io/en-us/)
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
 
