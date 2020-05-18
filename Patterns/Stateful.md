@@ -55,7 +55,7 @@ In a microservice architecture each service’s database is private to that serv
 Span Multiple Requests/Workflow
   * [AsyncAPI specification](https://www.asyncapi.com/)
   
-**3. Deleting Data** - (Ex: CCPA) 
+**3. Deleting Data** - (Ex: CCPA, ...) 
 
 Cross cutting concerns - Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing
 
