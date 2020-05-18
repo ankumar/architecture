@@ -17,20 +17,21 @@ Irreversible: “Some decisions are **consequential** and **irreversible** or ne
 
 Reversible: "But **most decisions** aren’t like that – they are **changeable, reversible** – they’re two-way doors. If you’ve made a suboptimal [reversible] decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through."
    
+* **Blast Radius** - Murphy's Law, "If anything can go wrong, it will." Failure is not binary, degree of impact
+![](https://github.com/ankumar/Architecture/blob/master/images/Blast%20Radius.png)
+
 * **Cell-Based Architecture** - System Availability & Minimize the **"blast radius"** of any failures
   * [**How AWS Minimizes the Blast Radius of Failures - Cell based architecture starts at 21:07**](https://www.youtube.com/watch?v=swQbA4zub20)
   * [**WSO2 - Enterprise Reference**](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
   * [**Control vs Data plane**](http://www.cs.cmu.edu/~4D/papers/greenberg-ccr05.pdf)
   * [**Shopify Journey**](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
-* **Blast Radius** - Murphy's Law, "If anything can go wrong, it will." Failure is not binary, degree of impact
-![](https://github.com/ankumar/Architecture/blob/master/images/Blast%20Radius.png)
+* **Cloud Native** - Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs** exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
 
 * **Control & Data Planes** - 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Control%20and%20Data%20planes.png)
-
-* **Cloud Native** - Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs** exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
-  
+  * [Control Planes vs Data Planes](https://brooker.co.za/blog/2019/03/17/control.html)
+   
 * [**Conway's Law**](http://www.melconway.com/Home/Conways_Law.html) - How to Organize Organization for Optimal Development / "Shipping the Org Chart",  Pay the cost later in internal tools & stitching data together
   * Inverse Conway Maneuver - **"organizations should evolve their team and organizational structure to achieve the desired architecture"**
   * **“One of the biggest tragedies, I feel, in much of the software world, is how we divorce ourselves, and organizations create barriers between the business side, and the technical side, and it's important for an architect, as a technical leader, to go out, and try and break down those barriers …”** – [By Martin Fowler, The elephant in the Architecture](https://www.oreilly.com/radar/the-elephant-in-the-architecture/) 
