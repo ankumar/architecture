@@ -1,6 +1,8 @@
 # “Stateful” ... 
 
-1. Looked for a Definition in [Designing Data-Intensive Applications](https://dataintensive.net/) Book
+A Formal Definition ...
+
+1. Looked in [Designing Data-Intensive Applications](https://dataintensive.net/) Book
 
 2. https://12factor.net/processes - Twelve-factor processes are stateless and share-nothing. Any data that needs to persist must be stored in a stateful [backing service](https://12factor.net/backing-services), typically a database.
 
