@@ -75,7 +75,7 @@ An Abstraction ...
     * GraphQL/Single Table - https://www.goingserverless.com/blog/single-table-dynamodb-for-appsync
     * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design  
   
-* Spanner:
+* [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf)
   * [CockroachDB](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
    
