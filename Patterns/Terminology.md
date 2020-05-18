@@ -20,6 +20,8 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 * **Blast Radius** - Murphy's Law, "If anything can go wrong, it will." Failure is not binary, degree of impact
 ![](https://github.com/ankumar/Architecture/blob/master/images/Blast%20Radius.png)
 
+* **CAP Theorem** - 
+
 * **Cell-Based Architecture** - System Availability & Minimize the **"blast radius"** of any failures
   * [**How AWS Minimizes the Blast Radius of Failures - Cell based architecture starts at 21:07**](https://www.youtube.com/watch?v=swQbA4zub20)
   * [**WSO2 - Enterprise Reference**](https://github.com/wso2/reference-architecture/blob/master/reference-architecture-cell-based.md)
