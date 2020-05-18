@@ -39,6 +39,8 @@ The way how the application models are represented on both levels might differ d
 ## Distributed Data Management 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
+[1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+
 An example for Booking Travel ... 
 
 **Begin transaction**
