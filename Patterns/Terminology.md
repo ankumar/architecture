@@ -24,6 +24,7 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
   * [**Shopify Journey**](https://engineering.shopify.com/blogs/engineering/e-commerce-at-scale-inside-shopifys-tech-stack)
 
 * **Blast Radius** - Murphy's Law, "If anything can go wrong, it will." Failure is not binary, degree of impact
+![](https://github.com/ankumar/Architecture/blob/master/images/Blast%20Radius.png)
 
 * **Cloud Native** - Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs** exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
   
