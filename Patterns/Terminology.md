@@ -27,6 +27,7 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 ![](https://github.com/ankumar/Architecture/blob/master/images/Blast%20Radius.png)
 
 * **Control & Data Planes** - 
+![](https://github.com/ankumar/Architecture/blob/master/images/Control%20and%20Data%20planes.png)
 
 * **Cloud Native** - Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs** exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
   
