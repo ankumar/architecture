@@ -39,8 +39,6 @@ The way how the application models are represented on both levels might differ d
 ## Distributed Data Management 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
-[1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
-
 An example for Booking Travel ... 
 
 **Begin transaction**
@@ -63,6 +61,8 @@ An example for Booking Travel ...
     * https://eventuate.io/docs/manual/eventuate-tram/latest/getting-started-eventuate-tram-sagas.html
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
+
+[1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 
 **2.Event-driven/Async**
 
