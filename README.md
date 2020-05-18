@@ -30,7 +30,6 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
    * More, Domain Specific ... - </>
       * Business Flows (beyond a single request/reply)
       * Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
-   
-   Multi-Task:
-      * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
-      * [covariant](https://covariant.ai/solutions)
+        * Multi-Task:
+          * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
+          * [covariant](https://covariant.ai/solutions)
