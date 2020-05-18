@@ -11,6 +11,7 @@ Monoliths vs Microservices, both architectural patterns are valid, and for compl
 
 * [**Architecture Decision Records (ADR's)**](https://engineering.walmart.com/adrs) 
   * [Architecture Decision Records at Spotify](https://www.infoq.com/news/2020/04/architecture-decision-records/)
+  * [TOMASP at Shopify](https://engineering.shopify.com/blogs/engineering/make-great-decisions-quickly-with-tomasp)
 
 Irreversible: “Some decisions are **consequential** and **irreversible** or nearly irreversible [..] these decisions must be made methodically, carefully, slowly, with **great deliberation and consultation**”
 
