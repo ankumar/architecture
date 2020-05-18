@@ -33,4 +33,4 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
    
    Multi-Tasks:
       * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
-      * [Covariant](https://covariant.ai/solutions)
+      * [covariant](https://covariant.ai/solutions)
