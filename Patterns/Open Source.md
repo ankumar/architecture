@@ -9,6 +9,8 @@
 **3. Tool Innovation**
 **4. Legal Innovation**
 
+[Open Source Builders: An Inside Look](https://thenewstack.io/open-source-builders-an-inside-look/)
+
 * Cloud would not have been possible without open source
 * “if you want to go fast go alone, but if you want to go far, go together”. "Feels like it's time to really focus on accelerating the abundance of open source, collaborating to make the pie bigger for all. Abundance, not scarcity. I'm so, so happy to see Elastic doing well, and love this community where we can build together, even when we compete"
 * " "new model" is a big increase in end user corporations contributing to and producing their own open source projects. That's where the resources are coming from, and it's part of the success of Netflix, Capital One, Lyft, Airbnb that is spreading.” <p align="right"><b>- Adrian Cockcroft, VP Cloud architecture strategy at Amazon Web Services</b></p>
