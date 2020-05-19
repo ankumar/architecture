@@ -9,6 +9,10 @@ Two bits of knowledge are needed at the beginning of the design process:
 * An (initial) understanding of the system boundaries (and any boundaries on the design and development process too)—what's in scope and what's out of scope.
 * A preliminary notion of how the system will be organized. Without this, you can't begin to break down the design work. [1]
 
+# Blueprints
+
+* [The “4+1” View Model of Software Architecture](https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)
+
 # Boundaries - Balancing Coupling in Distributed Systems
 
 Services should be organized around Business concepts, a.k.a. Business capabilities or DDD subdomains/bounded contexts. Their names and responsibilities should reflect the Business [2][4][5]
