@@ -4,6 +4,9 @@ Good perspective! When done well, Platforms drive: <br>
 1. Speed for Devs  &  Stability/Scalability/Security for Ops.<br>
 2. Combining for a Win-Win! <br>
 
+* [Product for Internal Platforms](https://medium.com/@skamille/product-for-internal-platforms-9205c3a08142)
+**"Without a clear strategy for showing impact and value, you end up overlooked and understaffed, and no amount of cool new technology will solve that problem."**
+
 * [Wicked Problem](https://leadingedgeforum.com/research/are-platform-organizations-a-wicked-problem/)
   * [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
 
