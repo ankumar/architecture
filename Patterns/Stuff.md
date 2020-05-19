@@ -44,6 +44,7 @@ Data Quality problem categories:
 
 **Examples:**
 * [AI for Full-Self Driving](https://www.youtube.com/watch?v=hx7BXih7zx8)
+* [Return to the Edge & the End of Cloud Computing](https://www.youtube.com/watch?v=4QTAtFaIiyc)
 
 ## > b. Software Engineering Practices
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
