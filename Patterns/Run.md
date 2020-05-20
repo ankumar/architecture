@@ -28,6 +28,8 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 
 **1. Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
+**Topology** - Edge & Cloud Computing
+
 * **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
   * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
 
