@@ -24,13 +24,3 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
   * **AI Assisted** - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
  
 **Code/Deploy/Operate, Simplify to Low code/no code ...** https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
-
-A "Sandbox"
-* Online Hipster Shop
-  * [Distributed Microservices / GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
-  * [Distributed SQL / YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
-* More, Domain Specific ... - </>
-  * Business Flows (beyond a single request/reply)
-  * Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
-    * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
-    * [covariant](https://covariant.ai/solutions)
