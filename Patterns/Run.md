@@ -26,9 +26,9 @@ Same service, serial client with a 1s request timeout. What 99th percentile late
 ## Kubernetes
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
 
-**1. Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
-
 **Topology** - Edge & Cloud Computing
+
+**1. Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
 * **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
   * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
