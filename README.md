@@ -21,6 +21,6 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
   * [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
     * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV) 
   * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
-  * **AI Assisted** - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
+  * **AI Assisted Coding** - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
  
 **Code/Deploy/Operate, Simplify to Low code/no code ...** https://github.com/ankumar/Architecture/blob/master/Patterns/Stuff.md
