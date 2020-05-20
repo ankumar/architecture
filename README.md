@@ -29,8 +29,8 @@ A "Sandbox"
 * Online Hipster Shop
   * [Distributed Microservices / GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
   * [Distributed SQL / YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
-  * More, Domain Specific ... - </>
-    * Business Flows (beyond a single request/reply)
-    * Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
-      * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
-      * [covariant](https://covariant.ai/solutions)
+* More, Domain Specific ... - </>
+  * Business Flows (beyond a single request/reply)
+  * Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
+    * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
+    * [covariant](https://covariant.ai/solutions)
