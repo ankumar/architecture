@@ -59,7 +59,7 @@ In a microservice architecture each service’s database is private to that serv
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
 
-**3.Event-driven/Async**
+**3. Event-driven/Async**
 
 Span Multiple Requests/Workflow
   * [AsyncAPI specification](https://www.asyncapi.com/)
