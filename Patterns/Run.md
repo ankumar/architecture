@@ -30,7 +30,7 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 
 **Topology** - Edge & Cloud Computing
 
-**1. Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
+**Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
 * **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
   * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
@@ -53,7 +53,8 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
   * ...
     
-**2. Manage State**
-  * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
+## Manage State**
+
+* [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
   
