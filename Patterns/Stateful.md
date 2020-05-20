@@ -47,7 +47,7 @@ In a microservice architecture each service’s database is private to that serv
 
 **2. CAP theorem**
 
-[Approach #1 - Cloud Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
+[Approach #1 - Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
    * Google’s Spanner globe-spanning relational database with a giant, nuclear-clock synchronized control plane.
 
 [Approach #2 - Physalia Paper](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)
