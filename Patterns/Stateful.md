@@ -44,7 +44,7 @@ In a microservice architecture each service’s database is private to that serv
 **1. CAP theorem**
 
 [Approach #1 - Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
-   * Google’s Spanner globe-spanning relational database with a giant, nuclear-clock synchronized control plane.
+   * Google’s Spanner globe-spanning relational database with nuclear-clock synchronized control plane.
    * Building systems that can manage data that spans the globe, provide data consistency and are also highly available is possible; it’s just really hard. **The beauty of the cloud is that someone else can build that for you, and you can focus on innovation core to your service or application.**
 
 [Approach #2 - Physalia](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)
