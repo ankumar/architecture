@@ -47,9 +47,9 @@ In a microservice architecture each service’s database is private to that serv
 
 **2. CAP theorem**
 Two different approaches ...
-[Cloud Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
+1.[Cloud Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
    * Google’s Spanner globe-spanning relational database with a giant, nuclear-clock synchronized control plane.
-[Physalia Paper](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)
+2.[Physalia Paper](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)
    * Physalia database underpinning EBS takes a very different approach that creates a massively parallel and intelligently placed metadata that migrates along with the actual EBS storage chunks and therefore radically minimizes the blast radius of an outage with the storage service.
    * Physalia's design came as a result of thinking deeply about the CAP theorem and other constraints. Physalia needs to be consistent (C), so the way to get real-world availability is to reduce the probability of being affected by a network partition. 
    * Physalia's approach to this is to optimize the placement of database nodes relative to their clients and peers, having just the right amount of network between them.
