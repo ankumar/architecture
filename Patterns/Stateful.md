@@ -49,6 +49,7 @@ In a microservice architecture each service’s database is private to that serv
 
 [Approach #1 - Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
    * Google’s Spanner globe-spanning relational database with a giant, nuclear-clock synchronized control plane.
+   * Building systems that can manage data that spans the globe, provide data consistency and are also highly available is possible; it’s just really hard. The beauty of the cloud is that someone else can build that for you, and you can focus on innovation core to your service or application.
 
 [Approach #2 - Physalia](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)
    * Physalia database underpinning EBS takes a very different approach that creates a massively parallel and intelligently placed metadata that migrates along with the actual EBS storage chunks and therefore radically minimizes the blast radius of an outage with the storage service.
