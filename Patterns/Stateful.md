@@ -41,11 +41,7 @@ The way how the application models are represented on both levels might differ d
 ## Distributed Data Management 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
-**1. Topology**
-
-</>
-
-**2. CAP theorem**
+**1. CAP theorem**
 
 [Approach #1 - Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
    * Google’s Spanner globe-spanning relational database with a giant, nuclear-clock synchronized control plane.
@@ -58,7 +54,7 @@ In a microservice architecture each service’s database is private to that serv
    * A network partition "over there" doesn't prevent us from offering both C and A "over here". 
    * **There is no open source implementation yet.**
    
-**3. Data Consistency**
+**2. Data Consistency**
 
 * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
@@ -69,12 +65,12 @@ In a microservice architecture each service’s database is private to that serv
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
 
-**4. Event-driven/Async**
+**3. Event-driven/Async**
 
 Span Multiple Requests/Workflow
   * [AsyncAPI specification](https://www.asyncapi.com/)
   
-**5. Deleting Data** - (Ex: CCPA, ...) 
+**4. Deleting Data** - (Ex: CCPA, ...) 
 
 Cross cutting concerns - Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing - An Abstraction ... 
 * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
