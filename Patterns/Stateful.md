@@ -56,6 +56,7 @@ In a microservice architecture each service’s database is private to that serv
    * Physalia's design came as a result of thinking deeply about the CAP theorem and other constraints. Physalia needs to be consistent (C), so the way to get real-world availability is to reduce the probability of being affected by a network partition. 
    * Physalia's approach to this is to optimize the placement of database nodes relative to their clients and peers, having just the right amount of network between them.
    * A network partition "over there" doesn't prevent us from offering both C and A "over here". 
+   * There is no open source implementation yet.
    
 **3. Data Consistency**
 
