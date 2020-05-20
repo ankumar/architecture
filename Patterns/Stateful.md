@@ -41,14 +41,16 @@ The way how the application models are represented on both levels might differ d
 ## Distributed Data Management 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
-**1. CAP theorem**
+**1. Topology**
+
+**2. CAP theorem**
  * [Physalia Paper](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)
   
    * Physalia's design came as a result of thinking deeply about the CAP theorem and other constraints. Physalia needs to be consistent (C), so the way to get real-world availability is to reduce the probability of being affected by a network partition. 
    * Physalia's approach to this is to optimize the placement of database nodes relative to their clients and peers, having just the right amount of network between them.
    * A network partition "over there" doesn't prevent us from offering both C and A "over here". 
    
-**2. Data Consistency**
+**3. Data Consistency**
 
 * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
@@ -59,12 +61,12 @@ In a microservice architecture each service’s database is private to that serv
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
 
-**3. Event-driven/Async**
+**4. Event-driven/Async**
 
 Span Multiple Requests/Workflow
   * [AsyncAPI specification](https://www.asyncapi.com/)
   
-**4. Deleting Data** - (Ex: CCPA, ...) 
+**5. Deleting Data** - (Ex: CCPA, ...) 
 
 Cross cutting concerns - Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing
 
