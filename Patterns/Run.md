@@ -53,7 +53,7 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
   * ...
     
-## Manage State**
+## Manage State
 
 * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
