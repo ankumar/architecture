@@ -41,7 +41,9 @@ The way how the application models are represented on both levels might differ d
 ## Distributed Data Management 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
-**1. Data Consistency**
+**1. CAP theorem**
+
+**2. Data Consistency**
 
 * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
@@ -52,12 +54,12 @@ In a microservice architecture each service’s database is private to that serv
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
 
-**2.Event-driven/Async**
+**3.Event-driven/Async**
 
 Span Multiple Requests/Workflow
   * [AsyncAPI specification](https://www.asyncapi.com/)
   
-**3. Deleting Data** - (Ex: CCPA, ...) 
+**4. Deleting Data** - (Ex: CCPA, ...) 
 
 Cross cutting concerns - Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing
 
