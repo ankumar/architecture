@@ -74,9 +74,7 @@ Span Multiple Requests/Workflow
   
 **5. Deleting Data** - (Ex: CCPA, ...) 
 
-Cross cutting concerns - Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing
-
-An Abstraction ... 
+Cross cutting concerns - Data Catalog of Online microservices & Offline Warehouses;Data Discoverability, Access & Processing - An Abstraction ... 
 * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 
 ## DBaaS - Purpose-built Databases
