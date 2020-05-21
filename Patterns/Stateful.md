@@ -59,7 +59,7 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
    
 **2. Data Consistency**
 
-2 Models - Events/Choreography , Command/Orchestration
+Models - Events/Choreography , Command/Orchestration
 
 * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
