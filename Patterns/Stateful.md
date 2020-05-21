@@ -71,7 +71,7 @@ In a microservice architecture each service’s database is private to that serv
 Span Multiple Requests/Workflow
   * [AsyncAPI specification](https://www.asyncapi.com/)
   
-**4. **
+**4. Separation of storage and compute**
   * [Mind Your State for Your State of Mind](https://queue.acm.org/detail.cfm?id=3236388)
 
 **5. Deleting Data** - (Ex: CCPA, ...) 
