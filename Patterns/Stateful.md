@@ -98,6 +98,7 @@ Cross cutting concerns - Data Catalog of Online microservices & Offline Warehous
   * [CockroachDB](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
 * [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels)
+  * [Global Tables](https://aws.amazon.com/dynamodb/global-tables/) 
 * [Big Table](https://www.cs.rutgers.edu/~pxk/417/notes/content/bigtable.html): "Containers" like keyspace is the top-level database object that controls the replication for the object it contains at each datacenter in the cluster. Keyspaces contain tables, materialized views and user-defined types, functions and aggregates. Typically, a cluster has one keyspace per application. Since replication is controlled on a per-keyspace basis, store data with different replication requirements (at the same datacenter) in different keyspaces. Keyspaces are not a significant map layer within the data model.
   1. [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
   2. [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
