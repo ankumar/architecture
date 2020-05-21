@@ -29,6 +29,11 @@ The way how the application models are represented on both levels might differ d
 * Relations are represented differently in a database than in a programming language
 * Databases typically have more powerful data modeling capabilities, like indexes, cascading deletes, or a variety of additional constraints (e.g. unique, not null, ...)
 * Databases and programming languages have different technical constraints
+
+Tooling
+DynamoDB:
+* https://dynobase.dev/
+* [AWS Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)
     
 **2. Data Access patterns** - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the [data mapper pattern](https://www.silasreinagel.com/blog/2018/11/12/using-orms-and-dtos-elegantly/). The Data model comprises of
 
