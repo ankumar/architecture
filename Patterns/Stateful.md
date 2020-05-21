@@ -59,6 +59,8 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
    
 **2. Data Consistency**
 
+2 Models - Events/Choreography , Command/Orchestration
+
 * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
 
@@ -69,7 +71,7 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
     * https://github.com/berndruecker/trip-booking-saga-java
     * https://github.com/eclipse/microprofile-lra
     * https://zeebe.io/ 
-
+    
 **3. Event-driven/Async**
 
 Span Multiple Requests/Workflow
