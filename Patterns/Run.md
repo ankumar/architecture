@@ -14,8 +14,9 @@ Separation of Compute & Storage; Network topology, Authentication, Cloud resourc
 
 ## Security
 
-11 security patterns for microservice architectures - all in one handy guide! 
-  * https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
+* Sensitive data, Personally identifiable information - PII, PCI or PHI 
+
+* 11 security patterns for microservice architectures - all in one handy guide! - https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
 
 ## Virtual Machines
 * BEAM (Elixir/Erlang) - http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf 
