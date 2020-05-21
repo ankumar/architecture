@@ -47,7 +47,7 @@ In a microservice architecture each service’s database is private to that serv
    * Google’s Spanner globe-spanning relational database with nuclear-clock synchronized control plane.
    * Building systems that can manage data that spans the globe, provide data consistency and are also highly available is possible; it’s just really hard. **The beauty of the cloud is that someone else can build that for you, and you can focus on innovation core to your service or application.**
 
-[Approach #2 - Physalia](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)
+[Approach #2 - Physalia and the CAP Theorem](https://www.amazon.science/blog/amazon-ebs-addresses-the-challenge-of-the-cap-theorem-at-scale)
    * Physalia database underpinning EBS takes a very different approach that creates a massively parallel and intelligently placed metadata that migrates along with the actual EBS storage chunks and therefore radically minimizes the blast radius of an outage with the storage service.
    * Physalia's design came as a result of thinking deeply about the CAP theorem and other constraints. Physalia needs to be consistent (C), so the way to get real-world availability is to reduce the probability of being affected by a network partition. 
    * Physalia's approach to this is to optimize the placement of database nodes relative to their clients and peers, having just the right amount of network between them.
