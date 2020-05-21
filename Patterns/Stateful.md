@@ -31,6 +31,9 @@ The way how the application models are represented on both levels might differ d
 * Databases and programming languages have different technical constraints
 
 DynamoDB:
+* Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
+    * GraphQL/Single Table - https://www.goingserverless.com/blog/single-table-dynamodb-for-appsync
+    * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
 * https://dynobase.dev/
 * [AWS Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)
     
