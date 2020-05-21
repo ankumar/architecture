@@ -59,10 +59,9 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
    
 **2. Data Consistency**
 
-Models - Events/Choreography , Command/Orchestration
-
 * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
+    * Models - Events/Choreography , Command/Orchestration
 
 * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html), Implementations:
     * https://eventuate.io/docs/manual/eventuate-tram/latest/getting-started-eventuate-tram-sagas.html
