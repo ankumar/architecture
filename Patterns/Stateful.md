@@ -88,6 +88,8 @@ Cross cutting concerns - Data Catalog of Online microservices & Offline Warehous
 **"It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."**
 
 [Database of Databases](https://dbdb.io/) - **SQL & NoSQL**, IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
+* [DB Ranking](https://db-engines.com/en/ranking)
+
 * [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) is a relational database with 99.999% availability which means it is down roughly 5 mins a year
   * [CockroachDB](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
