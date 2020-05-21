@@ -6,7 +6,7 @@
 * More, Domain Specific ... - </>
   * Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
     * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE)
-    * [covariant](https://covariant.ai/solutions)
+    * [For use cases - Covariant](https://covariant.ai/solutions)
 
 ## 1. Software-Intensive:
 **Services -** 
