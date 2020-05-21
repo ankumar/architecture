@@ -12,6 +12,11 @@ Separation of Compute & Storage; Network topology, Authentication, Cloud resourc
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
  2. https://web.dev/vitals/
 
+## Security
+
+11 security patterns for microservice architectures - all in one handy guide! 
+  * https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
+
 ## Virtualization
 * Firecracker offers the best of both worlds: the security of hardware-virtualization-based virtual machines and the resource efficiency and fast startup time of containers. Firecracker has been deployed in two publicly available serverless computer services within AWS (Lambda and Fargate), where it supports millions of production workloads, and trillions of requests each month.
   * Paper - https://www.amazon.science/publications/firecracker-lightweight-virtualization-for-serverless-applications
