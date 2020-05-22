@@ -36,9 +36,6 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 
 **Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
-* **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
-  * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
-
 * **Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
   * [GCP, Cloud Run](https://cloud.google.com/run/)
 
@@ -56,6 +53,9 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
   * [Secure networking](https://www.projectcalico.org)
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
   * ...
+
+* **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
+  * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
     
 ## Manage State
 
