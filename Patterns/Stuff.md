@@ -1,9 +1,13 @@
 # "Sandbox" for sharing & collaborating
-* Online Hipster Shop - Services, Stateless & Stateful 
-  * [Distributed Microservices / GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
-  * [Distributed SQL / YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
-  * Business Flows (beyond a single request/reply)
-* Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
+1. Online Hipster Shop - Services, Stateless & Stateful 
+  "Stateless"
+    * [Distributed Microservices / GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
+    * [Distributed SQL / YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
+  
+  * "Stateful"
+    * Business Flows (beyond a single request/reply)
+
+2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
     * [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE) - [For use cases - Covariant](https://covariant.ai/solutions)
 
 ## 1. Software-Intensive:
