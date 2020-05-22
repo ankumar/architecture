@@ -92,8 +92,6 @@ Cross cutting concerns - Data Catalog of Online microservices & Offline Warehous
 * [Twitter Use-case](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/deleting-data-distributed-throughout-your-microservices-architecture.html) 
 
 ## DBaaS - Purpose-built Databases
-**"It wasn't that long ago when the DBAs owned THE shared database. Nowadays, in all kinds of companies, no one blinks an eyelid when every service has its own database. The most unexpected things can change so quickly."**
-
 [Database of Databases](https://dbdb.io/) - **SQL & NoSQL**, IN-MEMORY, RELATIONAL, KEY VALUE, WIDE COLUMN, DOCUMENT, TIME-SERIES, LEDGER
 * [DB Ranking](https://db-engines.com/en/ranking)
 
