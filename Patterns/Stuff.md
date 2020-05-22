@@ -61,7 +61,6 @@ Data Quality problem categories:
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
    
 **Examples:**
-* [Return to the Edge & the End of Cloud Computing](https://www.youtube.com/watch?v=4QTAtFaIiyc)
 * [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
 
 The goal of the platform is to enable Deep Learning Engineers to focus more of their time and energy on their ultimate goal — training high-quality models. They achieve this by tightly integrating all of the functionality DL Engineers need to train models at scale, including:
@@ -70,6 +69,10 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 - Experiment management with experiment tracking, log management, metrics visualization, reproducibility, and dependency management
 - Flexibility - a fully open source system that supports both Tensorflow and PyTorch, and can run in the cloud or on-prem
 
+* [Return to the Edge & the End of Cloud Computing](https://www.youtube.com/watch?v=4QTAtFaIiyc)
+
+
 ---
+
 
 Glossary - https://github.com/ankumar/Architecture/blob/master/Patterns/Terminology.md
