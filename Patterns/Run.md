@@ -12,6 +12,8 @@ Separation of Compute & Storage; Network topology, Authentication, Cloud resourc
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
  2. https://web.dev/vitals/
 
+## Topology - Edge & Cloud Computing
+
 ## Security
 
 * Sensitive data, Personally identifiable information - PII, PCI or PHI 
@@ -29,8 +31,6 @@ Separation of Compute & Storage; Network topology, Authentication, Cloud resourc
 
 ## Kubernetes
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
-
-**Topology** - Edge & Cloud Computing
 
 **Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
