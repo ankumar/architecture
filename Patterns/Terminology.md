@@ -87,3 +87,5 @@ and general purpose programming model for the cloud, packaged as FaaS (Function 
 * **Stateless & Stateful services** - A definition [Twelve-Factor App -> Processes](https://12factor.net/processes)
   * Service checking availability of items is **stateless** - the data (state) is stored by another backend system.
   * Service like shopping cart is **stateful**, items are stored and retrieved.
+  
+* [The Reactive Manifesto Glossary](https://www.reactivemanifesto.org/glossary)
