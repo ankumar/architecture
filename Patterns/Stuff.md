@@ -29,7 +29,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
   
  * **Tools**
     * **Developer Workflows** 
-      * [Developer Portal/Backstage - Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
+      * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
       * [Run Applications](Run.md)
     * **Remote backed by Cloud**
       * [GitHub - Codespaces](https://github.com/features/codespaces)
