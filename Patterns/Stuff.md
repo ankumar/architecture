@@ -1,6 +1,6 @@
 # "Sandbox" for sharing & collaborating
 
-[OAM, Open Application Model](https://github.com/oam-dev/spec) specification for building cloud native applications 
+[Open Application Model](https://github.com/oam-dev/spec) specification for building cloud native applications 
   
 **Online Hipster Shop** - Services, Stateless & Stateful
 * "Stateless"
