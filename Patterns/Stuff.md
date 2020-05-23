@@ -66,8 +66,6 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 - Experiment management with experiment tracking, log management, metrics visualization, reproducibility, and dependency management
 - Flexibility - a fully open source system that supports both Tensorflow and PyTorch, and can run in the cloud or on-prem
 
-* [Return to the Edge & the End of Cloud Computing](https://www.youtube.com/watch?v=4QTAtFaIiyc)
-
 ---
 
 
