@@ -23,11 +23,10 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    
    * [Unified/Multi-Model](http://www.mm-adt.org/)
   
- * **Tools**
-    * **Developer Workflows** 
-      * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
+ * **Developer Workflows** 
       * [Run Applications](Run.md)
-    * **Remote backed by Cloud**
+      
+      * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
       * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
       * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
