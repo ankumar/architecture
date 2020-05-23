@@ -11,6 +11,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
  * **Design Heuristics**
    * [Domain-Driven](https://www.dddheuristics.com/)
+   * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
   
  * **API**
    * [Declarative/GraphQL](https://github.com/ankumar/Architecture/blob/master/Patterns/GraphQL.md)  
@@ -26,7 +27,6 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
  * **Developer Workflows** 
       * [Run Applications](Run.md)
       
-      * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
       * [GitHub - Codespaces](https://github.com/features/codespaces)
       * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
       * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
