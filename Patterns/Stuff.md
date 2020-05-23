@@ -49,7 +49,7 @@ Data Quality problem categories:
 - Data quality evaluation 
 
 **Examples:**
-* [AI for Full-Self Driving](https://www.youtube.com/watch?v=hx7BXih7zx8)
+* [AI for Full-Self Driving - Data for STOP sign detection](https://www.youtube.com/watch?v=hx7BXih7zx8)
 
 ## > b. Software Engineering Practices
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
