@@ -45,8 +45,7 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
   * Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
   * GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
 
-* **Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance
-  * [OAM (w/ Alibaba Team), Open Application Model](https://github.com/oam-dev/spec) specification   
+* **Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance 
   * [DAPR, Distributed Application Runtime](https://dapr.io/)
   * [KEDA, Kubernetes Event-driven Autoscaling](https://keda.sh)
   * [Kubernetes native applications](https://operatorhub.io)
