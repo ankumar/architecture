@@ -9,9 +9,6 @@
 * "Stateful"
     * Business Flows (beyond a single request/reply)
 
-**Learning Systems** - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
-* [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE) - [For use cases, Covariant](https://covariant.ai/solutions)
-
 ## 1. Software-Intensive:
 **Services -** 
 There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) [a system](https://queue.acm.org/detail.cfm?id=3395214) into [services](Modeling.md). As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
@@ -64,6 +61,9 @@ Data Quality problem categories:
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
    
 **Examples:**
+**Learning Systems** - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
+* [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE) - [For use cases, Covariant](https://covariant.ai/solutions)
+
 * [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
 
 The goal of the platform is to enable Deep Learning Engineers to focus more of their time and energy on their ultimate goal — training high-quality models. They achieve this by tightly integrating all of the functionality DL Engineers need to train models at scale, including:
@@ -73,7 +73,6 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 - Flexibility - a fully open source system that supports both Tensorflow and PyTorch, and can run in the cloud or on-prem
 
 * [Return to the Edge & the End of Cloud Computing](https://www.youtube.com/watch?v=4QTAtFaIiyc)
-
 
 ---
 
