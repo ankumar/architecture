@@ -1,5 +1,6 @@
 # COVID-19
 
+* 5/23 - 25 years, [MySQL](https://mariadb.org/mysql-25/)
 * 5/22 - 25 years, [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 * 5/20 - 10 years, [BigQuery](https://twitter.com/sundarpichai/status/1263193094410760192)
 * Happy 20 years, The History of HAProxy - https://www.haproxy.com/blog/the-history-of-haproxy/
