@@ -78,6 +78,7 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
     * https://zeebe.io/ 
     
 * [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
+
 **3. Event-driven/Async**
 
 Span Multiple Requests/Workflow
