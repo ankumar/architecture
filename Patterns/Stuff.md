@@ -1,10 +1,3 @@
-# "Sandbox" for sharing & collaborating
-
-[Open Application Model](https://github.com/oam-dev/spec) specification for building cloud native applications
-  * [Distributed Microservices / GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
-  * [Distributed SQL / YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
-  * Business Flows (beyond a single request/reply)
-
 ## 1. Software-Intensive:
 **Services -** 
 There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) [a system](https://queue.acm.org/detail.cfm?id=3395214) into [services](Modeling.md). As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
