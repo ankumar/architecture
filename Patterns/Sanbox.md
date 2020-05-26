@@ -5,8 +5,8 @@
 Control Plane:
   * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
   * https://upbound.io/upbound-cloud
-  * [Crossplane](https://github.com/crossplane/crossplane) is the implementation of the Open Application Model specification for Kubernetes.
-    * https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
+     * [Crossplane](https://github.com/crossplane/crossplane) is the implementation of the Open Application Model specification for Kubernetes.
+       * https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
 
 Sample Apps:  
   * https://github.com/GoogleCloudPlatform/microservices-demo
