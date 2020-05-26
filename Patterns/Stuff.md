@@ -4,8 +4,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
  * **Design Heuristics**
    * [Domain-Driven](https://www.dddheuristics.com/)
-   * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
-  
+   
  * **API**
    * [Declarative/GraphQL](https://github.com/ankumar/Architecture/blob/master/Patterns/GraphQL.md)  
    * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
