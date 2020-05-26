@@ -44,8 +44,6 @@ Data Quality problem categories:
 ### <p align="center"> [Hidden Technical Debt in Machine Learning Systems](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) </p>
    
 **Learning Systems** - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
-* [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE) - [For use cases, Covariant](https://covariant.ai/solutions)
-
 * [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
 
 The goal of the platform is to enable Deep Learning Engineers to focus more of their time and energy on their ultimate goal — training high-quality models. They achieve this by tightly integrating all of the functionality DL Engineers need to train models at scale, including:
