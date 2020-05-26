@@ -34,6 +34,8 @@ Separation of Compute & Storage; Network topology, Authentication, Cloud resourc
 ## Kubernetes
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
 
+10 must have patterns https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/ 
+
 **Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
 * **Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
