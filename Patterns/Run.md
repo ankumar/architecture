@@ -65,7 +65,7 @@ Azure is launching Dapr a Open Source portable runtime for building applications
 
 ---
 
-## Dev
+## Devs
 
 * [GitHub - Codespaces](https://github.com/features/codespaces)
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
