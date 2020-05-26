@@ -7,6 +7,8 @@ Control Plane:
   * https://upbound.io/upbound-cloud
      * [Crossplane](https://github.com/crossplane/crossplane) is the implementation of the Open Application Model specification for Kubernetes.
        * https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
+       
+  * https://www.terraform.io/
 
 Sample Apps:  
   * https://github.com/GoogleCloudPlatform/microservices-demo
