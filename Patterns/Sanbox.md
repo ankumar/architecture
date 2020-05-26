@@ -6,4 +6,5 @@
     * [Distributed Microservices / GCP](https://github.com/GoogleCloudPlatform/microservices-demo)
     * [Distributed SQL / YugabyteDB](https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/)
   
-  * https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
+  * [Crossplane](https://github.com/crossplane/crossplane) is the implementation of the Open Application Model specification for Kubernetes.
+    * https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
