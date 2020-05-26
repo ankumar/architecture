@@ -19,10 +19,6 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
  * **Developer Workflows** 
       * [Run Applications](Run.md)
       
-      * [GitHub - Codespaces](https://github.com/features/codespaces)
-      * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
-      * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
-    
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
