@@ -29,7 +29,7 @@ Separation of Compute & Storage; Network topology, Authentication, Cloud resourc
   * Paper - https://www.amazon.science/publications/firecracker-lightweight-virtualization-for-serverless-applications
   * Open Source - https://github.com/firecracker-microvm/firecracker
   
-* [Twitter thread](https://twitter.com/MarcJBrooker/status/1240289894997454848)
+* [papers/Resources - Twitter thread](https://twitter.com/MarcJBrooker/status/1240289894997454848)
 
 ## Kubernetes
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
