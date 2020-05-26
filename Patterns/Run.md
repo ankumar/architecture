@@ -47,6 +47,7 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 
 * **Sidecar** - Cross-cutting concerns in a [**sidecar**](https://microservices.io/patterns/deployment/sidecar.html) process or container that runs alongside the service instance 
   * [DAPR, Distributed Application Runtime](https://dapr.io/)
+Azure is launching Dapr a Open Source portable runtime for building applications in cloud and edge, Dapr is a a collection of really useful side-cars to make your distributed app development easier!
   * [KEDA, Kubernetes Event-driven Autoscaling](https://keda.sh)
   * [Kubernetes native applications](https://operatorhub.io)
   * [Secure networking](https://www.projectcalico.org)
