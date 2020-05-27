@@ -15,13 +15,13 @@ Cloud & Edge - Separation of Compute & Storage; Network topology, Authentication
 
 Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
 
-## 1. Security
+### 1. Security
 
 * Sensitive data, Personally identifiable information - PII, PCI or PHI 
 
 * 11 security patterns for microservice architectures - all in one handy guide! - https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
 
-## 2. Kubernetes
+### 2. Kubernetes
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
 
 10 must have patterns https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/ 
@@ -49,7 +49,7 @@ Azure is launching Dapr a Open Source portable runtime for building applications
 * **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
   * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
     
-## 3. Manage State
+### 3. Manage State
 
 * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
