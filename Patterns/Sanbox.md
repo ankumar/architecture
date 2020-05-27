@@ -12,7 +12,7 @@ Control Plane: [Backstage](https://backstage.io/)
      * Upbound [Crossplane](https://github.com/crossplane/crossplane)
        * Implementation of the Open Application Model specification for Kubernetes https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
        
-Sample Apps:  
+Playground for Evolving with Sample Apps :  
   * https://github.com/GoogleCloudPlatform/microservices-demo
   * https://blog.yugabyte.com/cloud-native-meets-distributed-sql-bringing-microservices-kubernetes-istio-yugabytedb-together-with-hipster-shop-demo/
   * https://github.com/aws-samples/retail-demo-store
