@@ -5,15 +5,8 @@
 Control Plane:
   * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
      * Phase 1: Extensible frontend platform (Done ✅) 
-     
-     * Phase 2: Manage your stuff (**current focus**)
+     * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
        * [Distributed Application Runtime](https://dapr.io/)
-The core of building Platforms rests in versatile entity management. Entities represent the nouns or the "truths" of our world.
-
-Quote from Platform Nuts & Bolts: Extendable Data Models
-
-Entities, or what we refer to as “components” in Backstage, represent all software, including services, websites, libraries, data pipelines, and so forth. The focus of Phase 2 will be on adding an entity model in Backstage that makes it easy for engineers to create and manage the software components they own.
-     
      * Phase 3: Ecosystem (later)
        * Upbound [Crossplane](https://github.com/crossplane/crossplane)
          * Implementation of the Open Application Model specification for Kubernetes https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
