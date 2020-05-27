@@ -17,9 +17,9 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
 
 ### 1. Security
 
-* Sensitive data, Personally identifiable information - PII, PCI or PHI 
+* Data - Sensitive data, Personally identifiable information - PII, PCI or PHI 
 
-* 11 security patterns for microservice architectures - all in one handy guide! - https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
+* Services - 11 security patterns for microservice architectures - all in one handy guide! - https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
 
 ### 2. Kubernetes
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
