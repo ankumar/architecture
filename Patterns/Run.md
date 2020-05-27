@@ -28,17 +28,6 @@ Remote Environment:
 
 * 11 security patterns for microservice architectures - all in one handy guide! - https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
 
-## Virtual Machines
-* BEAM (Elixir/Erlang) - http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf 
-  * BEAM is the virtual machine at the core of the Erlang Open Telecom Platform (OTP)
-  * Actor model, Actor model on the JVM is called Akka
-
-* Firecracker offers the best of both worlds: the security of hardware-virtualization-based virtual machines and the resource efficiency and fast startup time of containers. Firecracker has been deployed in two publicly available serverless computer services within AWS (Lambda and Fargate), where it supports millions of production workloads, and trillions of requests each month.
-  * Paper - https://www.amazon.science/publications/firecracker-lightweight-virtualization-for-serverless-applications
-  * Open Source - https://github.com/firecracker-microvm/firecracker
-  
-* [Papers/Resources - Twitter thread](https://twitter.com/MarcJBrooker/status/1240289894997454848)
-
 ## Kubernetes
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
 
@@ -71,4 +60,14 @@ Azure is launching Dapr a Open Source portable runtime for building applications
 
 * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
+ ## Virtual Machines
+* BEAM (Elixir/Erlang) - http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf 
+  * BEAM is the virtual machine at the core of the Erlang Open Telecom Platform (OTP)
+  * Actor model, Actor model on the JVM is called Akka
+
+* Firecracker offers the best of both worlds: the security of hardware-virtualization-based virtual machines and the resource efficiency and fast startup time of containers. Firecracker has been deployed in two publicly available serverless computer services within AWS (Lambda and Fargate), where it supports millions of production workloads, and trillions of requests each month.
+  * Paper - https://www.amazon.science/publications/firecracker-lightweight-virtualization-for-serverless-applications
+  * Open Source - https://github.com/firecracker-microvm/firecracker
   
+* [Papers/Resources - Twitter thread](https://twitter.com/MarcJBrooker/status/1240289894997454848)
+
