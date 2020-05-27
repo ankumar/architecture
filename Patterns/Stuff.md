@@ -56,5 +56,4 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 
 ---
 
-
-Glossary - https://github.com/ankumar/Architecture/blob/master/Patterns/Terminology.md
+Glossary - [](Patterns/Terminology.md)
