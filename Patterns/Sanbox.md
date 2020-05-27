@@ -8,7 +8,7 @@ Control Plane:
      * Phase 2: Manage your stuff (current focus)
      * Phase 3: Ecosystem (later) 
   
-  * Upbound - https://upbound.io/upbound-cloud
+  * Upbound:
      * [Crossplane](https://github.com/crossplane/crossplane) is the implementation of the Open Application Model specification for Kubernetes.
        * https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
        
