@@ -9,7 +9,7 @@ Code:
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
 
-Visualize Software, Architecture & Code - [Resilience, A Model "Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
+Visualize Software, Architecture & Code - [A Model "Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
 
 ## Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
