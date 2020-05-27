@@ -56,4 +56,4 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 
 ---
 
-[Glossary](Patterns/Terminology.md)
+[Glossary](Terminology.md)
