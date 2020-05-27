@@ -11,12 +11,7 @@ Code:
 
 Visualize Software, Architecture & Code - [A Model "Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
 
-## Metrics
-**High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
- 1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
- 2. https://web.dev/vitals/
-
-## Topology - Cloud & Edge
+## Infrastructure - Cloud & Edge
 Separation of Compute & Storage; Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
 ## Security
 
@@ -67,3 +62,7 @@ Azure is launching Dapr a Open Source portable runtime for building applications
   
 * [Papers/Resources - Twitter thread](https://twitter.com/MarcJBrooker/status/1240289894997454848)
 
+## Metrics
+**High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
+ 1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
+ 2. https://web.dev/vitals/
