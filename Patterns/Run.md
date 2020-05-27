@@ -20,7 +20,7 @@ Remote Environment:
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
  2. https://web.dev/vitals/
 
-## Topology - Edge & Cloud Computing
+## Topology - Cloud & Edge
 
 ## Security
 
