@@ -15,13 +15,13 @@ Cloud & Edge - Separation of Compute & Storage; Network topology, Authentication
 
 Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
 
-## Security
+## 1. Security
 
 * Sensitive data, Personally identifiable information - PII, PCI or PHI 
 
 * 11 security patterns for microservice architectures - all in one handy guide! - https://developer.okta.com/blog/2020/03/23/microservice-security-patterns
 
-## Kubernetes
+## 2. Kubernetes
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
 
 10 must have patterns https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/ 
@@ -49,11 +49,11 @@ Azure is launching Dapr a Open Source portable runtime for building applications
 * **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
   * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
     
-## Manage State
+## 3. Manage State
 
 * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
- ## Virtual Machines
+## Virtual Machines
 * BEAM (Elixir/Erlang) - http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf 
   * BEAM is the virtual machine at the core of the Erlang Open Telecom Platform (OTP)
   * Actor model, Actor model on the JVM is called Akka
@@ -64,7 +64,7 @@ Azure is launching Dapr a Open Source portable runtime for building applications
   
 * [Papers/Resources - Twitter thread](https://twitter.com/MarcJBrooker/status/1240289894997454848)
 
-## Metrics
+## 4. Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
  2. https://web.dev/vitals/
