@@ -4,10 +4,11 @@
   
 Control Plane:
   * [Backstage - Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
-     * Phase 1: Extensible frontend platform (Done ✅)
+     * Phase 1: Extensible frontend platform (Done ✅) 
      * Phase 2: Manage your stuff (current focus)
+       * [Distributed Application Runtime](https://dapr.io/)
      * Phase 3: Ecosystem (later)
-       * Integrate Upbound [Crossplane](https://github.com/crossplane/crossplane)
+       * Upbound [Crossplane](https://github.com/crossplane/crossplane)
          * Implementation of the Open Application Model specification for Kubernetes https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
        
 Sample Apps:  
