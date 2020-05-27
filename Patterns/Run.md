@@ -9,6 +9,7 @@ Separation of Compute & Storage; Network topology, Authentication, Cloud resourc
  
 Visualize Software, Architecture & Code - [Resilience, A Model "Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
 
+Remote Environment:
 * [GitHub - Codespaces](https://github.com/features/codespaces)
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
