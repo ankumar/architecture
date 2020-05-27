@@ -1,15 +1,15 @@
 # Cloud Native Development - Focus on Business logic, Hiding complexity.
 
 ## Developers
- 
-Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
- 
+  
 Code:
 * [GitHub - Codespaces](https://github.com/features/codespaces)
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
 
 Visualize Software, Architecture & Code - [A Model "Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
+
+Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
 
 ## Infrastructure
 Cloud & Edge - Separation of Compute & Storage; Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
