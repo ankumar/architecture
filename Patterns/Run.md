@@ -1,4 +1,4 @@
-# Cloud Native Development - Focus on Business logic, Hiding complexity.
+# Cloud Native - Focus on Business logic, Hiding complexity.
 
 ## Developers
   
