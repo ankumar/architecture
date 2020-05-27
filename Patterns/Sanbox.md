@@ -10,7 +10,7 @@ Control Plane [Crossplane](https://github.com/crossplane/crossplane): “Crosspl
   * Implementation of the Open Application Model specification for Kubernetes https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
   
   * [Distributed Application Runtime](https://dapr.io/)
-    * [Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
+    * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
 ---
 Sample Demo Apps:  
