@@ -13,8 +13,6 @@ Remote Environment:
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
 
-* [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE) - [For use cases, Covariant](https://covariant.ai/solutions)
-
 ## Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
