@@ -4,13 +4,13 @@
   
 Control Plane:
   * [Backstage](https://backstage.io/)
-  [Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
-     * Phase 1: Extensible frontend platform (Done ✅) 
-     * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
-       * [Distributed Application Runtime](https://dapr.io/)
-     * Phase 3: Ecosystem (later)
-       * Upbound [Crossplane](https://github.com/crossplane/crossplane)
-         * Implementation of the Open Application Model specification for Kubernetes https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
+    * [Open Source from Spotify](https://labs.spotify.com/2020/04/21/how-we-use-backstage-at-spotify/)
+      * Phase 1: Extensible frontend platform (Done ✅) 
+      * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+         * [Distributed Application Runtime](https://dapr.io/)
+       * Phase 3: Ecosystem (later)
+         * Upbound [Crossplane](https://github.com/crossplane/crossplane)
+           * Implementation of the Open Application Model specification for Kubernetes https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
        
 Sample Apps:  
   * https://github.com/GoogleCloudPlatform/microservices-demo
