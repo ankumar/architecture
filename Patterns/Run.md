@@ -1,6 +1,6 @@
-# Cloud Native Apps - Devs to focus on Business logic, Hiding Distributed systems complexity.
+# Cloud Native Apps - Developers to focus on Business logic, Hiding Distributed systems complexity.
 
-## Devs
+## Developers
  
 Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
  
