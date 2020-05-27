@@ -28,9 +28,6 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 
 **Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
-* **Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
-  * [GCP, Cloud Run](https://cloud.google.com/run/)
-
 * **Multi-cloud**
   * [Crossplane](https://crossplane.io) - open source universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
   * AWS [Outposts](https://aws.amazon.com/outposts/)
@@ -45,7 +42,10 @@ Azure is launching Dapr a Open Source portable runtime for building applications
   * [Secure networking](https://www.projectcalico.org)
   * [API Shark, Service Catalog & Call Graph](https://www.cloudvector.com/api-shark/)
   * ...
-
+  
+* **Service Mesh** - This design pattern combines [data planes & control planes](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc)
+  * [GCP, Cloud Run](https://cloud.google.com/run/)
+  
 * **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
   * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
     
@@ -53,17 +53,6 @@ Azure is launching Dapr a Open Source portable runtime for building applications
 
 * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
   
-## Virtual Machines
-* BEAM (Elixir/Erlang) - http://ds.cs.ut.ee/courses/course-files/To303nis%20Pool%20.pdf 
-  * BEAM is the virtual machine at the core of the Erlang Open Telecom Platform (OTP)
-  * Actor model, Actor model on the JVM is called Akka
-
-* Firecracker offers the best of both worlds: the security of hardware-virtualization-based virtual machines and the resource efficiency and fast startup time of containers. Firecracker has been deployed in two publicly available serverless computer services within AWS (Lambda and Fargate), where it supports millions of production workloads, and trillions of requests each month.
-  * Paper - https://www.amazon.science/publications/firecracker-lightweight-virtualization-for-serverless-applications
-  * Open Source - https://github.com/firecracker-microvm/firecracker
-  
-* [Papers/Resources - Twitter thread](https://twitter.com/MarcJBrooker/status/1240289894997454848)
-
 ## 4. Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
