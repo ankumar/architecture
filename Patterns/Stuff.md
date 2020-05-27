@@ -1,4 +1,4 @@
-# Programming models
+# Programming models - Functions, Workflows & actors are powerful programming models
 
 ## 1. Software-Intensive:
 **Services -** 
