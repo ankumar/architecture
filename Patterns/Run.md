@@ -17,7 +17,7 @@ Remote Environment:
  2. https://web.dev/vitals/
 
 ## Topology - Cloud & Edge
-
+Separation of Compute & Storage; Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
 ## Security
 
 * Sensitive data, Personally identifiable information - PII, PCI or PHI 
