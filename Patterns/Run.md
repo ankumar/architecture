@@ -11,8 +11,9 @@ Code:
 
 Visualize Software, Architecture & Code - [A Model "Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
 
-## Infrastructure - Cloud & Edge
-Separation of Compute & Storage; Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
+## Infrastructure
+Cloud & Edge - Separation of Compute & Storage; Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
+
 ## Security
 
 * Sensitive data, Personally identifiable information - PII, PCI or PHI 
