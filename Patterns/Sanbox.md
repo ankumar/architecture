@@ -8,9 +8,10 @@ Extending [Backstage, Open Source from Spotify](https://backstage.io/):
     * [**Distributed Application Runtime**](https://dapr.io/)
   * Phase 3: Ecosystem (later)
 
-Control Plane:  
-* CNCF [Crossplane](https://github.com/crossplane/crossplane)
+Control Plane: [Crossplane](https://github.com/crossplane/crossplane)
   * Implementation of the Open Application Model specification for Kubernetes https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
+  
+“Crossplane introduces a powerful open source control plane to enterprise platforms, enabling companies to standardize on application and infrastructure management; automate operations; effectively implement their security, governance, and cost policies; and publish an internal API that integrates with their development workflows and tools.”
        
 Sample Demo Apps:  
   * https://github.com/GoogleCloudPlatform/microservices-demo
