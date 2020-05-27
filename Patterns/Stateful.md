@@ -79,6 +79,8 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
     
 * [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 
+* [The World is Eventually Consistent, The Database as an Optimization](https://christophermeiklejohn.com/lasp/erlang/2015/10/27/tendency.html)
+
 **3. Event-driven/Async**
 
 Span Multiple Requests/Workflow
