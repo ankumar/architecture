@@ -1,12 +1,22 @@
 # Tech Stack
 ## Design Principle: Devs to focus on Business logic, Hiding Distributed systems complexity.
 
+## Devs
+ 
 Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/doi/pdf/10.1145/3190508.3190526) in an intuitive and obvious manner, with feature requirements coded on one axis and common concerns on the other.
 
 Separation of Compute & Storage; Network topology, Authentication, Cloud resource provisioning, Deployment, Logging and Monitoring, Traffic routing, Rate limiting, Staging and Production environments.
  
- Visualize Software, Architecture & Code - [Resilience, A Model "Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
-  
+Visualize Software, Architecture & Code - [Resilience, A Model "Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
+
+* [GitHub - Codespaces](https://github.com/features/codespaces)
+* [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
+* [AWS - Cloud9](https://aws.amazon.com/cloud9/)
+
+* [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE) - [For use cases, Covariant](https://covariant.ai/solutions)
+
+---
+
 ## Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
@@ -62,16 +72,5 @@ Azure is launching Dapr a Open Source portable runtime for building applications
 ## Manage State
 
 * [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
-
----
-
-## Devs
-
-* [GitHub - Codespaces](https://github.com/features/codespaces)
-* [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
-* [AWS - Cloud9](https://aws.amazon.com/cloud9/)
-
-* [NVIDIA](https://www.youtube.com/watch?v=3mkRyBkS5zE) - [For use cases, Covariant](https://covariant.ai/solutions)
-    
   
   
