@@ -1,4 +1,4 @@
-# Cloud Native Apps - Developers to focus on Business logic, Hiding Distributed systems complexity.
+# Cloud Native Development - Developers to focus on Business logic, Hiding Distributed systems complexity.
 
 ## Developers
  
