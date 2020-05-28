@@ -1,4 +1,4 @@
-# Cloud Native - Focus on Business logic.
+# Cloud Native - "Business logic"
 
 ## Developers
   
