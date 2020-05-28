@@ -4,6 +4,7 @@
   
 Development Platforms:
 * [Kubernetes for Developers](https://okteto.com/)
+  * https://github.com/rberrelleza/crossplane-community-day-2020
 * [GitHub - Codespaces](https://github.com/features/codespaces)
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
