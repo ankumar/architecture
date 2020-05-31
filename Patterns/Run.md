@@ -1,5 +1,3 @@
-# "Cloud Native"
-
 ## Developers
   
 Development Platforms:
