@@ -13,7 +13,7 @@ Few universally useful patterns, **"Context matters, even the effective implemen
 
 -- [Simon Wardley](https://twitter.com/swardley)
 
-Resilience is having companies of all sizes Small, Medium & Large:
+Resilience is having companies of all sizes Small, Medium, Large & more in Each, not just 1 or 2:
 1. [**Highly Aligned, Loosely Coupled**](https://jobs.netflix.com/culture)
 2. [**Reversible & Irreversible Decisions**](https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm)
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
