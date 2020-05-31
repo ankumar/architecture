@@ -1,7 +1,7 @@
 ## 1. Technology & Business
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Werner.png)
--- [Amazon CTO Werner Vogels, eCommerce + Cloud + [AI](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>](https://queue.acm.org/detail.cfm?id=1142065)
+-- [Amazon CTO Werner Vogels, eCommerce](https://queue.acm.org/detail.cfm?id=1142065) + Cloud + [AI](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>
 
 **"Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.**
 
