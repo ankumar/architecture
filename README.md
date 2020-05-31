@@ -9,7 +9,8 @@
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
-Few universally useful patterns, **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** -- [Simon Wardley](https://twitter.com/swardley)
+Few universally useful patterns, **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
+-- [Simon Wardley](https://twitter.com/swardley)
 1. [**Highly Aligned, Loosely Coupled**](https://jobs.netflix.com/culture)
 2. [**Reversible & Irreversible Decisions**](https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm)
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
