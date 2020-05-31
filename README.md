@@ -12,7 +12,7 @@
 1. [**Highly Aligned, Loosely Coupled**](https://jobs.netflix.com/culture)
 2. [**Reversible & Irreversible Decisions**](https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm)
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
-4. [**Day 1**](https://www.swyx.io/writing/hello-aws/#muck)
+4. [**Day 1**](https://www.fool.com/investing/2017/04/13/jeff-bezos-says-it-will-always-be-day-1-at-amazon.aspx)
 ## 2. Tools & Services
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/roofshots.png)
