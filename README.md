@@ -29,4 +29,6 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
   * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
   * AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
   
+  
+  
   * [**Programming models**](Patterns/Stuff.md)
