@@ -17,7 +17,7 @@ Few universally useful patterns, **"Context matters, even the effective implemen
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
 4. </>
 
-**Resilience is having companies of all sizes Small, Medium & Large, more in Each not just Few ...**
+**Resilience is having companies of all sizes Small, Medium & Large, more in each not just Few ...**
 
 ## 2. Tools & Services
 
