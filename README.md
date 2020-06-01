@@ -9,7 +9,7 @@
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
-**Resilience is having companies of all sizes Small, Medium & Large, more in each not just Few ...**, Few universally useful patterns:
+**Resilience is having companies of all sizes Small, Medium & Large, more in each not few ...**. Universally useful patterns:
 1. [**Highly Aligned, Loosely Coupled**](https://jobs.netflix.com/culture)
 2. [**Reversible & Irreversible Decisions**](https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm)
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
