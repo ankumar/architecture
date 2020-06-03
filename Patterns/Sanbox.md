@@ -25,5 +25,5 @@ Control Plane [Crossplane](https://github.com/crossplane/crossplane): “Crosspl
  
 ---
 
-Real World Apps:
+**Real World Apps:**
 </>
