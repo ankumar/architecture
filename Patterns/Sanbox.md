@@ -14,6 +14,14 @@ Control Plane: [Crossplane](https://github.com/crossplane/crossplane) “introdu
   * [Distributed Application Runtime](https://dapr.io/)
     * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
+**2. Open Interfaces**
+
+In the future the majority of managed infrastructure offerings MAY be backed by Open Interfaces, NOT necessarily Open Source Projects.
+
+* https://www.alibabacloud.com/blog/lindorm-alibaba-clouds-newest-cloud-native-multi-model-database_596269?spm=a2c65.11461433.0.0.46a75355aeZ2GL
+* [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/) is not just Open Source C*/CQL compatibility. It's also potentially Change Data Capture (CDC) integrated w/ EventHub & Compute (Serverless) used for Data Lake
+
+
 ---
 **Sample Demo Apps:**
   
