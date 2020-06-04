@@ -8,5 +8,9 @@
 # Serverless
 
 * https://github.com/aws-samples/aws-serverless-ecommerce-platform
+
+# Providers
+
+* https://aws.amazon.com/getting-started/
   
   
