@@ -1,4 +1,4 @@
-# Systems Thinking: **Resilience is having companies of all sizes Small, Medium & Large, more in each not few ...**.
+# Systems Thinking: Resilience is having companies of all sizes Small, Medium & Large, more in each not few ....
 [![Systems thinking for a better world](https://github.com/ankumar/Architecture/blob/master/images/Systems%20thinking%20for%20a%20better%20world.png)](https://www.youtube.com/watch?v=d53-nyFzoVI "Rebecca Mills")
 ## 1. SYSTEMS THINKING - Large Scale Macro Environment, Technology/Processes/People
 ## 2. FUTURE - Opportunities & Patterns, NOT discrete Issues or Events
