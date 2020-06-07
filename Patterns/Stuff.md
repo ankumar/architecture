@@ -9,7 +9,8 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    * [API Design](https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md)
    
  * **API**
-   * [Declarative/GraphQL/K8S](https://github.com/ankumar/Architecture/blob/master/Patterns/GraphQL.md)  
+   * [Declarative/GraphQL](https://github.com/ankumar/Architecture/blob/master/Patterns/GraphQL.md)  
+   * [Declarative/K8S](https://k8spatterns.io/)  
    * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
    * More Styles:
      * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
