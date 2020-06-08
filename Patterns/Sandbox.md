@@ -22,9 +22,10 @@ Databases:
   * [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/) is not just Open Source C*/CQL compatibility. It's also potentially Change Data Capture (CDC) integrated w/ EventHub & Compute (Serverless) used for Data Lake
 
 ---
----
+
 **Real World Apps:**
 
+---
 
 **Sample Demo Apps:**
  
