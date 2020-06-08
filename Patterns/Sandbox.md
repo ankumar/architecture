@@ -14,13 +14,6 @@
     * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
     * Phase 3: Ecosystem (later) 
 
-
-**2. Open Interfaces:** In the future the majority of managed infrastructure offerings MAY be backed by Open Interfaces, NOT necessarily Open Source Projects.
-
-Compute:
-DBaaS:
-
-
 ---
 
 **Real World Apps:**
