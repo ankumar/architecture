@@ -11,12 +11,12 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
  * **API**
    * [Declarative/GraphQL](https://github.com/ankumar/Architecture/blob/master/Patterns/GraphQL.md)  
    * [Declarative/K8S](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
-   * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
-   * More Styles:
-     * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+     * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+     * More Styles:
+       * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+       * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
    * [Event-driven/Async](https://www.asyncapi.com/)
    * [Span Multiple Requests/Workflow](https://cadenceworkflow.io/)
-   * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
    
    * [Unified/Multi-Model](http://www.mm-adt.org/)
   
