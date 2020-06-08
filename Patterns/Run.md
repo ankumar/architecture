@@ -36,6 +36,9 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 
 * **Multi-cloud**
   * [Crossplane](https://crossplane.io) - open source universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
+  
+ * [Crossplane](https://github.com/crossplane/crossplane) “introduces a powerful open source control plane to enterprise platforms, enabling companies to standardize on application and infrastructure management; automate operations; effectively implement their security, governance, and cost policies; and publish an internal API that integrates with their development workflows and tools.”
+
   * AWS [Outposts](https://aws.amazon.com/outposts/)
   * Azure [Stack](https://azure.microsoft.com/en-us/overview/azure-stack/) - Appliance, ...
   * GCP [Anthos](https://inthecloud.withgoogle.com/content-anthos/dl-cd.html) - OSS components, Kubernetes, Istio, Knative, Cloud Run ...
