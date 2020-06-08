@@ -7,4 +7,5 @@
   * Paper - https://www.amazon.science/publications/firecracker-lightweight-virtualization-for-serverless-applications
   * Open Source - https://github.com/firecracker-microvm/firecracker
   
+* http://brooker.co.za/blog/2020/06/08/virtualization.html
 * [Papers/Resources - Twitter thread](https://twitter.com/MarcJBrooker/status/1240289894997454848)
