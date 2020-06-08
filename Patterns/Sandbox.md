@@ -1,6 +1,6 @@
 [Open Application Model (OAM)](https://github.com/oam-dev/spec) is a specification for building cloud native applications. OAM aims to enable the [separation of concerns](https://github.com/oam-dev/spec/blob/d16d5add/introduction.md) between application developers, application operators, and infrastructure operators.
   
-**1. Control Plane:** [Crossplane](https://crossplane.io/) is an open source multicloud control plane that shares many of OAM's goals around enabling the separation of concerns when modelling cloud native applications.
+[Crossplane](https://crossplane.io/) is an open source multicloud control plane that shares many of OAM's goals around enabling the separation of concerns when modelling cloud native applications.
 
 [Crossplane](https://github.com/crossplane/crossplane) “introduces a powerful open source control plane to enterprise platforms, enabling companies to standardize on application and infrastructure management; automate operations; effectively implement their security, governance, and cost policies; and publish an internal API that integrates with their development workflows and tools.”
 
