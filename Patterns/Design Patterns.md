@@ -3,7 +3,9 @@
 
 ##
 [Domain-Driven](https://www.dddheuristics.com/)
+
 [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
+
 [API Design](https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md)
 
 ## Kubernetes
