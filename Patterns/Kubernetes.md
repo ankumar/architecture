@@ -22,10 +22,13 @@
 * Configuration Resource, uses Kubernetes resources like ConfigMaps or Secrets to store configuration information.
 * Immutable Configuration, brings immutability to large configuration sets by putting it into containers linked to the application at runtime.
 * Configuration Template, is useful when large configuration files need to be managed for various environments that differ only slightly.
-5. Advanced Patterns, is a collection of advanced concepts, such as how the platform itself can be extended or how to build container images directly within the cluster.
+5. [Advanced Patterns](https://kubernetes.io/docs/concepts/extend-kubernetes/extend-cluster/), is a collection of advanced concepts, such as how the platform itself can be extended or how to build container images directly within the cluster.
+
 * Controller, is essential to Kubernetes itself and this pattern shows how custom controllers can extend the platform.
 * Operator, combines a Controller with custom and domain-specific resources to encapsulate operational knowledge in an automated form.
 * Elastic Scale, describes how Kubernetes can handle dynamic loads by scaling in various dimensions.
 * Image Builder, moves the aspect of building application images into the cluster itself.
+
+Ex: Knative
 
 A pattern might not always fit into one category alone. Depending on the context, the same pattern might fit into several categories. Every pattern chapter is self-contained, and you can read chapters in isolation and in any order.
