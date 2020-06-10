@@ -17,10 +17,9 @@
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 -- [Simon Wardley](https://twitter.com/swardley)
 
-
-## 2. Tools & Services
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. Hiding Infrastructure & Focus on applications Patterns...**
 
+## 2. Tools & Services
 ![](images/open%20source.jpeg)
 
 * [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
