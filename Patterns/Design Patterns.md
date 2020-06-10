@@ -24,7 +24,15 @@
 * Service Discovery, explains how clients can access and discover the instances providing application services.
 * Self Awareness, describes mechanisms for introspection and metadata injection into applications.
 3. Structural Patterns, contains patterns related to organizing containers within a Pod, which is the atom of the Kubernetes platform.
+* Init Container, introduces a separate lifecycle for initialization-related tasks and the main application containers.
+* Sidecar, describes how to extend and enhance the functionality of a pre-existing container without changing it.
+* Adapter, takes an heterogeneous system and makes it conform to a consistent unified interface that can be consumed by the outside world.
+* Ambassador, describes a proxy that decouples access to external services.
 4. Configuration Patterns, gives insight into the various ways application configuration can be handled in Kubernetes. These are very granular patterns, including concrete recipes for connecting applications to their configuration.
+* EnvVar Configuration, uses environment variables to store configuration data.
+* Configuration Resource, uses Kubernetes resources like ConfigMaps or Secrets to store configuration information.
+* Immutable Configuration, brings immutability to large configuration sets by putting it into containers linked to the application at runtime.
+* Configuration Template, is useful when large configuration files need to be managed for various environments that differ only slightly.
 5. Advanced Patterns, is a collection of advanced concepts, such as how the platform itself can be extended or how to build container images directly within the cluster.
 * Controller, is essential to Kubernetes itself and this pattern shows how custom controllers can extend the platform.
 * Operator, combines a Controller with custom and domain-specific resources to encapsulate operational knowledge in an automated form.
