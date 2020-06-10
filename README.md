@@ -21,7 +21,6 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
-
 * [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
     * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV) 
   * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
