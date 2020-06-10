@@ -1,6 +1,9 @@
 ## Classic
 [Hints and principles for computer system design](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Hints-137-short.pdf)
 
+##
+[DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
+
 ## Kubernetes
 1. Foundational Patterns, covers the core concepts of Kubernetes. These are the underlying principles and practices for building container-based cloud-native applications.
 2. Behavioral Patterns, describes patterns that sit on top of the foundational patterns and add finer-grained concepts for managing various types of container and platform interactions.
