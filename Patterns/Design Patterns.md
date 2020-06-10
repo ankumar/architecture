@@ -8,5 +8,12 @@ There are also other characteristics of a pattern language. Patterns are interco
 
 Another feature of patterns is that they follow a rigid format. However, each author defines a different format, and unfortunately there is no common standard for the way patterns should be laid out. Martin Fowler gives an excellent overview of the formats used for pattern languages in [Writing Software Patterns](https://www.martinfowler.com/articles/writingPatterns.html).
 
+1. Foundational Patterns, covers the core concepts of Kubernetes. These are the underlying principles and practices for building container-based cloud-native applications.
+2. Behavioral Patterns, describes patterns that sit on top of the foundational patterns and add finer-grained concepts for managing various types of container and platform interactions.
+3. Structural Patterns, contains patterns related to organizing containers within a Pod, which is the atom of the Kubernetes platform.
+4. Configuration Patterns, gives insight into the various ways application configuration can be handled in Kubernetes. These are very granular patterns, including concrete recipes for connecting applications to their configuration.
+5. Advanced Patterns, is a collection of advanced concepts, such as how the platform itself can be extended or how to build container images directly within the cluster.
+
+A pattern might not always fit into one category alone. Depending on the context, the same pattern might fit into several categories. Every pattern chapter is self-contained, and you can read chapters in isolation and in any order.
 
 1. Christopher Alexander and his team defined the original meaning in the context of architecture as follows: “Each pattern describes a problem which occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice,” (A Pattern Language, Christopher Alexander et al., 1977, p. x).
