@@ -4,6 +4,13 @@
 ## Kubernetes
 1. Foundational Patterns, covers the core concepts of Kubernetes. These are the underlying principles and practices for building container-based cloud-native applications.
 2. Behavioral Patterns, describes patterns that sit on top of the foundational patterns and add finer-grained concepts for managing various types of container and platform interactions.
+* Batch Job, describes an isolated atomic unit of work run until completion.
+* Periodic Job, allows the execution of a unit of work to be triggered by a temporal event.
+* Daemon Service, allows running infrastructure-focused Pods on specific nodes, before application Pods are placed.
+* Singleton Service, ensures only one instance of a service is active at a time and still highly available.
+* Stateful Service, is all about how to create and manage distributed stateful applications with Kubernetes.
+* Service Discovery, explains how clients can access and discover the instances providing application services.
+* Self Awareness, describes mechanisms for introspection and metadata injection into applications.
 3. Structural Patterns, contains patterns related to organizing containers within a Pod, which is the atom of the Kubernetes platform.
 4. Configuration Patterns, gives insight into the various ways application configuration can be handled in Kubernetes. These are very granular patterns, including concrete recipes for connecting applications to their configuration.
 5. Advanced Patterns, is a collection of advanced concepts, such as how the platform itself can be extended or how to build container images directly within the cluster.
