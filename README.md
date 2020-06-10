@@ -21,7 +21,7 @@
 ## 2. Tools & Services
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. Hiding Infrastructure & Focus on applications Patterns...**
 
-![](https://github.com/ankumar/Architecture/blob/master/images/open%20source.jpeg)
+![](images/open%20source.jpeg)
 
 * [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
     * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV) 
