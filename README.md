@@ -28,6 +28,8 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
   * </>
   
 **Services>_**
+
+
 ![](https://github.com/ankumar/Architecture/blob/master/images/roofshots.png)
 <p align="center"> consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p>
 
