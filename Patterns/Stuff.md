@@ -6,7 +6,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
  * **Design Heuristics**
    * [foo](./Design Patterns.md)
-   * [Glossary](Design Patterns.md)
+   * [Glossary](Design%20Patterns.md)
    
  * **API**
    * [Declarative/GraphQL](https://github.com/ankumar/Architecture/blob/master/Patterns/GraphQL.md)  
