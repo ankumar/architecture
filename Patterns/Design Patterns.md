@@ -8,7 +8,9 @@
 
 [API Design](https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md)
 
-## Kubernetes
+## Dist Sys
+
+[Kubernetes](Kubernetes.md)
 
 ## Design Patterns
 The concept of design patterns dates back to the 1970s and from the field of architecture. Christopher Alexander, an architect and system theorist, and his team published the groundbreaking [A Pattern Language](https://en.wikipedia.org/wiki/A_Pattern_Language) (Oxford University Press) in 1977, which describes architectural patterns for creating towns, buildings, and other construction projects. Sometime later this idea was adopted by the newly formed software industry. The most famous book in this area is [Design Patterns—Elements of Reusable Object-Oriented Software](https://en.wikipedia.org/wiki/Design_Patterns) by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides—the Gang of Four (Addison-Wesley). When we talk about the famous Singleton, Factories, or Delegation patterns, it’s because of this defining work. Many other great pattern books have been written since then for various fields with different levels of granularity, like [Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) by Gregor Hohpe and Bobby Woolf (Addison-Wesley) or [Patterns of Enterprise Application Architecture](https://www.martinfowler.com/books/eaa.html) by Martin Fowler (Addison-Wesley).
