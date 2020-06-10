@@ -10,6 +10,11 @@
 
 ## Kubernetes
 1. Foundational Patterns, covers the core concepts of Kubernetes. These are the underlying principles and practices for building container-based cloud-native applications.
+* Predictable Demands, explains why every container should declare its resource profile and stay confined to the indicated resource requirements.
+* Declarative Deployment, shows the different application deployment strategies that can be performed in a declarative way.
+* Health Probe, dictates that every container should implement specific APIs to help the platform observe and manage the application in the healthiest way possible.
+* Managed Lifecycle, describes why a container should have a way to read the events coming from the platform and conform by reacting to those events.
+* Automated Placement, introduces a pattern for distributing containers in a Kubernetes multinode cluster.
 2. Behavioral Patterns, describes patterns that sit on top of the foundational patterns and add finer-grained concepts for managing various types of container and platform interactions.
 * Batch Job, describes an isolated atomic unit of work run until completion.
 * Periodic Job, allows the execution of a unit of work to be triggered by a temporal event.
