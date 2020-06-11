@@ -1,6 +1,7 @@
 # Design Heuristics
 * [Patterns](Design%20Patterns.md)
 * [Glossary](Terminology.md)
+* Declarative ↔ functional ↔ imperative 
 
 # Functions & Workflows ...
 
