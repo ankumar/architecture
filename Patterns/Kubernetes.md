@@ -1,5 +1,7 @@
 # Design Patterns
 
+10 must have patterns https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/ 
+
 1. Foundational Patterns, covers the core concepts of Kubernetes. These are the underlying principles and practices for building container-based cloud-native applications.
 * Predictable Demands, explains why every container should declare its resource profile and stay confined to the indicated resource requirements.
 * Declarative Deployment, shows the different application deployment strategies that can be performed in a declarative way.
@@ -38,8 +40,6 @@ A pattern might not always fit into one category alone. Depending on the context
 ---
 
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
-
-10 must have patterns https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/ 
 
 **Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
