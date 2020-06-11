@@ -1,6 +1,6 @@
 # Design Patterns
 
-10 must have patterns https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/ 
+[10 must have patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/) 
 
 1. Foundational Patterns, covers the core concepts of Kubernetes. These are the underlying principles and practices for building container-based cloud-native applications.
 * Predictable Demands, explains why every container should declare its resource profile and stay confined to the indicated resource requirements.
