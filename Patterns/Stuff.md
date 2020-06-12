@@ -2,6 +2,8 @@
 * [Patterns](Design%20Patterns.md)
 * [Glossary](Terminology.md)
 
+**Hints ...**
+
 # Functions & Workflows ...
 
 ## 1. Software-Intensive:
