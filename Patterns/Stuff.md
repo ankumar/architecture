@@ -12,7 +12,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
    
  * **API**
    * [Declarative/GraphQL](https://github.com/ankumar/Architecture/blob/master/Patterns/GraphQL.md)  
-   * [Declarative/K8S](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
+   * [Declarative/Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
      * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
      * More Styles:
        * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
