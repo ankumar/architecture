@@ -11,7 +11,7 @@
   * https://devcenter.heroku.com/articles/buildpacks
 ---
 
-**Application operator:**
+**Application Operator:**
 
 * [Cloud Run](https://cloud.google.com/run)
   * https://knative.dev/
