@@ -4,8 +4,6 @@
 
 * https://github.com/GoogleCloudPlatform/microservices-demo
 
----
-
 **Real World Apps:**
 
 * </>
