@@ -25,6 +25,8 @@
 
 **Sample Demo Apps:**
 
+* https://github.com/GoogleCloudPlatform/microservices-demo
+
 ---
 
 **Real World Apps:**
