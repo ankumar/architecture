@@ -1,7 +1,16 @@
+* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
+  * Phase 1: Extensible frontend platform (Done ✅) 
+  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+  * Phase 3: Ecosystem (later) 
+
+---
+
+**GCP:**
+
 * [Cloud Run](https://cloud.google.com/run)
   * https://knative.dev/
 
----
+**Azure/Alibaba:**
 
 * [Open Application Model (OAM)](https://github.com/oam-dev/spec) is a specification for building cloud native applications. OAM aims to enable the [separation of concerns](https://github.com/oam-dev/spec/blob/d16d5add/introduction.md) between application developers, application operators, and infrastructure operators.
   
@@ -11,10 +20,6 @@
 * [Distributed Application Runtime](https://dapr.io/)
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
-* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
-  * Phase 1: Extensible frontend platform (Done ✅) 
-  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
-  * Phase 3: Ecosystem (later) 
 
 ---
 
