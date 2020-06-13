@@ -1,14 +1,15 @@
 **Application Developer:**
 
-* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
-  * Phase 1: Extensible frontend platform (Done ✅) 
-  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
-  * Phase 3: Ecosystem (later) 
+**Sample Demo Apps:**
 
-* https://upbound.io/
+* https://github.com/GoogleCloudPlatform/microservices-demo
 
-* https://buildpacks.io/
-  * https://devcenter.heroku.com/articles/buildpacks
+---
+
+**Real World Apps:**
+
+* </>
+
 ---
 
 **Operators:**
@@ -27,17 +28,12 @@
 * [Distributed Application Runtime](https://dapr.io/)
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
+* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
+  * Phase 1: Extensible frontend platform (Done ✅) 
+  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+  * Phase 3: Ecosystem (later) 
 
----
+* https://upbound.io/
 
-**Sample Demo Apps:**
-
-* https://github.com/GoogleCloudPlatform/microservices-demo
-
----
-
-**Real World Apps:**
-
-* </>
-
- 
+* https://buildpacks.io/
+  * https://devcenter.heroku.com/articles/buildpacks
