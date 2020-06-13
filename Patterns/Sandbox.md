@@ -1,4 +1,4 @@
-**"Internal Cloud Platform":**
+**"Internal Platform":**
 
 * Extending [Backstage, Open Source from Spotify](https://backstage.io/):
   * Phase 1: Extensible frontend platform (Done ✅) 
