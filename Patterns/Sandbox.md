@@ -12,6 +12,8 @@
 
 **Operators:**
 
+**GCP:**
+
 * [Cloud Run](https://cloud.google.com/run)
   * https://knative.dev/
 
