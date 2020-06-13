@@ -7,7 +7,8 @@
 
 * https://upbound.io/
 
-* https://devcenter.heroku.com/articles/buildpacks
+* https://buildpacks.io/
+  * https://devcenter.heroku.com/articles/buildpacks
 ---
 
 **GCP:**
