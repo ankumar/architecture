@@ -1,4 +1,4 @@
-**"Internal Platform":**
+**"Internal PaaS":**
 
 * Extending [Backstage, Open Source from Spotify](https://backstage.io/):
   * Phase 1: Extensible frontend platform (Done ✅) 
@@ -7,6 +7,7 @@
 
 * https://upbound.io/
 
+* https://devcenter.heroku.com/articles/buildpacks
 ---
 
 **GCP:**
