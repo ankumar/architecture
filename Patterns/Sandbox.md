@@ -1,4 +1,4 @@
-**"Internal PaaS":**
+**Application Developer:**
 
 * Extending [Backstage, Open Source from Spotify](https://backstage.io/):
   * Phase 1: Extensible frontend platform (Done ✅) 
