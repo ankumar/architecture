@@ -10,7 +10,7 @@
 * [Cloud Run](https://cloud.google.com/run)
   * https://knative.dev/
 
-**Azure/Alibaba:**
+**Azure, Alibaba:**
 
 * [Open Application Model (OAM)](https://github.com/oam-dev/spec) is a specification for building cloud native applications. OAM aims to enable the [separation of concerns](https://github.com/oam-dev/spec/blob/d16d5add/introduction.md) between application developers, application operators, and infrastructure operators.
   
