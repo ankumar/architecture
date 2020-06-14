@@ -7,10 +7,10 @@
 * </>
 
 ---
-* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
-  * Phase 1: Extensible frontend platform (Done ✅) 
-  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
-  * Phase 3: Ecosystem (later) 
+* [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
+
+* https://okteto.com/
+
 ---
 **GCP:**
 
@@ -31,8 +31,18 @@
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
 ---
-* https://okteto.com/
+
 * https://upbound.io/
+* [GitHub - Codespaces](https://github.com/features/codespaces)
+* [AWS - Cloud9](https://aws.amazon.com/cloud9/)
+* [Kubernetes for Developers](https://okteto.com/)
+  * https://github.com/rberrelleza/crossplane-community-day-2020
+  
+* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
+  * Phase 1: Extensible frontend platform (Done ✅) 
+  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+  * Phase 3: Ecosystem (later) 
+  
 ---
 **Heroku**
 * https://devcenter.heroku.com/articles/buildpacks
