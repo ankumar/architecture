@@ -16,9 +16,6 @@
 
 * https://upbound.io/
 
-* https://buildpacks.io/
-  * https://devcenter.heroku.com/articles/buildpacks
-
 ---
 
 **Operators:**
@@ -27,6 +24,9 @@
 
 * [Cloud Run](https://cloud.google.com/run)
   * https://knative.dev/
+  * https://buildpacks.io/
+    * https://devcenter.heroku.com/articles/buildpacks
+    * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
 
 **Azure, Alibaba & Crossplane:**
 
