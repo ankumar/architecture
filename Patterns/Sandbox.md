@@ -28,10 +28,6 @@
 * https://upbound.io/
 * [GitHub - Codespaces](https://github.com/features/codespaces)
 
----
-**Heroku**
-* https://devcenter.heroku.com/articles/buildpacks
-
 ## Sandbox
 
 * Extending [Backstage, Open Source from Spotify](https://backstage.io/):
@@ -50,3 +46,7 @@
 * [Distributed Application Runtime](https://dapr.io/)
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
+## References
+
+**Heroku**
+* https://devcenter.heroku.com/articles/buildpacks
