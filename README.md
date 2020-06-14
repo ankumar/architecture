@@ -26,11 +26,7 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 
-* </>
-  
 **Services>_**
-
-
 ![](images/roofshots.png)
 <p align="center"> consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p>
 
