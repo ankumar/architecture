@@ -18,8 +18,6 @@
 
 ---
 
-**Operators:**
-
 **GCP:**
 
 * [Cloud Run](https://cloud.run)
