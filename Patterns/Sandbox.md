@@ -23,6 +23,22 @@
   * https://buildpacks.io/
     * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
 
+---
+
+* https://upbound.io/
+* [GitHub - Codespaces](https://github.com/features/codespaces)
+
+---
+**Heroku**
+* https://devcenter.heroku.com/articles/buildpacks
+
+---
+
+* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
+  * Phase 1: Extensible frontend platform (Done ✅) 
+  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+  * Phase 3: Ecosystem (later) 
+  
 **Azure, Alibaba & Crossplane:**
 
 * [Open Application Model (OAM)](https://github.com/oam-dev/spec) is a specification for building cloud native applications. OAM aims to enable the [separation of concerns](https://github.com/oam-dev/spec/blob/d16d5add/introduction.md) between application developers, application operators, and infrastructure operators.
@@ -34,16 +50,3 @@
 * [Distributed Application Runtime](https://dapr.io/)
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
----
-
-* https://upbound.io/
-* [GitHub - Codespaces](https://github.com/features/codespaces)
-  
-* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
-  * Phase 1: Extensible frontend platform (Done ✅) 
-  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
-  * Phase 3: Ecosystem (later) 
-  
----
-**Heroku**
-* https://devcenter.heroku.com/articles/buildpacks
