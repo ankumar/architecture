@@ -16,9 +16,6 @@
 
 ---
 
-**Heroku**
-* https://devcenter.heroku.com/articles/buildpacks
-
 **GCP:**
 
 * [Cloud Run](https://cloud.run)
@@ -37,3 +34,7 @@
 * [Distributed Application Runtime](https://dapr.io/)
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
+---
+
+**Heroku**
+* https://devcenter.heroku.com/articles/buildpacks
