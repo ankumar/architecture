@@ -6,7 +6,6 @@
 
 * </>
 
-## Incubating
 * https://ssh.cloud.google.com/
   * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 
