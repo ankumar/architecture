@@ -11,11 +11,7 @@
   * Phase 1: Extensible frontend platform (Done ✅) 
   * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
   * Phase 3: Ecosystem (later) 
-
-* https://upbound.io/
-
 ---
-
 **GCP:**
 
 * [Cloud Run](https://cloud.run)
@@ -35,6 +31,7 @@
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
 ---
-
 **Heroku**
 * https://devcenter.heroku.com/articles/buildpacks
+---
+* https://upbound.io/
