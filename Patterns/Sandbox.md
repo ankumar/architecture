@@ -31,7 +31,7 @@
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
 ---
+* https://upbound.io/
+---
 **Heroku**
 * https://devcenter.heroku.com/articles/buildpacks
----
-* https://upbound.io/
