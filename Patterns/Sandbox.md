@@ -1,5 +1,3 @@
-**Application Developer:**
-
 **Demo Apps:**
 
 * https://github.com/GoogleCloudPlatform/microservices-demo
