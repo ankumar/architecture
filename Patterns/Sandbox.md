@@ -10,6 +10,9 @@
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 
 * https://okteto.com/
+  * https://github.com/rberrelleza/crossplane-community-day-2020
+  
+* [AWS - Cloud9](https://aws.amazon.com/cloud9/)
 
 ---
 **GCP:**
@@ -34,7 +37,6 @@
 
 * https://upbound.io/
 * [GitHub - Codespaces](https://github.com/features/codespaces)
-* [AWS - Cloud9](https://aws.amazon.com/cloud9/)
   
 * Extending [Backstage, Open Source from Spotify](https://backstage.io/):
   * Phase 1: Extensible frontend platform (Done ✅) 
