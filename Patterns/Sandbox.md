@@ -32,9 +32,7 @@
 **Heroku**
 * https://devcenter.heroku.com/articles/buildpacks
 
----
-
-## sandbox
+## Sandbox
 
 * Extending [Backstage, Open Source from Spotify](https://backstage.io/):
   * Phase 1: Extensible frontend platform (Done ✅) 
