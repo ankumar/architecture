@@ -35,8 +35,6 @@
 * https://upbound.io/
 * [GitHub - Codespaces](https://github.com/features/codespaces)
 * [AWS - Cloud9](https://aws.amazon.com/cloud9/)
-* [Kubernetes for Developers](https://okteto.com/)
-  * https://github.com/rberrelleza/crossplane-community-day-2020
   
 * Extending [Backstage, Open Source from Spotify](https://backstage.io/):
   * Phase 1: Extensible frontend platform (Done ✅) 
