@@ -22,7 +22,7 @@
 
 **GCP:**
 
-* [Cloud Run](https://cloud.google.com/run)
+* [Cloud Run](https://cloud.run)
   * https://knative.dev/
   * https://buildpacks.io/
     * https://devcenter.heroku.com/articles/buildpacks
