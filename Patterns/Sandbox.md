@@ -46,7 +46,7 @@ https://okteto.com/
   
 [AWS - Cloud9](https://aws.amazon.com/cloud9/)
 
-* https://upbound.io/
+https://upbound.io/
 
-* [GitHub - Codespaces](https://github.com/features/codespaces)
+[GitHub - Codespaces](https://github.com/features/codespaces)
 
