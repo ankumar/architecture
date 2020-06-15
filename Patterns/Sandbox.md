@@ -24,7 +24,7 @@
  
 ---
 
-* [Distributed Application Runtime](https://dapr.io/)
+[Distributed Application Runtime](https://dapr.io/)
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
 ## References
