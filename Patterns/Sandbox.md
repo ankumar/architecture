@@ -14,9 +14,6 @@
     * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
 ---
 
-* https://upbound.io/
-* [GitHub - Codespaces](https://github.com/features/codespaces)
-
 ## Sandbox
 
 * Extending [Backstage, Open Source from Spotify](https://backstage.io/):
@@ -48,4 +45,8 @@ https://okteto.com/
   * https://github.com/rberrelleza/crossplane-community-day-2020
   
 [AWS - Cloud9](https://aws.amazon.com/cloud9/)
+
+* https://upbound.io/
+
+* [GitHub - Codespaces](https://github.com/features/codespaces)
 
