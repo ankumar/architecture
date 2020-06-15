@@ -39,7 +39,6 @@
 
 ## References
 
-**Heroku**
 * https://devcenter.heroku.com/articles/buildpacks
 
 https://ssh.cloud.google.com/
