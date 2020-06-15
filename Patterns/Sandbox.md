@@ -1,6 +1,6 @@
 **Demo Apps:**
 
-* **OnlineBoutique**, 10 Microservices, https://github.com/GoogleCloudPlatform/microservices-demo
+* **Online Boutique**, 10 Microservices, https://github.com/GoogleCloudPlatform/microservices-demo
   * [Cloud Run Button](cloud-run.md)
     * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
 
