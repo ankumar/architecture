@@ -14,11 +14,6 @@
 ---
 
 ## Sandbox
-
-* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
-  * Phase 1: Extensible frontend platform (Done ✅) 
-  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
-  * Phase 3: Ecosystem (later) 
   
 **Azure, Alibaba & Crossplane:**
 
@@ -47,6 +42,11 @@ https://upbound.io/
 
 [GitHub - Codespaces](https://github.com/features/codespaces)
 
+* Extending [Backstage, Open Source from Spotify](https://backstage.io/):
+  * Phase 1: Extensible frontend platform (Done ✅) 
+  * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+  * Phase 3: Ecosystem (later) 
+  
 AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
 
 
