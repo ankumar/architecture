@@ -1,7 +1,6 @@
 **Demo Apps:**
 
-* Ten Services -> https://github.com/GoogleCloudPlatform/microservices-demo
-
+* **OnlineBoutique**, 10 Microservices -> https://github.com/GoogleCloudPlatform/microservices-demo
   * [Cloud Run](cloud-run.md)
 
 ---
