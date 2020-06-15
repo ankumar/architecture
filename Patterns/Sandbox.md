@@ -2,7 +2,7 @@
 
 * Ten Services -> https://github.com/GoogleCloudPlatform/microservices-demo
 
-* [Cloud Run](cloud-run.md)
+  * [Cloud Run](cloud-run.md)
 
 ---
 
