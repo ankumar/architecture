@@ -6,15 +6,6 @@
 
 ---
 
-https://ssh.cloud.google.com/
-  * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
-
-https://okteto.com/
-  * https://github.com/rberrelleza/crossplane-community-day-2020
-  
-[AWS - Cloud9](https://aws.amazon.com/cloud9/)
-
----
 **GCP:**
 
 * [Cloud Run](https://cloud.run)
@@ -50,3 +41,12 @@ https://okteto.com/
 
 **Heroku**
 * https://devcenter.heroku.com/articles/buildpacks
+
+https://ssh.cloud.google.com/
+  * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
+
+https://okteto.com/
+  * https://github.com/rberrelleza/crossplane-community-day-2020
+  
+[AWS - Cloud9](https://aws.amazon.com/cloud9/)
+
