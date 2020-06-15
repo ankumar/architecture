@@ -1,6 +1,6 @@
 **Demo Apps:**
 
-* https://github.com/GoogleCloudPlatform/microservices-demo
+* 10 Services -> https://github.com/GoogleCloudPlatform/microservices-demo
 
 **Real World Apps:**
 
