@@ -31,8 +31,6 @@
 * [Distributed Application Runtime](https://dapr.io/)
   * [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
-* AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
-
 ## References
 
 https://devcenter.heroku.com/articles/buildpacks
@@ -48,4 +46,7 @@ https://okteto.com/
 https://upbound.io/
 
 [GitHub - Codespaces](https://github.com/features/codespaces)
+
+AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
+
 
