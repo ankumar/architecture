@@ -3,7 +3,7 @@
 * **OnlineBoutique**, 10 Microservices, https://github.com/GoogleCloudPlatform/microservices-demo
   * [Cloud Run](cloud-run.md)
 
-**GCP:**
+**Providers:**
 
 * [Cloud Run](https://cloud.run)
   * https://knative.dev/
