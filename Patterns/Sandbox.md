@@ -3,8 +3,6 @@
 * **OnlineBoutique**, 10 Microservices, https://github.com/GoogleCloudPlatform/microservices-demo
   * [Cloud Run](cloud-run.md)
 
----
-
 **GCP:**
 
 * [Cloud Run](https://cloud.run)
