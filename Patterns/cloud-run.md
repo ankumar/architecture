@@ -1,4 +1,4 @@
-**Online Boutique**, 10 Microservices, https://github.com/GoogleCloudPlatform/microservices-demo
+**1. Online Boutique**, 10 Microservices, https://github.com/GoogleCloudPlatform/microservices-demo
 
 | Service | Cloud Run Button | Observability |
 | ------------------------- | ---------------- | ---------------- |
@@ -17,4 +17,5 @@
 [run_cartservice]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/cartservice
 
 
+**2. https://github.com/microservices-demo/microservices-demo
 
