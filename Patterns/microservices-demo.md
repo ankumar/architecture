@@ -1,6 +1,6 @@
 **1. Online Boutique**, https://github.com/GoogleCloudPlatform/microservices-demo
 
-| Service | Run | Observability |
+| Service | Build, Deploy | Observability |
 | ------------------------- | ---------------- | ---------------- |
 | 1. emailservice | | |
 | 2. productcatalogservice | | |
