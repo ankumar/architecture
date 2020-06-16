@@ -1,6 +1,6 @@
 **Demo Apps:**
 
-[microservices](microservices-demo.md)
+  * [microservices](microservices-demo.md)
 
 [**GCP Cloud Run**](https://cloud.run)
 * https://knative.dev/
