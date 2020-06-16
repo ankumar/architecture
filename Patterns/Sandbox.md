@@ -2,9 +2,11 @@
 
   * [microservices](microservices-demo.md)
 
-[**GCP Cloud Run**](https://cloud.run)
-* https://knative.dev/
-* https://buildpacks.io/
+**GCP**
+
+* [**Cloud Run**](https://cloud.run)
+  * https://knative.dev/
+  * https://buildpacks.io/
    
 **Azure, Alibaba & Crossplane:**
 
