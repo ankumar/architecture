@@ -2,7 +2,7 @@
 
   * [microservices](microservices-demo.md)
 
-**GCP**
+**GCP:**
 
 * [**Cloud Run**](https://cloud.run)
   * https://knative.dev/
