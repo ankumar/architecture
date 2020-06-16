@@ -19,3 +19,7 @@
 
 **2. Sock Shop**, https://github.com/microservices-demo/microservices-demo
 
+| Service | Run | Observability |
+| ------------------------- | ---------------- | ---------------- |
+| 1.  | | |
+| 2.  | | |
