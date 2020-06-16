@@ -24,5 +24,5 @@
 | 1. payment (Go) |  [<img src="https://storage.googleapis.com/cloudrun/button.svg" alt="Run on Google Cloud" height="30">][run_sock_shop_payment] | |
 | 2.  | | |
 
-[run_sock_shop_payment]: https://deploy.cloud.run/?git_repo=https://github.com/microservices-demo/payment
+[run_sock_shop_payment]: https://deploy.cloud.run/?git_repo=https://github.com/microservices-demo/payment&dir=docker/payment/
 
