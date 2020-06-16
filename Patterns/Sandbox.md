@@ -1,6 +1,6 @@
 **Demo Apps:**
 
-./microservices-demo.md
+[./microservices-demo.md]
 
 **Providers:**
 
