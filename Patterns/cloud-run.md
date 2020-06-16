@@ -1,6 +1,6 @@
 **Online Boutique**, 10 Microservices, https://github.com/GoogleCloudPlatform/microservices-demo
 
-| Service | Cloud Run Button | Observability |
+| Service | Cloud Run Button | Observability (https://lightstep.com/)  ||
 | ------------------------- | ---------------- | ---------------- |
 | 1. emailservice | | |
 | 2. productcatalogservice | | |
