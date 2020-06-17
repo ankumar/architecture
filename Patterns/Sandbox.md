@@ -24,21 +24,13 @@
 
 https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
     
-https://devcenter.heroku.com/articles/buildpacks
-* https://buildpacks.io/
-
 https://ssh.cloud.google.com/
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 
+https://upbound.io/
 https://okteto.com/
 * https://github.com/rberrelleza/crossplane-community-day-2020
   
-[AWS - Cloud9](https://aws.amazon.com/cloud9/)
-
-https://upbound.io/
-
-[GitHub - Codespaces](https://github.com/features/codespaces)
-
 Extending [Backstage, Open Source from Spotify](https://backstage.io/):
 * Phase 1: Extensible frontend platform (Done ✅) 
 * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
@@ -46,4 +38,8 @@ Extending [Backstage, Open Source from Spotify](https://backstage.io/):
   
 AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
 
+[AWS - Cloud9](https://aws.amazon.com/cloud9/)
+[GitHub - Codespaces](https://github.com/features/codespaces)
 
+https://devcenter.heroku.com/articles/buildpacks
+* https://buildpacks.io/
