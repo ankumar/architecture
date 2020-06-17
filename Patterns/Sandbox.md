@@ -26,6 +26,8 @@ Data Plane - https://github.com/cncf/udpa
 
 ## References
 
+Tehnology Radar - https://www.thoughtworks.com/radar/platforms
+
 https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
     
 https://ssh.cloud.google.com/
