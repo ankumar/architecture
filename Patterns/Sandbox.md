@@ -5,9 +5,8 @@
 **GCP:**
 
 * [**Cloud Run**](https://cloud.run)
-  * https://github.com/knative/serving/tree/master/docs
-  
-  * 
+  * Serving - https://github.com/knative/serving/tree/master/docs
+  * Eventing - https://github.com/knative/eventing/tree/master/docs
    
 **Azure, Alibaba & Crossplane:**
 
