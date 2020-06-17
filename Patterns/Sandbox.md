@@ -46,6 +46,10 @@ Extending [Backstage, Open Source from Spotify](https://backstage.io/):
   
 AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
 
+https://relay.sh/
+
+https://tekton.dev/
+
 https://aws.amazon.com/cloud9/
 https://github.com/features/codespaces
 
