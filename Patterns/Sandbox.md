@@ -5,6 +5,7 @@
 ---
 
 **GCP**: [Cloud Run](https://cloud.run)
+  * https://www.thoughtworks.com/radar/platforms/knative
   * Serving - https://github.com/knative/serving/tree/master/docs
   * Eventing - https://github.com/knative/eventing/tree/master/docs
    
