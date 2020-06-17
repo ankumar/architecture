@@ -4,7 +4,7 @@
 
 **Hints...** 
 
-![](https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg =28x28)
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
 
 # Functions & Workflows ...
 
