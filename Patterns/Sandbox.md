@@ -17,13 +17,6 @@
  [Crossplane](https://crossplane.io/) is an open source multicloud control plane that shares many of OAM's goals around enabling the separation of concerns when modelling cloud native applications. https://github.com/crossplane/crossplane/blob/master/design/one-pager-oam-workflow.md
     * https://github.com/cncf/toc/blob/c9e6897ab38fed134e32d2b4471fae900f0afbce/proposals/sandbox/crossplane.md
     
-## Whitepaper
-
-Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
-* Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
-
-Data Plane - https://github.com/cncf/udpa
-
 ## References
 
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
@@ -34,7 +27,6 @@ Cloud Shell, Cloud Code & [GoogleContainerTools](https://github.com/GoogleContai
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
     
-
 https://upbound.io/
 https://okteto.com/
 * https://github.com/rberrelleza/crossplane-community-day-2020
@@ -48,6 +40,10 @@ AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much ti
 
 https://relay.sh/
 
+Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
+* Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
+
+Data Plane - https://github.com/cncf/udpa
 https://cd.foundation/
 
 https://aws.amazon.com/cloud9/
