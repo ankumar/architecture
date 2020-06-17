@@ -48,7 +48,7 @@ AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much ti
 
 https://relay.sh/
 
-https://tekton.dev/
+https://cd.foundation/
 
 https://aws.amazon.com/cloud9/
 https://github.com/features/codespaces
