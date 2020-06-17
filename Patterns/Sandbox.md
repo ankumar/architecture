@@ -29,7 +29,8 @@ Data Plane - https://github.com/cncf/udpa
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * https://www.thoughtworks.com/radar/platforms/knative
 
-https://ssh.cloud.google.com/
+Cloud Shell, Cloud Code, GoogleContainerTools, Skaffold, Kaniko, KPT
+* https://ssh.cloud.google.com/
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
     
