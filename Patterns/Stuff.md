@@ -2,9 +2,7 @@
 * [Patterns](Design%20Patterns.md)
 * [Glossary](Terminology.md)
 
-
-
-**Hints ........**
+**--> Hints ........**
 
 # Functions & Workflows ...
 
