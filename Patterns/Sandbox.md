@@ -19,7 +19,8 @@
     
 ## Whitepaper
 
-https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
+Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
+Data Plane - https://github.com/cncf/udpa
 
 ## References
 
