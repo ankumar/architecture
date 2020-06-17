@@ -2,8 +2,7 @@
 * [Patterns](Design%20Patterns.md)
 * [Glossary](Terminology.md)
 
-**Hints... ![](https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg) **
-
+**Hints... ![](https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg =28x28) **
 
 # Functions & Workflows ...
 
