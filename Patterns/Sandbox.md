@@ -23,6 +23,12 @@
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * https://www.thoughtworks.com/radar/platforms/knative
 
+Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
+* Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
+Data Plane - https://github.com/cncf/udpa
+
+https://cd.foundation/
+
 Cloud Shell, Cloud Code & [GoogleContainerTools](https://github.com/GoogleContainerTools)
 * https://ssh.cloud.google.com/
 * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
@@ -41,14 +47,11 @@ AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much ti
 
 https://relay.sh/
 
-Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
-* Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
-
-Data Plane - https://github.com/cncf/udpa
-
-https://cd.foundation/
-
 https://aws.amazon.com/cloud9/
+https://aws.github.io/
+* https://awslabs.github.io/smithy/index.html
+
+
 https://github.com/features/codespaces
 
 https://devcenter.heroku.com/articles/buildpacks
