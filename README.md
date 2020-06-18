@@ -1,4 +1,6 @@
 ## 1. Technology & Business
+Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. Hiding Infrastructure & Focus on applications Patterns...**
+
 ![](images/Werner.png)
 -- [CTO Werner Vogels, eCommerce](https://queue.acm.org/detail.cfm?id=1142065) + [Cloud](https://aws.amazon.com/) + [AI](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + [**Day 1**](https://www.fool.com/investing/2017/04/13/jeff-bezos-says-it-will-always-be-day-1-at-amazon.aspx) + </>
 
@@ -16,8 +18,6 @@
 
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 -- [Simon Wardley](https://twitter.com/swardley)
-
-Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. Hiding Infrastructure & Focus on applications Patterns...**
 
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
