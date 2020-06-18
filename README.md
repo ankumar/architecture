@@ -1,6 +1,4 @@
 ## 1. Technology & Business
-Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. Hiding Infrastructure & Focus on applications Patterns...**
-
 ![](images/Werner.png)
 -- [CTO Werner Vogels, eCommerce](https://queue.acm.org/detail.cfm?id=1142065) + [Cloud](https://aws.amazon.com/) + [AI](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + [**Day 1**](https://www.fool.com/investing/2017/04/13/jeff-bezos-says-it-will-always-be-day-1-at-amazon.aspx) + </>
 
@@ -29,3 +27,4 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 <p align="center"> consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p>
 
 * [**Programming models**](Patterns/Stuff.md)
+Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. Hiding Infrastructure & Focus on applications Patterns...**
