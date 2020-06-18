@@ -23,6 +23,6 @@
 ![](images/roofshots.png)
 <p align="center"> consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p>
 
-* [**Programming models**](Patterns/Stuff.md)
-
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. Hiding Infrastructure & Focus on applications Patterns...**
+
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28"> [**Programming models**](Patterns/Stuff.md)
