@@ -1,6 +1,6 @@
 **Demo Apps:**
 
-Language & Frameworks: Primarliy **Node, JVM, Python** / **.NET, Go, ...**
+Language & Frameworks: Primarliy **Node, Java, Python** / **.NET, Go, ...**
 
   * [microservices](microservices-demo.md)
     
