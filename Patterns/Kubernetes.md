@@ -5,7 +5,7 @@ https://github.com/kubernetes/community/tree/master/contributors/design-proposal
   * Resource model - https://kubernetes.io/docs/reference/using-api/api-overview/ / https://kubernetes.io/docs/reference/using-api/api-concepts/
   * Object model - https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/
   * Message model - </>
-  * Data model - </>
+  * Data model - [etcd](https://etcd.io/) Key / Value
 
 [10 must have patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/) 
 
