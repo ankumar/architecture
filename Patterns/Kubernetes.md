@@ -1,6 +1,8 @@
 # Design Patterns
 
-https://github.com/kubernetes/community/tree/master/contributors/design-proposals
+* 
+  * https://github.com/kubernetes/enhancements/tree/master/keps
+  * https://github.com/kubernetes/community/tree/master/contributors/design-proposals
 * API - https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.18/
   * Resource model - https://kubernetes.io/docs/reference/using-api/api-overview/ / https://kubernetes.io/docs/reference/using-api/api-concepts/
   * Object model - https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/
