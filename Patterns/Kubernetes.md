@@ -14,7 +14,7 @@
 
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
 
-**Manage Planes, [Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
+**Managem, [Planes - Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
 * **Multi-cloud**
   * [Crossplane](https://crossplane.io) - open source universal control plane on which any platform can be built and configured through Kubernetes style APIs;is open source/open governance, supports multiple cloud/infra providers, support application self-servicing, enables a clean separation of concern, and more.
