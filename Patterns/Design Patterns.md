@@ -8,6 +8,8 @@
 
 [API Design](https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md)
 
+[The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+
 ---
 
 ## Distributed Systems
