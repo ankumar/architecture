@@ -29,6 +29,8 @@ Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serve
 * Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
 Data Plane - https://github.com/cncf/udpa
 
+* https://github.com/servicemeshinterface/smi-spec
+
 https://cd.foundation/
 
 * [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
