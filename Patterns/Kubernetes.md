@@ -8,6 +8,7 @@
   * Object model - https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/
   * Message model - [gRPC](https://grpc.io/docs/what-is-grpc/core-concepts/)
   * Data model - [etcd](https://etcd.io/) Key / Value
+* [what-happens-when-k8s](https://github.com/jamiehannaford/what-happens-when-k8s)
 * [10 must-know patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/) 
 
 ---
