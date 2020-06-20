@@ -1,6 +1,6 @@
 **Demo Apps:**
 
-Language & Frameworks: **Node, Java, Python**, ... / **.NET, Go, ...**
+Language & Frameworks: **Node, Java, Python, .NET, Go, ...**
 
   * [microservices](microservices-demo.md)
     
