@@ -1,4 +1,6 @@
-# Ruth Malan, Bredemeyer Consulting, Masterclass, San Francisco/Dec 9, 2019 
+# Masterclass By Ruth Malan, Bredemeyer Consulting
+
+Location: San Francisco/Dec 9, 2019 
 
 ## OPTIONAL READING (there are no prerequisites for this masterclass)
 
@@ -58,6 +60,16 @@ The books recommended in the wrap-up :
 * Deborah Tannen,  That's Not What I Meant!: How Conversational Style Makes or Breaks Relationships, https://www.amazon.com/gp/product/0062062999/
 * Kerry Patterson et al,  Crucial Conversations Tools for Talking When Stakes Are High, https://www.amazon.com/gp/product/0071771328/
 * Kerry Patterson et al, Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior, https://www.amazon.com/Crucial-Confrontations-Resolving-Promises-Expectations/dp/0071446524/
+
+Hi all, and thanks Phillip. Lots to think about in the list of principles. We’re each crafting the unique leader we are, and adapting to the contexts and situations we find ourselves in. So, I’m applying some translation to “aggressiveness” (the second bullet point) and find myself agreeing in the sense of willingness to take risks/be bold (which connects with the moral courage point later), rather than the other kind. J  J  It makes me think that creating a list of leadership principles would be a good team exercise – thoughts?? J
+
+Since it’s Susan Sontag’s “born on this day in 1933” day, I was reminded of:
+
+“It's all about paying attention. Attention is vitality. It connects you with others. It makes you eager. stay eager” – Susan Sontag
+ 
+If there’s a theme to the “Sense/Observe” module of the Technical Leadership masterclass, it’s pay attention (and stay eager), and through paying attention, develop both understanding and relationships. The first is vital to perceiving what needs to be done, that’s critical but not being done. And the second is vital not just to learning more, and more astutely (eg, more perspectives to gain insight), but also to working with others to get it done. But attention is a trickster, for in attending, we’re not attending (to everything else), and we need to use judgment, directing our (own and collective) attention to what matters. This means that leadership has a responsibility not just to scan across the system, and containing/interacting systems, but across time (flawed, but still, we need to anticipate), to assess what needs attention.
+
+Thank you again to everyone on this email thread for all you contributed to the masterclass day – the work, the insights and experiences shared, and the attention and staying eager.
 
 ## Perspectives
 
