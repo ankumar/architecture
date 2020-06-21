@@ -1,6 +1,6 @@
 # Ruth Malan, Bredemeyer Consulting, Masterclass, San Francisco/Dec 9, 2019 
 
-## OPTIONAL READING (there are no prerequisites for this masterclass)**
+## OPTIONAL READING (there are no prerequisites for this masterclass)
 
 Some background reading that gives a sense of the scope of technical leadership roles:
 
