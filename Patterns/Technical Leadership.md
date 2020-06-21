@@ -25,10 +25,7 @@ And because Technical Leadership draws on both the technical and on leadership o
 * Humility: Humble Inquiry: The Gentle Art of Asking Instead of Telling, Edgar H Schein
 * Without being harsh on ourselves: Banish Your Inner Critic: Silence the Voice of Self-Doubt to Unleash Your Creativity and Do Your Best Work, Denise Jacobs
 
-A sample of the masterclass material:
-
-Decisions and technical Leadership: https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf
-
+A sample of the masterclass material: Decisions and technical Leadership: https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf
 
 ## Thank You
 
