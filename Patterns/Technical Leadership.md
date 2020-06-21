@@ -61,7 +61,7 @@ The books recommended in the wrap-up :
 * Kerry Patterson et al,  Crucial Conversations Tools for Talking When Stakes Are High, https://www.amazon.com/gp/product/0071771328/
 * Kerry Patterson et al, Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior, https://www.amazon.com/Crucial-Confrontations-Resolving-Promises-Expectations/dp/0071446524/
 
-Hi all, and thanks Phillip. Lots to think about in the list of principles. We’re each crafting the unique leader we are, and adapting to the contexts and situations we find ourselves in. So, I’m applying some translation to “aggressiveness” (the second bullet point) and find myself agreeing in the sense of willingness to take risks/be bold (which connects with the moral courage point later), rather than the other kind. It makes me think that creating a list of leadership principles would be a good team exercise – thoughts?? J
+Hi all, and thanks Phillip. Lots to think about in the list of principles. We’re each crafting the unique leader we are, and adapting to the contexts and situations we find ourselves in. So, I’m applying some translation to “aggressiveness” (the second bullet point) and find myself agreeing in the sense of willingness to take risks/be bold (which connects with the moral courage point later), rather than the other kind. It makes me think that creating a list of leadership principles would be a good team exercise – thoughts??
 
 Since it’s Susan Sontag’s “born on this day in 1933” day, I was reminded of:
 
