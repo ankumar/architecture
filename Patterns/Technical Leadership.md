@@ -37,7 +37,7 @@ Decisions and technical Leadership: https://ruthmalan.com/Journal/2019/20190629S
 
 ## Perspectives
 
-Interesting set of leadership principles I transcribed during a podcast. I loved them and wanted to share them with you all.
+Interesting set of leadership principles I transcribed during [a podcast](https://jockopodcast.com/2017/08/09/87-how-to-act-as-a-leader-importance-of-the-warrior-culture-and-in-leadership-the-clay-pigeons-of-st-lo/). I loved them and wanted to share them with you all.
 
 David Hackworth on Glover Johns: "He was a leader who taught by example"
 
