@@ -45,33 +45,22 @@ The books recommended in the wrap-up :
 ·         Gerald M. Weinberg , Becoming a Technical Leader: An Organic Problem-Solving Approach, https://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021/
 
 ·         Gerald M. Weinberg , The Secrets of Consulting: A Guide to Giving and Getting Advice Successfully, https://www.amazon.com/gp/product/0932633013/
-
 ·         Gerald M. Weinberg , The Psychology of Computer Programming, https://www.amazon.com/gp/product/0932633420/
-
 ·         Stephen Covey, The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change, https://www.amazon.com/Habits-Highly-Effective-People-Powerful-ebook/dp/B01069X4H0/
 
 ·         Richard Thaler, Nudge, https://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X/
-
 ·         And on that note I’d add: Esther Derby , 7 Rules for Positive, Productive Change: Micro Shifts, Macro Results, https://www.amazon.com/Rules-Positive-Productive-Change-Results/dp/1523085797/
 
 ·         Greg McKeon, Essentialism: The Disciplined Pursuit of Less, https://www.amazon.com/Essentialism-Disciplined-Pursuit-Greg-McKeown/dp/0804137382/
-
 ·         Kahneman Thinking, Fast and Slow, https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/
-
 ·         Chip and Dan Heath, Decisive, https://www.amazon.com/Decisive-Make-Better-Choices-Life/dp/0307956393/
-
 ·         Dan Hill, Dark Matter and Trojan Horses: A Strategic Design Vocabulary, https://www.amazon.com/Dark-Matter-Trojan-Horses-Vocabulary/dp/0992914639/
-
 ·         Johanna Rothman and Esther Derby, Behind Closed Doors: Secrets of Great Management, https://www.amazon.com/Behind-Closed-Doors-Management-Programmers/dp/0976694026/
 
 ·         Simon Sinek, Leaders Eat Last: Why Some Teams Pull Together and Others Don't, https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/1591848016/
-
 ·         Karen Pryor, Don’t Shoot the Dog. https://www.amazon.com/Dont-Shoot-Dog-Teaching-Training/dp/1860542387
-
 ·         Deborah Tannen,  That's Not What I Meant!: How Conversational Style Makes or Breaks Relationships, https://www.amazon.com/gp/product/0062062999/
-
 ·         Kerry Patterson et al,  Crucial Conversations Tools for Talking When Stakes Are High, https://www.amazon.com/gp/product/0071771328/
-
 ·         Kerry Patterson et al, Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior, https://www.amazon.com/Crucial-Confrontations-Resolving-Promises-Expectations/dp/0071446524/
 
 ## Perspectives
@@ -99,5 +88,4 @@ Glover Johns leadership principles:
 * Stay ahead of your boss
 * The source David Hackworth in About Face, who was covering a farewell speech by his idol, Glover Johns.
  
-
 -- [Phillip Johnston](https://embeddedartistry.com/)
