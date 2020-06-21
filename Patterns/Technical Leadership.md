@@ -1,5 +1,4 @@
-# Masterclass, San Francisco/Dec 9, 2019
-- Ruth Malan, Bredemeyer Consulting
+# Ruth Malan, Bredemeyer Consulting, Masterclass, San Francisco/Dec 9, 2019 
 
 **OPTIONAL READING (there are no prerequisites for this masterclass)**
 
