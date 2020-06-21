@@ -25,21 +25,20 @@ And because Technical Leadership draws on both the technical and on leadership o
 * Humility: Humble Inquiry: The Gentle Art of Asking Instead of Telling, Edgar H Schein
 * Without being harsh on ourselves: Banish Your Inner Critic: Silence the Voice of Self-Doubt to Unleash Your Creativity and Do Your Best Work, Denise Jacobs
 
+**Decisions – individual and group:**
+
+* Sources of Power: How People Make Decisions, Gary Klein
+* Cognition in the Wild, Edwin Hutchins
+
 A sample of the masterclass material: Decisions and technical Leadership: https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf
 
 ## Thank You
 
 Hi Ana, Nelson, Phil, Ryan, James, Prakash, James, Charlene, Madhuri, Anil, Edgar, Ksenia, Adria, Valerie, Jon, Mike, Ted, and Phillip,
 
- 
-
 Thank you all so much for being all-in with insights, questions, and getting work done. So much of what leadership is about, was demonstrated by what you all contributed to our day on Monday!
 
- 
-
 Part of this xkcd https://xkcd.com/657/ is used as a visual reference for the masterclass:  our very different paths brought us briefly together, and the path of the day was experienced uniquely by each of us, but the encounters will have reverberations beyond that day.  Certainly you have each given much to me in so many different forms (insights, questions, stories, illustrations, ideas, and more). And I am deeply grateful.
-
- 
 
 The books recommended in the wrap-up :
 
@@ -74,11 +73,6 @@ The books recommended in the wrap-up :
 ·         Kerry Patterson et al,  Crucial Conversations Tools for Talking When Stakes Are High, https://www.amazon.com/gp/product/0071771328/
 
 ·         Kerry Patterson et al, Crucial Confrontations: Tools for Resolving Broken Promises, Violated Expectations, and Bad Behavior, https://www.amazon.com/Crucial-Confrontations-Resolving-Promises-Expectations/dp/0071446524/
-
-**Decisions – individual and group:**
-
-* Sources of Power: How People Make Decisions, Gary Klein
-* Cognition in the Wild, Edwin Hutchins
 
 ## Perspectives
 
