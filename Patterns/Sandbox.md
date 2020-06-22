@@ -52,10 +52,8 @@ AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much ti
 
 https://relay.sh/
 
-https://aws.amazon.com/cloud9/
 https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
-
 
 https://github.com/features/codespaces
 
