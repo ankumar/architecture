@@ -16,6 +16,7 @@
 5. [It's not a race it's a marathon ... It's not a race if we're all on the same Team](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
+
 -- [Simon Wardley](https://twitter.com/swardley)
 
 ## 2. Tools & Services
