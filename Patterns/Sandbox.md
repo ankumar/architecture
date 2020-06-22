@@ -27,16 +27,6 @@ Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serve
 Data Plane - https://github.com/cncf/udpa
 
 * https://github.com/servicemeshinterface/smi-spec
-
-* [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
-  * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV) 
-* [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
-
-* https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
-    
-https://upbound.io/
-https://okteto.com/
-* https://github.com/rberrelleza/crossplane-community-day-2020
   
 Extending [Backstage, Open Source from Spotify](https://backstage.io/):
 * Phase 1: Extensible frontend platform (Done ✅) 
