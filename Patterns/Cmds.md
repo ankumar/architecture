@@ -12,7 +12,7 @@ Cloud Shell, Cloud Code
 
 Continuous Development
 
-* & [GoogleContainerTools](https://github.com/GoogleContainerTools)
+* [GoogleContainerTools](https://github.com/GoogleContainerTools)
   * https://skaffold.dev/
 * https://cd.foundation/
 
