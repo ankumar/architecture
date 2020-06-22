@@ -18,13 +18,17 @@ Continuous Development
 
 -- 
 
-https://relay.sh/
+Infrastructure
+
+* https://relay.sh/
+* https://devcenter.heroku.com/articles/buildpacks
+  * https://buildpacks.io/
+
+--
 
 https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
 
-https://devcenter.heroku.com/articles/buildpacks
-* https://buildpacks.io/
 
 
 
