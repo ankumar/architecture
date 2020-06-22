@@ -8,7 +8,7 @@ Cloud Shell, Cloud Code
 
 * https://aws.amazon.com/cloud9/
 
---
+---
 
 Continuous Development
 
@@ -16,7 +16,7 @@ Continuous Development
   * https://skaffold.dev/
 * https://cd.foundation/
 
--- 
+---
 
 Infrastructure
 
@@ -24,7 +24,7 @@ Infrastructure
 * https://devcenter.heroku.com/articles/buildpacks
   * https://buildpacks.io/
 
---
+---
 
 https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
