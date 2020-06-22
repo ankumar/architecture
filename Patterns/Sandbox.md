@@ -37,9 +37,6 @@ https://cd.foundation/
   * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV) 
 * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
-Cloud Shell, Cloud Code & [GoogleContainerTools](https://github.com/GoogleContainerTools)
-* https://ssh.cloud.google.com/
-* [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
     
 https://upbound.io/
