@@ -16,6 +16,8 @@ Continuous Development
   * https://skaffold.dev/
 * https://cd.foundation/
 
+* https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
+
 ---
 
 Infrastructure
@@ -23,11 +25,19 @@ Infrastructure
 * https://relay.sh/
 * https://devcenter.heroku.com/articles/buildpacks
   * https://buildpacks.io/
+    
+* https://upbound.io/
+* https://okteto.com/
+  * https://github.com/rberrelleza/crossplane-community-day-2020
 
 ---
 
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * https://www.thoughtworks.com/radar/platforms/knative
+
+* [Frontend - JAMStack](https://snipcart.com/blog/jamstack)
+  * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV)   
+* [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 ---
 
