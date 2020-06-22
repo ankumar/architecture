@@ -26,14 +26,12 @@ Infrastructure
 
 ---
 
-https://aws.github.io/
-* https://awslabs.github.io/smithy/index.html
-
----
-
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * https://www.thoughtworks.com/radar/platforms/knative
 
+---
 
+https://aws.github.io/
+* https://awslabs.github.io/smithy/index.html
 
 
