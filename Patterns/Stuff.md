@@ -11,20 +11,20 @@
 **Services -** 
 There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) [a system](https://queue.acm.org/detail.cfm?id=3395214) into [services](Modeling.md). As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
    
- * **API**
-   * [Declarative/GraphQL](GraphQL.md)  
-   * [Declarative/Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
-     * [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
-     * More Styles:
-       * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-       * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-   * [Event-driven/Async](https://www.asyncapi.com/)
-   * [Span Multiple Requests/Workflow](https://cadenceworkflow.io/)
+* [Declarative/GraphQL](GraphQL.md)  
+* [Declarative/Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
+* [REST/OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+* More Styles:
+  * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+  * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+* [Event-driven/Async](https://www.asyncapi.com/)
+
+* [Span Multiple Requests/Workflow](https://cadenceworkflow.io/)
    
-   * [Unified/Multi-Model](http://www.mm-adt.org/)
+* [Unified/Multi-Model](http://www.mm-adt.org/)
   
- * **Developer Workflows** 
-      * [Applications](Run.md)
+* **Developer Workflows** 
+  * [Applications](Run.md)
       
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
