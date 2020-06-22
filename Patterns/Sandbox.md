@@ -27,4 +27,6 @@ Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serve
 Data Plane - https://github.com/cncf/udpa
 
 * https://github.com/servicemeshinterface/smi-spec
+
+* https://github.com/crossplane/crossplane/tree/master/design
   
