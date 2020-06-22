@@ -22,9 +22,6 @@ Language & Frameworks: **Node, Java, Python, .NET, Go, ...** [GitHub](https://oc
     
 ## References
 
-Tehnology Radar - https://www.thoughtworks.com/radar/platforms
-* https://www.thoughtworks.com/radar/platforms/knative
-
 Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
 * Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
 Data Plane - https://github.com/cncf/udpa
