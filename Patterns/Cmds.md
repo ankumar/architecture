@@ -1,4 +1,5 @@
-Cloud Shell, Cloud Code & [GoogleContainerTools](https://github.com/GoogleContainerTools)
+Cloud Shell, Cloud Code
+
 * https://shell.azure.com/
 * https://github.com/features/codespaces
 
@@ -9,7 +10,11 @@ Cloud Shell, Cloud Code & [GoogleContainerTools](https://github.com/GoogleContai
 
 --
 
-https://cd.foundation/
+Continuous Development
+
+* & [GoogleContainerTools](https://github.com/GoogleContainerTools)
+  * https://skaffold.dev/
+* https://cd.foundation/
 
 -- 
 
