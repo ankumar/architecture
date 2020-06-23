@@ -13,7 +13,7 @@ A Formal Definition ...
   * With examples from Kafka (sticky partitioning), Cassandra (hinted handoffs).
 * [A Paper - Locality, Statefulness, and Causality in Distributed Information Systems](https://arxiv.org/pdf/1909.09357.pdf)
 
-![](https://github.com/ankumar/Architecture/blob/master/images/stateful.jpeg)
+![](../images/stateful.jpeg)
 -- [Cindy Sridharan](https://twitter.com/copyconstruct)
 
 ## Application Data
