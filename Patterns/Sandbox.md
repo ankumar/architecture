@@ -1,6 +1,7 @@
-* [GitHub Insights](https://github.blog/category/community/insights/)
+Language & Frameworks: **Node, Java, Python, .NET, Go, ...
 
-Language & Frameworks: **Node, Java, Python, .NET, Go, ..., Demo Apps:**
+* [GitHub Insights](https://github.blog/category/community/insights/)
+**Demo Apps:**
   * [Microservices](microservices-demo.md)
   * [Stateful](https://docs.temporal.io/docs/overview)
     
