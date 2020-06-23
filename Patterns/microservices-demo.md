@@ -24,7 +24,7 @@
 1. az login
 2. az group create --name \<microservices-demo\> -l \<westus\>
 3. az acr create --name \<artifacts\> --resource-group \<microservices-demo\> --sku basic
-4. az aks create --resource-group \<microservices-demo\> --name \<microservices-demo-aks\> --node-count 3 --attach-acr \<microservices\> --enable-addons monitoring --generate-ssh-keys
+4. az aks create --resource-group \<microservices-demo\> --name \<microservices-demo-aks\> --node-count 3 --attach-acr \<artifacts\> --enable-addons monitoring --generate-ssh-keys
 5. az aks get-credentials --resource-group \<microservices-demo\> --name \<microservices-demo-aks\>
 6. skaffold run --default-repo=\<artifacts\>.azurecr.io
 
