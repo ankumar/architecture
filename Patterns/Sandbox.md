@@ -1,7 +1,8 @@
-**Demo Apps:**
+**Apps:**
 
-Language & Frameworks: **Node, Java, Python, .NET, Go, ...** [GitHub Insights](https://github.blog/category/community/insights/)
+* [GitHub Insights](https://github.blog/category/community/insights/)
 
+Language & Frameworks: **Node, Java, Python, .NET, Go, ..., Demo Apps:**
   * [microservices](microservices-demo.md)
     
 ---
