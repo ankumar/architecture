@@ -4,7 +4,7 @@ Language & Frameworks: **Node, Java, Python, .NET, Go, ...**
 
 **Demo Apps:**
   * [Microservices](microservices-demo.md)
-  * Stateful
+  * [Stateful](Stateful.md)
     * [Flow](https://docs.temporal.io/docs/overview)
     
 ---
