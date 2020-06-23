@@ -2,6 +2,7 @@
 
 | Service | Build, Deploy | Observability |
 | ------------------------- | ---------------- | ---------------- |
+|                     | Azure Kubernetes (Done ✅) | |
 | 1. emailservice (Python) | | |
 | 2. productcatalogservice (Go) | | |
 | 3. recommendationservice (Python) | | |
@@ -10,7 +11,7 @@
 | 6. paymentservice (Node.js) | | |
 | 7. currencyservice (Node.js) | | |
 | 8. cartservice (C#) | [<img src="https://storage.googleapis.com/cloudrun/button.svg" alt="Run on Google Cloud" height="30">][run_cartservice] | |
-|                     | AKS (Done ✅) | |
+|                     | Azure Kubernetes (Done ✅) | |
 | 9. frontend (Go) | [<img src="https://storage.googleapis.com/cloudrun/button.svg" alt="Run on Google Cloud" height="30">][run_frontend] | |
 | 10. adservice (Java) | | |
 
