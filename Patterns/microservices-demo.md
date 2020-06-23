@@ -17,11 +17,3 @@
 [run_cartservice]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/cartservice
 
 
-**2. Sock Shop**, https://github.com/microservices-demo/microservices-demo
-
-| Service | Run | Observability |
-| ------------------------- | ---------------- | ---------------- |
-| 1. payment (Go) | | |
-| 2.  | | |
-
-
