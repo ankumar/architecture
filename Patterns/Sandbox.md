@@ -1,5 +1,3 @@
-**Apps:**
-
 * [GitHub Insights](https://github.blog/category/community/insights/)
 
 Language & Frameworks: **Node, Java, Python, .NET, Go, ..., Demo Apps:**
