@@ -1,4 +1,4 @@
-Language & Frameworks: **Node, Java, Python, .NET, Go, ...
+Language & Frameworks: **Node, Java, Python, .NET, Go, ...**
 
 * [GitHub Insights](https://github.blog/category/community/insights/)
 
