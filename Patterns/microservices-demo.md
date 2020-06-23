@@ -28,3 +28,5 @@
 5. skaffold run --default-repo=\<microservices\>.azurecr.io
 
 **AWS Kubernetes**
+
+**GCP Kubernetes**
