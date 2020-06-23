@@ -25,3 +25,5 @@
 3. az aks create --resource-group \<microservices-demo\> --name \<microservices-demo-aks\> --node-count 3 --attach-acr \<microservices\> --enable-addons monitoring --generate-ssh-keys
 4. az aks get-credentials --resource-group \<microservices-demo\> --name \<microservices-demo-aks\>
 5. skaffold run --default-repo=\<microservices\>.azurecr.io
+
+**AWS Kubernetes**
