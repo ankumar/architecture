@@ -35,6 +35,8 @@
 **AWS Kubernetes**
 1. aws configure
 2. eksctl create cluster --name **microservices-demo-eks**
+3. aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin \<\>.dkr.ecr.us-east-1.amazonaws.com
+4. skaffold run --default-repo=\<\>.dkr.ecr.us-east-1.amazonaws.com
 
 **GCP Kubernetes**
 
