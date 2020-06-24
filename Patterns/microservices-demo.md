@@ -2,6 +2,7 @@
 
 | Service | Build, Deploy | Observability |
 | ------------------------- | ---------------- | ---------------- |
+| **Clusters**                    |  | |
 |                     | Azure Kubernetes (Done ✅) | |
 |                     | AWS Kubernetes | |
 |                     | GCP Kubernetes | |
