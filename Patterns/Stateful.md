@@ -29,13 +29,6 @@ The way how the application models are represented on both levels might differ d
 * Relations are represented differently in a database than in a programming language
 * Databases typically have more powerful data modeling capabilities, like indexes, cascading deletes, or a variety of additional constraints (e.g. unique, not null, ...)
 * Databases and programming languages have different technical constraints
-
-DynamoDB:
-* Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
-    * GraphQL/Single Table - https://www.goingserverless.com/blog/single-table-dynamodb-for-appsync
-    * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
-* https://dynobase.dev/
-* [AWS Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)
     
 **2. Data Access patterns** - Mapping between application & database structures. The two major categories are the [active record pattern](http://calpaterson.com/activerecord.html) and the [data mapper pattern](https://www.silasreinagel.com/blog/2018/11/12/using-orms-and-dtos-elegantly/). The Data model comprises of
 
@@ -106,5 +99,10 @@ Cross cutting concerns - Data Catalog of Online microservices & Offline Warehous
   2. [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
   3. [DynamoDB](https://aws.amazon.com/dynamodb/)
     * [Global Tables](https://aws.amazon.com/dynamodb/global-tables/) 
+    * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
+      * GraphQL/Single Table - https://www.goingserverless.com/blog/single-table-dynamodb-for-appsync
+      * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
+    * https://dynobase.dev/
+      * [AWS Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)
     
    
