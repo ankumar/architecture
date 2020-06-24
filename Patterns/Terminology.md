@@ -105,3 +105,4 @@ and general purpose programming model for the cloud, packaged as FaaS (Function 
   * Service like shopping cart is **stateful**, items are stored and retrieved.
   
 * [The Reactive Manifesto Glossary](https://www.reactivemanifesto.org/glossary)
+* [Ambassador Glossary](https://www.getambassador.io/learn/kubernetes-glossary/)
