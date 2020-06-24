@@ -23,13 +23,13 @@
 
 **Azure Kubernetes**
 1. az login
-2. az group create --name \<microservices-demo\> -l \<westus\>
-3. az acr create --name \<artifacts\> --resource-group \<microservices-demo\> --sku basic
-4. az acr login --name \<artifacts\>
-5. az aks create --resource-group \<microservices-demo\> --name \<microservices-demo-aks\> --node-count 3 --attach-acr \<artifacts\> --enable-addons monitoring --generate-ssh-keys
+2. az group create --name **microservices-demo** -l **westus**
+3. az acr create --name **artifacts** --resource-group **microservices-demo** --sku basic
+4. az acr login --name **artifacts**
+5. az aks create --resource-group **microservices-demo** --name **microservices-demo-aks** --node-count 3 --attach-acr **artifacts** --enable-addons monitoring --generate-ssh-keys
 6. az aks install-cli
-7. az aks get-credentials --resource-group \<microservices-demo\> --name \<microservices-demo-aks\>
-8. skaffold run --default-repo=\<artifacts\>.azurecr.io
+7. az aks get-credentials --resource-group **microservices-demo** --name **microservices-demo-aks**
+8. skaffold run --default-repo=**artifacts**.azurecr.io
 
 **AWS Kubernetes**
 
