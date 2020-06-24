@@ -96,6 +96,8 @@ and general purpose programming model for the cloud, packaged as FaaS (Function 
    * [Two missing links in Serverless Computing: Stateful Computation and Placement Control](https://medium.com/riselab/two-missing-links-in-serverless-computing-stateful-computation-and-placement-control-964c3236d18)
    * A [serverless](https://cloudstate.io) application is one that provides maximum business value over its application lifecycle and one that costs nothing to run when not used, excluding data storage costs.
 
+* **SLA** -  The service-level agreement (or SLA) is a commitment by the service provider about the quality of provided services. Among other things, the SLA can include information about latency, throughput, jitter, and the number and frequency of failures.
+
 * **SQL** - [SQL](https://en.wikipedia.org/wiki/SQL), or structured query language, is a domain-specific language developed for managing relational database management systems. It can be used to query, define, and manipulate data within a database as well as their organizational structures. SQL is ubiquitous among relational databases.
 
 * **Stateless & Stateful services** - A definition [Twelve-Factor App -> Processes](https://12factor.net/processes)
