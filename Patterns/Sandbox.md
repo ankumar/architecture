@@ -1,5 +1,3 @@
-Language & Frameworks: **Node, Java, Python, .NET, Go, ...**
-
 **Demo Apps:**
   * [Microservices](microservices-demo.md)
   * [Stateful](Stateful.md)
