@@ -33,14 +33,14 @@
 8. skaffold run --default-repo=**artifacts**.azurecr.io
 
 **AWS Kubernetes**
-
-</>
+1. aws configure
+2. eksctl create cluster --name **microservices-demo-eks**
 
 **GCP Kubernetes**
 
 1. gcloud auth login 
 2. gcloud services enable container.googleapis.com
-3. gcloud container clusters create demo --enable-autoupgrade --enable-autoscaling --min-nodes=2 --max-nodes=2 --num-nodes=2 --zone=us-west1
+3. gcloud container clusters create demo --enable-autoupgrade --enable-autoscaling --min-nodes=2 --max-nodes=3 --num-nodes=2 --zone=us-west1
 4. gcloud services enable containerregistry.googleapis.com
 5. gcloud auth configure-docker -q
 6. skaffold run --default-repo=gcr.io/[PROJECT_ID], where [PROJECT_ID] is your GCP project ID.
