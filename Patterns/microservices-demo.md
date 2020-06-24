@@ -27,7 +27,7 @@
 2. az group create --name **microservices-demo** -l **westus**
 3. az acr create --name **artifacts** --resource-group **microservices-demo** --sku basic
 4. az acr login --name **artifacts**
-5. az aks create --resource-group **microservices-demo** --name **microservices-demo-aks** --node-count 3 --attach-acr **artifacts** --enable-addons monitoring --generate-ssh-keys
+5. az aks create --resource-group **microservices-demo** --name **microservices-demo-aks** --node-count 2 --attach-acr **artifacts** --enable-addons monitoring --generate-ssh-keys
 6. az aks install-cli
 7. az aks get-credentials --resource-group **microservices-demo** --name **microservices-demo-aks**
 8. skaffold run --default-repo=**artifacts**.azurecr.io
@@ -40,7 +40,7 @@
 
 1. gcloud auth login 
 2. gcloud services enable container.googleapis.com
-3. gcloud container clusters create demo --enable-autoupgrade --enable-autoscaling --min-nodes=3 --max-nodes=10 --num-nodes=5 --zone=us-west1
+3. gcloud container clusters create demo --enable-autoupgrade --enable-autoscaling --min-nodes=2 --max-nodes=3 --num-nodes=2 --zone=us-west1
 4. gcloud services enable containerregistry.googleapis.com
 5. gcloud auth configure-docker -q
 6. skaffold run --default-repo=gcr.io/[PROJECT_ID], where [PROJECT_ID] is your GCP project ID.
