@@ -1,7 +1,5 @@
 Language & Frameworks: **Node, Java, Python, .NET, Go, ...**
 
-* [GitHub Insights](https://github.blog/category/community/insights/)
-
 **Demo Apps:**
   * [Microservices](microservices-demo.md)
   * [Stateful](Stateful.md)
@@ -24,6 +22,8 @@ Language & Frameworks: **Node, Java, Python, .NET, Go, ...**
     * https://github.com/cncf/toc/blob/c9e6897ab38fed134e32d2b4471fae900f0afbce/proposals/sandbox/crossplane.md
     
 ## References
+
+[GitHub Insights](https://github.blog/category/community/insights/)
 
 Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
 * Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
