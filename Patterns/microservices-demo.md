@@ -5,7 +5,7 @@
 | **Clusters**                    |  | |
 |                     | Azure Kubernetes (Done ✅) | |
 |                     | AWS Kubernetes | |
-|                     | GCP Kubernetes | |
+|                     | GCP Kubernetes | (Done ✅) |
 | **Serverless**                    |  | |
 | 1. emailservice (Python) | | |
 | 2. productcatalogservice (Go) | | |
