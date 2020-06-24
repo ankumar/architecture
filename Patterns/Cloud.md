@@ -1,4 +1,4 @@
-Cloud Shell, Cloud Code
+**Cloud Shell & Code**
 
 * https://shell.azure.com/
 * https://github.com/features/codespaces
@@ -10,7 +10,7 @@ Cloud Shell, Cloud Code
 
 ---
 
-Continuous Development
+**Continuous Development**
 
 * [GoogleContainerTools](https://github.com/GoogleContainerTools)
   * https://skaffold.dev/
@@ -19,10 +19,6 @@ Continuous Development
   * https://tekton.dev/
   
 * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
-
----
-
-Infrastructure
 
 * https://relay.sh/
 * https://devcenter.heroku.com/articles/buildpacks
@@ -34,6 +30,8 @@ Infrastructure
 
 ---
 
+**Insights & Trends**
+
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * https://www.thoughtworks.com/radar/platforms/knative
 
@@ -42,6 +40,8 @@ Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 ---
+
+**Open Source**
 
 https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
