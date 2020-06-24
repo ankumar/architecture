@@ -22,7 +22,8 @@
     
 ## References
 
-[GitHub Insights](https://github.blog/category/community/insights/)
+Insights
+* [GitHub](https://github.blog/category/community/insights/)
 
 Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
 * Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
