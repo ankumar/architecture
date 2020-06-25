@@ -1,4 +1,4 @@
-# Cloud Shell & Code**
+# Cloud Shell & Code
 
 * https://shell.azure.com/
 * https://github.com/features/codespaces
