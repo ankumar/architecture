@@ -1,5 +1,5 @@
 
-| Database type | Databases |  | Jepsen | 
+| Database type | Databases |  | formal methods | 
 | ------------------------- | ---------------- | ---------------- | ---------------- |
 | 1. Relational | | | |
 | 2. Key-Value | [Cassandra](https://dbdb.io/db/cassandra) [CosmosDB](https://dbdb.io/db/cosmos-db) |  | |
