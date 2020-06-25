@@ -13,7 +13,7 @@
 2. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 3. [Reversible & Irreversible Decisions](https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm)
 4. [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
-5. [It's not a race it's a marathon ....... It's not a race if we're all on the same Team](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+5. [Open Source Community, It's not a race it's a marathon ....... It's not a race if we're all on the same Team](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 
