@@ -1,3 +1,8 @@
+# APIs
+
+* Google APIs
+  * https://googleapis.github.io/
+
 # Cloud Shell & Code
 
 * https://shell.azure.com/
