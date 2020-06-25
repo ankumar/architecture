@@ -1,6 +1,5 @@
 
 | Database type | Databases |  | Formal methods | 
-|               |           |. | 1. https://github.com/lemmy/awesome-tlaplus |
 | ------------------------- | ---------------- | ---------------- | ---------------- |
 | 1. Relational | | | |
 |  | [PostgreSQL](https://dbdb.io/db/postgresql) | | |
