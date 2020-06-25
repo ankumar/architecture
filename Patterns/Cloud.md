@@ -1,4 +1,4 @@
-**Cloud Shell & Code**
+# Cloud Shell & Code**
 
 * https://shell.azure.com/
 * https://github.com/features/codespaces
@@ -10,7 +10,7 @@
 
 ---
 
-**Continuous Development**
+# Continuous Development
 
 * [GoogleContainerTools](https://github.com/GoogleContainerTools)
   * https://skaffold.dev/
@@ -32,7 +32,7 @@
 
 ---
 
-**Insights & Trends**
+# Insights & Trends
 
 **Frontend**
 
@@ -47,7 +47,7 @@ Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 
 ---
 
-**Open Source**
+# Open Source
 
 https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
