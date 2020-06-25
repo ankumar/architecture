@@ -1,5 +1,5 @@
 
-| Database type | Databases |  | formal methods | 
+| Database type | Databases |  | Formal methods | 
 | ------------------------- | ---------------- | ---------------- | ---------------- |
 | 1. Relational | [MySQL](https://dbdb.io/db/mysql) | | |
 | 2. Key-Value | [Cassandra](https://dbdb.io/db/cassandra) [CosmosDB](https://dbdb.io/db/cosmos-db) |  | |
