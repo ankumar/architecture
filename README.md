@@ -24,4 +24,5 @@
 
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. 
 
-**Hiding Infrastructure & Focus on applications Patterns...** ---> [**Programming models**](Patterns/Stuff.md)
+**Hiding Infrastructure & Focus on applications Patterns...** 
+-------> [**Programming models**](Patterns/Stuff.md)
