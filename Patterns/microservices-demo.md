@@ -36,6 +36,8 @@
 | 5. Payment Service | | |
 | 6. Shipping Service | | |
 
+---
+
 **Azure Kubernetes**
 1. az login
 2. az group create --name **microservices-demo** -l **westus**
@@ -45,8 +47,6 @@
 6. az aks install-cli
 7. az aks get-credentials --resource-group **microservices-demo** --name **microservices-demo-aks**
 8. skaffold run --default-repo=**artifacts**.azurecr.io
-
----
 
 **AWS Kubernetes**
 1. aws configure
