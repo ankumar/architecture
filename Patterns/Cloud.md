@@ -3,8 +3,8 @@
 * Google APIs
   * https://googleapis.github.io/
   
-* K8S 
-  *[OpenAPI specification](https://github.com/kubernetes/kubernetes/tree/master/api/openapi-spec)
+* K8S
+  * [OpenAPI specification](https://github.com/kubernetes/kubernetes/tree/master/api/openapi-spec)
 
 # Cloud Shell & Code
 
