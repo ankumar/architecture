@@ -23,8 +23,6 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
 * [Span Multiple Requests/Workflow](https://cadenceworkflow.io/)
    
-* [Unified/Multi-Model](http://www.mm-adt.org/)
-  
 -----> [Developer Workflows](Run.md)
       
 ## 2. Data-Intensive:
