@@ -1,5 +1,5 @@
 
-| Database type | Databases |  | Formal methods | 
+| Database type             | Databases |  | Formal methods | 
 | ------------------------- | ---------------- | ---------------- | ---------------- |
 | 1. Relational | | | |
 |  | [PostgreSQL](https://dbdb.io/db/postgresql) | | |
