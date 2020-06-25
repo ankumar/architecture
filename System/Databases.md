@@ -1,7 +1,7 @@
 
 | Database type | Databases        |                  | Formal methods                           | 
-|               |                  |                  | https://github.com/lemmy/awesome-tlaplus |
 | --------------| ---------------- | ---------------- | ---------------- |
+|               |                  |                  | https://github.com/lemmy/awesome-tlaplus |
 | 1. Relational | | | |
 |  | [PostgreSQL](https://dbdb.io/db/postgresql) | | |
 |  |  [MySQL](https://dbdb.io/db/mysql) | Sharding - https://vitess.io/ |  |
