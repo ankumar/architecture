@@ -25,9 +25,9 @@
 | Service | Build, Deploy | Observability |
 | ------------------------- | ---------------- | ---------------- |
 | **Clusters**                    |  | |
-|                     | Azure Kubernetes (Done ✅) | |
-|                     | AWS Kubernetes (Done ✅)   | |
-|                     | GCP Kubernetes (Done ✅)   | |
+|                     | Azure Kubernetes | |
+|                     | AWS Kubernetes   | |
+|                     | GCP Kubernetes   | |
 | **Serverless**                    |  | |
 | 1. Users Service | | |
 | 2. Shopping Cart Service | | |
