@@ -1,6 +1,6 @@
 **Demo Apps:**
   * [Microservices](microservices-demo.md)
-  * [Stateful](Stateful.md)
+  * [Stateful](../Patterns/Stateful.md)
   * Language (**Node, Java, Python, .NET, Go, ...**) & Frameworks:
     * [Flow](https://docs.temporal.io/docs/overview)
     
