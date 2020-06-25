@@ -4,4 +4,13 @@
 | Relational | | |
 | Key-Value | | |
 | In-Memory | | |
+| Document | | |
+|  | | |
+|  | | |
+|  | | |
+|  | | |
+
+
+
+
 
