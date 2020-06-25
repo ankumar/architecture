@@ -22,9 +22,6 @@
    
 ## References
 
-Insights
-* [GitHub](https://github.blog/category/community/insights/)
-
 Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
 * Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
 Data Plane - https://github.com/cncf/udpa
@@ -32,4 +29,6 @@ Data Plane - https://github.com/cncf/udpa
 * https://github.com/servicemeshinterface/smi-spec
 
 * https://github.com/crossplane/crossplane/tree/master/design
+  
+* [Cloud](Cloud.md)  
   
