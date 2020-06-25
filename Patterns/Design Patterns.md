@@ -16,5 +16,5 @@ API Design
 
 ## Distributed Systems
 
-[Kubernetes](Kubernetes.md)
+[Kubernetes](../System/Kubernetes.md)
 
