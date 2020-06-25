@@ -1,8 +1,8 @@
 
-| Database type | Build, Deploy | Databases | Jepsen | 
+| Database type | Databases |  | Jepsen | 
 | ------------------------- | ---------------- | ---------------- | ---------------- |
 | 1. Relational | | | |
-| 2. Key-Value | | [Cassandra](https://dbdb.io/db/cassandra) | |
+| 2. Key-Value | [Cassandra](https://dbdb.io/db/cassandra) |  | |
 | 3. In-Memory | | | |
 | 4. Document | | | |
 | 5. Graph | | | |
