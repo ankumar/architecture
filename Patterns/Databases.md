@@ -1,14 +1,13 @@
 
 | Database type | Build, Deploy | Databases |
 | ------------------------- | ---------------- | ---------------- |
-| Relational | | |
-| Key-Value | | |
-| In-Memory | | |
-| Document | | |
-|  | | |
-|  | | |
-|  | | |
-|  | | |
+| 1. Relational | | |
+| 2. Key-Value | | |
+| 3. In-Memory | | |
+| 4. Document | | |
+| 5. Graph | | |
+| 6. Timeseries | | |
+| 7. Ledger | | |
 
 
 
