@@ -1,9 +1,11 @@
 ## Distributed Systems
+
 https://github.com/aphyr/distsys-class
 
 https://www.the-paper-trail.org/
 
 ## Containers
+
 https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
 
 ## Microservices
