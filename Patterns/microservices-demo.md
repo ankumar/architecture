@@ -21,7 +21,7 @@
 [run_frontend]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/frontend
 [run_cartservice]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/cartservice
 
-**2. Sockshop**, https://github.com/helidon-sockshop
+**2. Sockshop**, https://github.com/helidon-sockshop/sockshop
 | Service | Build, Deploy | Observability |
 | ------------------------- | ---------------- | ---------------- |
 | **Clusters**                    |  | |
@@ -29,7 +29,12 @@
 |                     | AWS Kubernetes (Done ✅)   | |
 |                     | GCP Kubernetes (Done ✅)   | |
 | **Serverless**                    |  | |
-| 1. Users Service| | |
+| 1. Users Service | | |
+| 2. Shopping Cart Service | | |
+| 3. Orders Service | | |
+| 4. Product Catalog Service | | |
+| 5. Payment Service | | |
+| 6. Shipping Service | | |
 
 **Azure Kubernetes**
 1. az login
