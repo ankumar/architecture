@@ -12,7 +12,6 @@
 |  | | | |
 |  | | | |
 |  | | | |
-
 | 3. In-Memory | [Redis](https://dbdb.io/db/redis)| | |
 |  | | | |
 |  | | | |
