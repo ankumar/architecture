@@ -6,12 +6,13 @@
 |  | | | |
 |  | | | |
 |  | | | |
-| 2. Key-Value | [Cassandra](https://dbdb.io/db/cassandra) |  | |
-|  |  [CosmosDB](https://dbdb.io/db/cosmos-db) |  | https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels |
+| 2. Key-Value |  |  | |
+|  | [Cassandra](https://dbdb.io/db/cassandra) | | |
+|  | [CosmosDB](https://dbdb.io/db/cosmos-db) |  | https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels |
 |  | | | |
 |  | | | |
 |  | | | |
-|  | | | |
+
 | 3. In-Memory | [Redis](https://dbdb.io/db/redis)| | |
 |  | | | |
 |  | | | |
