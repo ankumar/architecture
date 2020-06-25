@@ -34,13 +34,17 @@
 
 # Insights & Trends
 
+* [GitHub](https://github.blog/category/community/insights/)
+
 **Frontend**
 
 * https://www.honeycode.aws/
 * [JAMStack](https://snipcart.com/blog/jamstack)
   * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV)   
 
-* [Backend - Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
+**Backend**
+
+* [Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * https://www.thoughtworks.com/radar/platforms/knative
