@@ -6,7 +6,7 @@
   * [Microservice, Why?](https://chrisrichardson.net/post/microservices/2020/02/18/why-microservices-part-1.html)
     * [Microservice Architecture](https://microservices.io/patterns/microservices.html)
   * Ex: [Demo App - Online Boutique](https://github.com/GoogleCloudPlatform/microservices-demo)
-![](https://github.com/ankumar/Architecture/blob/master/images/microservices.png)
+![](../images/microservices.png)
 Monoliths vs Microservices, both architectural patterns are valid, and for complex organizations, a mix of both is inevitable.
 
 * [**Architecture Decision Records (ADR's)**](https://engineering.walmart.com/adrs) 
@@ -18,7 +18,7 @@ Irreversible: “Some decisions are **consequential** and **irreversible** or ne
 Reversible: "But **most decisions** aren’t like that – they are **changeable, reversible** – they’re two-way doors. If you’ve made a suboptimal [reversible] decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through."
    
 * **Blast Radius** - Murphy's Law, "If anything can go wrong, it will." Failure is not binary, degree of impact
-![](https://github.com/ankumar/Architecture/blob/master/images/Blast%20Radius.png)
+![](../images/Blast%20Radius.png)
 
 * **CAP Theorem** - 
 
@@ -31,7 +31,7 @@ Reversible: "But **most decisions** aren’t like that – they are **changeable
 * **Cloud Native** - Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs** exemplify this approach. These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
 
 * **Control & Data Planes** - 
-![](https://github.com/ankumar/Architecture/blob/master/images/Control%20and%20Data%20planes.png)
+![](../images/Control%20and%20Data%20planes.png)
   * [Control Planes vs Data Planes](https://brooker.co.za/blog/2019/03/17/control.html)
    
 * [**Conway's Law**](http://www.melconway.com/Home/Conways_Law.html) - How to Organize Organization for Optimal Development / "Shipping the Org Chart",  Pay the cost later in internal tools & stitching data together
