@@ -21,7 +21,7 @@
 
 * https://www.linuxfoundation.org/projects/
 
-[![It's not a race if we're all on the same team](https://github.com/ankumar/Architecture/blob/master/images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
+[![It's not a race if we're all on the same team](../images/Kelsey%20Hightower.png)](https://www.youtube.com/watch?v=jiaLsxjBeOQ "Kelsey Hightower, Staff Developer Advocate, Google")
 <p align="center"> "*it's not a race it's a marathon ... it's not a race if we're all on the same team*" </p>
 
 * InnerSource - Open source best practices within organization
