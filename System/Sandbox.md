@@ -1,5 +1,5 @@
 **Demo Apps:**
-  * [Microservices](microservices-demo.md)
+  * [Microservices](../Patterns/microservices-demo.md)
   * [Stateful](../Patterns/Stateful.md)
   * Language (**Node, Java, Python, .NET, Go, ...**) & Frameworks:
     * [Flow](https://docs.temporal.io/docs/overview)
@@ -26,8 +26,6 @@
 Serverless - https://github.com/cncf/wg-serverless/tree/master/whitepapers/serverless-overview
 * Serverless Workflow - https://github.com/cncf/wg-serverless-workflow
 Data Plane - https://github.com/cncf/udpa
-
-* https://github.com/servicemeshinterface/smi-spec
 
 * https://github.com/crossplane/crossplane/tree/master/design
   
