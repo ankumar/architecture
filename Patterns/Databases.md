@@ -1,7 +1,7 @@
 
 | Database type | Databases |  | Formal methods | 
 | ------------------------- | ---------------- | ---------------- | ---------------- |
-| 1. Relational | [MySQL](https://dbdb.io/db/mysql) | | |
+| 1. Relational | [MySQL](https://dbdb.io/db/mysql) | Sharding - https://vitess.io/ | |
 |  | | | |
 |  | | | |
 |  | | | |
