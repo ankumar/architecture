@@ -46,6 +46,8 @@
 7. az aks get-credentials --resource-group **microservices-demo** --name **microservices-demo-aks**
 8. skaffold run --default-repo=**artifacts**.azurecr.io
 
+---
+
 **AWS Kubernetes**
 1. aws configure
 2. eksctl create cluster --name **microservices-demo-eks**
