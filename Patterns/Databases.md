@@ -7,7 +7,7 @@
 |  | | | |
 |  | | | |
 | 2. Key-Value | [Cassandra](https://dbdb.io/db/cassandra) |  | |
-|  |  [CosmosDB](https://dbdb.io/db/cosmos-db) |  | |
+|  |  [CosmosDB](https://dbdb.io/db/cosmos-db) |  | https://github.com/Azure/azure-cosmos-tla |
 |  | | | |
 |  | | | |
 |  | | | |
