@@ -20,11 +20,7 @@
 |  | | | |
 | 3. In-Memory | | | |
 |  | [Redis](https://dbdb.io/db/redis) | | |
-|  | | | |
-|  | | | |
-|  | | | |
-|  | | | |
-|  | | | |
+|  | [Memcached](https://dbdb.io/db/memcached)| | |
 | 4. Document | | | |
 |  | | | |
 |  | | | |
