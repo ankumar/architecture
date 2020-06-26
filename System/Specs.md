@@ -8,3 +8,9 @@
 ## Containers
 
 https://github.com/compose-spec/compose-spec
+
+## Java
+
+[MicroProfile](https://wiki.eclipse.org/MicroProfile)
+
+
