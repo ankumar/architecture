@@ -15,5 +15,6 @@ https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/
 ## Control Theory
 
 https://gianarb.it/blog/control-theory-is-dope
+https://fauna.com/blog/control-theory-for-fun-and-profit
 
 
