@@ -44,6 +44,8 @@
 
 * [GitHub](https://github.blog/category/community/insights/)
 
+* [Serverless Function (FaaS)](https://fauna.com/blog/comparison-faas-providers)
+
 **Frontend**
 
 * https://www.honeycode.aws/
