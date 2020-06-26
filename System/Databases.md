@@ -1,6 +1,5 @@
-[Database Application Catalog](https://db.cs.cmu.edu/projects/dbac/)
-
-[Document Databases](https://db.cs.cmu.edu/projects/document-databases/)
+1. [Database Application Catalog](https://db.cs.cmu.edu/projects/dbac/)
+2. [Document Databases](https://db.cs.cmu.edu/projects/document-databases/)
 
 | Database type | Databases        |                  | Formal methods                           | 
 | --------------| ---------------- | ---------------- | ---------------- |
