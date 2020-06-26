@@ -45,10 +45,6 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
 
 **1. CAP theorem**
 
-"In an “always-on” world, downtime is unacceptable, and developers were forced into handling the reduced consistency levels of scalable NoSQL systems" . 
-"Over the past decade, application developers have discovered that it is extremely difficult to build bug-free applications over database systems that do not guarantee consistency."
-http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html?m=1
-
 [Approach #1 - Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
    * Google’s Spanner globe-spanning relational database with nuclear-clock synchronized control plane.
    * Building systems that can manage data that spans the globe, provide data consistency and are also highly available is possible; it’s just really hard. **The beauty of the cloud is that someone else can build that for you, and you can focus on innovation core to your service or application.**
@@ -62,6 +58,10 @@ http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.h
    * **There is no open source implementation yet.**
    
 **2. Data Consistency**
+
+**"In an “always-on” world, downtime is unacceptable, and developers were forced into handling the reduced consistency levels of scalable NoSQL systems" . 
+"Over the past decade, application developers have discovered that it is extremely difficult to build bug-free applications over database systems that do not guarantee consistency."**
+http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html?m=1
 
 * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
