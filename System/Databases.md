@@ -35,8 +35,8 @@
     * [AWS Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)
 * [Document Databases](https://db.cs.cmu.edu/projects/document-databases/)
 * [Big Table](https://www.cs.rutgers.edu/~pxk/417/notes/content/bigtable.html): "Containers" like keyspace is the top-level database object that controls the replication for the object it contains at each datacenter in the cluster. Keyspaces contain tables, materialized views and user-defined types, functions and aggregates. Typically, a cluster has one keyspace per application. Since replication is controlled on a per-keyspace basis, store data with different replication requirements (at the same datacenter) in different keyspaces. Keyspaces are not a significant map layer within the data model.
-  1. [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
-  2. [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
+  * [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
+  * [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
 * [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) is a relational database with 99.999% availability which means it is down roughly 5 mins a year
   * [CockroachDB](https://www.cockroachlabs.com/docs/stable/architecture/overview.html)
   * [YugabyteDB](https://docs.yugabyte.com/latest/comparisons/)
