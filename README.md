@@ -26,4 +26,4 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 
 **Hiding Infrastructure & Focus on applications Patterns...** 
 
--------> [**Programming models**](Patterns/Stuff.md)
+-> [**Programming models**](Patterns/Stuff.md)
