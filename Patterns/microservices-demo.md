@@ -1,6 +1,6 @@
 **1. Online Boutique**, https://github.com/GoogleCloudPlatform/microservices-demo
 
-| Service | Build, Deploy | Observability |
+| Service | Build, Deploy | Observability (https://opentelemetry.io/) |
 | ------------------------- | ---------------- | ---------------- |
 | **Clusters**                    |  | |
 |                     | Azure Kubernetes (Done ✅) | |
