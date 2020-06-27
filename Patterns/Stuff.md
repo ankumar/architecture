@@ -22,7 +22,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
   * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
   * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
    
--------------------------------------------------> [Developer Workflows](Run.md)
+-> [Developer Workflows](Run.md)
       
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
