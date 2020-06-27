@@ -16,14 +16,13 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
   * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
 * OpenAPI:
   * [REST](https://github.com/OAI/OpenAPI-Specification/)
+* [Event-driven/Async](https://www.asyncapi.com/)
+* [Span Multiple Requests/Workflow](https://cadenceworkflow.io/)
 * More Styles:
   * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
   * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-* [Event-driven/Async](https://www.asyncapi.com/)
-
-* [Span Multiple Requests/Workflow](https://cadenceworkflow.io/)
    
------------------------------------------> [Developer Workflows](Run.md)
+-------------------------------------------------> [Developer Workflows](Run.md)
       
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
