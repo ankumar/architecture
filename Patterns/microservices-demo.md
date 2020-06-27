@@ -22,7 +22,7 @@
 [run_cartservice]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/cartservice
 
 **2. Sockshop**, https://github.com/helidon-sockshop/sockshop
-| Service | Build, Deploy | Observability |
+| Service | Build, Deploy | Observability (https://opentelemetry.io/) |
 | ------------------------- | ---------------- | ---------------- |
 | **Clusters**                    |  | |
 |                     | Azure Kubernetes | |
