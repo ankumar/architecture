@@ -16,6 +16,8 @@
 
 * https://aws.amazon.com/cloud9/
 
+* https://theia-ide.org/
+
 ---
 
 # Continuous Development
