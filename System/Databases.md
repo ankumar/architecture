@@ -30,6 +30,7 @@
 
 2. [A DB Ranking](https://db-engines.com/en/ranking)
 3. [Database Application Catalog](https://db.cs.cmu.edu/projects/dbac/)
+  * [Document Databases](https://db.cs.cmu.edu/projects/document-databases/)
   * [DynamoDB](https://aws.amazon.com/dynamodb/)
     * [Global Tables](https://aws.amazon.com/dynamodb/global-tables/) 
     * Single Table Design - https://www.alexdebrie.com/posts/dynamodb-single-table/
@@ -37,7 +38,6 @@
       * GraphQL/Multi Table - https://www.alexdebrie.com/posts/dynamodb-single-table/#graphql--single-table-design
     * https://dynobase.dev/
       * [AWS Workbench](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)
-  * [Document Databases](https://db.cs.cmu.edu/projects/document-databases/)
   * [Big Table](https://www.cs.rutgers.edu/~pxk/417/notes/content/bigtable.html): "Containers" like keyspace is the top-level database object that controls the replication for the object it contains at each datacenter in the cluster. Keyspaces contain tables, materialized views and user-defined types, functions and aggregates. Typically, a cluster has one keyspace per application. Since replication is controlled on a per-keyspace basis, store data with different replication requirements (at the same datacenter) in different keyspaces. Keyspaces are not a significant map layer within the data model.
     * [Cassandra](https://www.datastax.com/blog/2020/05/why-astra-good-cassandra)
     * [ScyllaDB](https://www.scylladb.com/2020/05/07/introducing-scylla-open-source-4-0/)
