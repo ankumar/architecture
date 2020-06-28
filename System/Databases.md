@@ -1,5 +1,7 @@
 | Database type | Databases        |                  | Formal methods                           | 
 | --------------| ---------------- | ---------------- | ---------------- |
+|               | [Database of Databases](https://dbdb.io/) |                  | |
+|               |                  |                  | |
 |               |                  |                  | https://github.com/lemmy/awesome-tlaplus |
 |               |                  |                  | https://github.com/jepsen-io/jepsen |
 |               |                  |                  | https://github.com/jepsen-io/elle |
@@ -26,7 +28,6 @@
 | 7. Ledger | | | |
 |  | | | |
 
-1. [Database of Databases](https://dbdb.io/)
 2. [A DB Ranking](https://db-engines.com/en/ranking)
 3. [Database Application Catalog](https://db.cs.cmu.edu/projects/dbac/)
   * [DynamoDB](https://aws.amazon.com/dynamodb/)
