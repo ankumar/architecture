@@ -2,7 +2,8 @@
 * [Microservices](../Patterns/microservices-demo.md)
 * [Stateful](../Patterns/Stateful.md) 
 * [Flow](https://docs.temporal.io/docs/overview)
-   
+* [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
+
 ---
 
 **Azure, Alibaba, Crossplane**: 
