@@ -1,7 +1,7 @@
 # APIs
 
 * Google APIs
-  * https://googleapis.github.io/
+  * https://github.com/googleapis
   
 * K8S
   * [OpenAPI specification](https://github.com/kubernetes/kubernetes/tree/master/api/openapi-spec)
