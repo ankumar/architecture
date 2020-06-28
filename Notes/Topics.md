@@ -18,4 +18,11 @@ https://gianarb.it/blog/control-theory-is-dope
 
 https://fauna.com/blog/control-theory-for-fun-and-profit
 
+##
+https://aws.github.io/
+* https://awslabs.github.io/smithy/index.html
 
+Extending [Backstage, Open Source from Spotify](https://backstage.io/):
+* Phase 1: Extensible frontend platform (Done ✅) 
+* Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+* Phase 3: Ecosystem (later) 
