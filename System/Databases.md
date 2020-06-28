@@ -21,6 +21,7 @@
 | 5. Graph | | | |
 |  | | | |
 | 6. Timeseries | | | |
+|  | [Prometheus](https://dbdb.io/db/prometheus) | | |
 |  | | | |
 | 7. Ledger | | | |
 |  | | | |
