@@ -10,12 +10,6 @@
 
 * https://theia-ide.org/
 
-## Distributed Systems
-
-https://github.com/aphyr/distsys-class
-
-https://www.the-paper-trail.org/
-
 ## Containers
 
 https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
@@ -44,3 +38,9 @@ https://opentelemetry.io/about/
 
 AWS - https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
+
+## Distributed Systems
+
+https://github.com/aphyr/distsys-class
+
+https://www.the-paper-trail.org/
