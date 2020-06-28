@@ -67,11 +67,12 @@ http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.h
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
     * Models - Events/Choreography , Command/Orchestration
 * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html), Implementations:
-    * https://eventuate.io/docs/manual/eventuate-tram/latest/getting-started-eventuate-tram-sagas.html
+    * https://medium.com/@omererakman/saga-pattern-2413e636ab16
+      * https://eventuate.io/docs/manual/eventuate-tram/latest/getting-started-eventuate-tram-sagas.html
+      * https://github.com/eclipse/microprofile-lra
     * [A Distributed Transaction Solution Open Sourced by Alibaba](https://seata.io/en-us/)
     * https://blog.bernd-ruecker.com/saga-how-to-implement-complex-business-transactions-without-two-phase-commit-e00aa41a1b1b
     * https://github.com/berndruecker/trip-booking-saga-java
-    * https://github.com/eclipse/microprofile-lra
     * https://zeebe.io/ 
     
 * [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
