@@ -19,7 +19,7 @@ https://gianarb.it/blog/control-theory-is-dope
 https://fauna.com/blog/control-theory-for-fun-and-profit
 
 ## Open Source
-https://aws.github.io/
+AWS - https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
 
 Extending [Backstage, Open Source from Spotify](https://backstage.io/):
