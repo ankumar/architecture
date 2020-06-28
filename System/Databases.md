@@ -1,4 +1,4 @@
-| Database type | Databases        |                  | Formal methods                           | 
+|1. Database type | Databases        |                  | Formal methods                           | 
 | --------------| ---------------- | ---------------- | ---------------- |
 |               | [Database of Databases](https://dbdb.io/) |                  | |
 |               |                  |                  | |
