@@ -3,6 +3,7 @@
 * https://github.com/michaelkeeling/saturn2019-architecture-island-workshop
 * https://github.com/awslabs/aws-well-architected-labs
 * https://github.com/binhnguyennus/awesome-scalability
+* https://github.com/lorin/resilience-engineering
 
 # IDE
 
