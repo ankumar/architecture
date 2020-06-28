@@ -29,5 +29,5 @@ Data Plane - https://github.com/cncf/udpa
 
 * https://github.com/crossplane/crossplane/tree/master/design
   
-* [Cloud](Cloud.md)  
+* [Cloud](../Patterns/Cloud.md)  
   
