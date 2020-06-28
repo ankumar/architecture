@@ -51,9 +51,7 @@ Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 
 AI Assisted Coding - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
 
----
 
-# Open Source
 
 
   
