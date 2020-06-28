@@ -5,27 +5,27 @@
 |               |                  |                  | https://github.com/lemmy/awesome-tlaplus |
 |               |                  |                  | https://github.com/jepsen-io/jepsen |
 |               |                  |                  | https://github.com/jepsen-io/elle |
-| 1. Relational | | | |
+| **Relational** | | | |
 |  | [PostgreSQL](https://dbdb.io/db/postgresql) | | |
 |  |  [MySQL](https://dbdb.io/db/mysql) | Sharding - https://vitess.io/ |  |
 |  | | | |
-| 2. Key-Value |  |  | |
+| **Key-Value** |  |  | |
 |  | [DynamoDB](https://dbdb.io/db/dynamodb) | | |
 |  | [Cassandra](https://dbdb.io/db/cassandra) | | |
 |  | [CosmosDB](https://dbdb.io/db/cosmos-db) |  | TLA+ - https://docs.microsoft.com/en-us/azure/cosmos-db/consistency-levels |
 |  | | | |
-| 3. In-Memory | | | |
+| **In-Memory** | | | |
 |  | [Redis](https://dbdb.io/db/redis) | | |
 |  | [Memcached](https://dbdb.io/db/memcached)| | |
-| 4. Document | | | |
+| **Document** | | | |
 |  | [MongoDB](https://dbdb.io/db/mongodb) | | |
 |  | | | |
-| 5. Graph | | | |
+| **Graph** | | | |
 |  | | | |
-| 6. Timeseries | | | |
+| **Timeseries** | | | |
 |  | [Prometheus](https://dbdb.io/db/prometheus) | | |
 |  | | | |
-| 7. Ledger | | | |
+| **Ledger** | | | |
 |  | | | |
 
 2. [A DB Ranking](https://db-engines.com/en/ranking)
