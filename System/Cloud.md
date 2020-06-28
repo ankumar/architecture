@@ -6,18 +6,6 @@
 * K8S
   * [OpenAPI specification](https://github.com/kubernetes/kubernetes/tree/master/api/openapi-spec)
 
-# IDE
-
-* https://shell.azure.com/
-* https://github.com/features/codespaces
-
-* https://ssh.cloud.google.com/
-  * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
-
-* https://aws.amazon.com/cloud9/
-
-* https://theia-ide.org/
-
 ---
 
 # Continuous Development
