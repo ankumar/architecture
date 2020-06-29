@@ -48,7 +48,6 @@ https://www.the-paper-trail.org/
 
 Control Theory:
 
-https://gianarb.it/blog/control-theory-is-dope
-
-https://fauna.com/blog/control-theory-for-fun-and-profit
+* https://gianarb.it/blog/control-theory-is-dope
+* https://fauna.com/blog/control-theory-for-fun-and-profit
 
