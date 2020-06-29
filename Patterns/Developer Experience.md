@@ -8,9 +8,7 @@
 
 * [Wicked Problem](https://leadingedgeforum.com/research/are-platform-organizations-a-wicked-problem/) -> [Liberating platform organizations](https://leadingedgeforum.com/research/liberating-platform-organizations/)
 
-GitHub:
-
-![Developers Developers Developers ...](../images/Github.png)<p align="center"> <p align="center"><b> 40 million Developers </b> </p>
+![Developers Developers Developers ...](../images/Github.png)<p align="center"> <p align="center"><b>GitHub - 40 million Developers </b> </p>
 
 ### Developers - Over 1.3 million first time contributors joined the open source community
 * [2019 Octoverse report](https://octoverse.github.com/)
