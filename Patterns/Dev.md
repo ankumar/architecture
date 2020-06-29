@@ -1,10 +1,10 @@
 [Conway](https://twitter.com/conways_law/status/1238539198203822081)
 
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Developer%20Experience.md)
+[>_](Developer%20Experience.md)
 
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Services.md)
+[>_](Services.md)
 
-![Service Mesh](https://github.com/ankumar/Architecture/blob/master/images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
+![Service Mesh](../images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Google: 100,000+ services - Networking In & Across Regions </b></p>
  
  
@@ -12,15 +12,15 @@
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Microservices: A Modern App, Monzo Bank: 1,600+ services - A visualisation of network of microservices w/ Strong DevOps & Observability</a> </p>
 
 
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Data-Intensive.md)
+[>_](Data-Intensive.md)
 
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Cloud%20Computing.md)
+[>_](Cloud%20Computing.md)
 
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Open%20Source.md)
+[>_](Open%20Source.md)
 
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/Ops.md)
+[>_](Ops.md)
 
-[>_](https://github.com/ankumar/Architecture/blob/master/Patterns/%20Systems%20Thinking.md)
+[>_](%20Systems%20Thinking.md)
 
 # Academic:
 ## Stanford
@@ -41,5 +41,5 @@
 |**Measured service**|Cloud systems automatically control and optimize resource use by leveraging a metering capability (typically per-per-use)|
 ## [NIST - standards & guidelines](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 ![](https://github.com/ankumar/Architecture/blob/master/images/CNCF.png)<p align="center"> </p>
-[![Opensource's value and collaborating with cloud vendors](https://github.com/ankumar/Architecture/blob/master/images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
+[![Opensource's value and collaborating with cloud vendors](../images/databricks-opensource.png)](https://dbricks.co/ex200221a, "")
 ### <p align="right"><b>- Ali Ghodsi, Co-founder & CEO at data science, big data processing and machine learning company Databricks.</b></p>
