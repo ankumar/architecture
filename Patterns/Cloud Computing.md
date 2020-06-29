@@ -29,8 +29,7 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
  2. https://web.dev/vitals/
  
- 
-## In the future the majority of managed infrastructure offerings will be backed by open interfaces, but not necessarily open source projects.
+## Insights & Trends - In the future the majority of managed infrastructure offerings will be backed by open interfaces, but not necessarily open source projects.
 
 * [SCREAMING IN THE CLOUD](https://www.lastweekinaws.com/podcast/screaming-in-the-cloud/)
   * On the future of @Kubernetesio “We'll enter another phase where you'll build a platform on top of Kubernetes, but it won't be worth mentioning that Kubernetes is underneath. People will be more interested in the thing above.” 
@@ -57,9 +56,6 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
   * https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
   * https://www.alibabacloud.com/blog/lindorm-alibaba-clouds-newest-cloud-native-multi-model-database_596269?spm=a2c65.11461433.0.0.46a75355aeZ2GL
   
-
-## Insights & Trends
-
 * [GitHub](https://github.blog/category/community/insights/)
 
 * [Serverless Function (FaaS)](https://fauna.com/blog/comparison-faas-providers)
