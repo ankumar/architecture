@@ -44,6 +44,7 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 * [Cloud Native Blog](https://blog.container-solutions.com/)
+   * https://github.com/ContainerSolutions
 * The Amazon Effect
    * [Open Source at AWS](https://aws.amazon.com/opensource)
    * [Commercial Open Source Software](https://coss.media/oss-will-eat-cloud-computing/)
