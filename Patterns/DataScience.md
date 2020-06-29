@@ -1,5 +1,5 @@
 # Lean & Agile:
-![](https://github.com/ankumar/Architecture/blob/master/images/The%20AI%20Hierarchy%20of%20Needs.png)
+![](../images/The%20AI%20Hierarchy%20of%20Needs.png)
 ### <p align="center"> https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007 </p>
 
 ![](https://github.com/ankumar/Architecture/blob/master/images/Hidden%20Technical%20Debt%20in%20ML%20Systems.png)
