@@ -17,7 +17,7 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
     
 ### 2. Manage State
 
-* [Stateful](https://github.com/ankumar/Architecture/blob/master/Patterns/Stateful.md)
+* [Stateful](Stateful.md)
   
 ## Metrics
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
