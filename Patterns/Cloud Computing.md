@@ -55,3 +55,25 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
    * [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/) is not just Open Source C*/CQL compatibility. It's also potentially Change Data Capture (CDC) integrated w/ EventHub & Compute (Serverless) used for Data Lake
   * https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
   * https://www.alibabacloud.com/blog/lindorm-alibaba-clouds-newest-cloud-native-multi-model-database_596269?spm=a2c65.11461433.0.0.46a75355aeZ2GL
+  
+
+## Insights & Trends
+
+* [GitHub](https://github.blog/category/community/insights/)
+
+* [Serverless Function (FaaS)](https://fauna.com/blog/comparison-faas-providers)
+
+**Frontend**
+
+* https://www.honeycode.aws/
+* [JAMStack](https://snipcart.com/blog/jamstack)
+  * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV)   
+
+**Backend**
+
+* [Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
+
+Tehnology Radar - https://www.thoughtworks.com/radar/platforms
+* https://www.thoughtworks.com/radar/platforms/knative
+
+**AI Assisted Coding** - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
