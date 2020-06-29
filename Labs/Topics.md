@@ -47,9 +47,7 @@ https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosti
 
 # Microservices
 
-![](../images/Serverless.jpeg)
-
-https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/
+</>
 
 # Control Theory
 
