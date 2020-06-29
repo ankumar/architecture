@@ -7,7 +7,8 @@
 |               |                  |                  | https://github.com/jepsen-io/elle |
 | **Relational** | | | |
 |  | [PostgreSQL](https://dbdb.io/db/postgresql) | | |
-|  |  [MySQL](https://dbdb.io/db/mysql) | Sharding - https://vitess.io/ |  |
+|  | [MySQL](https://dbdb.io/db/mysql) | Sharding - https://vitess.io/ |  |
+|  | [Oracle](https://dbdb.io/db/oracle-rdbms)| http://houseofbrick.com/oracle-feigns-support-challenges-of-rac-in-third-party-clouds/ | |
 |  | | | |
 | **Key-Value** |  |  | |
 |  | [DynamoDB](https://dbdb.io/db/dynamodb) | | |
