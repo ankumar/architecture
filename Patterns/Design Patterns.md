@@ -14,7 +14,7 @@ API Design
 
 ---
 
-## Distributed Systems
+## Systems
 
 [Kubernetes](../System/Kubernetes.md)
 
