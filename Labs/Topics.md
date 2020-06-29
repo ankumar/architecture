@@ -23,15 +23,7 @@ Breaking down silos and increasing agility, keep costs under control and the foc
 
 * https://theia-ide.org/
 
-## Containers
-
-https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
-
-## Microservices
-
-https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/
-
-## Open Source
+# Open Source
 Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/):
 * Phase 1: Extensible frontend platform (Done ✅) 
 * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
@@ -46,11 +38,23 @@ https://opentelemetry.io/about/
 AWS - https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
 
-## Distributed Systems
+## Containers
+
+https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
+
+## Microservices
+
+https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/
+
+## Control Theory
+
+https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
+
+# Distributed Systems
 
 https://github.com/aphyr/distsys-class
 
 https://www.the-paper-trail.org/
 
-Control Theory: https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
+
 
