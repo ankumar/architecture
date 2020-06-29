@@ -25,12 +25,6 @@ https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosti
 
 https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/
 
-## Control Theory
-
-https://gianarb.it/blog/control-theory-is-dope
-
-https://fauna.com/blog/control-theory-for-fun-and-profit
-
 ## Open Source
 Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/):
 * Phase 1: Extensible frontend platform (Done ✅) 
@@ -51,3 +45,10 @@ AWS - https://aws.github.io/
 https://github.com/aphyr/distsys-class
 
 https://www.the-paper-trail.org/
+
+Control Theory:
+
+https://gianarb.it/blog/control-theory-is-dope
+
+https://fauna.com/blog/control-theory-for-fun-and-profit
+
