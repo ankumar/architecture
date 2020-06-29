@@ -5,8 +5,11 @@
 [Foundational elements yielding Innovations](https://dirkriehle.com/publications/2019-selected/the-innovations-of-open-source/)
 
 **1. Business model Innovation**
+
 **2. Process Innovation**
+
 **3. Tool Innovation**
+
 **4. Legal Innovation**
 
 [Open Source Builders: An Inside Look](https://thenewstack.io/open-source-builders-an-inside-look/)
