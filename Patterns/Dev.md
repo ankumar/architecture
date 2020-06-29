@@ -12,15 +12,15 @@
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Microservices: A Modern App, Monzo Bank: 1,600+ services - A visualisation of network of microservices w/ Strong DevOps & Observability</a> </p>
 
 
-[>](Data-Intensive.md)
+[Data Intensive](Data-Intensive.md)
 
-[>](Cloud%20Computing.md)
+[Cloud Computing](Cloud%20Computing.md)
 
-[>](Open%20Source.md)
+[Open Source](Open%20Source.md)
 
-[>](Ops.md)
+[Operations](Ops.md)
 
-[>](%20Systems%20Thinking.md)
+[Systems Thinking](%20Systems%20Thinking.md)
 
 # Academic:
 ## Stanford
