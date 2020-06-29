@@ -1,8 +1,8 @@
 [Conway](https://twitter.com/conways_law/status/1238539198203822081)
 
-[>_](Developer%20Experience.md)
+[>](Developer%20Experience.md)
 
-[>_](Services.md)
+[>](Services.md)
 
 ![Service Mesh](../images/Istio2.png)](https://www.youtube.com/watch?v=do-PrVi0ifk "Eric Brewer, VP Infrastructure & Google Fellow")<p align="center">
  <b>Google: 100,000+ services - Networking In & Across Regions </b></p>
@@ -12,15 +12,15 @@
 <p align="center"> <a href="https://monzo.com/blog/we-built-network-isolation-for-1-500-services">Microservices: A Modern App, Monzo Bank: 1,600+ services - A visualisation of network of microservices w/ Strong DevOps & Observability</a> </p>
 
 
-[>_](Data-Intensive.md)
+[>](Data-Intensive.md)
 
-[>_](Cloud%20Computing.md)
+[>](Cloud%20Computing.md)
 
-[>_](Open%20Source.md)
+[>](Open%20Source.md)
 
-[>_](Ops.md)
+[>](Ops.md)
 
-[>_](%20Systems%20Thinking.md)
+[>](%20Systems%20Thinking.md)
 
 # Academic:
 ## Stanford
