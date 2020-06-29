@@ -2,9 +2,9 @@
 
 Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value
 
-**1. DevOps**
+**1. DevOps** - https://itrevolution.com/
 
-**2. FinOps**
+**2. FinOps** - https://www.finops.org/
 
 **3. DevSecOps**
 
