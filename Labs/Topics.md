@@ -46,8 +46,5 @@ https://github.com/aphyr/distsys-class
 
 https://www.the-paper-trail.org/
 
-Control Theory:
-
-* https://gianarb.it/blog/control-theory-is-dope
-* https://fauna.com/blog/control-theory-for-fun-and-profit
+Control Theory: https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
 
