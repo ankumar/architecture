@@ -39,6 +39,7 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
 * [Amazon Aurora cloud-native relational database](https://www.allthingsdistributed.com/2019/03/Amazon-Aurora-design-cloud-native-relational-database.html)
 * [Socrates: The New SQL Server in the Cloud](https://www.microsoft.com/en-us/research/uploads/prod/2019/05/socrates.pdf)
 * [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
+* [Cloud Native Blog](https://blog.container-solutions.com/)
 * The Amazon Effect
    * [Open Source at AWS](https://aws.amazon.com/opensource)
    * [Commercial Open Source Software](https://coss.media/oss-will-eat-cloud-computing/)
