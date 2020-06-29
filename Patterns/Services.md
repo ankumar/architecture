@@ -33,8 +33,7 @@ There are many useful heuristics for defining the boundaries of a service
 * [Fin Tech](https://github.com/ankumar/Architecture/blob/master/Patterns/Monzo.md)
 * [Serverless Patterns](https://docs.google.com/document/d/1I6jaJyrsSTrrXEtrwSqH6aSuKRkyYhJU7LaYedVmvck/)
 ![](../images/Serverless.jpeg)
-
-https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/
+-> https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/
 
 * [Domain-Driven Design](https://www.dddheuristics.com/)
 * [Distributed Application Runtime- An event-driven, portable runtime for building microservices on cloud and edge](https://dapr.io/)
