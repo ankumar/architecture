@@ -40,9 +40,10 @@ Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/)
 * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
 * Phase 3: Ecosystem (later) 
 
-## 1. Containers
+## 1. Containers & Kubernetes
 
 https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
+
 
 # Microservices
 
