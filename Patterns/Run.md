@@ -1,6 +1,6 @@
 ## Experimentation
  
- [My Sandbox](../System/Sandbox.md)
+ [My Sandbox](../Labs/Sandbox.md)
 
 ## 
   
