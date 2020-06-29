@@ -1,4 +1,4 @@
-[Conway](https://twitter.com/conways_law/status/1238539198203822081)
+[An Application Development/Execution Platform for the Rest of Us - By Conway](https://twitter.com/conways_law/status/1238539198203822081)
 
 [Developer Experience](Developer%20Experience.md)
 
