@@ -1,5 +1,7 @@
 # Cloud Computing:
 
+* Per [IBM](https://www.ibm.com/cloud/blog/cloud-computing-history), the idea of "Cloud Computing" dates all the way back to 1950!
+
 * [A Brief History](https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_1000)
 
 Cloud (& Edge) native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.**
