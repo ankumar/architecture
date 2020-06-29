@@ -1,5 +1,10 @@
 # Architecture
 
+Breaking down silos and increasing agility
+1. DevOps
+2. FinOps
+3. DevSecOps
+
 * https://github.com/michaelkeeling/saturn2019-architecture-island-workshop
 * https://github.com/awslabs/aws-well-architected-labs
 * https://github.com/binhnguyennus/awesome-scalability
