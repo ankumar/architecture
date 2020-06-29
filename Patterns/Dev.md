@@ -20,7 +20,7 @@
 
 [Operations](Ops.md)
 
-[Systems Thinking](%20Systems%20Thinking.md)
+[Systems Thinking](Systems%20Thinking.md)
 
 # Academic:
 ## Stanford
