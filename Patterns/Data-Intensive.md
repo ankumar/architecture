@@ -24,7 +24,7 @@ What is the problem with data today?
 
 **Problem #6 - It is not tools and technology but people and processes**
 
-![https://www.datacouncil.ai/](https://github.com/ankumar/Architecture/blob/master/images/Data%20Council.png)
+![https://www.datacouncil.ai/](../images/Data%20Council.png)
 <p align="center"> <a href="https://www.datacouncil.ai/"> <b> Data Council </b> </p>
  
 ## Data Science
