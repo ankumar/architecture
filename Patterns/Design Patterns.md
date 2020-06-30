@@ -10,10 +10,6 @@
 
 [Specifications](../System/Specs.md)
 
-## API's
-* https://cloud.google.com/apis/design
-* https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md
-
 ## Systems of systems
 
 1. [APIs](../System/API.md)
