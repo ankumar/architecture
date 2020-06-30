@@ -48,7 +48,7 @@ https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosti
 
 # Microservices
 
-</>
+https://derkoe.dev/blog/beating-c-with-java/
 
 # Control Theory
 
