@@ -98,4 +98,4 @@ Glover Johns leadership principles:
 * Stay ahead of your boss
 * The source David Hackworth in About Face, who was covering a farewell speech by his idol, Glover Johns.
  
--- [Phillip Johnston](https://embeddedartistry.com/)
+-- [Phillip Johnston](https://embeddedartistry.com/blog/2018/07/02/what-i-learned-at-bredemeyer-consultings-software-architecture-workshop/)
