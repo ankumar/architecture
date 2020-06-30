@@ -69,6 +69,7 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
 
 **Backend**
 
+* https://ballerina.io/
 * [Dark, Holistic approach](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
 
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
