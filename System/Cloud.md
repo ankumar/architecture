@@ -24,8 +24,10 @@
 * https://devcenter.heroku.com/articles/buildpacks
   * https://buildpacks.io/
     
-* https://upbound.io/
+
 * https://okteto.com/
+
+* https://upbound.io/
   * https://github.com/rberrelleza/crossplane-community-day-2020
 
 
