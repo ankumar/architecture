@@ -4,6 +4,6 @@
 * [Stateful](../Patterns/Stateful.md) 
 
 
-* [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
+
 
 
