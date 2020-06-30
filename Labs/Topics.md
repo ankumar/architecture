@@ -18,6 +18,11 @@ Breaking down silos and increasing agility, keep costs under control and the foc
 
 [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
 
+Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/):
+* Phase 1: Extensible frontend platform (Done ✅) 
+* Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+* Phase 3: Ecosystem (later) 
+
 * https://shell.azure.com/
   * https://github.com/features/codespaces
 
@@ -37,11 +42,6 @@ https://opentelemetry.io/about/
 
 AWS - https://aws.github.io/
 * https://awslabs.github.io/smithy/index.html
-
-Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/):
-* Phase 1: Extensible frontend platform (Done ✅) 
-* Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
-* Phase 3: Ecosystem (later) 
 
 ## 1. Containers & Kubernetes
 
