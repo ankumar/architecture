@@ -28,6 +28,7 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
 **High Performance System** - How you [Structure & Monitor Measurements](https://www.youtube.com/watch?v=lJ8ydIuPFeU) radically alters what numbers you'll see, and it's extremely counterintuitive if you don't think long & hard.
  1. [User-centric meaningful availability](https://www.usenix.org/system/files/nsdi20spring_hauer_prepub.pdf)
  2. https://web.dev/vitals/
+ * https://web.dev/milliseconds-make-millions/
  
 ## Insights & Trends - In the future the majority of managed infrastructure offerings will be backed by open interfaces, but not necessarily open source projects.
 
