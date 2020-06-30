@@ -1,5 +1,4 @@
 # System - Design Heuristics
-
 ![](../images/roofshots.png)
 <p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
 
