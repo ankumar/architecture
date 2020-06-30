@@ -12,7 +12,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
 ![](../images/APIs.jpeg)
 
-"APIs have replaced the central database in an enterprise's business operations."
+**"APIs have replaced the central database in an enterprise's business operations."**
 
 * OpenAPI:
   * [REST](https://github.com/OAI/OpenAPI-Specification/)
