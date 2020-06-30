@@ -16,15 +16,17 @@ Breaking down silos and increasing agility, keep costs under control and the foc
 
 # IDE
 
-* https://shell.azure.com/
-  * https://github.com/features/codespaces
+* * [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
 
-* https://ssh.cloud.google.com/
-  * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
+  * https://shell.azure.com/
+    * https://github.com/features/codespaces
 
-* https://aws.amazon.com/cloud9/
+  * https://ssh.cloud.google.com/
+    * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 
-* https://theia-ide.org/
+  * https://aws.amazon.com/cloud9/
+
+  * https://theia-ide.org/
 
 # Open Source
 https://opentelemetry.io/about/
