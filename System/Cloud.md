@@ -23,7 +23,6 @@
 * https://devcenter.heroku.com/articles/buildpacks
   * https://buildpacks.io/
     
-
 * https://okteto.com/
 
 * https://upbound.io/
