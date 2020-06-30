@@ -1,11 +1,11 @@
-# 1. System - Design Heuristics
+# System - Design Heuristics
+
 * [Patterns](Design%20Patterns.md)
-* [Glossary](Terminology.md)
+
+* System - Functions & Workflows ...
 
 ![](../images/roofshots.png)
 <p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
-
-# 2. System - Functions & Workflows ...
 
 ## 1. Software-Intensive:
 **Services -** 
@@ -57,3 +57,5 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 - State-of-the-art hyperparameter search
 - Experiment management with experiment tracking, log management, metrics visualization, reproducibility, and dependency management
 - Flexibility - a fully open source system that supports both Tensorflow and PyTorch, and can run in the cloud or on-prem
+
+* [Glossary](Terminology.md)
