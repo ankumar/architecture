@@ -6,7 +6,7 @@ Breaking down silos and increasing agility, keep costs under control and the foc
 
 **2. FinOps** - https://www.finops.org/
 
-**3. DevSecOps**
+**3. DevSecOps** - ?
 
 * https://github.com/michaelkeeling/saturn2019-architecture-island-workshop
 * https://github.com/awslabs/aws-well-architected-labs
