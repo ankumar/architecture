@@ -12,6 +12,7 @@ Breaking down silos and increasing agility, keep costs under control and the foc
 * https://github.com/awslabs/aws-well-architected-labs
 * https://github.com/binhnguyennus/awesome-scalability
 * https://github.com/lorin/resilience-engineering
+* https://github.com/wso2/reference-architecture
 
 # IDE
 
