@@ -1,10 +1,10 @@
 # System - Design Heuristics
 
 ![](../images/roofshots.png)
-<p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
+<p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
 
 * [Patterns](Design%20Patterns.md)
-* **System - Functions & Workflows ...**
+* Functions & Workflows ...** <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
 
 ## 1. Software-Intensive:
 **Services -** 
