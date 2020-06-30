@@ -16,7 +16,7 @@ Breaking down silos and increasing agility, keep costs under control and the foc
 
 # IDE
 
-* * [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
+* [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
 
   * https://shell.azure.com/
     * https://github.com/features/codespaces
