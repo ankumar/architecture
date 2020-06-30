@@ -12,13 +12,12 @@
 
 * https://cd.foundation/
   * https://tekton.dev/
+  * https://relay.sh/
+    * https://relay.sh/blog/user-defined-webhooks-with-knative-and-ambassador/
   
 * [GoogleContainerTools](https://github.com/GoogleContainerTools)
   * https://skaffold.dev/
   * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
-
-* https://relay.sh/
-  * https://relay.sh/blog/user-defined-webhooks-with-knative-and-ambassador/
 
 * https://devcenter.heroku.com/articles/buildpacks
   * https://buildpacks.io/
