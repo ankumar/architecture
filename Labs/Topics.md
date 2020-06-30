@@ -54,9 +54,11 @@ https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosti
 https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
 # Distributed Systems
 
-https://github.com/aphyr/distsys-class
+[Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 
-https://www.the-paper-trail.org/
+* https://github.com/aphyr/distsys-class
+
+* https://www.the-paper-trail.org/
 
 
 
