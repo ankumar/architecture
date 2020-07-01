@@ -20,7 +20,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 * **OpenAPI Spec**:
   * [REST](https://github.com/OAI/OpenAPI-Specification/)
 * [Event-driven/Async](https://www.asyncapi.com/)
-* [Span Multiple Requests/Workflow](https://cadenceworkflow.io/)
+* [Span Multiple Requests/Workflow](Workflow.md)
 * **Declarative**:
   * [Apps - GraphQL](GraphQL.md)  
   * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
