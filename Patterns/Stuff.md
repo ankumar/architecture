@@ -17,16 +17,16 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
-* **OpenAPI Spec**:
-  * [REST](https://github.com/OAI/OpenAPI-Specification/)
-* [Event-driven/Async](https://www.asyncapi.com/)
+* **gRPC, OpenAPI & REST**:
+  * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+  * [Event-driven/Async](https://www.asyncapi.com/)
+  * More Styles:
+    * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+    * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
 * [Span Multiple Requests/Workflow](Workflow.md)
 * **Declarative**:
   * [Apps - GraphQL](GraphQL.md)  
   * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
-* More Styles:
-  * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-  * [RPC & REST](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
    
 -> [Developer Workflows](Run.md)
       
