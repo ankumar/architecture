@@ -40,9 +40,6 @@ https://opentelemetry.io/about/
 * https://thanos.io/
 * https://cortexmetrics.io/
 
-AWS - https://aws.github.io/
-* https://awslabs.github.io/smithy/index.html
-
 ## 1. Containers & Kubernetes
 
 https://getnelson.io/
