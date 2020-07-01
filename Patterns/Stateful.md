@@ -41,10 +41,6 @@ The way how the application models are represented on both levels might differ d
 ## Distributed Data Management 
 In a microservice architecture each service’s database is private to that service in order to ensure loose coupling. As a result, it’s challenging to implement transactions and queries that span services. The solution is to implement distributed transactions using the [Saga pattern and queries using the CQRS pattern](https://microservices.io/articles/applying.html).
 
-"application-level, mechanisms for maintaining database integrity" - http://www.bailis.org/papers/feral-sigmod2015.pdf
-
-The biggest barrier ...  is that the consistency mechanism must **integrate consistency across many stateful services** - https://research.fb.com/wp-content/uploads/2016/11/challenges-to-adopting-stronger-consistency-at-scale.pdf
-
 https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-data
 
 **1. CAP theorem**
