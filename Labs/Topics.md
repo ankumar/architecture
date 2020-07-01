@@ -45,6 +45,8 @@ AWS - https://aws.github.io/
 
 ## 1. Containers & Kubernetes
 
+https://getnelson.io/
+
 https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
 
 
