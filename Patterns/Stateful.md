@@ -44,6 +44,7 @@ In a microservice architecture each service’s database is private to that serv
 https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-data
 
 "application-level, mechanisms for maintaining database integrity"
+
 http://www.bailis.org/papers/feral-sigmod2015.pdf
 
 **1. CAP theorem**
