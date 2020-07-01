@@ -20,9 +20,8 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 * **gRPC, OpenAPI & REST**:
   * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
   * [AsyncAPI](https://www.asyncapi.com/)
-  * More Styles:
-    * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-    * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+  * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+  * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
   * [Span Multiple Requests/Workflow](Workflow.md)
 * **Declarative**:
   * [Apps - GraphQL](GraphQL.md)  
