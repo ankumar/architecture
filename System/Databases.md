@@ -21,7 +21,7 @@
 |  | [Redis](https://dbdb.io/db/redis) | | |
 |  | [Memcached](https://dbdb.io/db/memcached)| | |
 | **Document** | | | |
-|  | [MongoDB](https://dbdb.io/db/mongodb) | | http://www.vldb.org/pvldb/vol13/p1346-davis.pdf |
+|  | [MongoDB](https://dbdb.io/db/mongodb) | | TLA+ - http://www.vldb.org/pvldb/vol13/p1346-davis.pdf |
 |  | | | |
 | **Graph** | | | |
 |  | | | |
