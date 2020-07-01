@@ -23,7 +23,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
   * More Styles:
     * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
     * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-* [Span Multiple Requests/Workflow](Workflow.md)
+  * [Span Multiple Requests/Workflow](Workflow.md)
 * **Declarative**:
   * [Apps - GraphQL](GraphQL.md)  
   * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
