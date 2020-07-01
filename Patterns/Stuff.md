@@ -32,7 +32,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
 
-![](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
+<p align="center"> ![](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png) </p>
 
 <p align="center"> <a href="https://www.itsonlyamodel.com/">"All models are wrong, but some are useful."</a> </p>
 
