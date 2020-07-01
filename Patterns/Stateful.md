@@ -47,6 +47,10 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
 
 http://www.bailis.org/papers/feral-sigmod2015.pdf
 
+The biggest barrier ...  is that the consistency mechanism must **integrate consistency across many stateful services**
+
+https://research.fb.com/wp-content/uploads/2016/11/challenges-to-adopting-stronger-consistency-at-scale.pdf
+
 **1. CAP theorem**
 
 [Approach #1 - Spanner and the CAP Theorem](https://cloud.google.com/blog/products/gcp/inside-cloud-spanner-and-the-cap-theorem)
