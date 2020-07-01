@@ -1,4 +1,4 @@
-1) **Database type**
+1) **Database Types**
 
 | Types | Databases        |                  | Formal methods                           | 
 | --------------| ---------------- | ---------------- | ---------------- |
