@@ -34,7 +34,7 @@ Data powers new innovations, improvements in customer experience, and efficiency
 
 ![](https://miro.medium.com/max/1372/1*zOp70MCQ-uhaS7lUVAhATA.png)
 
-<p> <a href="https://www.itsonlyamodel.com/">"All models are wrong, but some are useful."</a> </p>
+<a href="https://www.itsonlyamodel.com/">"All models are wrong, but some are useful."</a>
 
 ### Advances in machine learning (ML) over the last decade have opened up a radically new approach to building software systems. Dubbed [“Software 2.0”](https://medium.com/@karpathy/software-2-0-a64152b37c35), this approach focuses on training models to learn from data instead of explicitly writing code for the required behavior. 
 ## > a. Data Validation
