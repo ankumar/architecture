@@ -14,6 +14,10 @@ https://github.com/compose-spec/compose-spec
 
 ## Providers
 
+**AWS**:
+
+https://states-language.net/spec.html
+
 **Azure, Alibaba, Crossplane**: 
   * [Dapr, Distributed Application Runtime](https://dapr.io/) - [Latest Presentation](https://github.com/dapr/docs/blob/master/presentations/Dapr%20Presentation%20Deck.pptx)
 
