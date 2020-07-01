@@ -13,11 +13,11 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
 **"APIs have replaced the central database in an enterprise's business operations."**
 
-* OpenAPI:
+* **OpenAPI Spec**:
   * [REST](https://github.com/OAI/OpenAPI-Specification/)
 * [Event-driven/Async](https://www.asyncapi.com/)
 * [Span Multiple Requests/Workflow](https://cadenceworkflow.io/)
-* Declarative:
+* **Declarative**:
   * [Apps - GraphQL](GraphQL.md)  
   * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
 * More Styles:
