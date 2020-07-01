@@ -8,13 +8,14 @@
 
 ---
 
-# Continuous Development
+# CI/CD
 
 * https://cd.foundation/
   * https://tekton.dev/
   * https://relay.sh/
     * https://relay.sh/blog/user-defined-webhooks-with-knative-and-ambassador/
-  * https://argoproj.github.io/argo-cd/  
+  * https://github.com/argoproj/gitops-engine
+    * https://argoproj.github.io/argo-cd/  
   
 * [GoogleContainerTools](https://github.com/GoogleContainerTools)
   * https://skaffold.dev/
