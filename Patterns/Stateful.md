@@ -63,9 +63,12 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
 "Over the past decade, application developers have discovered that it is extremely difficult to build bug-free applications over database systems that do not guarantee consistency."**
 http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html?m=1
 
-* [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
 * [Distributed Sagas: A Protocol for Coordinating Microservices](https://www.youtube.com/watch?v=0UTOLRTwOX0)
     * Models - Events/Choreography , Command/Orchestration
+    * "application-level, mechanisms for maintaining database integrity" - http://www.bailis.org/papers/feral-sigmod2015.pdf
+    * The biggest barrier ...  is that the consistency mechanism must **integrate consistency across many stateful services** - https://research.fb.com/wp-content/uploads/2016/11/challenges-to-adopting-stronger-consistency-at-scale.pdf
+    * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+
 * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html), Implementations:
     * https://medium.com/@omererakman/saga-pattern-2413e636ab16
       * https://eventuate.io/docs/manual/eventuate-tram/latest/getting-started-eventuate-tram-sagas.html
