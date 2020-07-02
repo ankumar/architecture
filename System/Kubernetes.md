@@ -33,7 +33,7 @@
 * https://upbound.io/
   * https://github.com/rberrelleza/crossplane-community-day-2020
 
----
+# Novel
 
 The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
 
