@@ -16,7 +16,6 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
-Functions:
 * **gRPC, OpenAPI & REST**:
   * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
   * [AsyncAPI](https://www.asyncapi.com/)
