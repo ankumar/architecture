@@ -27,4 +27,3 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 1. [Serverless](../System/Serverless.md)
 2. [Databases](../System/Databases.md)
 3. [Kubernetes](../System/Kubernetes.md)
-4. [Cloud](../System/Cloud.md)
