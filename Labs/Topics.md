@@ -23,11 +23,6 @@ https://www.gitpod.io/
   * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
 * https://aws.amazon.com/cloud9/
 
-Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/):
-* Phase 1: Extensible frontend platform (Done ✅) 
-* Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
-* Phase 3: Ecosystem (later) 
-
 # Languages & Frameworks
 
 [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
@@ -37,6 +32,12 @@ Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/)
 * [GCP](https://cloud.spring.io/spring-cloud-gcp/reference/html/)
 
 # Open Source
+
+[Backstage from Spotify](https://backstage.io/) is an open platform for building developer portals
+* Phase 1: Extensible frontend platform (Done ✅) 
+* Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
+* Phase 3: Ecosystem (later) 
+
 https://opentelemetry.io/about/
 * https://prometheus.io/
 * https://promlabs.com/
