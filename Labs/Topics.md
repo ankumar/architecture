@@ -1,20 +1,16 @@
 # Architecture
 
 Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value
-
 **1. DevOps** - https://itrevolution.com/
-
 **2. FinOps** - https://www.finops.org/
-
 **3. DevSecOps** - ?
 
+A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777), Model for Visualising - https://c4model.com/
 * https://github.com/michaelkeeling/saturn2019-architecture-island-workshop
 * https://github.com/awslabs/aws-well-architected-labs
 * https://github.com/binhnguyennus/awesome-scalability
 * https://github.com/lorin/resilience-engineering
 * https://github.com/wso2/reference-architecture
-* A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
-* Model for Visualising - https://c4model.com/
 
 # Frameworks
 
