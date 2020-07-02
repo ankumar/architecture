@@ -25,6 +25,6 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”. Hiding Infrastructure & Focus on applications Patterns...** 
 
 1. [Serverless](../System/Serverless.md)
-2. [Kubernetes](../System/Kubernetes.md)
-3. [Databases](../System/Databases.md)
+2. [Databases](../System/Databases.md)
+3. [Kubernetes](../System/Kubernetes.md)
 4. [Cloud](../System/Cloud.md)
