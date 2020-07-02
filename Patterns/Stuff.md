@@ -14,8 +14,8 @@ Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modu
   * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
   * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
   * **Declarative**:
-    * [Apps - GraphQL](GraphQL.md)  
-    * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
+    1. [Apps - GraphQL](GraphQL.md)  
+    2. [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
    
 * [**Span Multiple Requests - Workflow**](Workflow.md)
       
