@@ -13,6 +13,8 @@ Breaking down silos and increasing agility, keep costs under control and the foc
 * https://github.com/binhnguyennus/awesome-scalability
 * https://github.com/lorin/resilience-engineering
 * https://github.com/wso2/reference-architecture
+* A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
+* Model for Visualising - https://c4model.com/
 
 # IDE
 
