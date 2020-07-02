@@ -2,7 +2,7 @@
 ![](../images/roofshots.png)
 <p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
 
-We are modernizing technology stacks across all industies with an architecture approach term **Cloud Native**. A definition from [CNCF Cloud Native Definition](https://www.cncf.io/):
+We are modernizing technology stacks across all industies with an architecture term **Cloud Native**. A definition from [CNCF Cloud Native Definition](https://www.cncf.io/):
 
 Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.** These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil. 
 
