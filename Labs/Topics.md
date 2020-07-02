@@ -48,9 +48,6 @@ https://opentelemetry.io/about/
 https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
 * https://getnelson.io/
 
-# Control Theory
-
-https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
 # Distributed Systems
 
 [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
@@ -59,5 +56,8 @@ https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-t
 
 * https://www.the-paper-trail.org/
 
+# Control Theory
+
+https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
 
 
