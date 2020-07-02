@@ -52,6 +52,7 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
    * [AWS Well-Architected Labs](https://wellarchitectedlabs.com)
    * [Amazon Builders Library](https://aws.amazon.com/builders-library/)
    * [AWS Well-Architected Framework](https://wa.aws.amazon.com/index.en.html)
+   * https://www.honeycode.aws/
    
    * [CosmosDB](https://docs.microsoft.com/en-us/azure/cosmos-db/) is not just Open Source C*/CQL compatibility. It's also potentially Change Data Capture (CDC) integrated w/ EventHub & Compute (Serverless) used for Data Lake
   * https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
@@ -76,4 +77,3 @@ Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 
 **AI Assisted Coding** - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
 
-* https://www.honeycode.aws/
