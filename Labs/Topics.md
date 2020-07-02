@@ -18,9 +18,9 @@ Breaking down silos and increasing agility, keep costs under control and the foc
 
 # Frameworks
 
-[Azure - Java/Spring](https://azure.microsoft.com/en-us/services/spring-cloud/)
-
 [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
+
+[Azure - Java/Spring](https://azure.microsoft.com/en-us/services/spring-cloud/)
 
 # IDE
 
