@@ -63,7 +63,6 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
 
 **Frontend**
 
-* https://www.honeycode.aws/
 * [JAMStack](https://snipcart.com/blog/jamstack)
   * ["The big part of it is that it's prerendered and served without web servers :) You can use APIs and Serverless functions for dynamicism, it's not required."](https://codepen.io/sdras/full/NWqNBzV)   
 
@@ -76,3 +75,5 @@ Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * https://www.thoughtworks.com/radar/platforms/knative
 
 **AI Assisted Coding** - [Kite](https://www.kite.com/), because we spent too much time on repetitive work like copying and pasting from StackOverflow, fixing simple errors, and writing boilerplate code. Now the power of AI is available for JavaScript & Python devs!
+
+* https://www.honeycode.aws/
