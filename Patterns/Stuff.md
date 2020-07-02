@@ -12,9 +12,9 @@ Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modu
   * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
   * [AsyncAPI](https://www.asyncapi.com/)
   * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
-  * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
   * [Apps - GraphQL](GraphQL.md)  
-  * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
+  * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+  * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
    
 * [**Span Multiple Requests - Workflow**](Workflow.md)
       
