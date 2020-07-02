@@ -1,7 +1,7 @@
 # Design Heuristics
 We are changing architecture & technology stacks across all Businesses with a term **Cloud Native**. The current definition from [Cloud Native Computing Foundation](https://www.cncf.io/) is *Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.** These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.* 
 
-Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modular small units termed **Functions** & Compostion using **Workflows**.
+Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modular small units termed **Functions** & Compostion spanning multiple requests using **Workflows**.
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
 
@@ -10,7 +10,7 @@ Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modu
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
 * [APIs](../System/API.md)  
-* [**Span Multiple Requests - Workflow**](Workflow.md)
+* [**Workflow**](Workflow.md)
       
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
