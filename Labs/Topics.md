@@ -1,12 +1,10 @@
 # Architecture
 
-Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value
+**Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value**
 
-**1. DevOps** - https://itrevolution.com/
-
-**2. FinOps** - https://www.finops.org/
-
-**3. DevSecOps** - ?
+1. DevOps - https://itrevolution.com/
+2. FinOps - https://www.finops.org/
+3. DevSecOps - ?
 
 A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777), Model for Visualising - https://c4model.com/
 * https://github.com/michaelkeeling/saturn2019-architecture-island-workshop
@@ -24,6 +22,8 @@ Java/Spring
 * [GCP](https://cloud.spring.io/spring-cloud-gcp/reference/html/)
 
 # IDE
+
+https://www.gitpod.io/
 
 Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/):
 * Phase 1: Extensible frontend platform (Done ✅) 
