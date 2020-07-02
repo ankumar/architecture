@@ -9,13 +9,11 @@ Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modu
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
 
 ## 1. Software-Intensive:
-
-**Services -** 
-There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) [a system](https://queue.acm.org/detail.cfm?id=3395214) into [services](Modeling.md). As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
-
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
+**Services -** 
+There isn't a concrete, well-defined algorithm for [decomposing](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/) [a system](https://queue.acm.org/detail.cfm?id=3395214) into [services](Modeling.md). As with much of software development, it's something of an art. If you decompose a system incorrectly, we have a distributed monolith, a system consisting of coupled services that must be deployed together. A distributed monolith has the drawbacks of both the monolithic and the Microservices architectures.
 * **gRPC, OpenAPI & REST**:
   * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
   * [AsyncAPI](https://www.asyncapi.com/)
