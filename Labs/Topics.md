@@ -42,8 +42,8 @@ https://opentelemetry.io/about/
 * https://thanos.io/
 * https://cortexmetrics.io/
 
-* https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
-  * https://getnelson.io/
+https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
+* https://getnelson.io/
 
 # Microservices
 
