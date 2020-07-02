@@ -16,7 +16,7 @@ A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id
 # Cloud & Desktop IDE
 
 https://www.gitpod.io/
-* https://theia-ide.org/
+* https://theia-ide.org/ - At long last, with Eclipse Theia we have an open source "platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies". Theia is already used by Google Cloud, Eclipse Che and Gitpod.
 * https://shell.azure.com/
   * https://github.com/features/codespaces
 * https://ssh.cloud.google.com/
