@@ -9,6 +9,7 @@
 # Computing
 
 * From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
+* https://oxide.computer/blog/
 
 # API
 
