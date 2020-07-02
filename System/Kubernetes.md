@@ -1,5 +1,7 @@
 # Design Patterns
 
+The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
+
 * Design Documents
   * https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/architecture.md
   * https://github.com/kubernetes/enhancements/tree/master/keps
@@ -34,8 +36,6 @@
   * https://github.com/rberrelleza/crossplane-community-day-2020
 
 # Novel
-
-The reason why Kubernetes is popular is that it doesn't force you down a single path of getting things done, and it supports more workload types: **crontab, batch jobs, stateless and stateful workloads**. -- [Kelsey Hightower](https://www.infoq.com/podcasts/kubernetes-event-driven-architecture/)
 
 **Manage, [Planes - Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
