@@ -30,6 +30,7 @@ https://www.gitpod.io/
 [Java/Spring](https://www.infoq.com/news/2020/06/spring-boot-230-cloud/)
 * [Azure](https://azure.microsoft.com/en-us/services/spring-cloud/)
 * [GCP](https://cloud.spring.io/spring-cloud-gcp/reference/html/)
+* https://derkoe.dev/blog/beating-c-with-java/
 
 # Open Source
 
@@ -46,10 +47,6 @@ https://opentelemetry.io/about/
 
 https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
 * https://getnelson.io/
-
-# Microservices
-
-https://derkoe.dev/blog/beating-c-with-java/
 
 # Control Theory
 
