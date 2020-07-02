@@ -32,7 +32,7 @@ Spotify - Extending [Backstage, Open Source from Spotify](https://backstage.io/)
 
 [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
 
-Java/Spring
+[Java/Spring](https://www.infoq.com/news/2020/06/spring-boot-230-cloud/)
 * [Azure](https://azure.microsoft.com/en-us/services/spring-cloud/)
 * [GCP](https://cloud.spring.io/spring-cloud-gcp/reference/html/)
 
