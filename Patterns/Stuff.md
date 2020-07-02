@@ -4,8 +4,9 @@ We are modernizing architecture & technology stacks across all business with a t
 ![](../images/roofshots.png)
 <p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
 
-1. [Patterns](Design%20Patterns.md)
-2. **Functions & Workflows ...** <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
+Let's discuss about Design [Patterns](Design%20Patterns.md) before implementing modular units termed Functions & compostion of a program as a workflow.
+
+<img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
 
 ## 1. Software-Intensive:
 
