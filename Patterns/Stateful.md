@@ -57,6 +57,8 @@ https://docs.microsoft.com/en-us/dotnet/architecture/cloud-native/distributed-da
    * A network partition "over there" doesn't prevent us from offering both C and A "over here". 
    * **There is no open source implementation yet.**
    
+"the PACELC theorem .. states that in case of network partitioning (P) .. one has to choose between availability (A) and consistency (C) .. but else (E), even when the system is running normally .. one has to choose between latency (L) & consistency (C)." --https://en.wikipedia.org/wiki/PACELC_theorem
+
 **2. Data Consistency**
 
 **"In an “always-on” world, downtime is unacceptable, and developers were forced into handling the reduced consistency levels of scalable NoSQL systems" . 
