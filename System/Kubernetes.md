@@ -12,7 +12,7 @@
 * [What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
 * [10 must-know patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/) 
 
-# CI/CD
+# Cloud Based Development
 
 * https://cd.foundation/
   * https://tekton.dev/
