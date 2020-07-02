@@ -16,7 +16,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
-Funations:
+Functions:
 * **gRPC, OpenAPI & REST**:
   * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
   * [AsyncAPI](https://www.asyncapi.com/)
@@ -27,7 +27,7 @@ Funations:
   * [Apps - GraphQL](GraphQL.md)  
   * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)  
    
--> [Developer Workflows](Run.md)
+[Workflows](Run.md)
       
 ## 2. Data-Intensive:
 Data powers new innovations, improvements in customer experience, and efficiency. Small advantage in data and algorithms result in increased customers/business success which in turn results in more data. This virtuous cycle due to positive feedback loop amplifies a company's competitive advantage, making data one of the key ingredients in building companies that have Increasing Returns instead of commonly seen Decreasing Returns.
