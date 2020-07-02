@@ -41,3 +41,6 @@ https://github.com/open-telemetry/opentelemetry-specification
 
 [Unified/Multi-Model](http://www.mm-adt.org/)
 
+##
+
+[Glossary](Terminology.md)
