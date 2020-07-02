@@ -4,7 +4,7 @@ We are changing architecture & technology stacks across all Businesses with a te
 ![](../images/roofshots.png)
 <p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
 
-Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modular smallest units termed **Functions** & Compostion using **Workflows**.
+Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modular small units termed **Functions** & Compostion using **Workflows**.
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
 
