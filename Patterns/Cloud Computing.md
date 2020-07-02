@@ -70,7 +70,7 @@ Programs are optimized for managing [cross-cutting concerns](https://dl.acm.org/
 **Backend - Holistic approach**
 
 * https://ballerina.io/
-* [Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2)
+* [Dark](https://medium.com/darklang/the-design-of-dark-59f5d38e52d2) - Dark is a programming language and platform that enables building serverless backends. There’s no infra, framework or deployment nightmares. It’s a new paradigm in software delivery.
 
 Tehnology Radar - https://www.thoughtworks.com/radar/platforms
 * https://www.thoughtworks.com/radar/platforms/knative
