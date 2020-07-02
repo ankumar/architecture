@@ -22,4 +22,4 @@
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
 
--> [**Coding**](Patterns/Stuff.md)
+-> [**Code**](Patterns/Stuff.md)
