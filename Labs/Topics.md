@@ -13,14 +13,6 @@ A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id
 * https://github.com/lorin/resilience-engineering
 * https://github.com/wso2/reference-architecture
 
-# Frameworks
-
-[A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
-
-Java/Spring
-* [Azure](https://azure.microsoft.com/en-us/services/spring-cloud/)
-* [GCP](https://cloud.spring.io/spring-cloud-gcp/reference/html/)
-
 # IDE
 
 https://www.gitpod.io/
@@ -39,6 +31,14 @@ https://ssh.cloud.google.com/
 https://aws.amazon.com/cloud9/
 
 https://theia-ide.org/
+
+# Frameworks
+
+[A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
+
+Java/Spring
+* [Azure](https://azure.microsoft.com/en-us/services/spring-cloud/)
+* [GCP](https://cloud.spring.io/spring-cloud-gcp/reference/html/)
 
 # Open Source
 https://opentelemetry.io/about/
