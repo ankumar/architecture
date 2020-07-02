@@ -5,9 +5,6 @@ Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modu
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
 
-![](../images/roofshots.png)
-<p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
-
 ## 1. Software-Intensive:
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
