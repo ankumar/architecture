@@ -1,4 +1,4 @@
-# System - Design Heuristics
+# Design Heuristics
 We are changing architecture & technology stacks across all Businesses with a term **Cloud Native**. The current definition from [Cloud Native Computing Foundation](https://www.cncf.io/) is *Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.** These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.* 
 
 Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modular small units termed **Functions** & Compostion using **Workflows**.
