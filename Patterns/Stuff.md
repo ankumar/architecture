@@ -8,8 +8,6 @@ Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modu
 ## 1. Software-Intensive:
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
-
-* **Single - gRPC, OpenAPI & REST**:
   * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
   * [AsyncAPI](https://www.asyncapi.com/)
   * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
