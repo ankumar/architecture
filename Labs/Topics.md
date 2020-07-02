@@ -13,7 +13,7 @@ A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id
 * https://github.com/lorin/resilience-engineering
 * https://github.com/wso2/reference-architecture
 
-# IDE
+# Cloud & Desktop IDE
 
 https://www.gitpod.io/
 * https://theia-ide.org/
