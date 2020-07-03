@@ -11,7 +11,9 @@ Two bits of knowledge are needed at the beginning of the design process:
 
 # Blueprints
 
-* [The “4+1” View Model of Software Architecture](https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)
+* A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
+  * [C4 Model](https://c4model.com/)
+  * [The “4+1” View Model of Software Architecture](https://www.cs.ubc.ca/~gregor/teaching/papers/4+1view-architecture.pdf)
 
 # Boundaries - Balancing Coupling in Distributed Systems
 
