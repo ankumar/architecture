@@ -14,7 +14,7 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 * [What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
 * [10 must-know patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/) 
 
-# Novel
+# 
 
 **Manage, [Planes - Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
 
