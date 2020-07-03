@@ -46,8 +46,8 @@ https://opentelemetry.io/about/
 * https://cortexmetrics.io/
 
 https://opencontainers.org/
-* https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
 * https://getnelson.io/
+* https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
 
 # Distributed Systems
 
