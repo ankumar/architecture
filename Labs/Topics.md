@@ -6,7 +6,6 @@
 2. Fin + Ops - https://www.finops.org/
 3. Dev + Sec + Ops - ?
 
-A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777), for Visualising - https://c4model.com/
 * https://github.com/michaelkeeling/saturn2019-architecture-island-workshop
 * https://github.com/awslabs/aws-well-architected-labs
 * https://github.com/binhnguyennus/awesome-scalability
