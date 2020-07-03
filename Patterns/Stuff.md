@@ -3,7 +3,7 @@ We are changing architecture & technology stacks across all Businesses with a te
 
 Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modular small units termed **Functions** & Compostion spanning multiple requests using **Workflows**.
 
-* [APIs](../System/API.md)  
+* [Functions](../System/API.md)  
 * [Workflows](Workflows.md)
 
 <img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
