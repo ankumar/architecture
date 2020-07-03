@@ -9,7 +9,6 @@ Let's look at [Design & Patterns](Design%20Patterns.md), implementations as modu
 * [Functions](../System/API.md)  
 * [Workflows](Workflows.md)
 
-<img src="https://abs-0.twimg.com/emoji/v2/svg/1f447-1f3fd.svg" alt="" width="28" height="28">
 
 
 
