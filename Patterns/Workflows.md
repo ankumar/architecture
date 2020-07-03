@@ -1,4 +1,4 @@
-**Microservices** - A distributed architecture, **"Always keep in mind that you create a highly distributed system with all its disadvantages."**
+## **Microservices** - A distributed architecture, **"Always keep in mind that you create a highly distributed system with all its disadvantages."**
 
 * https://github.com/aws-samples/aws-step-functions-long-lived-transactions
 * https://www.temporal.io/
@@ -6,7 +6,7 @@
 
 ---
 
-**Learning Systems** - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
+## **Learning Systems** - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 * [Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
 * [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
 
@@ -18,7 +18,7 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 
 ---
 
-**Dev + Sec + Fin + Ops** - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
+## **Dev + Sec + Fin + Ops** - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
 
 * https://relay.sh/workflows/
 
