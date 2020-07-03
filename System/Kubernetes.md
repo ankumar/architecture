@@ -14,27 +14,6 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 * [What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
 * [10 must-know patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/) 
 
-# Cloud Based Development
-
-* https://cd.foundation/
-  * https://tekton.dev/
-  * https://relay.sh/
-    * https://relay.sh/blog/user-defined-webhooks-with-knative-and-ambassador/
-  * https://github.com/argoproj/gitops-engine
-    * https://argoproj.github.io/argo-cd/  
-  
-* [GoogleContainerTools](https://github.com/GoogleContainerTools)
-  * https://skaffold.dev/
-  * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
-
-* https://devcenter.heroku.com/articles/buildpacks
-  * https://buildpacks.io/
-    
-* https://okteto.com/
-
-* https://upbound.io/
-  * https://github.com/rberrelleza/crossplane-community-day-2020
-
 # Novel
 
 **Manage, [Planes - Control & Data](http://brooker.co.za/blog/2019/03/17/control.html)**
