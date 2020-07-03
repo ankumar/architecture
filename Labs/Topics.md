@@ -39,6 +39,11 @@ https://www.gitpod.io/
 * Phase 2: [Manage your stuff](https://backstage.io/blog/2020/05/22/phase-2-service-catalog) (**current focus**)
 * Phase 3: Ecosystem (later) 
 
+https://relay.sh/
+* https://relay.sh/blog/user-defined-webhooks-with-knative-and-ambassador/
+* https://github.com/argoproj/gitops-engine
+  * https://argoproj.github.io/argo-cd/  
+
 https://opentelemetry.io/about/
 * https://prometheus.io/
 * https://promlabs.com/
@@ -48,6 +53,21 @@ https://opentelemetry.io/about/
 https://opencontainers.org/
 * https://getnelson.io/
 * https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/
+
+https://cd.foundation/
+* https://tekton.dev/
+  
+* https://devcenter.heroku.com/articles/buildpacks
+  * https://buildpacks.io/
+    
+* https://okteto.com/
+
+* https://upbound.io/
+  * https://github.com/rberrelleza/crossplane-community-day-2020
+
+* [GoogleContainerTools](https://github.com/GoogleContainerTools)
+  * https://skaffold.dev/
+  * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
 
 # Distributed Systems
 
