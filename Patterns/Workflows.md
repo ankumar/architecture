@@ -1,4 +1,4 @@
-**Microservices** - A distributed architecture, **"Always keep in mind that you create a highly distributed system with all its disadvantages"**
+**Microservices** - A distributed architecture, **"Always keep in mind that you create a highly distributed system with all its disadvantages."**
 
 * https://github.com/aws-samples/aws-step-functions-long-lived-transactions
 * https://www.temporal.io/
@@ -18,7 +18,7 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 
 ---
 
-**Dev + Sec + Fin + Ops** - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value
+**Dev + Sec + Fin + Ops** - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
 
 * https://relay.sh/workflows/
 
