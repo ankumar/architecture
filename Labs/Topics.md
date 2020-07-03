@@ -2,9 +2,9 @@
 
 **Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value**
 
-1. DevOps - https://itrevolution.com/
-2. FinOps - https://www.finops.org/
-3. DevSecOps - ?
+1. Dev + Ops - https://itrevolution.com/
+2. Fin + Ops - https://www.finops.org/
+3. Dev + Sec + Ops - ?
 
 A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777), for Visualising - https://c4model.com/
 * https://github.com/michaelkeeling/saturn2019-architecture-island-workshop
