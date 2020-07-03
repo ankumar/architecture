@@ -10,7 +10,7 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 
 ---
 
-**Microservices** - A distributed architecture
+**Microservices** - A distributed architecture, **"Always keep in mind that you create a highly distributed system with all its disadvantages"**
 
 * https://github.com/aws-samples/aws-step-functions-long-lived-transactions
 * https://www.temporal.io/
