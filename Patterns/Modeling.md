@@ -11,7 +11,7 @@ Two bits of knowledge are needed at the beginning of the design process:
 
 # Blueprints
 
-* A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
+A Model - ["Above the Line, Below the Line"](https://queue.acm.org/detail.cfm?id=3380777)
 - System Context diagram
 - Container diagram
 - Deployment diagram(s)
