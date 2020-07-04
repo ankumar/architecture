@@ -11,6 +11,17 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
   * Object model - https://kubernetes.io/docs/concepts/overview/working-with-objects/kubernetes-objects/
   * Message model - [gRPC](https://grpc.io/docs/what-is-grpc/core-concepts/)
   * Data model - [etcd](https://etcd.io/) Key / Value
+
+---
+
+**Native**
+1, Cloud IDE - https://www.gitpod.io/
+2. 
+
+
+
+---
+
 * [What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
 * [10 must-know patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/) 
 
