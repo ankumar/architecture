@@ -90,7 +90,9 @@ Azure is launching Dapr a Open Source portable runtime for building applications
   
 * **Scheduler** - Smart Schedulers on top of an orchestrator with tasks encapsulated & labelled
   * [Green Scheduler](https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/)
-
+  
+* [What happens when I type kubectl run?](https://github.com/jamiehannaford/what-happens-when-k8s)
+* [10 must-know patterns](https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/2901820597/) 
 
 **Frontend**
 
