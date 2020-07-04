@@ -20,6 +20,8 @@
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
 
+-- https://twitter.com/mjasay
+
 1. [Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
 2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 3. [**Systems of systems**](Patterns/Stuff.md)
