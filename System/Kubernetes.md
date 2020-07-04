@@ -15,7 +15,7 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 ---
 
 **Native**
-1, Cloud IDE - https://www.gitpod.io/
+1. Cloud IDE - https://www.gitpod.io/
 2. 
 
 
