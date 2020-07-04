@@ -2,9 +2,7 @@
 
 **Workspaces**
 
-<>
-
-**Demo Apps:** Languages **Node, Java, Python, .NET, Go, ...** & Frameworks
+Languages & Frameworks - **Node, Java, Python, .NET, Go, ...** 
 1. [Microservices](../Patterns/microservices-demo.md)
 2. ...
 
