@@ -1,6 +1,6 @@
-## Architecture & Code
+## Workspaces
 
-**Workspaces, Languages & Frameworks - Node, Java, Python, .NET, Go, ...** 
+**Languages & Frameworks - Node, Java, Python, .NET, Go, ...** 
 
 1. [Microservices](../Patterns/microservices-demo.md)
 2. ...
