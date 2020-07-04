@@ -17,6 +17,7 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 1. Cloud IDE - https://www.gitpod.io/
 2. CI/CD - https://tekton.dev
 3. Serverless - https://knative.dev/
+4. State - https://cloudstate.io/
 
 ---
 
