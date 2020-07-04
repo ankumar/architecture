@@ -33,6 +33,18 @@ https://www.gitpod.io/
 * [GCP](https://cloud.spring.io/spring-cloud-gcp/reference/html/)
 * https://derkoe.dev/blog/beating-c-with-java/
 
+# Distributed Systems
+
+[Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+
+* https://github.com/aphyr/distsys-class
+
+* https://www.the-paper-trail.org/
+
+# Control Theory
+
+https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
+
 # Open Source
 
 [Backstage from Spotify](https://backstage.io/) is an open platform for building developer portals
@@ -71,16 +83,5 @@ https://cd.foundation/
   * https://skaffold.dev/
   * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
 
-# Distributed Systems
-
-[Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
-
-* https://github.com/aphyr/distsys-class
-
-* https://www.the-paper-trail.org/
-
-# Control Theory
-
-https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
 
 
