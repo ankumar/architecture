@@ -15,12 +15,12 @@
 
 1. [**Resources, diversity and inclusiveness**](https://github.com/jamiehannaford/diversity)
 2. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
-3. [Reversible & Irreversible Decisions](https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm)
-4. [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
-5. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+3. [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+4. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
 
-1. [Systems of systems](Patterns/Stuff.md)
+1. [Reversible & Irreversible Decisions](https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm)
+2. [Systems of systems](Patterns/Stuff.md)
 2. ...
