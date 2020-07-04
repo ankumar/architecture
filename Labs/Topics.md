@@ -13,6 +13,7 @@
 * https://github.com/binhnguyennus/awesome-scalability
 * https://github.com/lorin/resilience-engineering
 * https://github.com/wso2/reference-architecture
+* https://ruthmalan.com/Journal/2019/201902OReillySAConPresentationPartI.htm
 
 # Languages & Frameworks
 
