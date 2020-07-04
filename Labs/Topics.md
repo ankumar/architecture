@@ -14,16 +14,6 @@
 * https://github.com/lorin/resilience-engineering
 * https://github.com/wso2/reference-architecture
 
-# Cloud & Desktop IDE
-
-https://www.gitpod.io/
-* https://theia-ide.org/ - At long last, with Eclipse Theia we have an open source "platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies". Theia is already used by Google Cloud, Eclipse Che and Gitpod.
-* https://shell.azure.com/
-  * https://github.com/features/codespaces
-* https://ssh.cloud.google.com/
-  * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
-* https://aws.amazon.com/cloud9/
-
 # Languages & Frameworks
 
 [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/aws-samples/kubernetes-for-java-developers/blob/master/readme.adoc)
@@ -44,6 +34,16 @@ https://www.gitpod.io/
 # Control Theory
 
 https://gianarb.it/blog/control-theory-is-dope; https://fauna.com/blog/control-theory-for-fun-and-profit
+
+# Cloud & Desktop IDE
+
+https://www.gitpod.io/
+* https://theia-ide.org/ - At long last, with Eclipse Theia we have an open source "platform to develop multi-language Cloud & Desktop IDEs with state-of-the-art web technologies". Theia is already used by Google Cloud, Eclipse Che and Gitpod.
+* https://shell.azure.com/
+  * https://github.com/features/codespaces
+* https://ssh.cloud.google.com/
+  * [GCP - Cloud Shell](https://cloud.google.com/blog/products/gcp/introducing-google-cloud-shels-new-code-editor)
+* https://aws.amazon.com/cloud9/
 
 # Open Source
 
