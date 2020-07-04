@@ -44,4 +44,4 @@ https://github.com/open-telemetry/opentelemetry-specification
 
 ##
 
-[Glossary](Terminology.md)
+[Glossary](../Patterns/Terminology.md)
