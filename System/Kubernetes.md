@@ -14,11 +14,10 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 
 ---
 
-**Native**
+**Native, Examples**
 1. Cloud IDE - https://www.gitpod.io/
-2. 
-
-
+2. CI/CD - https://tekton.dev
+3. 
 
 ---
 
