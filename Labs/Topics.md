@@ -83,6 +83,11 @@ https://cd.foundation/
 * [GoogleContainerTools](https://github.com/GoogleContainerTools)
   * https://skaffold.dev/
   * https://github.com/GoogleCloudPlatform/cloud-run-button#add-the-cloud-run-button-to-your-repos-readme
+  
+* https://github.com/aws-samples/aws-step-functions-long-lived-transactions
+  * https://www.temporal.io/
+  * https://cadenceworkflow.io/
+
 
 
 
