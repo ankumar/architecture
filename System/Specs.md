@@ -38,9 +38,6 @@ https://github.com/compose-spec/compose-spec
 ## Telemetry
 https://github.com/open-telemetry/opentelemetry-specification
 
-## Novel
-
-[Unified/Multi-Model](http://www.mm-adt.org/)
 
 ##
 
