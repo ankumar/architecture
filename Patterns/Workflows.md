@@ -1,4 +1,4 @@
-## **Microservices** - A distributed architecture, **"Always keep in mind that you create a highly distributed system with all its disadvantages."**
+## **Microservices** - A distributed architecture
 
 </>
 
