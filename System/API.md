@@ -14,7 +14,7 @@
   
 ---
 
-* **Landscape** - https://www.apidays.co/api-landscape/
+**Landscape** - https://www.apidays.co/api-landscape/
 
 * Google APIs
   * https://cloud.google.com/apis/design
