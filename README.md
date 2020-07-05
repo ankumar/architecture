@@ -13,9 +13,9 @@
 
 -- [Simon Wardley](https://twitter.com/swardley)
 
-1. [**Resources, diversity and inclusiveness**](https://github.com/jamiehannaford/diversity)
-2. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
-3. [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
+2. [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
+3. [**Resources, diversity and inclusiveness**](https://github.com/jamiehannaford/diversity)
 
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
