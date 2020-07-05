@@ -1,8 +1,6 @@
 ## **Microservices** - A distributed architecture, **"Always keep in mind that you create a highly distributed system with all its disadvantages."**
 
-* https://github.com/aws-samples/aws-step-functions-long-lived-transactions
-* https://www.temporal.io/
-* https://cadenceworkflow.io/
+</>
 
 ## **Learning Systems** - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 * [Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
