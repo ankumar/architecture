@@ -12,7 +12,6 @@
   * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
   * [Apps - GraphQL](../Patterns/GraphQL.md)  
   * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
-  * [Infra - Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
   * [AsyncAPI](https://www.asyncapi.com/)
   
 ---
@@ -20,3 +19,5 @@
 * Google APIs
   * https://cloud.google.com/apis/design
   * https://github.com/googleapis
+  
+* [Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
