@@ -1,14 +1,13 @@
 
-  
+ ## Containers
+
 [Buildpacks](https://github.com/buildpacks/spec)
 
-[Service Mesh](https://github.com/servicemeshinterface/smi-spec)
-
-
-## Containers
-
 https://github.com/opencontainers
+
 https://github.com/compose-spec/compose-spec
+
+[Service Mesh](https://github.com/servicemeshinterface/smi-spec)
 
 ## Java
 
