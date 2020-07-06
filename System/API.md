@@ -4,18 +4,14 @@
 * https://www.alibabacloud.com/blog/api-design-best-practices-by-alibaba-researcher-gu-pu_594784
   
 ---
-
-  * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
-    * [K8S OpenAPI specification](https://github.com/kubernetes/kubernetes/tree/master/api/openapi-spec)
-  
-  * [Apps - GraphQL](../Patterns/GraphQL.md)  
-  
-  * [AsyncAPI](https://www.asyncapi.com/)
-  
----
-
 **Landscape** - https://www.apidays.co/api-landscape/
-
+* [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+  * [K8S OpenAPI specification](https://github.com/kubernetes/kubernetes/tree/master/api/openapi-spec)
+  
+* [Apps - GraphQL](../Patterns/GraphQL.md)  
+  
+* [AsyncAPI](https://www.asyncapi.com/)
+  
 * Google APIs
   * https://cloud.google.com/apis/design
   * https://github.com/googleapis
