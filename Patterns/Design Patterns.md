@@ -9,10 +9,6 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
 ##
 
-[The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
-
-##
-
 [Specifications](../System/Specs.md)
 
 ##
