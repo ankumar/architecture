@@ -1,9 +1,3 @@
-Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
-**Hiding Infrastructure & Focus on applications Patterns...** 
-
-![](../images/roofshots.png)
-<p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
-
 [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
 [Hints and principles for computer system design](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Hints-137-short.pdf)
