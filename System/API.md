@@ -24,7 +24,7 @@
 * [API Management ](https://cloud.google.com/apigee/api-management)
   * https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
   
-* API products
+* API Products
   * [Twilio](https://www.twilio.com/docs/api)
   * Transactions
     * [Payments](https://stripe.com/docs/api)
