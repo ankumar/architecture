@@ -4,6 +4,12 @@
 * https://www.alibabacloud.com/blog/api-design-best-practices-by-alibaba-researcher-gu-pu_594784
   
 ---
+
+# Products
+
+* [Payments](https://stripe.com/)
+
+---
 **Landscape** - https://www.apidays.co/api-landscape/
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
 
