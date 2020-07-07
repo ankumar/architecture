@@ -26,6 +26,7 @@
   
 * Products
   * [Twilio](https://www.twilio.com/docs/api)
-  * [Shopify](https://shopify.dev/concepts/shopify-introduction)
   * [Payments](https://stripe.com/docs/api)
-  * [Commerce](https://developers.facebook.com/docs/commerce-platform)
+  * Commerce
+    * [Shopify](https://shopify.dev/concepts/shopify-introduction)
+    * [Facebook](https://developers.facebook.com/docs/commerce-platform)
