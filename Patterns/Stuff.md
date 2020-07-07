@@ -1,6 +1,6 @@
 # Design Heuristics
 ![](../images/APIs.jpeg)
-<p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
+<p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." --[**Principles**](http://www.poppendieck.com/) </b> </p>
 
 We are changing architecture & technology stacks across all Businesses with a term **Cloud Native**. The current definition from [Cloud Native Computing Foundation](https://www.cncf.io/)
 
