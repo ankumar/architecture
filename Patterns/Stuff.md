@@ -8,7 +8,7 @@ We are changing architecture & technology stacks across all Businesses with a te
 
 Let's look at [Design Patterns](Design%20Patterns.md) & implementations as modular small units termed **"Functions"** & compostion spanning multiple requests using **Workflows** & Integrations.
 
-* [Functions](../System/API.md)  
+* ["Functions"](../System/API.md)  
 * [Workflows](Workflows.md)
 
 
