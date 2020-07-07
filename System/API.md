@@ -7,7 +7,7 @@
 
 # Products
 
-* [Payments](https://stripe.com/)
+* [Payments](https://stripe.com/docs/api)
 
 ---
 **Landscape** - https://www.apidays.co/api-landscape/
