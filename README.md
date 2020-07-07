@@ -15,7 +15,7 @@
 
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Resources, diversity and inclusiveness](https://github.com/jamiehannaford/diversity)
-3. [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [The Future of Software Engineering - Mary Poppendieck](https://www.youtube.com/watch?v=6K4ljFZWgW8)
+3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 
 
 
