@@ -37,6 +37,8 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
 [Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
 
+* https://github.com/p0lyn0mial/awesome-distributed-systems
+
 * https://github.com/aphyr/distsys-class
 
 * https://www.the-paper-trail.org/
