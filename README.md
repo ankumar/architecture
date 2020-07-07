@@ -16,6 +16,7 @@
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Shipping Org Chart](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/)
 3. [**Resources, diversity and inclusiveness**](https://github.com/jamiehannaford/diversity)
+4. [**Principles**](http://www.poppendieck.com/)
 
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
