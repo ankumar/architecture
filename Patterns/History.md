@@ -11,6 +11,10 @@
 * From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
 * https://oxide.computer/blog/
 
+# Great Architecture
+
+* Mary Poppendieck - https://learning.oreilly.com/videos/oreilly-software-architecture/0636920333777/0636920333777-video329478
+
 # API
 
 * A Brief, Incomplete, and Mostly Wrong History of Programming Languages - http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html
