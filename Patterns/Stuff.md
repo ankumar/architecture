@@ -8,6 +8,7 @@ We are changing architecture & technology stacks across all Businesses with a te
 
 Let's look at [Design Patterns](Design%20Patterns.md), Implementations as single request/reply API's & compostions spanning multiple requests using **Workflows** & Integrations.
 
+* [**Principles**](http://www.poppendieck.com/)
 * [API's](../System/API.md)  
 * [Workflows](Workflows.md)
 
