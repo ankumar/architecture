@@ -1,5 +1,8 @@
 # Design 
 
+![](../images/APIs.jpeg)
+<p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
+
 * https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md
 * https://www.alibabacloud.com/blog/api-design-best-practices-by-alibaba-researcher-gu-pu_594784
   
