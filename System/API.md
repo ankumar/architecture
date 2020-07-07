@@ -5,13 +5,6 @@
   
 ---
 
-# Products
-
-* [Twilio](https://www.twilio.com/docs/api)
-* [Shopify](https://shopify.dev/concepts/shopify-introduction)
-* [Payments](https://stripe.com/docs/api)
-
----
 **Landscape** - https://www.apidays.co/api-landscape/
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
 
@@ -29,3 +22,8 @@
 * [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
 
 * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
+
+* API Products
+  * [Twilio](https://www.twilio.com/docs/api)
+  * [Shopify](https://shopify.dev/concepts/shopify-introduction)
+  * [Payments](https://stripe.com/docs/api)
