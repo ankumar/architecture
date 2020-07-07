@@ -19,7 +19,8 @@
 * [Kubernetes Style](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
   * [K8S OpenAPI specification](https://github.com/kubernetes/kubernetes/tree/master/api/openapi-spec)
 
-* [API Management](https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them)
+* [API Management ](https://cloud.google.com/apigee/api-management)
+  * https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
 
 * RPC-Style, Ex: [Slack's API](https://api.slack.com/web)
 
