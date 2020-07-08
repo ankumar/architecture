@@ -25,6 +25,5 @@
 -- https://twitter.com/mjasay
 
 1. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
-2. [Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
-3. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
-4. [**Systems of systems**](Patterns/Stuff.md)
+2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+3. [**Systems of systems**](Patterns/Stuff.md)
