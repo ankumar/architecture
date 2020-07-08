@@ -6,6 +6,7 @@ Looking Ahead, we are changing architecture & technology stacks across all busin
 
 Let's look at [**Principles**](http://www.poppendieck.com/) & [**Design Patterns**](Design%20Patterns.md), Implementations from **API's** to compostion spanning multiple requests using **Workflows** & **Integrations**.
 
+* [Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
 * [API's](../System/API.md)  
 * [Workflows](Workflows.md)
 
