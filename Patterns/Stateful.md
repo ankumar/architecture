@@ -16,7 +16,7 @@ A Formal Definition ...
 ![](../images/stateful.jpeg)
 -- [Cindy Sridharan](https://twitter.com/copyconstruct)
 
-4. [CNCF Storage Landscape](http://bit.ly/cncf-storage-whitepaper)
+4. [CNCF Storage Landscape - White Paper](http://bit.ly/cncf-storage-whitepaper)
 
 ## Application Data
 
