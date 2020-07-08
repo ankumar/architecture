@@ -1,6 +1,6 @@
 # Design Heuristics
 
-Looking Ahead, we are changing architecture & technology stacks across all businesses with a term **Cloud Native**. The current definition from [Cloud Native Computing Foundation](https://www.cncf.io/) around Cloud Native Technology ...
+Businesses across Retail, Finance, Health, Education etc. are transforming Architecture & Technology stacks across around Cloud Technologies. The architecture is being developed in vendor neutral open source communities led by [Cloud Native Computing Foundation](https://www.cncf.io/).
 
 *Cloud Native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.** These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.* 
 
