@@ -4,7 +4,7 @@ Businesses across Retail, Finance, Health, Education etc. are transforming Archi
 
 *Cloud Native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. **Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.** These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.* 
 
-Let's look at some interesting [**Principles**](http://www.poppendieck.com/) & [**Design Patterns**](Design%20Patterns.md), Implementations as **API's** designed as [microservices and functions](http://bit.ly/9stepsawesome) to compostion spanning multiple requests using **Workflows** & **Integrations**.
+Let's look at some interesting [**Principles**](http://www.poppendieck.com/) & [**Design Patterns**](Design%20Patterns.md), Implementations **API's** designed as [microservices and functions](http://bit.ly/9stepsawesome) to composability spanning multiple requests using **Workflows** & **Integrations**.
 
 [Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
 * [API's](../System/API.md)  
