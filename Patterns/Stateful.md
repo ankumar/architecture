@@ -16,6 +16,8 @@ A Formal Definition ...
 ![](../images/stateful.jpeg)
 -- [Cindy Sridharan](https://twitter.com/copyconstruct)
 
+4. [CNCF Storage Landscape](http://bit.ly/cncf-storage-whitepaper)
+
 ## Application Data
 
 **1. Data modeling** - typically needs to happen on (at least) two levels:
