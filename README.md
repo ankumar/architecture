@@ -6,7 +6,7 @@ This project started with this Twitter https://twitter.com/Werner/status/1169979
 
 **in one tweet? 1) if you want to be a VP of Engineering focus on teams and people and how to make them succesfull 2) wanna be a CTO? Simplify.  Focus on the business, what is the simplest, most robust Tech/Ops that makes the business succeed."**
 
- I shared this internally within the company & was quite surprised with People at every level relating, liking & reacting to this exchange. This literally started the journey around 2 Takeaways in the exchange.
+ I shared this internally to select teams within the company & was quite surprised with People at every level relating, liking & reacting to this exchange. This literally started the journey around 2 Takeaways in the exchange.
 
 1. Framing & Asking the right question.
 2. Finding the right Answer is **Process, Perspectives, Wisdom & Sharing**, especially shared Generosity from the Tech community.
