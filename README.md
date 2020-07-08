@@ -9,7 +9,7 @@ This project started with this Twitter https://twitter.com/Werner/status/1169979
  I shared this internally within the company & was quite surprised with People at every level relating, liking & reacting to this exchange. This literally started the journey around 2 Takeaways in the exchange.
 
 1. Framing & Asking the right question.
-2. Finding the right Answer is **Process, Perspectives, Wisdom & Sharing**, especially shared Generosity from Tech community.
+2. Finding the right Answer is **Process, Perspectives, Wisdom & Sharing**, especially shared Generosity from the Tech community.
 
 -- 
 
