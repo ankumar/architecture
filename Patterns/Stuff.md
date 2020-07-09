@@ -2,7 +2,7 @@
 
 Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment are Transforming, Modernizing & Updating **Architecture & Technology Stacks** around Cloud Technologies. The architecture is being developed in a vendor neutral & open governance model driven by open source communities under [Cloud Native Computing Foundation](https://www.cncf.io/) & other [organizations](https://opensource.com/resources/organizations). The changes are mostl likely going to be accelerated due to COVID.
 
-[A Definition](https://github.com/cncf/toc/blob/master/DEFINITION.md) ...
+[A Definition](https://github.com/cncf/landscape) ...
 
 ***Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.***
 
