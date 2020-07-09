@@ -14,7 +14,10 @@
 * [gRPC](https://grpc.io/)
 * [Apps - GraphQL](../Patterns/GraphQL.md)  
 * [AsyncAPI](https://www.asyncapi.com/)
+* [oDATA](https://www.odata.org/)
+* [RAML](https://raml.org/)
 * [JSON Schema](https://json-schema.org/)
+* [API Blueprint](https://apiblueprint.org/)
 
 **API Products**
   * [Twilio](https://www.twilio.com/docs/api)
