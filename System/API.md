@@ -8,7 +8,7 @@
   
 ---
 
-API specifications & standards
+**API specifications & standards**
 
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
 * [gRPC](https://grpc.io/)
@@ -16,16 +16,16 @@ API specifications & standards
 * [AsyncAPI](https://www.asyncapi.com/)
 * [JSON Schema](https://json-schema.org/)
 
-API Products
+**API Products**
   * [Twilio](https://www.twilio.com/docs/api)
-  * **Transactions**
+  * Transactions
     * [Payments](https://stripe.com/docs/api)
     * Fulfillment
-  * **Commerce, Full Stack**
+  * Commerce, Full Stack
     * [Shopify](https://shopify.dev/concepts/shopify-introduction)
     * [Facebook](https://developers.facebook.com/docs/commerce-platform)
 
-Landscape - https://www.apidays.co/api-landscape/
+**Landscape** - https://www.apidays.co/api-landscape/
 * Google APIs
   * https://cloud.google.com/apis/design
   * https://github.com/googleapis
