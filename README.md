@@ -9,7 +9,7 @@ This project started with this Twitter thread https://twitter.com/Werner/status/
  I shared this internally to select Teams within the company & was quite surprised with people at every level relating, liking & reacting to this exchange. This literally started the journey around working on take-aways in the exchange.
 
 1. Framing & Asking the right question.
-2. Finding Answers is a **Process, Learning Perspectives, Wisdom & Sharing**, especially Generosity from the Tech community.
+2. Finding Answers is a **Process, Learning Perspectives, Wisdom & Sharing**, especially from the Generosity of large tech community.
 
 -- 
 
