@@ -6,9 +6,9 @@ Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment 
 
 **Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. Containers, service meshes, microservices, immutable infrastructure, and declarative APIs exemplify this approach.**
 
-These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.
+**These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.**
 
-The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.** 
+**The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.** 
 
 Let's look at some interesting [**Principles**](http://www.poppendieck.com/) & [**Design Patterns**](Design%20Patterns.md), Implementations **API's** designed as [microservices and functions](http://bit.ly/9stepsawesome) to composability spanning multiple requests using **Workflows** & **Integrations**.
 
