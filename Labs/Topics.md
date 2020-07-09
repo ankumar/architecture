@@ -43,6 +43,8 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
 * https://www.the-paper-trail.org/
 
+* https://www.slideshare.net/paulszulc/impossibility
+
 1. [Serverless](../System/Serverless.md)
 2. [Databases](../System/Databases.md)
 3. [Kubernetes](../System/Kubernetes.md)
