@@ -4,9 +4,9 @@
 Platform is a perspective, Serving customers ... **"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
 **Hiding Infrastructure & Focus on applications Patterns...** 
 
-## **Microservices** - A distributed architecture
+## **Microservices** - </>
 
-</>
+[Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
 ## **Learning Systems** - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 * [Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
