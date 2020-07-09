@@ -8,13 +8,22 @@
   
 ---
 
-**Landscape** - https://www.apidays.co/api-landscape/
-* [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+API specifications & standards
 
+* [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
 * [Apps - GraphQL](../Patterns/GraphQL.md)  
-  
 * [AsyncAPI](https://www.asyncapi.com/)
-  
+
+API Products
+  * [Twilio](https://www.twilio.com/docs/api)
+  * **Transactions**
+    * [Payments](https://stripe.com/docs/api)
+    * Fulfillment
+  * **Commerce, Full Stack**
+    * [Shopify](https://shopify.dev/concepts/shopify-introduction)
+    * [Facebook](https://developers.facebook.com/docs/commerce-platform)
+
+Landscape - https://www.apidays.co/api-landscape/
 * Google APIs
   * https://cloud.google.com/apis/design
   * https://github.com/googleapis
@@ -27,11 +36,4 @@
 * [API Management ](https://cloud.google.com/apigee/api-management)
   * https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
   
-* API Products
-  * [Twilio](https://www.twilio.com/docs/api)
-  * **Transactions**
-    * [Payments](https://stripe.com/docs/api)
-    * Fulfillment
-  * **Commerce, Full Stack**
-    * [Shopify](https://shopify.dev/concepts/shopify-introduction)
-    * [Facebook](https://developers.facebook.com/docs/commerce-platform)
+
