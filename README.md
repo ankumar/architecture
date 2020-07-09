@@ -1,6 +1,6 @@
 ## 1. Technology & Business
 
-This project started with this Twitter thread https://twitter.com/Werner/status/1169979140784525312
+This project started after this Twitter thread https://twitter.com/Werner/status/1169979140784525312
 
 **"Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.**
 
