@@ -1,15 +1,15 @@
 ## 1. Technology & Business
 
-This project started with this Twitter https://twitter.com/Werner/status/1169979140784525312 thread.
+This project started with this Twitter thread https://twitter.com/Werner/status/1169979140784525312
 
 **"Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.**
 
 **in one tweet? 1) if you want to be a VP of Engineering focus on teams and people and how to make them succesfull 2) wanna be a CTO? Simplify.  Focus on the business, what is the simplest, most robust Tech/Ops that makes the business succeed."**
 
- I shared this internally to select teams within the company & was quite surprised with People at every level relating, liking & reacting to this exchange. This literally started the journey around take-aways in the exchange.
+ I shared this internally to select Teams within the company & was quite surprised with people at every level relating, liking & reacting to this exchange. This literally started the journey around working on take-aways in the exchange.
 
 1. Framing & Asking the right question.
-2. Finding Answers is **Process, Perspectives, Wisdom & Sharing**, especially shared Generosity from the Tech community.
+2. Finding Answers is a **Process, Learning Perspectives, Wisdom & Sharing**, especially Generosity from the Tech community.
 
 -- 
 
