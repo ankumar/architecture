@@ -7,6 +7,8 @@ Businesses across Retail, Finance, Health, Education etc. are transforming, mode
 Let's look at some interesting [**Principles**](http://www.poppendieck.com/) & [**Design Patterns**](Design%20Patterns.md), Implementations **API's** designed as [microservices and functions](http://bit.ly/9stepsawesome) to composability spanning multiple requests using **Workflows** & **Integrations**.
 
 [Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
+![](/images/systemsofsystems.png)
+
 * [API's](../System/API.md)  
 * [Workflows](Workflows.md)
 
