@@ -11,8 +11,10 @@
 API specifications & standards
 
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/)
+* [gRPC](https://grpc.io/)
 * [Apps - GraphQL](../Patterns/GraphQL.md)  
 * [AsyncAPI](https://www.asyncapi.com/)
+* [JSON Schema](https://json-schema.org/)
 
 API Products
   * [Twilio](https://www.twilio.com/docs/api)
