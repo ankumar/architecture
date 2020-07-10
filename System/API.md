@@ -20,7 +20,8 @@
 * [API Blueprint](https://apiblueprint.org/)
 
 **API Products**
-  * [Twilio](https://www.twilio.com/docs/api)
+  * Communications
+    * [Twilio](https://www.twilio.com/docs/api)
   * Transactions
     * [Payments](https://stripe.com/docs/api)
     * Fulfillment
