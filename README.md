@@ -6,7 +6,7 @@ First there is a Tweet https://twitter.com/Werner/status/1169979140784525312
 
 **in one tweet? 1) if you want to be a VP of Engineering focus on teams and people and how to make them succesfull 2) wanna be a CTO? Simplify.  Focus on the business, what is the simplest, most robust Tech/Ops that makes the business succeed."**
 
-This exchange resonated, shared internally, received a lot of feedback on ways of improving Architecutre. This literally started the journey exploring take-aways.
+This exchange resonated, shared internally, received a lot of feedback on ways of improving Architecture. This literally started the journey exploring take-aways.
 
 1. Framing & Asking the right question.
 2. Finding Answers, **Process, Learning Perspectives, Wisdom & Sharing**, especially from the Generosity of large tech community.
