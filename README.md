@@ -9,7 +9,7 @@ First there is a Tweet https://twitter.com/Werner/status/1169979140784525312
 This exchange resonated, shared internally, received a lot of feedback on ways of improving Architecutre. This literally started the journey exploring take-aways.
 
 1. Framing & Asking the right question.
-2. Finding Answers, **a Process, Learning Perspectives, Wisdom & Sharing**, especially from the Generosity of large tech community.
+2. Finding Answers, **Process, Learning Perspectives, Wisdom & Sharing**, especially from the Generosity of large tech community.
 
 -- 
 
