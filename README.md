@@ -1,10 +1,12 @@
 ## 1. Technology & Business
 
-First there is a Tweet https://twitter.com/Werner/status/1169979140784525312
+First there is a Tweet
 
 **"Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.**
 
 **in one tweet? 1) if you want to be a VP of Engineering focus on teams and people and how to make them succesfull 2) wanna be a CTO? Simplify.  Focus on the business, what is the simplest, most robust Tech/Ops that makes the business succeed."**
+
+-- https://twitter.com/Werner/status/1169979140784525312
 
 This exchange resonated, shared internally, received a lot of feedback on ways of improving Architecture. This literally started the journey exploring take-aways.
 
