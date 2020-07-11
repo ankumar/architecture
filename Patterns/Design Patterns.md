@@ -2,6 +2,8 @@
 
 [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
 
+[On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
+
 [Code Only Says What it Does](https://brooker.co.za/blog/2020/06/23/code.html)
 
 ##
