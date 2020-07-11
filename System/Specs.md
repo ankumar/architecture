@@ -16,7 +16,7 @@ https://github.com/compose-spec/compose-spec
 [MicroProfile](https://wiki.eclipse.org/MicroProfile)
 * https://github.com/eclipse/microprofile/releases/download/3.0/microprofile-spec-3.0.pdf
 
-## Providers
+## Cloud Providers
 
 **AWS**:
 
