@@ -4,6 +4,8 @@
 
 [On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
 
+[Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
+
 [Code Only Says What it Does](https://brooker.co.za/blog/2020/06/23/code.html)
 
 ##
