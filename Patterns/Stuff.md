@@ -14,7 +14,7 @@ Let's look at some interesting [**Principles**](http://www.poppendieck.com/) & [
 
 ![](/images/systemsofsystems.png)
 
-[Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
+I am trying to breakdown Softwate Architecture & Design in the current context into just Interfaces & Workflows.
 * [API's](../System/API.md)  
 * [Workflows](Workflows.md)
 
