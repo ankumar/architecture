@@ -14,7 +14,7 @@ Let's look at some interesting [**Principles**](http://www.poppendieck.com/) & [
 
 ![](/images/systemsofsystems.png)
 
-I am trying to breakdown Softwate Architecture in the current context into Interfaces & Workflows.
+I am trying to breakdown Softwate Architecture in the current context as mapping to Interfaces & Workflows.
 * [API's](../System/API.md)  
 * [Workflows](Workflows.md)
 
