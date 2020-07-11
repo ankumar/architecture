@@ -1,5 +1,3 @@
-# Design 
-
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
