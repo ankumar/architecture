@@ -27,6 +27,9 @@
     * [Shopify](https://shopify.dev/concepts/shopify-introduction)
     * [Facebook](https://developers.facebook.com/docs/commerce-platform)
 
+**API Docs**
+* https://www.k8sref.io/docs/
+
 **Landscape** - https://www.apidays.co/api-landscape/
 * Google APIs
   * https://cloud.google.com/apis/design
