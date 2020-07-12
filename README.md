@@ -11,7 +11,7 @@ First there is a Tweet
 This exchange resonated, shared internally, received a lot of feedback on ways of improving Architecture. This literally started the journey exploring take-aways.
 
 1. Framing & Asking the right question.
-2. Finding Answers, **Process, Learning Perspectives, Wisdom & Sharing**, especially from the Generosity of Large tech community.
+2. Finding Answers, **Process, Learning Perspectives, Wisdom & Sharing** from the Generosity of Large tech community.
 
 -- 
 
