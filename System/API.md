@@ -22,13 +22,13 @@
 * [API Blueprint](https://apiblueprint.org/)
 
 **API Products**
-  * Communications
-    * [Twilio](https://www.twilio.com/docs/api)
   * Commerce
     * [Shopify](https://shopify.dev/concepts/shopify-introduction)
     * [Payments](https://stripe.com/docs/api)
     * [Fulfillment](https://shiphero.com/)
     * [Facebook](https://developers.facebook.com/docs/commerce-platform)
+ * Communications
+    * [Twilio](https://www.twilio.com/docs/api)
 
 **Landscape** - https://www.apidays.co/api-landscape/
 * Google APIs
