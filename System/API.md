@@ -24,11 +24,9 @@
 **API Products**
   * Communications
     * [Twilio](https://www.twilio.com/docs/api)
-  * Transactions
-    * [Payments](https://stripe.com/docs/api)
-    * Fulfillment
   * Commerce
     * [Shopify](https://shopify.dev/concepts/shopify-introduction)
+    * [Payments](https://stripe.com/docs/api)
     * [Fulfillment](https://shiphero.com/)
     * [Facebook](https://developers.facebook.com/docs/commerce-platform)
 
