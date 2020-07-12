@@ -21,14 +21,14 @@ This exchange resonated, shared internally, received a lot of feedback on ways o
 The most successful **+1** business seems to be feeding meme Alibaba, Walmart, Jio Platforms to name a few coming from different "core".
 
 **Universally useful patterns for big & small:**
-**"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
-
--- [Simon Wardley](https://twitter.com/swardley)
-
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 
+but 
+**"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
+
+-- [Simon Wardley](https://twitter.com/swardley)
 
 
 ## 2. Tools & Services
