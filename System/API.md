@@ -4,10 +4,6 @@
 * https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md
 * https://www.alibabacloud.com/blog/api-design-best-practices-by-alibaba-researcher-gu-pu_594784
 
-
-**API Docs**
-* https://www.k8sref.io/docs/
-
 ---
 
 **API specifications & standards**
@@ -20,6 +16,9 @@
 * [RAML](https://raml.org/)
 * [JSON Schema](https://json-schema.org/)
 * [API Blueprint](https://apiblueprint.org/)
+
+**Docs**
+* https://www.k8sref.io/docs/
 
 **API Products**
   * Commerce
