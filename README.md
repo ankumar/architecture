@@ -18,7 +18,7 @@ This exchange resonated, shared internally, received a lot of feedback on ways o
 ![](images/Werner.png)
 -- [CTO Werner Vogels, eCommerce](https://queue.acm.org/detail.cfm?id=1142065) + [Cloud](https://aws.amazon.com/) + [AI](https://www.amazon.science/) + [Health Care](https://amazon.care/) + [Open Source](https://amzn.github.io/) + [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
 
-The **+1** pattern seems to be meme Alibaba, Walmart, Jio Platforms to name a few coming from different "core".
+The **+1** structural pattern seems to be meme Alibaba, Walmart, Jio Platforms to name a few coming from different "core".
 
 **Universally useful patterns for big & small:**
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
