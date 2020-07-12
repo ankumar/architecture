@@ -21,7 +21,7 @@ This exchange resonated, shared internally, received a lot of feedback on ways o
 The **+1** pattern seems to be meme Alibaba, Walmart, Jio Platforms to name a few coming from a different "core".
 
 **Universally useful patterns for big & small:**
-**",but Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
+**, but "Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 
 -- [Simon Wardley](https://twitter.com/swardley)
 
