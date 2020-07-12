@@ -17,6 +17,9 @@
 * [JSON Schema](https://json-schema.org/)
 * [API Blueprint](https://apiblueprint.org/)
 
+**API Docs**
+* https://www.k8sref.io/docs/
+
 **API Products**
   * Communications
     * [Twilio](https://www.twilio.com/docs/api)
@@ -26,9 +29,6 @@
   * Commerce, Full Stack
     * [Shopify](https://shopify.dev/concepts/shopify-introduction)
     * [Facebook](https://developers.facebook.com/docs/commerce-platform)
-
-**API Docs**
-* https://www.k8sref.io/docs/
 
 **Landscape** - https://www.apidays.co/api-landscape/
 * Google APIs
