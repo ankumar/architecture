@@ -17,8 +17,7 @@
 * [JSON Schema](https://json-schema.org/)
 * [API Blueprint](https://apiblueprint.org/)
 
-**Docs**
-* https://www.k8sref.io/docs/
+* **Docs** - https://www.k8sref.io/docs/
 
 **API Products**
   * Commerce
