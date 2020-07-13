@@ -32,4 +32,4 @@ The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/
 
 1. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
 2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
-3. [**Systems of systems**](Patterns/Stuff.md)
+3. [**Cloud Services**](Patterns/Stuff.md)
