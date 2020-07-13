@@ -10,7 +10,7 @@ Monoliths vs MicroServices debate will go on ...
 
 1. Monoliths: Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
 2. Microservices:
-[Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
+* [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 * http://microservices.fail/
 
 ## **Learning Systems**
