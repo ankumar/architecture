@@ -8,9 +8,9 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 
 Monoliths vs MicroServices debate will go on ...
 
-Monoliths: Facebook, Shopify, ...
+* Monoliths: Facebook, Shopify, ...
 
-Microservices:
+* Microservices:
 [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
 ## **Learning Systems**
