@@ -6,7 +6,7 @@
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
-This exchange resonated, shared internally, received a lot of feedback on ways of improving Architecture. This literally started the journey exploring take-aways.
+This exchange resonates, Take-aways.
 
 1. Framing & Asking the right Question
 2. Finding Answers **Process, Learning Perspectives, Wisdom & Sharing**
