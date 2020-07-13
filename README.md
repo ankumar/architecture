@@ -16,7 +16,7 @@ This exchange resonates, Takeaways for Architecture:
 ![](images/Werner.png)
 -- [CTO Werner Vogels, Amazon.com](https://queue.acm.org/detail.cfm?id=1142065) + [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>
 
-The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) business accelerating change worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms) to name a few.
+The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) business accelerating change worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms) ...
 
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
