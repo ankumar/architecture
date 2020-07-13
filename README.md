@@ -9,7 +9,7 @@
 This exchange resonates, Few Takeaways for Architecture:
 
 1. Framing & Asking right Questions.
-2. Finding Answers is a Process & Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community
+2. Finding Answers is a Process & Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community.
 
 -- 
 
