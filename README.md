@@ -23,7 +23,6 @@ The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/
 2. [Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 
-but 
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 
 -- [Simon Wardley](https://twitter.com/swardley)
