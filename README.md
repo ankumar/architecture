@@ -23,7 +23,7 @@ The exchange resonates, Few Takeaways for Architecture:
 
 -- [Simon Wardley](https://twitter.com/swardley)
 
-The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) accelerating business changes worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to be accelerating technology transformations during COVID.
+The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) accelerating business changes worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to be accelerating technology transformations during [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019).
 
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
