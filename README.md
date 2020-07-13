@@ -6,10 +6,10 @@
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
-This exchange resonates, Takeaways for Architecture:
+This exchange resonates, Few Takeaways for Architecture:
 
-1. Framing & asking the right Question
-2. Finding Answers **Process, Learning Perspectives, Wisdom & Sharing**
+1. Framing & Asking right Questions.
+2. Finding Answers is a Process & Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community
 
 -- 
 
