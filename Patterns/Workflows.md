@@ -13,8 +13,7 @@ Monoliths vs MicroServices debate will go on ...
 * http://microservices.fail/
 * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
-## **2. Learning Systems**
-Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
+## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 
 * [Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
 * [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
@@ -25,9 +24,7 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 - Experiment management with experiment tracking, log management, metrics visualization, reproducibility, and dependency management
 - Flexibility - a fully open source system that supports both Tensorflow and PyTorch, and can run in the cloud or on-prem
 
-## **3. Dev + Sec + Fin + Ops** 
-
-Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
+## 3. Dev + Sec + Fin + Ops - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
 
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 
