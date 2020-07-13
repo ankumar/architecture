@@ -18,7 +18,7 @@ This exchange resonates, Take-aways for Architecture:
 
 The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) business accelerating change worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms) to name a few.
 
-**Universally useful patterns for big & small:**
+**Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
 3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
