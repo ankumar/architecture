@@ -16,7 +16,7 @@ This exchange resonated, shared internally, received a lot of feedback on ways o
 ![](images/Werner.png)
 -- [CTO Werner Vogels, eCommerce](https://queue.acm.org/detail.cfm?id=1142065) + [Cloud](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [AI](https://www.amazon.science/) + [Health Care](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>
 
-The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) business accelerating change & also feeding meme [Alibaba](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms) to name a few.
+The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) business accelerating change & also feeding meme [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms) to name a few.
 
 **Universally useful patterns for big & small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
