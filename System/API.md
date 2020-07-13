@@ -28,7 +28,7 @@
  * Communications
     * [Twilio](https://www.twilio.com/docs/api)
 
-**Landscape** - https://www.apidays.co/api-landscape/
+**Landscape** - http://apievangelist.com/ & https://www.apidays.co/api-landscape/
 * Google APIs
   * https://cloud.google.com/apis/design
   * https://github.com/googleapis
