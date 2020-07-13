@@ -29,5 +29,5 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 
 Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
 
-</>
+![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 
