@@ -1,3 +1,5 @@
+![](../images/I%20Luv%20Logs.jpeg)
+
 ["The Log”: Storage abstraction for ordered sequence of immutable data](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 * [BookKeeper](http://bookkeeper.apache.org/distributedlog/)
 * [LogDevice](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
