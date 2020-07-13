@@ -18,7 +18,7 @@ This exchange resonated, shared internally, received a lot of feedback on ways o
 ![](images/Werner.png)
 -- [CTO Werner Vogels, eCommerce](https://queue.acm.org/detail.cfm?id=1142065) + [Cloud](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [AI](https://www.amazon.science/) + [Health Care](https://amazon.care/) + [Open Source](https://amzn.github.io/) + [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm)
 
-The most successful **+1** business seems to be feeding meme Alibaba, Walmart, Jio Platforms to name a few coming from different "core".
+The most successful **+1** business seems to be feeding meme Alibaba, [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms) to name a few coming from different "core".
 
 **Universally useful patterns for big & small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
