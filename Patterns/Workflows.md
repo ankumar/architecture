@@ -12,6 +12,7 @@ Monoliths vs MicroServices debate will go on ...
 
 * Microservices:
 [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
+* http://microservices.fail/
 
 ## **Learning Systems**
 Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
