@@ -15,8 +15,8 @@
 ## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 
 * https://github.com/openai
-* [Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
-* [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
+  * [Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
+  * [Determined: The Open Source Deep Learning Training Platform](https://determined.ai/developers/)
 
 The goal of the platform is to enable Deep Learning Engineers to focus more of their time and energy on their ultimate goal — training high-quality models. They achieve this by tightly integrating all of the functionality DL Engineers need to train models at scale, including:
 - High-performance distributed training that just works
