@@ -12,7 +12,7 @@
 The exchange resonates, Few Takeaways for Architecture:
 
 1. Contextuaiize, Framing & Asking right Questions.
-2. Finding Answers is a Process & Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community.
+2. Finding Answers is a Process, Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community.
 
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
