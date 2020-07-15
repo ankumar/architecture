@@ -22,4 +22,4 @@
 * [API Management ](https://cloud.google.com/apigee/api-management)
   * https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
 
-**Docs** - https://www.k8sref.io/docs/
+* Docs - https://www.k8sref.io/docs/
