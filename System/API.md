@@ -11,7 +11,7 @@
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/) is a specification for defining API endpoints. The openapi file can be used for visualizing the api via [online swagger editor](https://editor.swagger.io/), tools like [openapi-generator](https://github.com/OpenAPITools/openapi-generator) take the spec and produce working client code (code generation).
 
 * [gRPC](https://grpc.io/)
-* [Apps - GraphQL](../Patterns/GraphQL.md)  
+* [GraphQL](../Patterns/GraphQL.md)  
 * [AsyncAPI](https://www.asyncapi.com/)
 * [oDATA](https://www.odata.org/)
 * [RAML](https://raml.org/)
