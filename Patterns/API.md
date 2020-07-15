@@ -1,5 +1,10 @@
 [The Five API Styles: Understanding REST, OpenAPI, HTTP, gRPC, GraphQL, and Kafka](https://www.youtube.com/watch?v=bWFXGHXo_pY)
 
+* [oDATA](https://www.odata.org/)
+* [RAML](https://raml.org/)
+* [JSON Schema](https://json-schema.org/)
+* [API Blueprint](https://apiblueprint.org/)
+
 **API Products**
   * Commerce
     * [Shopify](https://shopify.dev/concepts/shopify-introduction)
