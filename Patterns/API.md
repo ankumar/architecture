@@ -1,12 +1,5 @@
 [The Five API Styles: Understanding REST, OpenAPI, HTTP, gRPC, GraphQL, and Kafka](https://www.youtube.com/watch?v=bWFXGHXo_pY)
 
-**Standardss**
-
-* [oDATA](https://www.odata.org/)
-* [RAML](https://raml.org/)
-* [JSON Schema](https://json-schema.org/)
-* [API Blueprint](https://apiblueprint.org/)
-
 **API Products**
 * Communications
   * [Twilio](https://www.twilio.com/docs/api)
@@ -17,6 +10,13 @@
   * [Facebook](https://developers.facebook.com/docs/commerce-platform)
 * AI
   * [OpenAI](https://openai.com/blog/openai-api/)
+
+**Standardss**
+
+* [oDATA](https://www.odata.org/)
+* [RAML](https://raml.org/)
+* [JSON Schema](https://json-schema.org/)
+* [API Blueprint](https://apiblueprint.org/)
 
 **Landscape** - http://apievangelist.com/ & https://www.apidays.co/api-landscape/
 * Google APIs
