@@ -15,6 +15,8 @@
     * [Facebook](https://developers.facebook.com/docs/commerce-platform)
  * Communications
     * [Twilio](https://www.twilio.com/docs/api)
+ * AI
+    * [OpenAI](https://openai.com/blog/openai-api/)
 
 **Landscape** - http://apievangelist.com/ & https://www.apidays.co/api-landscape/
 * Google APIs
