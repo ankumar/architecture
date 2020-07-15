@@ -8,15 +8,15 @@
 * [API Blueprint](https://apiblueprint.org/)
 
 **API Products**
-  * Commerce
-    * [Shopify](https://shopify.dev/concepts/shopify-introduction)
-    * [Payments](https://stripe.com/docs/api)
-    * [Fulfillment](https://shiphero.com/)
-    * [Facebook](https://developers.facebook.com/docs/commerce-platform)
- * Communications
-    * [Twilio](https://www.twilio.com/docs/api)
- * AI
-    * [OpenAI](https://openai.com/blog/openai-api/)
+* Communications
+  * [Twilio](https://www.twilio.com/docs/api)
+* Commerce
+  * [Shopify](https://shopify.dev/concepts/shopify-introduction)
+  * [Payments](https://stripe.com/docs/api)
+  * [Fulfillment](https://shiphero.com/)
+  * [Facebook](https://developers.facebook.com/docs/commerce-platform)
+* AI
+  * [OpenAI](https://openai.com/blog/openai-api/)
 
 **Landscape** - http://apievangelist.com/ & https://www.apidays.co/api-landscape/
 * Google APIs
