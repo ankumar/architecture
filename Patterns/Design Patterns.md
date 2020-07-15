@@ -8,11 +8,11 @@ http://www.poppendieck.com/
 
 [Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
 
-[Code Only Says What it Does](https://brooker.co.za/blog/2020/06/23/code.html)
-
 ##
 
 [Specifications](../System/Specs.md)
+
+[Code Only Says What it Does](https://brooker.co.za/blog/2020/06/23/code.html)
 
 ##
 
