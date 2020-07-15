@@ -1,3 +1,5 @@
+[The Five API Styles: Understanding REST, OpenAPI, HTTP, gRPC, GraphQL, and Kafka](https://www.youtube.com/watch?v=bWFXGHXo_pY)
+
 **API Products**
   * Commerce
     * [Shopify](https://shopify.dev/concepts/shopify-introduction)
