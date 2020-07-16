@@ -1,9 +1,3 @@
- ## Dev + Sec + Fin + Ops - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
-
-![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
-
-<p align="center"> No engineering process can replace the philosophy of responsibility. </p> 
-
 ## 1. Services & Federation - Monoliths vs MicroServices debate will go on ...
 
 1. Monoliths: Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
