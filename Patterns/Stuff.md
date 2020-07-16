@@ -16,6 +16,7 @@ Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment 
 
 Let's look at some interesting [system design principles](Design%20Patterns.md), Implementations as **API's** designed [microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
 
+Dev + Sec + Fin + Ops - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
 * [API's](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
 
