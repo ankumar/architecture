@@ -2,7 +2,7 @@
 
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 
-<p align="center"> No engineering process can replace the philosophy of responsibility. </p> 
+<p align="center"> Dev + Sec + Fin + Ops - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value. **No engineering process can replace the philosophy of responsibility.** </p> 
 
 Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment are Transforming, Modernizing & Updating **Architecture & Technology Stacks** around Cloud Technologies. The architecture is being developed in a vendor neutral & open governance model driven by open source communities under [Cloud Native Computing Foundation](https://www.cncf.io/) & other [organizations](https://opensource.com/resources/organizations).
 
@@ -16,7 +16,6 @@ Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment 
 
 Let's look at some interesting [system design principles](Design%20Patterns.md), Implementations as **API's** designed [microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
 
-Dev + Sec + Fin + Ops - Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value.
 * [API's](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
 
