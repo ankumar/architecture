@@ -72,6 +72,7 @@ http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.h
     * "application-level, mechanisms for maintaining database integrity" - http://www.bailis.org/papers/feral-sigmod2015.pdf
     * The biggest barrier ...  is that the consistency mechanism must **integrate consistency across many stateful services** - https://research.fb.com/wp-content/uploads/2016/11/challenges-to-adopting-stronger-consistency-at-scale.pdf
     * [1987 paper “Sagas”](http://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+    * [Distributed Transactions are dead - Sergey Bykov](https://www.youtube.com/watch?v=epOLEdaPSLQ&list=PLKKQHTLcxDVYw23SBLzqcbWkhX-cCUTr0)
 
 * [Using Sagas](https://chrisrichardson.net/post/microservices/2019/07/09/developing-sagas-part-1.html), Implementations:
     * https://medium.com/@omererakman/saga-pattern-2413e636ab16
