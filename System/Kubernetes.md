@@ -22,7 +22,7 @@ The reason why Kubernetes is popular is that it doesn't force you down a single 
 2. CI/CD - https://tekton.dev
 3. Serverless - https://knative.dev/
 4. Databases - [CockroachDB](https://www.cockroachlabs.com/blog/kubernetes-databases/)
-5. Sidecars & Operators - https://dapr.io/, https://cloudstate.io/
+5. Sidecars & Operators - https://dapr.io/, https://cloudstate.io/, http://www.ofbizian.com/
 
 
 
