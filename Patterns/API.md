@@ -11,7 +11,7 @@
 * AI
   * [OpenAI](https://openai.com/blog/openai-api/)
 
-**Standardss**
+**Standards**
 
 * [oDATA](https://www.odata.org/)
 * [RAML](https://raml.org/)
