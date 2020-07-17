@@ -1,3 +1,5 @@
+This the system design modeling set of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
+
 ![](../images/roofshots.png)
 <p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
 
