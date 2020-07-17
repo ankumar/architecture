@@ -11,8 +11,9 @@ Platform is a perspective, Serving customers ... **"Platform” with a standardi
 1. Monoliths: Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
 * https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
 2. Microservices:
-* http://microservices.fail/
-* [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
+* Learnings - http://microservices.fail/
+* Solutions:
+  * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
 ## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 
