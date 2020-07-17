@@ -1,6 +1,6 @@
-![](/images/systemsofsystems.png)
-
 ## 1. Services & Federation - Monoliths vs MicroServices debate will go on ...
+
+![](/images/systemsofsystems.png)
 
 1. Monoliths: Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
 * https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
