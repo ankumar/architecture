@@ -1,4 +1,4 @@
-This modeling of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
+The model of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
 
 ## 1. Services & Federation - Monoliths vs MicroServices debate will go on ...
 
