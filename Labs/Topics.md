@@ -1,4 +1,6 @@
 # Architecture
+![](../images/roofshots.png)
+<p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
 
 **Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value**
 
