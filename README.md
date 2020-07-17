@@ -21,7 +21,8 @@ The exchange resonates, Few Takeaways:
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
-3. [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
+
+[**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 
@@ -36,4 +37,5 @@ The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/
 
 1. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/) / [Six Decades of Software Engineering By Mary Poppendieck](https://www.meetup.com/DevOps-Lisbon/events/271172214/)
 2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
-3. [**Cloud Services**](Patterns/Stuff.md)
+
+[**Cloud Services**](Patterns/Stuff.md)
