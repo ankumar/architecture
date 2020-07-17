@@ -13,7 +13,7 @@
 
 -- https://twitter.com/MIT_CSAIL/status/1283737295804342275 
 
-The exchange resonates, Few Takeaways for Architecture:
+The exchange resonates, Few Takeaways:
 
 1. Contextuaiize, Framing & Asking right Questions.
 2. Finding Answers is a Process, Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community.
