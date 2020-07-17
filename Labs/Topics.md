@@ -117,6 +117,7 @@ https://cd.foundation/
 * https://github.com/openai
 
 3. **GCP**
+* https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html
 * https://github.com/tensorflow/cloud
   * https://medium.com/google-cloud/video-object-tracking-as-a-service-18eb4227df34
 
