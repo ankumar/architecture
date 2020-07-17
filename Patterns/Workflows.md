@@ -8,7 +8,7 @@ This the system design modeling set of abstractions, crisp boundaries, clear sep
 * https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
 2. Microservices:
 * Learnings - http://microservices.fail/
-* Solutions:
+* Mechanical Sympathy:
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
 ## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
