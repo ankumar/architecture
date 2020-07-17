@@ -27,7 +27,7 @@ The exchange resonates, Few Takeaways:
 
 The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) accelerating business changes worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to speed up technology transformations during [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019).
 
-[**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
+-> [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
 
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
@@ -37,4 +37,4 @@ The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/
 1. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/) / [Six Decades of Software Engineering By Mary Poppendieck](https://www.meetup.com/DevOps-Lisbon/events/271172214/)
 2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 
-[**Cloud Services**](Patterns/Stuff.md)
+-> [**Cloud Services**](Patterns/Stuff.md)
