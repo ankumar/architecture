@@ -9,7 +9,8 @@
 ![](images/Werner.png)
 -- [CTO Werner Vogels, Amazon.com](https://queue.acm.org/detail.cfm?id=1142065)
 
--- https://twitter.com/MIT_CSAIL/status/1283737295804342275 + [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>. 
++ [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>. 
+-- https://twitter.com/MIT_CSAIL/status/1283737295804342275 
 
 The exchange resonates, Few Takeaways for Architecture:
 
