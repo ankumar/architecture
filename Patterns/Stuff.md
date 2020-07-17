@@ -6,6 +6,8 @@
 
 <p align="center"> No engineering process can replace the philosophy of responsibility. </p> 
 
+--
+
 Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment are Transforming, Modernizing & Updating **Architecture & Technology Stacks** around Cloud Technologies. The architecture is being developed in a vendor neutral & open governance model driven by open source communities under [Cloud Native Computing Foundation](https://www.cncf.io/) & other [organizations](https://opensource.com/resources/organizations).
 
 [Per Cloud Native Landscape](https://github.com/cncf/landscape), a definition ...
