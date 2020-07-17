@@ -21,6 +21,7 @@ The exchange resonates, Few Takeaways:
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
+
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 
 -- [Simon Wardley](https://twitter.com/swardley)
