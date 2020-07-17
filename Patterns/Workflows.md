@@ -1,4 +1,4 @@
-This the system design modeling set of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
+This the system design modeling with set of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
 
 ## 1. Services & Federation - Monoliths vs MicroServices debate will go on ...
 
