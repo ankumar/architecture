@@ -2,7 +2,7 @@
 
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 
-<p align="center"> Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
+<p align="center"> Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
 
 <p align="center"> <b> No engineering process can replace the philosophy of responsibility. </b> </p> 
 
