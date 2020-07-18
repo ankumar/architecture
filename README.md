@@ -6,8 +6,6 @@
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
-The exchange resonates
-
 ![](images/Werner.png)
 -- [CTO Werner Vogels, Amazon.com](https://queue.acm.org/detail.cfm?id=1142065)
 
