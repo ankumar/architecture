@@ -18,7 +18,7 @@ http://www.poppendieck.com/
 
 [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-## Well-Architected
+##
 
 [AWS](https://aws.amazon.com/architecture)
 
