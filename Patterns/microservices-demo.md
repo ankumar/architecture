@@ -6,7 +6,7 @@
 |                     | Azure Kubernetes (Done ✅) | |
 |                     | AWS Kubernetes (Done ✅)   | |
 |                     | GCP Kubernetes (Done ✅)   | |
-| **Serverless**                    |  | |
+|                     |  | |
 | 1. emailservice (Python) | | |
 | 2. productcatalogservice (Go) | | |
 | 3. recommendationservice (Python) | | |
