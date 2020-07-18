@@ -20,7 +20,7 @@ Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment 
 
 ***The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.***
 
-Let's look at some interesting [system design principles](Design%20Patterns.md), Implementations as **API's** designed [microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
+Let's look at some interesting [system design principles](Design%20Patterns.md), Implementations of **Mobile & Web** Applications as **API's** designed [microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
 
 * [API Products](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
