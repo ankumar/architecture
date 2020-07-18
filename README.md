@@ -6,10 +6,7 @@
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
-The exchange resonates, Few Takeaways:
-
-1. Contextuaiize, Framing & Asking Questions.
-2. Finding Answers is a Process, Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community.
+The exchange resonates
 
 ![](images/Werner.png)
 -- [CTO Werner Vogels, Amazon.com](https://queue.acm.org/detail.cfm?id=1142065)
