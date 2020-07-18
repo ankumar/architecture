@@ -30,9 +30,6 @@ The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/
 
 -- https://twitter.com/mjasay
 
-* Contextuaiize & Framing.
-* Process of Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community.
-
 1. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/) / [Six Decades of Software Engineering By Mary Poppendieck](https://www.meetup.com/DevOps-Lisbon/events/271172214/)
 2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 
