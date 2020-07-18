@@ -22,5 +22,5 @@ http://www.poppendieck.com/
 
 [AWS](https://aws.amazon.com/architecture)
 
-[Reference Architecture for Agility](https://github.com/wso2/reference-architecture)
+[WSO2](https://github.com/wso2/reference-architecture)
 
