@@ -1,7 +1,5 @@
 [The Five API Styles: Understanding REST, OpenAPI, HTTP, gRPC, GraphQL, and Kafka](https://www.youtube.com/watch?v=bWFXGHXo_pY)
 
-**Standards**
-
 * [gRPC](https://grpc.io/)
 * [AsyncAPI](https://www.asyncapi.com/)
 * [oDATA](https://www.odata.org/)
