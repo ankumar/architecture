@@ -1,4 +1,3 @@
-**API Products**
 * Communications
   * [Twilio](https://www.twilio.com/docs/api)
 * Commerce
