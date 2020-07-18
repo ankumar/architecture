@@ -18,7 +18,9 @@ http://www.poppendieck.com/
 
 [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-## Reference Architectures
+## Well-Architected
+
+[AWS](https://aws.amazon.com/architecture)
 
 [Reference Architecture for Agility](https://github.com/wso2/reference-architecture)
 
