@@ -1,16 +1,5 @@
 [The Five API Styles: Understanding REST, OpenAPI, HTTP, gRPC, GraphQL, and Kafka](https://www.youtube.com/watch?v=bWFXGHXo_pY)
 
-**API Products**
-* Communications
-  * [Twilio](https://www.twilio.com/docs/api)
-* Commerce
-  * [Shopify](https://shopify.dev/concepts/shopify-introduction)
-  * [Payments](https://stripe.com/docs/api)
-  * [Fulfillment](https://shiphero.com/)
-  * [Facebook](https://developers.facebook.com/docs/commerce-platform)
-* AI
-  * [OpenAI](https://openai.com/blog/openai-api/)
-
 **Standards**
 
 * [oDATA](https://www.odata.org/)
