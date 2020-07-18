@@ -11,7 +11,7 @@
 
 \+ [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>. 
 
--- https://twitter.com/MIT_CSAIL/status/1283737295804342275 
+-- 2020 -> https://twitter.com/MIT_CSAIL/status/1283737295804342275 
 
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
