@@ -32,4 +32,4 @@
   * https://engineering.shopify.com/blogs/engineering/shopify-manages-api-versioning-breaking-changes
   * https://cloud.google.com/blog/products/api-management/understanding-grpc-openapi-and-rest-and-when-to-use-them
 
-* Docs - https://www.k8sref.io/docs/
+* Docs - https://www.k8sref.io/docs/ , https://stripe.com/docs/payments/integration-builder
