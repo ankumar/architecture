@@ -28,7 +28,7 @@
 |                     | Azure Kubernetes | |
 |                     | AWS Kubernetes   | |
 |                     | GCP Kubernetes   | |
-| **Serverless**                    |  | |
+|                     |  | |
 | 1. Users Service | | |
 | 2. Shopping Cart Service | | |
 | 3. Orders Service | | |
