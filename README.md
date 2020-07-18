@@ -6,17 +6,17 @@
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
+The exchange resonates, Few Takeaways:
+
+1. Contextuaiize, Framing & Asking right Questions.
+2. Finding Answers is a Process, Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community.
+
 ![](images/Werner.png)
 -- [CTO Werner Vogels, Amazon.com](https://queue.acm.org/detail.cfm?id=1142065)
 
 \+ [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>. 
 
 -- https://twitter.com/MIT_CSAIL/status/1283737295804342275 
-
-The exchange resonates, Few Takeaways:
-
-1. Contextuaiize, Framing & Asking right Questions.
-2. Finding Answers is a Process, Learning from diverse Perspectives, Wisdom & Sharing from generous Tech Community.
 
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
