@@ -11,12 +11,12 @@
 * AI
   * [OpenAI](https://openai.com/blog/openai-api/)
   
-* https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md
-* https://www.alibabacloud.com/blog/api-design-best-practices-by-alibaba-researcher-gu-pu_594784
-
 ---
 
 **API specifications & standards**
+
+* https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md
+* https://www.alibabacloud.com/blog/api-design-best-practices-by-alibaba-researcher-gu-pu_594784
 
 * [OpenAPI](https://github.com/OAI/OpenAPI-Specification/) is a specification for defining API endpoints. The openapi file can be used for visualizing the api via [online swagger editor](https://editor.swagger.io/), tools like [openapi-generator](https://github.com/OpenAPITools/openapi-generator) take the spec and produce working client code (code generation).
 
