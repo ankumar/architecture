@@ -2,6 +2,8 @@
 
 **Standards**
 
+* [gRPC](https://grpc.io/)
+* [AsyncAPI](https://www.asyncapi.com/)
 * [oDATA](https://www.odata.org/)
 * [RAML](https://raml.org/)
 * [JSON Schema](https://json-schema.org/)
