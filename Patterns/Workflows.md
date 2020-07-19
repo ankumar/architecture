@@ -9,9 +9,7 @@
 * Mechanical Sympathy:
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
-![](/images/systemsofsystems.png)
 [Sandbox](../Labs/Sandbox.md)
-
 
 ## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 
