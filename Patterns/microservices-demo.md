@@ -45,6 +45,8 @@
 
 --
 
+CLI:
+
 **Azure Kubernetes**
 1. az login
 2. az group create --name **microservices-demo** -l **westus**
