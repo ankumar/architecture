@@ -1,4 +1,6 @@
-**1. Online Boutique**, https://github.com/GoogleCloudPlatform/microservices-demo
+1. Stateless:
+
+**Online Boutique**, https://github.com/GoogleCloudPlatform/microservices-demo
 
 | Service | Build, Deploy | Observability (https://opentelemetry.io/) |
 | ------------------------- | ---------------- | ---------------- |
@@ -21,7 +23,12 @@
 [run_frontend]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/frontend
 [run_cartservice]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/cartservice
 
-**2. Sockshop**, https://github.com/helidon-sockshop/sockshop / https://www.infoq.com/news/2020/07/oracle-releases-helidon-2/
+
+2. Stateful:
+
+* Long Running - https://medium.com/oracledevs/long-running-actions-for-microprofile-on-helidon-data-integrity-for-microservices-2bd4d14fe955
+
+**Sockshop**, https://github.com/helidon-sockshop/sockshop / https://www.infoq.com/news/2020/07/oracle-releases-helidon-2/
 | Service | Build, Deploy | Observability (https://opentelemetry.io/) |
 | ------------------------- | ---------------- | ---------------- |
 | **Clusters**                    |  | |
