@@ -10,8 +10,7 @@
 * Learnings - http://microservices.fail/
 * Mechanical Sympathy:
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
-3. Sandbox:
-* https://github.com/ankumar/Architecture/blob/main/Labs/Sandbox.md
+3. [Sandbox](../Labs/Sandbox.md)
 
 
 ## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
