@@ -21,6 +21,7 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 
 * [Domain-Driven](https://www.dddheuristics.com/)
 * [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
+* [Independent Systems Architecture](https://isa-principles.org/index.html)
 
 # Languages & Frameworks
 
