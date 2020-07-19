@@ -25,7 +25,7 @@ Let's look at some interesting [System design principles](Design%20Patterns.md),
 * [API Products](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
 
-# A model of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
+## A model of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
 
 [Sandbox](../Labs/Sandbox.md)
 
