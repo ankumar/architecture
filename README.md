@@ -15,7 +15,7 @@
 
 The most successful [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) accelerating Business changes worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to speed up technology transformations during [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019).
 
-**Universally useful patterns for Big & Small:**
+The gap is widening, **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
 
