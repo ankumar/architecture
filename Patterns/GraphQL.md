@@ -12,7 +12,7 @@ May 1st, 2020, **Five year anniversary of GraphQL Open Source announcement!**.
   * https://www.prisma.io/
   * https://hasura.io/
     * https://3factor.app/
-  * Microprofile GraphQL Specification - https://github.com/eclipse/microprofile-graphql
+  * Microprofile GraphQL Specification - https://github.com/eclipse/microprofile-graphql / https://www.infoq.com/news/2020/06/microprofile-graphql/
   * https://github.com/solo-io/sqoop
 
 ---
