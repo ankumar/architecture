@@ -43,7 +43,7 @@
 | 5. Payment Service | | |
 | 6. Shipping Service | | |
 
----
+--
 
 **Azure Kubernetes**
 1. az login
