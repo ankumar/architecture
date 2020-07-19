@@ -28,7 +28,7 @@
 
 * Long Running - https://medium.com/oracledevs/long-running-actions-for-microprofile-on-helidon-data-integrity-for-microservices-2bd4d14fe955
 
-**Sockshop**, https://github.com/helidon-sockshop/sockshop / https://www.infoq.com/news/2020/07/oracle-releases-helidon-2/
+**Sockshop**, https://github.com/helidon-sockshop/sockshop / https://www.infoq.com/news/2020/07/oracle-releases-helidon-2/ / https://github.com/eclipse?q=microprofile
 | Service | Build, Deploy | Observability (https://opentelemetry.io/) |
 | ------------------------- | ---------------- | ---------------- |
 | **Clusters**                    |  | |
