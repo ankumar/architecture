@@ -21,7 +21,7 @@
 [run_frontend]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/frontend
 [run_cartservice]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/cartservice
 
-**2. Sockshop**, https://github.com/helidon-sockshop/sockshop
+**2. Sockshop**, https://github.com/helidon-sockshop/sockshop / https://www.infoq.com/news/2020/07/oracle-releases-helidon-2/
 | Service | Build, Deploy | Observability (https://opentelemetry.io/) |
 | ------------------------- | ---------------- | ---------------- |
 | **Clusters**                    |  | |
