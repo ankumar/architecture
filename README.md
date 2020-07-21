@@ -27,7 +27,7 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
 
--- https://twitter.com/mjasay / [**Trending today on GitHub**](https://github.com/trending)
+-- https://twitter.com/mjasay / [**Trending on GitHub**](https://github.com/trending)
 
 1. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/) / [Six Decades of Software Engineering By Mary Poppendieck](https://www.meetup.com/DevOps-Lisbon/events/271172214/)
 2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
