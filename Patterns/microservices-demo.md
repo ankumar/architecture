@@ -1,4 +1,4 @@
-1. Stateless:
+1. **Stateless:**
 
 **Online Boutique**, https://github.com/GoogleCloudPlatform/microservices-demo
 
@@ -24,7 +24,7 @@
 [run_cartservice]: https://deploy.cloud.run/?git_repo=https://github.com/GoogleCloudPlatform/microservices-demo&dir=src/cartservice
 
 
-2. Stateful:
+2. **Stateful:**
 
 * Long Running - https://medium.com/oracledevs/long-running-actions-for-microprofile-on-helidon-data-integrity-for-microservices-2bd4d14fe955
 
