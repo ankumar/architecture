@@ -1,3 +1,8 @@
+## "Platforms" - Platform is a perspective, Serving customers ...
+
+**"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
+**Hiding Infrastructure & Focus on applications Patterns...**
+
 ## 1. Services & Federation - Monoliths vs MicroServices debate will go on ...
 
 1. Monoliths: Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
@@ -19,11 +24,6 @@ The goal of the platform is to enable Deep Learning Engineers to focus more of t
 - Experiment management with experiment tracking, log management, metrics visualization, reproducibility, and dependency management
 - Flexibility - a fully open source system that supports both Tensorflow and PyTorch, and can run in the cloud or on-prem
 
-## 3. "Platforms" - Platform is a perspective, Serving customers ...
-
-
-**"Platform” with a standardized interface allowing decentralized development. Programs built with it are “continually valid and observable from the very beginning of its construction”.**
-**Hiding Infrastructure & Focus on applications Patterns...**
 
 
 
