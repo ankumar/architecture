@@ -22,5 +22,7 @@ http://www.poppendieck.com/
 
 [AWS](https://aws.amazon.com/architecture)
 
+[Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
+
 [WSO2](https://github.com/wso2/reference-architecture)
 
