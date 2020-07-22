@@ -11,6 +11,7 @@
 * Learnings - http://microservices.fail/
 * Mechanical Sympathy:
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
+* https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
 
 ## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 
