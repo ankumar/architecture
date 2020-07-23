@@ -27,9 +27,9 @@ http://www.poppendieck.com/
 
 ##
 
-**"Library"** - Bakes in a set of best practices & removes the boilerplate
-
 Topics: Performance, Resilience, ....
+
+**"Library"** - Bakes in a set of best practices & removes the boilerplate
 
 [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
