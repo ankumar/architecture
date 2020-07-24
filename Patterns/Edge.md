@@ -12,17 +12,16 @@ https://github.com/lf-edge
 ## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
 
 Edge Workloads:
--	Limited number of Nodes, No Autoscaling
--	Data Ingestion & Processing: 
+* Limited number of Nodes, No Autoscaling
+* Data Ingestion & Processing: 
   * Protocol conversion
   * Data preprocessing
--	Reliability & Availability:
-  -	Store & forward
-  -	Caching
-  -	Local DB & Sync data
--	Latency: 
-  -	Edge Functions, React locally on sensor or scheduled events
-  -	Edge specific training (environment & data policies)
+*	Reliability & Availability:
+  *	Store & forward
+  * Caching, Local DB & Sync data
+*	Latency: 
+  *	Edge Functions, React locally on sensor or scheduled events
+  * Edge specific training (environment & data policies)
 
 Cloud Workloads:
 -	Autoscaling
