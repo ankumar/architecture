@@ -14,8 +14,8 @@ https://github.com/lf-edge
 Edge Workloads:
 -	Limited number of Nodes, No Autoscaling
 -	Data Ingestion & Processing: 
-  -	Protocol conversion
-  -	Data preprocessing
+  * Protocol conversion
+  * Data preprocessing
 -	Reliability & Availability:
   -	Store & forward
   -	Caching
