@@ -8,3 +8,4 @@ https://iot.eclipse.org/
 * DSL - https://vorto.eclipse.org/
 * IoT GW - https://www.eclipse.org/hono/
 * Microservices framework - https://iofog.org/
+* Microservices - https://www.eclipse.org/ditto/
