@@ -22,3 +22,8 @@ https://iot.eclipse.org/
   * Connectivity - connects to AMQP 1.0 (e.g. Eclipse Hono) and AMQP 0.9.1 endpoints and consumes messages in Ditto Protocol from it, optionally converts other formats to Ditto Protocol
   * Concierge - orchestrates the backing persistence services (including authorization)
 
+## 4.	Deployment Architecture
+
+**Cloud:** Azure, Evaluation to determine Build/Rent of critical capabilities like Kubernetes, Databases & Analytics.
+
+**Edge:** TODO, after more study & analysis…
