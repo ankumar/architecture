@@ -27,7 +27,7 @@ Eclipse Foundation [IoT working group](https://iot.eclipse.org/) has been around
 
 ## 3.	Cloud Native & Edge Kubernetes synergies
 
-* Developers mindshare & Tooling, workloads can move between Cloud & Edge. Edge computing becoming an emerging trend, more and more developers trying to use Kubernetes outside typical data center deployments. And it makes sense, as people want to continue using all cloud-native best practices and tools that make them productive. 
+Developers mindshare & Tooling, workloads can move between Cloud & Edge. Edge computing becoming an emerging trend, more and more developers trying to use Kubernetes outside typical data center deployments. And it makes sense, as people want to continue using all cloud-native best practices and tools that make them productive. 
 Cloud Native Computing Foundation (CNCF) [IoT Edge working Group](https://github.com/kubernetes/community/tree/master/wg-iot-edge) is a community where all aspects of using Kubernetes in IoT and Edge use cases is discussed. [white paper](https://docs.google.com/document/d/1We-pRDV9LDFo-vd9DURCPC5-Bum2FvjHUGZ1tacGmk8/), few projects:
 
 Kubernetes for Edge -  https://k3s.io/
