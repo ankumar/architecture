@@ -1,5 +1,7 @@
 # distributed systems architecture for Highly Autonomous Systems
 
+As a strategy formulation, we are trying to change a situation A into a better situation B. This process might end in the real world, but it starts in our imaginations, in the virtual world. This is a straw man proposal of such a virtual world to aid in decision making for design, develop, and deploy model of Business Applications backed by an IoT Cloud Platform. The imaginations will be refined over time after feedback, deeper understanding of real world.
+
 https://github.com/lf-edge
 
 * https://www.infoq.com/presentations/linux-eve/ 
