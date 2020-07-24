@@ -6,7 +6,7 @@ As a strategy formulation, we are trying to change a **situation A** into a bett
 
 ## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
 
-[The End of Cloud Computing - "I'm going to take you out to the edge to show you what the future looks like."](https://www.youtube.com/watch?v=4QTAtFaIiyc)
+[Return to the Edge and the End of Cloud Computing - "I'm going to take you out to the edge to show you what the future looks like."](https://www.youtube.com/watch?v=4QTAtFaIiyc)
 
 https://github.com/lf-edge
 
