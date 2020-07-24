@@ -4,12 +4,12 @@ As a strategy formulation, we are trying to change a **situation A** into a bett
 
 ![](https://info.container-solutions.com/hs-fs/hubfs/The%20strategist.png)
 
+## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
+
 https://github.com/lf-edge
 
 * https://www.infoq.com/presentations/linux-eve/ 
 * https://www.lfedge.org/wp-content/uploads/2020/07/LF-Edge-web-july2020.pdf
-
-## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
 
 Edge Workloads:
 * Limited number of Nodes, No Autoscaling
