@@ -9,6 +9,30 @@ https://github.com/lf-edge
 * https://www.infoq.com/presentations/linux-eve/ 
 * https://www.lfedge.org/wp-content/uploads/2020/07/LF-Edge-web-july2020.pdf
 
+## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
+
+Edge Workloads:
+-	Limited number of Nodes, No Autoscaling
+-	Data Ingestion & Processing: 
+-	Protocol conversion
+-	Data preprocessing
+-	Reliability & Availability:
+-	Store & forward
+-	Caching
+-	Local DB & Sync data
+-	Latency: 
+-	Edge Functions, React locally on sensor or scheduled events
+-	Edge specific training (environment & data policies)
+
+Cloud Workloads:
+-	Autoscaling
+-	Authentication & Authorization
+-	Device Management
+-	Tools
+-	Workflows
+-	Analytics
+-	ML Training
+
 ## 2.	Open Source Software
 
 Eclipse Foundation [IoT working group](https://iot.eclipse.org/) has been around for 8 years, also started contributing to CNCF (more below). Currently host 37 Projects, following look interesting.
