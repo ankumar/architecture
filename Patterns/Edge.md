@@ -4,6 +4,11 @@ As a strategy formulation, we are trying to change a **situation A** into a bett
 
 ![](https://info.container-solutions.com/hs-fs/hubfs/The%20strategist.png)
 
+
+## 2.	Open Source Software
+
+Eclipse Foundation IoT working group https://iot.eclipse.org/ has been around for 8 years, also started contributing to CNCF (more below). Currently host 37 Projects, following look interesting.
+
 https://github.com/lf-edge
 
 * https://www.infoq.com/presentations/linux-eve/ 
