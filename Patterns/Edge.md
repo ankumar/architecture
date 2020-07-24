@@ -13,12 +13,15 @@ https://github.com/lf-edge
 
 Edge Workloads:
 * Limited number of Nodes, No Autoscaling
+
 * Data Ingestion & Processing: 
   * Protocol conversion
   * Data preprocessing
+
 *	Reliability & Availability:
   *	Store & forward
   * Caching, Local DB & Sync data
+
 *	Latency: 
   *	Edge Functions, React locally on sensor or scheduled events
   * Edge specific training (environment & data policies)
