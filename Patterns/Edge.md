@@ -22,8 +22,8 @@ Cloud Workloads:
 -	Authentication & Authorization
 -	Device Management
 -	Tools
--	Workflows
--	Analytics
+- Workflows & Integrations
+-	Data & Analytics
 -	ML Training
 
 ## 2.	Open Source Software
