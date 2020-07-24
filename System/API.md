@@ -9,6 +9,7 @@
   * [Facebook](https://developers.facebook.com/docs/commerce-platform)
 * Artificial General Intelligence
   * [OpenAI](https://openai.com/blog/openai-api/)
+* Edge?
   
 ---
 
