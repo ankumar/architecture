@@ -8,11 +8,6 @@ As a strategy formulation, we are trying to change a **situation A** into a bett
 
 [Return to the Edge and the End of Cloud Computing - "I'm going to take you out to the edge to show you what the future looks like."](https://www.youtube.com/watch?v=4QTAtFaIiyc)
 
-https://github.com/lf-edge
-
-* https://www.infoq.com/presentations/linux-eve/ 
-* https://www.lfedge.org/wp-content/uploads/2020/07/LF-Edge-web-july2020.pdf
-
 Edge Workloads:
 * Limited number of Nodes, No Autoscaling
 
@@ -32,6 +27,11 @@ Cloud Workloads:
 -	ML Training
 
 ## 2.	Open Source Software
+
+[LF Edge aims to establish an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system](https://github.com/lf-edge)
+
+* https://www.infoq.com/presentations/linux-eve/ 
+* https://www.lfedge.org/wp-content/uploads/2020/07/LF-Edge-web-july2020.pdf
 
 Eclipse Foundation [IoT working group](https://iot.eclipse.org/) has been around for 8 years, also started contributing to CNCF (more below). Currently host 37 Projects, following look interesting.
 
