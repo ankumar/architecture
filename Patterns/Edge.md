@@ -69,7 +69,7 @@ Knative – https://github.com/knative/
 -	Use cases: Event handlers, scheduled jobs etc.
 -	Not paying for Idle resources.
 
-## 4.	Deployment Architecture
+## 4.	Deployment Architecture & Sandbox
 
 **Cloud:** Azure, Evaluation to determine Build/Rent of critical capabilities like Kubernetes, Databases & Analytics.
 
