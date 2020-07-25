@@ -8,6 +8,8 @@ http://www.poppendieck.com/
 
 [Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
 
+[Principles of Technology Leadership](https://www.youtube.com/watch?v=9QMGAtxUlAc)
+
 ##
 
 [Specifications](../System/Specs.md)
