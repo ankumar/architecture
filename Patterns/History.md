@@ -54,6 +54,16 @@ Source: https://oxide.computer/blog/
 
 # 70s
 
+* 1970: Amdahl, started by Gene Amdahl who created the IBM System/360, introduced the Amdahl 470. The Pascal programming language is created by Professor Niklaus Wirth.
+* 1971: The ILLIAC IV supercomputer is delivered to NASA. It used Fairchild's Processor Element Memory (PEM) which stored 16,834 bytes in each of it's 64 processors. Xerox PARC invented the laser printer.
+* 1972: The C programming language is released.
+* 1974: The Xerox PARC Alto is introduced, which featured the first WYSIWYG editor. The Alto is what inspired Apple's Lisa and Macintosh.
+* 1975: Altair 8800 kit appeared in Popular Electronics. Tandem computers released the Tandem-16.
+* 1976: The Cray-1 supercomputer is introduced. This machine featured a novel design with seating on the outside of the computer. Steve Wozniak completed the Apple-1.
+* 1977: Apple II is introduced. Atari launched the Video Computer System game console.
+* 1978: Digital Equipment Corporation introduced the VAX line of computers. The success of the VAX systems made DEC into the second largest computer company in the world.
+* 1979: Atari introduced their Model 400 and 800 computers.
+
 # 60s
 
 * 1960: COBOL is developed by the Pentagon and a few computer manufacturers. The DEC PDP-1 is introduced. It cost about $120,000.
