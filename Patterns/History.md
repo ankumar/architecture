@@ -27,8 +27,19 @@
 
 --
 
+Source: https://oxide.computer/blog/
+
 # 60s
 
+* 1960: COBOL is developed by the Pentagon and a few computer manufacturers. The DEC PDP-1 is introduced. It cost about $120,000.
+* 1961: IBM introduced the 1400 series. There is still a working one in the Computer History Museum today! Timesharing systems start to become super popular.
+* 1962: Sperry Rand developed thin-film memory which is a faster variation of core memory.
+* 1963: The first edition of the ASCII standard is published.
+* 1964: DEC's PDP-8 is introduced. IBM announced the System/360. Teletype introduced the ASR-33 terminal, which sold for around $700.
+* 1965: The Olivetti Programma 101 is released. NASA used some of these calculators on the Apollo space project.
+* 1966: ELIZA the natural language processing environment used for the psychotherapist chatbot "DOCTOR", which you can still use in emacs, is completed.
+* 1968: Edsger Dijkstra published his letter: "GO TO statement considered harmful" in Communications of the ACM. The Apollo Guidance Computer (AGC) is debuted. The IBM "Minnow" floppy disk drive, which was the floppy disk drive, began development. The mother of all demos takes place in San Francisco.
+* 1969: Apollo Guidance Computer read-only rope memory is launched into space with Apollo 11. UNIX is developed.
 
 # 50s
 
