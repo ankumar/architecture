@@ -1,6 +1,6 @@
 # Design Heuristics
 
-[Conway's Law Classic Paper](http://www.melconway.com/Home/pdf/committees.pdf)
+[1967 Classic Paper Conway's Law](http://www.melconway.com/Home/pdf/committees.pdf)
 
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 
