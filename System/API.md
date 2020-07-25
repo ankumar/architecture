@@ -9,7 +9,10 @@
   * [Facebook](https://developers.facebook.com/docs/commerce-platform)
 * Artificial General Intelligence
   * [OpenAI](https://openai.com/blog/openai-api/)
-* Edge?
+* Cloud
+  * [Kubernetes](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+* Edge
+  * </>
   
 ---
 
