@@ -8,7 +8,7 @@ Let's start w/ a tweet ...
 -- https://twitter.com/Werner/status/1169979140784525312
 
 ![](images/Werner.png)
--- [CTO Werner Vogels, Amazon.com](https://queue.acm.org/detail.cfm?id=1142065)
+-- [An Architecture, CTO Werner Vogels/Amazon.com](https://queue.acm.org/detail.cfm?id=1142065)
 
 \+ [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>. 
 
