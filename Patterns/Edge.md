@@ -72,4 +72,6 @@ Knative – https://github.com/knative/
 
 **Cloud:** Azure, Evaluation to determine Build/Rent of critical capabilities like Kubernetes, Databases & Analytics.
 
+https://www.usenix.org/conference/nsdi20/presentation/brooker
+
 **Edge:** TODO, after more study & analysis…
