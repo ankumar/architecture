@@ -8,7 +8,7 @@ In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do 
 
 Although this is not a scientific law, it is a valid proposition for many environments. We often see its effects in our workplace and in other companies that develop software.
 
-<p align="center"> Design Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
+<p align="center"> Be mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
 
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 
