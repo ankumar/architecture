@@ -33,9 +33,7 @@ Let's look at some interesting [System design principles](Design%20Patterns.md),
 * [Workflows & Integrations](Workflows.md)
 
 ##
-<p align="center"> Be mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
-
-A model of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
+Be mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. A model of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
 
 [Sandbox](../Labs/Sandbox.md)
 
