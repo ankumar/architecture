@@ -13,8 +13,6 @@ Although this is not a scientific law, it is a valid proposition for many enviro
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 <p align="center"> <b> No engineering process can replace the philosophy of responsibility. </b> </p> 
 
-<p align="center"> Be mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
-
 --
 
 ![](../images/Cloud%20Native%20Architecture.png)
@@ -35,6 +33,7 @@ Let's look at some interesting [System design principles](Design%20Patterns.md),
 * [Workflows & Integrations](Workflows.md)
 
 ##
+<p align="center"> Be mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
 
 A model of abstractions, crisp boundaries, clear separation of concerns, and a balanced set of responsibilities.
 
