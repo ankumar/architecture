@@ -21,7 +21,7 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
-2. [Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
+2. [Talent, Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
 
 -> [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) 
 
