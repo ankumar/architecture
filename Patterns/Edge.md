@@ -20,11 +20,9 @@ Edge Workloads:
 Cloud Workloads:
 -	Autoscaling
 -	Authentication & Authorization
--	Device Management
--	Tools
+- Device Management
 - Workflows & Integrations
--	Data & Analytics
--	ML Training
+-	Storage & ML Training
 
 ## 2.	Open Source Software
 
