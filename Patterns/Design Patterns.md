@@ -30,7 +30,7 @@ http://www.poppendieck.com/
 
 ##
 
-**"Library"** - Performance, Resilience, ..., Bakes in a set of best practices & removes the boilerplate
+**"Library"** - Performance, Resilience, ..., Bake in best practices & remove the boilerplate
 
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
