@@ -28,12 +28,12 @@ Cloud Workloads:
 
 ## 2.	Open Source Software
 
-[LF Edge aims to establish an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system](https://github.com/lf-edge)
+[1. LF Edge aims to establish an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system](https://github.com/lf-edge)
 
 * https://www.infoq.com/presentations/linux-eve/ 
 * https://www.lfedge.org/wp-content/uploads/2020/07/LF-Edge-web-july2020.pdf
 
-Eclipse Foundation [IoT working group](https://iot.eclipse.org/) has been around for 8 years, also started contributing to CNCF (more below). Currently host 37 Projects, following look interesting.
+2. Eclipse Foundation [IoT working group](https://iot.eclipse.org/) has been around for 8 years, also started contributing to CNCF (more below). Currently host 37 Projects, following look interesting.
 
 * DSL - https://vorto.eclipse.org/
 * IoT GW - https://www.eclipse.org/hono/
