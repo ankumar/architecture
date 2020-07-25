@@ -2,7 +2,7 @@
 
 ![](../images/Return-to-the-Edge-–-End-of-Cloud-Computing.008.jpeg)
 
-[Return to the Edge and the End of Cloud Computing - "I'm going to take you out to the edge to show you what the future looks like."](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
+["I'm going to take you out to the edge to show you what the future looks like."](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
 
 As a strategy formulation, we are trying to change a **situation A** into a better **situation B**. This process might end in the real world, but it starts in our imaginations, in the **virtual world**. This is a straw man proposal of such a virtual world in the context of new generation of Sensors, Edge, 5G Rollout & Cloud  to aid in decision making for design, develop, and deploy model of **Business Applications** backed by an **IoT Cloud Platform**. The proposal is aligned with [Business Architecture](https://github.com/ankumar/Architecture) & [Design Heuristics](Stuff.md), refined over time after feedback & deeper understanding of real world.
 
