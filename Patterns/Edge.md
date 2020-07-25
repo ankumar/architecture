@@ -53,7 +53,7 @@ Developers mindshare & Tooling, workloads can move between Cloud & Edge. Edge co
 Cloud Native Computing Foundation (CNCF) [IoT Edge working Group](https://github.com/kubernetes/community/tree/master/wg-iot-edge) is a community where all aspects of using Kubernetes in IoT and Edge use cases is discussed. [white paper](https://docs.google.com/document/d/1We-pRDV9LDFo-vd9DURCPC5-Bum2FvjHUGZ1tacGmk8/), few projects:
 
 Kubernetes for Edge -  https://k3s.io/
--	Lightweight Kubernetes distribution suitable for the Edge 
+-	[The Lightweight Kubernetes Distribution Built for the Edge](https://www.youtube.com/watch?v=WYPd7i15XOg) 
 
 KubeEdge – https://kubeedge.io/en/
 -	IoT Edge platform build on Kubernetes   
