@@ -41,6 +41,17 @@ Source: https://oxide.computer/blog/
 
 # 80s
 
+* 1980: The Sinclair ZX80 was introduced in the UK as a small home computer. It originally sold for only £79 as a kit or £99 pre-assembled.
+* 1981: Sony introduced the first 3 ½-inch floppy drives and diskettes. IBM introduced their personal computer, the IBM Model 5150, which went hand in hand with an MS-DOS release. The Osborne 1 was introduced, weighing 24 pounds and at a price of $1,795.
+* 1982: TIME magazine publishes "Machine of the Year" versus the usual "Man of the Year". Sun Microsystems was founded, the namesake from SUN was Stanford University Network. Commodore introduced the Commodore 64 which sold for $595 and came with 64 KB of RAM.
+* 1983: Apple introduced the Lisa, which was the first commercial personal computer with a graphical user interface. Microsoft introduced Word.
+* 1984: Apple launches the Macintosh with the infamous 1984 ad. Flash memory is invented by Fujio Masuoka. Matlab is released. Verilog, the hardware description language is created by Phil Moorby and Prabhu Goel.
+* 1985: C++, the programming language, is published. Nintendo released the Nintendo Entertainment System (NES).
+* 1986: The SCSI-1 standard, the interface for connecting external devices such as hard drives to computers, is adopted.
+* 1987: IBM introduced their Personal System/2 (PS/2) machines, which included Intel's 80386 chip. Larry Wall wrote Perl.
+* 1988: The NeXT cube is announced by Steve Jobs. The base model sold for $6,500. Stephen Wolfram created Mathematica.
+* 1989: Nintendo released the Game Boy handheld gaming console.
+
 # 70s
 
 # 60s
