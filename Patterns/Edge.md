@@ -2,7 +2,7 @@
 
 As a strategy formulation, we are trying to change a **situation A** into a better **situation B**. This process might end in the real world, but it starts in our imaginations, in the **virtual world**. This is a straw man proposal of such a virtual world in the context of new generation of Sensors, Edge, 5G Rollout & Cloud  to aid in decision making for design, develop, and deploy model of **Business Applications** backed by an **IoT Cloud Platform**. The proposal is aligned with [Design Heuristics](Stuff.md) & will be refined over time after feedback & deeper understanding of real world.
 
-![](https://info.container-solutions.com/hs-fs/hubfs/The%20strategist.png)
+![https://info.container-solutions.com/patterns-maps](https://info.container-solutions.com/hs-fs/hubfs/The%20strategist.png)
 
 ## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
 
