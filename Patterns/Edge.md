@@ -72,6 +72,6 @@ Knative – https://github.com/knative/
 
 **Cloud:** Azure, Evaluation to determine Build/Rent of critical capabilities like Kubernetes, Databases & Analytics.
 
-https://www.usenix.org/conference/nsdi20/presentation/brooker
+* Thinking about State - https://github.com/ankumar/Architecture/blob/main/Patterns/Stateful.md
 
 **Edge:** TODO, after more study & analysis…
