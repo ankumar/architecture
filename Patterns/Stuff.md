@@ -4,6 +4,8 @@ Many organizations have become adept at identifying what they need from software
 
 In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do committees invent?’](http://www.melconway.com/Home/pdf/committees.pdf) that was subsequently made popular by **Fred Brooks** in his book **The Mythical Man-Month**, where he dubbed it 'Conway’s Law', which states:
 
+![](../images/Conway's%20Law.jpeg)
+
 Although this is not a scientific law, it is a valid proposition for many environments. We often see its effects in our workplace and in other companies that develop software.
 
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
