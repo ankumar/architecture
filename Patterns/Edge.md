@@ -66,8 +66,8 @@ Cloud Events – https://cloudevents.io/
 
 Knative – https://github.com/knative/
 -	Serverless workloads
+-	Not paying for Idle resources
 -	Use cases: Event handlers, scheduled jobs etc.
--	Not paying for Idle resources.
 
 ## 4.	Deployment Architecture & Sandbox
 
