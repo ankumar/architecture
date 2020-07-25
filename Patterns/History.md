@@ -25,3 +25,20 @@
 
 * https://www.hillelwayne.com/post/influential-dead-languages/
 
+--
+
+# 60s
+
+
+# 50s
+
+* 1950: Magnetic drum memory is developed for the US Navy.
+* 1951: The first Univac 1 is delivered to the US Census Bureau. Univac introduced the UNISERVO tape drive for the Univac 1. It was the first tape storage for a commercial computer. Alan Turing created the Turing Test.
+* 1952: On November 4th, the Univac computer predicted the outcome of the election.
+* 1953: Whirlwind core memory is developed at MIT. It was the first computer to use magnetic core memory.
+* 1954: IBM introduced the 650 magnetic drum calculator.
+* 1956: The first implementations of keyboards are developed at MIT. An early experiment was named a Flexowriter. IBM shipped the RAMAC computer with magnetic disk storage.
+* 1957: DEC was founded. FORTRAN is developed at IBM.
+* 1958: LISP is invented by John McCarthy at MIT.
+
+
