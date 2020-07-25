@@ -1,6 +1,6 @@
 # Design Heuristics
 
-In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) Many organizations have become adept at identifying what they need from software development projects, based on a keen understanding of their business goals. Even so, they’re often surprised to find out that the end results don’t achieve the transformative impact they were expecting. Their mistake? Overlooking the importance of Conway’s Law.
+In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/), Many organizations have become adept at identifying what they need from software development projects, based on a keen understanding of their business goals. Even so, they’re often surprised to find out that the end results don’t achieve the transformative impact they were expecting. Their mistake? Overlooking the importance of Conway’s Law.
 
 In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do committees invent?’](http://www.melconway.com/Home/pdf/committees.pdf) that was subsequently made popular by **Fred Brooks** in his book **The Mythical Man-Month**, where he dubbed it 'Conway’s Law', which states **"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."**
 
