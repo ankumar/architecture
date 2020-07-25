@@ -68,7 +68,7 @@ Knative – https://github.com/knative/
 -	Not paying for Idle resources
 -	Use cases: Event handlers, scheduled jobs etc.
 
-## 4.	Deployment Architecture & Sandbox
+## 4.	Tech Stack & Deployment Architecture
 
 **Cloud:** Azure, Evaluation to determine Build/Rent of critical capabilities like Kubernetes, Databases & Analytics.
 
