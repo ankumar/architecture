@@ -2,9 +2,7 @@
 
 Many organizations have become adept at identifying what they need from software development projects, based on a keen understanding of their business goals. Even so, they’re often surprised to find out that the end results don’t achieve the transformative impact they were expecting. Their mistake? Overlooking the importance of Conway’s Law.
 
-In 1967, Melvin Conway coined a phrase at the end of his publication ‘How do committees invent?’ that was subsequently made popular by Fred Brooks in his book The Mythical Man-Month, where he dubbed it 'Conway’s Law', which states:
-
-[1967 Classic Paper Conway's Law](http://www.melconway.com/Home/pdf/committees.pdf)
+In 1967, [Melvin Conway](http://www.melconway.com/Home/pdf/committees.pdf) coined a phrase at the end of his publication ‘How do committees invent?’ that was subsequently made popular by Fred Brooks in his book The Mythical Man-Month, where he dubbed it 'Conway’s Law', which states:
 
 Although this is not a scientific law, it is a valid proposition for many environments. We often see its effects in our workplace and in other companies that develop software.
 
