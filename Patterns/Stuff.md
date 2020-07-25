@@ -38,5 +38,5 @@ Set of abstractions, Crisp boundaries, Clear separation of concerns, and a balan
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
-[A Sandbox](../Labs/Sandbox.md)
+[-> A Sandbox](../Labs/Sandbox.md)
 
