@@ -22,7 +22,7 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
 
--> [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) / [**The Future of Software Engineering - Mary Poppendieck**](https://www.youtube.com/watch?v=6K4ljFZWgW8)
+-> [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) 
 
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
