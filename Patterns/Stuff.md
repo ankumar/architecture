@@ -5,8 +5,6 @@ In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do 
   <img src="../images/Conway's%20Law.jpeg"/>
 </p>
 
-![](../images/Conway's%20Law.jpeg)
-
 **Although this is not a scientific law, it is a valid proposition for many environments. Many organizations have become adept at identifying what they need from software development projects, based on a keen understanding of their business goals. Even so, they’re often surprised to find out that the end results don’t achieve the transformative impact they were expecting. Their mistake? Overlooking the importance of Conway’s Law.** [We often see its effects in our workplace and in other companies that develop software](https://www.thoughtworks.com/insights/blog/applying-conways-law-improve-your-software-development).
 
 [Six Decades of Software Engineering By Mary Poppendieck](https://www.meetup.com/DevOps-Lisbon/events/271172214/)
