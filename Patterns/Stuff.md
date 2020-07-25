@@ -8,10 +8,9 @@ In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do 
 
 Although this is not a scientific law, it is a valid proposition for many environments. We often see its effects in our workplace and in other companies that develop software.
 
-![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
-
 [Six Decades of Software Engineering By Mary Poppendieck](https://www.meetup.com/DevOps-Lisbon/events/271172214/)
 
+![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 <p align="center"> <b> No engineering process can replace the philosophy of responsibility. </b> </p> 
 
 <p align="center"> Be mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
