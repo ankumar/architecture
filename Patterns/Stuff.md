@@ -3,7 +3,7 @@ In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do 
 
 ![](../images/Conway's%20Law.jpeg)
 
-Although this is not a scientific law, it is a valid proposition for many environments. We often see its effects in our workplace and in other companies that develop software.
+Although this is not a scientific law, it is a valid proposition for many environments. [We often see its effects in our workplace and in other companies that develop software](https://www.thoughtworks.com/insights/blog/applying-conways-law-improve-your-software-development).
 
 [Six Decades of Software Engineering By Mary Poppendieck](https://www.meetup.com/DevOps-Lisbon/events/271172214/)
 
