@@ -1,6 +1,6 @@
 # distributed systems architecture for Highly Autonomous Systems
 
-![](../images/The%20End%20of%20Cloud%20Computing.png)
+![](../images/Return-to-the-Edge-–-End-of-Cloud-Computing.008.jpeg)
 
 [Return to the Edge and the End of Cloud Computing - "I'm going to take you out to the edge to show you what the future looks like."](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
 
