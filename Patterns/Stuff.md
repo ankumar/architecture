@@ -1,7 +1,4 @@
 # Design Heuristics
-
-In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) & [The Future of Software Engineering in the Cloud](https://www.youtube.com/watch?v=6K4ljFZWgW8), Many organizations have become adept at identifying what they need from software development projects, based on a keen understanding of their business goals. Even so, they’re often surprised to find out that the end results don’t achieve the transformative impact they were expecting. Their mistake? Overlooking the importance of Conway’s Law.
-
 In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do committees invent?’](http://www.melconway.com/Home/pdf/committees.pdf) that was subsequently made popular by **Fred Brooks** in his book **The Mythical Man-Month**, where he dubbed it 'Conway’s Law', which states **"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."**
 
 ![](../images/Conway's%20Law.jpeg)
@@ -17,7 +14,7 @@ Although this is not a scientific law, it is a valid proposition for many enviro
 
 ![](../images/Cloud%20Native%20Architecture.png)
 
-Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment are Transforming, Modernizing & Updating **Architecture & Technology Stacks** around Cloud Technologies. The architecture is being developed in a vendor neutral & open governance model driven by open source communities under [Cloud Native Computing Foundation](https://www.cncf.io/) & other [organizations](https://opensource.com/resources/organizations).
+In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) & [The Future of Software Engineering in the Cloud](https://www.youtube.com/watch?v=6K4ljFZWgW8), Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment are Transforming, Modernizing & Updating **Architecture & Technology Stacks** around Cloud Technologies. The architecture is being developed in a vendor neutral & open governance model driven by open source communities under [Cloud Native Computing Foundation](https://www.cncf.io/) & other [organizations](https://opensource.com/resources/organizations).
 
 [Per Cloud Native Landscape](https://github.com/cncf/landscape), a definition ...
 
