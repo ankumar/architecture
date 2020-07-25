@@ -1,5 +1,9 @@
 # Design Heuristics
 
+![](../images/Conway's%20Law.jpeg)
+
+[Conway's Law Classic Paper](http://www.melconway.com/Home/pdf/committees.pdf)
+
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 
 <p align="center"> Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value. </p>
