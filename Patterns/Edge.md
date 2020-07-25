@@ -4,10 +4,10 @@ As a strategy formulation, we are trying to change a **situation A** into a bett
 
 ![https://info.container-solutions.com/patterns-maps](https://info.container-solutions.com/hs-fs/hubfs/The%20strategist.png)
 
-## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
 ![](../images/The%20End%20of%20Cloud%20Computing.png)
 [Return to the Edge and the End of Cloud Computing - "I'm going to take you out to the edge to show you what the future looks like."](https://www.youtube.com/watch?v=4QTAtFaIiyc)
 
+## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
 Edge Workloads:
 * Limited number of Nodes, No Autoscaling
 
