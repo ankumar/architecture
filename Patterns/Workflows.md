@@ -3,7 +3,7 @@
 **Focus on applications patterns & Hiding Infrastructure**, standardized interface allowing decentralized development. Programs built with it are **“continually valid and observable from the very beginning of its construction”.**
 
 
-## 1. Services & Federation - Monoliths vs MicroServices 
+## 1. Services & Federation - Modularity, Monoliths vs MicroServices 
 
   * [Microservices, and the scaling of rational interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
