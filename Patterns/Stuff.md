@@ -31,7 +31,7 @@ Being mindful of **Flow**, Dev + Sec + Fin + Ops - Breaking down dependencies, s
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
-Let's look at some interesting [System design principles](Design%20Patterns.md), Implementations of **Mobile & Web** Applications as **Application Programming Interfaces (APIs)** designed [Microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
+Let's look at some interesting [System design principles](Design%20Patterns.md), Implementations of **Mobile, Web & Edge** Applications as **Application Programming Interfaces (APIs)** designed [Microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
 
 * [API Products](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
