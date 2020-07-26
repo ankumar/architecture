@@ -9,9 +9,10 @@
   * [Microservices & Scaling of Rational Interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
-1. Monoliths - Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
+* Monoliths - Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
 * https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
-2. Microservices - 
+
+* Microservices: 
 * Learnings - http://microservices.fail/
 * https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
 
