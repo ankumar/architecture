@@ -7,11 +7,14 @@
   * [Payments](https://stripe.com/docs/api)
   * [Fulfillment](https://shiphero.com/)
   * [Facebook](https://developers.facebook.com/docs/commerce-platform)
+  * ...
 * Artificial General Intelligence
   * [OpenAI](https://openai.com/blog/openai-api/)
+  * ...
 * Cloud
   * [S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
   * [Kubernetes](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+  * ...
 * Edge
   * </>
   
