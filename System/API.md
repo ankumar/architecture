@@ -12,9 +12,9 @@
 * Artificial General Intelligence
   * [OpenAI](https://openai.com/blog/openai-api/)
   * ...
-* Cloud Storage, Compute & Networking
-  * [S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
-  * [Kubernetes](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+* Storage, Compute & Networking
+  * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
+  * [Open Source Kubernetes](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
   * Edge
   
 ---
