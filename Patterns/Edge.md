@@ -56,7 +56,8 @@ Kubernetes for Edge -  https://k3s.io/
 -	[The Lightweight Kubernetes Distribution Built for the Edge](https://www.youtube.com/watch?v=WYPd7i15XOg) 
 
 KubeEdge – https://kubeedge.io/en/
--	IoT Edge platform build on Kubernetes   
+-	IoT Edge platform build on Kubernetes  
+- https://kubernetes.io/blog/2019/03/19/kubeedge-k8s-based-edge-intro/
 
 Virtual Kubelet – https://virtual-kubelet.io/
 -	Framework for implementing alternative Kubelet implementations, Ex: Azure IoT Edge Connector for Kubernetes
