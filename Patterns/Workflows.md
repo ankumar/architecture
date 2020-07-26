@@ -5,16 +5,15 @@
 
 ## 1. Services & Federation - Monoliths vs MicroServices debate will go on ...
 
-[Microservices & Scaling of Rational Interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
+* Mechanical Sympathy:
+ * [Microservices & Scaling of Rational Interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
+ * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
 1. Monoliths - Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
 * https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
 2. Microservices - 
 * Learnings - http://microservices.fail/
 * https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
-
-* Mechanical Sympathy:
-  * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
 ## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 
