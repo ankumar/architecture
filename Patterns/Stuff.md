@@ -27,7 +27,7 @@ In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why
 ***The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.***
 
 ##
-Be mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value.
+Being mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value.
 
 Set of abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
 * Many Teams, each working on different areas of the Product
