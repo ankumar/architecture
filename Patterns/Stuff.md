@@ -26,11 +26,6 @@ In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why
 
 ***The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.***
 
-Let's look at some interesting [System design principles](Design%20Patterns.md), Implementations of **Mobile & Web** Applications as **Application Programming Interfaces (APIs)** designed [Microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
-
-* [API Products](../System/API.md)  
-* [Workflows & Integrations](Workflows.md)
-
 ##
 Be mindful of Flow: Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value.
 
@@ -40,5 +35,9 @@ Set of abstractions, Crisp boundaries, Clear separation of concerns, and a balan
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
+Let's look at some interesting [System design principles](Design%20Patterns.md), Implementations of **Mobile & Web** Applications as **Application Programming Interfaces (APIs)** designed [Microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
+
+* [API Products](../System/API.md)  
+* [Workflows & Integrations](Workflows.md)
 -> [Sandbox](../Labs/Sandbox.md)
 
