@@ -30,11 +30,10 @@ In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
-Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities**
-
 Additional Considerations being mindful of **Flow**, breaking down dependencies & silos, keeping costs under control & the focus on delivering business value. 
 Let's look at some interesting [System design principles](Design%20Patterns.md), Implementations of **Mobile, Web & Edge** Applications as **Application Programming Interfaces (APIs)** designed [Microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
 
+Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities**
 * [API Products](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
 
