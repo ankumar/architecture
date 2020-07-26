@@ -24,7 +24,7 @@ In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why
 
 ##
 ![](../images/Cloud%20Native%20Architecture.png)
-<p align="center">**Development + Security + Finance + Operations**</p>
+<p align="center"> <b> Development + Security + Finance + Operations </b> </p>
 
 Considering agility & silos, being mindful of Flow, breaking down dependencies, keeping costs under control & the focus on delivering business value. 
 
