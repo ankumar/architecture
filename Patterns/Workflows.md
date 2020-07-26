@@ -5,7 +5,7 @@
 
 ## 1. Services & Federation - Monoliths vs MicroServices debate will go on ...
 
-  * [Microservices & Scaling of Rational Interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
+  * [Microservices, and the Scaling of rational interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
 Monoliths - Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
