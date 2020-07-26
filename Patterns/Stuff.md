@@ -12,10 +12,6 @@ In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do 
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 <p align="center"> <b> No engineering process can replace the philosophy of responsibility. </b> </p> 
 
---
-
-![](../images/Cloud%20Native%20Architecture.png)
-
 In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) & [The Future of Software Engineering in the Cloud](https://www.youtube.com/watch?v=6K4ljFZWgW8), Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment are Transforming, Modernizing & Updating **Architecture & Technology Stacks** around Cloud Technologies. The architecture is being developed in a vendor neutral & open governance model driven by open source communities under [Cloud Native Computing Foundation](https://www.cncf.io/) & other [organizations](https://opensource.com/resources/organizations).
 
 [Per Cloud Native Landscape](https://github.com/cncf/landscape), a definition ...
@@ -27,6 +23,8 @@ In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why
 ***The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.***
 
 ##
+![](../images/Cloud%20Native%20Architecture.png)
+
 Being mindful of **Flow**, Dev + Sec + Fin + Ops - Breaking down dependencies, silos, increasing agility, keeping costs under control & the focus on delivering business value, set of abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
