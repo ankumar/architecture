@@ -9,6 +9,7 @@ In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do 
 
 * [Six Decades of Software Engineering By Mary Poppendieck](https://www.meetup.com/DevOps-Lisbon/events/271172214/)
 
+* [Cloud Engineering]
 ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 <p align="center"> <b> No engineering process can replace the philosophy of responsibility. </b> </p> 
 
