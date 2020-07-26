@@ -25,7 +25,9 @@ In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why
 ##
 ![](../images/Cloud%20Native%20Architecture.png)
 
-**Development + Security + Finance + Operations**, being mindful of **Flow**, breaking down dependencies & silos, increasing agility, keeping costs under control & the focus on delivering business value, set of abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
+Considering agility & silos, being mindful of Flow **Development + Security + Finance + Operations**, breaking down dependencies, keeping costs under control & the focus on delivering business value. 
+
+set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities.
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
@@ -35,7 +37,6 @@ Let's look at some interesting [System design principles](Design%20Patterns.md),
 
 * [API Products](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
-
 
 -> [Sandbox](../Labs/Sandbox.md)
 
