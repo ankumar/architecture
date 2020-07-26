@@ -37,7 +37,6 @@ Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concer
 * [API Products](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
 
--> [Sandbox to evaluate individual components & compositions](../Labs/Sandbox.md)
-
+-> [Sandbox](../Labs/Sandbox.md) to evaluate individual components & compositions
 
 
