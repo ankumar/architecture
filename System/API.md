@@ -14,7 +14,7 @@
   * ...
 * Storage, Compute & Networking
   * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
-  * [Open Source Kubernetes](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+  * [Kubernetes](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
   * Edge
   
 ---
