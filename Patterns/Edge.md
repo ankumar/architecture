@@ -61,6 +61,7 @@ KubeEdge – https://kubeedge.io/en/
 
 Virtual Kubelet – https://virtual-kubelet.io/
 -	Framework for implementing alternative Kubelet implementations, Ex: Azure IoT Edge Connector for Kubernetes
+- https://kubernetes.io/blog/2018/07/27/kubevirt-extending-kubernetes-with-crds-for-virtualized-workloads/
 
 Cloud Events – https://cloudevents.io/
 -	https://cloudblogs.microsoft.com/opensource/2019/11/21/boosting-cloud-interoperability-cloudevents-v1-0-support-azure-event-grid/
