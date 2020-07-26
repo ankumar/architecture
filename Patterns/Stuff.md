@@ -24,19 +24,20 @@ In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why
 
 ##
 ![](../images/Cloud%20Native%20Architecture.png)
-<p align="center"> <b> Development + Security + Finance + Operations </b> </p>
-
-Considering agility & silos, being mindful of Flow, breaking down dependencies, keeping costs under control & the focus on delivering business value. 
-
+**Development + Security + Finance + Operations**
 * Many Teams, each working on different areas of the Product
 * Teams need to control their own development, deployment, and scale
 * Without having to co-ordinate their changes with other teams
 * Development process needs to be distributed and decoupled just like our software
 
+Consider agility, being mindful of Flow, breaking down dependencies & silos, keeping costs under control & the focus on delivering business value. 
 Let's look at some interesting [System design principles](Design%20Patterns.md), Implementations of **Mobile, Web & Edge** Applications as **Application Programming Interfaces (APIs)** designed [Microservices and functions](http://bit.ly/9stepsawesome) & composability spanning multiple requests using **Workflows** & **Integrations**.
 
+**set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities**
 * [API Products](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
 
 -> [Sandbox](../Labs/Sandbox.md)
+
+
 
