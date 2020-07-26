@@ -5,7 +5,6 @@
 
 ## 1. Services & Federation - Monoliths vs MicroServices debate will go on ...
 
-Mechanical Sympathy:
   * [Microservices & Scaling of Rational Interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
