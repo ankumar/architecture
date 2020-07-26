@@ -6,6 +6,7 @@
 ## 1. Services & Federation - Modularity, Monoliths vs MicroServices 
 
   * [Microservices, and the scaling of rational interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
+    * Follow up article - https://www.infoq.com/articles/microservices-economics-small-things/
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
 
 Monoliths - Facebook, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
