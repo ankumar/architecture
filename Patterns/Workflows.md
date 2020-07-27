@@ -1,4 +1,4 @@
-## 1. Software engineerinh: Services & Federation - Designing Modularity, Monoliths vs MicroServices.
+## 1. Software engineering: Services & Federation - Designing Modularity, Monoliths vs MicroServices.
 
   * [Microservices, and the scaling of rational interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
     * Follow up article - https://www.infoq.com/articles/microservices-economics-small-things/
