@@ -1,5 +1,3 @@
-## "Platforms" - Platform is a perspective, Serving customers ...
-
 ## 1. Services & Federation - Designing Modularity, Monoliths vs MicroServices.
 
   * [Microservices, and the scaling of rational interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
