@@ -1,4 +1,4 @@
-## 1. Services & Federation - Designing Modularity, Monoliths vs MicroServices.
+## 1. Software engineerinh: Services & Federation - Designing Modularity, Monoliths vs MicroServices.
 
   * [Microservices, and the scaling of rational interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
     * Follow up article - https://www.infoq.com/articles/microservices-economics-small-things/
@@ -11,7 +11,7 @@ Microservices - Netflix, Amazon, ...
 * Learnings - http://microservices.fail/
 * https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
 
-## 2. Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
+## 2. Science: Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 
 * https://github.com/openai
   * [Metaflow, a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9)
