@@ -10,7 +10,7 @@
 ## "Platforms" - Platform is a perspective, Serving customers ...
 **Focus on applications patterns & Hiding Infrastructure**, standardized interface allowing decentralized development. Programs built with it are **“continually valid and observable from the very beginning of its construction”.**
 
-3. Declarative model for Workloads & Application infrastructure, 
+Declarative model for Workloads & Application infrastructure, 
 * request-response
 * stateless use-cases
 * streaming and event-based use-cases
