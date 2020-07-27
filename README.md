@@ -28,9 +28,10 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 ## 2. Tools & Services
 ![](images/open%20source.jpeg)
 
--- https://twitter.com/mjasay / [**Trending on GitHub**](https://github.com/trending)
+-- https://twitter.com/mjasay 
 
-1. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
-2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+1. [**Trending on GitHub**](https://github.com/trending)
+2. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
+3. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 
 -> [**Cloud Services**](Patterns/Stuff.md)
