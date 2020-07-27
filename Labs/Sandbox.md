@@ -8,6 +8,7 @@
 2. [Microservices](../Patterns/microservices-demo.md)
 3. Declarative model for Workloads & Application infrastructure, 
 * request-response
+* stateless use-cases
 * streaming and event-based use-cases
 * streaming and stateful use-cases
 
