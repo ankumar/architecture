@@ -34,4 +34,4 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 2. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
 3. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 
--> [**Cloud Services**](Patterns/Stuff.md)
+-> [**Cloud & Edge Services**](Patterns/Stuff.md)
