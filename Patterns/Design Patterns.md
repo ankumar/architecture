@@ -1,5 +1,7 @@
 Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities**
 
+##
+
 [On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
 
 [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
