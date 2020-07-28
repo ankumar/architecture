@@ -15,7 +15,7 @@
 
 1 JavaScript - 
 2 Python - 
-3 Java - http://bit.ly/9stepsawesome
+3 Java - http://bit.ly/9stepsawesome; https://tanzu.vmware.com/content/practitioners/netflix-built-its-own-application-generator-to-boost-dev-productivity-heres-how-you-can-too
 5 C# - 
 
 **2. Declarative model for Workloads & Application infrastructure**
