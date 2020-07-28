@@ -38,4 +38,9 @@ Let's look at some interesting [System design principles](Design%20Patterns.md),
 
 -> [Sandbox](../Labs/Sandbox.md) to evaluate individual components & compositions
 
+![](../images/Return-to-the-Edge-–-End-of-Cloud-Computing.008.jpeg)
+
+["I'm going to take you out to the edge to show you what the future looks like"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
+-- Peter Levine, general partner at Andreessen Horowitz
+
 
