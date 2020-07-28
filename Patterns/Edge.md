@@ -28,7 +28,7 @@ Cloud Workloads:
 
 ## 2.	Open Source Software
 
-1. The Linux Foundation is Building an Open SourceFramework for the Edge, [LF Edge aims to establish an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system](https://github.com/lf-edge)
+1. Relatively recent (Jan, 2019), The Linux Foundation is Building an Open SourceFramework for the Edge, [LF Edge aims to establish an open, interoperable framework for edge computing independent of hardware, silicon, cloud, or operating system](https://github.com/lf-edge)
 
 * https://www.infoq.com/presentations/linux-eve/ 
 * https://www.lfedge.org/wp-content/uploads/2020/07/LF-Edge-web-july2020.pdf
