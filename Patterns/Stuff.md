@@ -41,6 +41,6 @@ Let's look at some interesting [System design principles](Design%20Patterns.md),
 ["I'm going to take you out to the edge to show you what the future looks like"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
 -- Peter Levine, general partner at Andreessen Horowitz
 
--> [Sandbox](../Labs/Sandbox.md) to evaluate components & compositions
+-> [Sandbox](../Labs/Sandbox.md) to evaluate [components](https://martinfowler.com/articles/microservices.html#ComponentizationViaServices) & compositions
 
 
