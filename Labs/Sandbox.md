@@ -9,19 +9,19 @@
 * streaming and event-based use-cases
 * streaming and stateful use-cases
 
-**1. SDK's, Libraries & Frameworks** - [Programming Language Rankings: June 2020](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/)
+* **SDK's, Libraries & Frameworks** - [Programming Language Rankings: June 2020](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/)
 
 1 JavaScript - 
 2 Python - 
 3 Java - http://bit.ly/9stepsawesome; [Application Generator to Boost Dev Productivity](https://tanzu.vmware.com/content/practitioners/netflix-built-its-own-application-generator-to-boost-dev-productivity-heres-how-you-can-too)
 5 C# - 
 
-**2. Declarative model for Workloads & Application infrastructure**
+* **Declarative model for Workloads & Application infrastructure**
 
 1. ["Containers"](https://www.michaelnygard.com/blog/2018/09/joyful-isolation) - [has come to be a deeply overloaded term, and I see it causing confusion nearly every day.](https://twitter.com/MarcJBrooker/status/1222217458028707841)
 2. [Services](../Patterns/microservices-demo.md)
 
-**3. System Integration & Performance Testing**
+* **System Integration & Performance Testing**
 
 
 
