@@ -13,10 +13,10 @@
 
 **1. SDK's, Libraries & Frameworks** - [Programming Language Rankings: June 2020](https://redmonk.com/sogrady/2020/07/27/language-rankings-6-20/)
 
-1. JavaScript - 
-2. Python - 
-3. Java - http://bit.ly/9stepsawesome
-5. C# - 
+1 JavaScript - 
+2 Python - 
+3 Java - http://bit.ly/9stepsawesome
+5 C# - 
 
 **2. Declarative model for Workloads & Application infrastructure**
 
