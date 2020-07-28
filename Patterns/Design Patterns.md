@@ -1,4 +1,4 @@
-Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities**
+Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...**
 
 ##
 
