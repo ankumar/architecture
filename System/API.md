@@ -9,6 +9,7 @@
   * [Fulfillment](https://shiphero.com/)
   * [Facebook](https://developers.facebook.com/docs/commerce-platform)
   * ...
+* Open Banking
 * Artificial General Intelligence
   * [OpenAI](https://openai.com/blog/openai-api/)
   * ...
