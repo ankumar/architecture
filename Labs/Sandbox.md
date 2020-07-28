@@ -2,7 +2,7 @@
 
 ![](/images/systemsofsystems.png)
 
-"Platforms" - Platform is a perspective, Serving customers ... - **Focus on applications patterns & Hiding Infrastructure**, standardized interface allowing decentralized development. Programs built with it are **“continually valid and observable from the very beginning of its construction”.**
+"Platforms" - Platform is a perspective, Serving customers, **Focus on applications patterns & Hiding Infrastructure**, standardized interface allowing decentralized development. Programs built with it are **“continually valid and observable from the very beginning of its construction”.**
 
 * request-response
 * stateless use-cases
