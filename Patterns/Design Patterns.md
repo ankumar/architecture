@@ -35,7 +35,7 @@ http://www.poppendieck.com/
 
 ##
 
-**"Library"** - Performance, Resilience, ..., Bake in best practices & remove the boilerplate
+**"Library"** - Performance, Resilience, ..., Bake in best practices & less boilerplate
 
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
   * [AWS’s CI/CD architecture](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
