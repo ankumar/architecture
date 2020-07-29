@@ -31,7 +31,7 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 
 -- https://twitter.com/mjasay 
 
-1. [**Trending on GitHub**](https://github.com/trending)
-2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+1. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+2. [**Trending on GitHub**](https://github.com/trending)
 
 -> [**Apps & Infra, Cloud & Edge**](Patterns/Stuff.md)
