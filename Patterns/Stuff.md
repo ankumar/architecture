@@ -1,4 +1,7 @@
 # Design Heuristics
+["I'm going to take you out to the edge to show you what the future looks like"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
+-- Peter Levine, general partner at Andreessen Horowitz
+
 In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do committees invent?’](http://www.melconway.com/Home/pdf/committees.pdf) that was subsequently made popular by **Fred Brooks** in his book **The Mythical Man-Month**, where he dubbed it 'Conway’s Law', which states **"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."**
 
 <p align="center">
@@ -37,9 +40,6 @@ Let's look at some interesting [System design principles](Design%20Patterns.md),
 * [Workflows & Integrations](Workflows.md)
 
 ![](../images/Return-to-the-Edge-–-End-of-Cloud-Computing.008.jpeg)
-
-["I'm going to take you out to the edge to show you what the future looks like"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
--- Peter Levine, general partner at Andreessen Horowitz
 
 -> [Sandbox](../Labs/Sandbox.md) to evaluate [components](https://martinfowler.com/articles/microservices.html#ComponentizationViaServices) & compositions
 
