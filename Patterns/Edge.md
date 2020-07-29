@@ -78,7 +78,7 @@ Knative – https://github.com/knative/
 **Edge:** TODO, after more study & analysis…
 
 * API's - Very Recent announcement; No public documentation yet, https://www.newsfilecorp.com/release/57539/DCS-Launches-API-Web-Services-for-IoT-Deployments-System-Integration
-* https://dapr.io/
+Frameworks - https://focus.dotnetconf.net/agenda / https://dapr.io/
 * Storage & Databases - https://github.com/ankumar/Architecture/blob/main/Patterns/Stateful.md
 
 
