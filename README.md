@@ -22,6 +22,7 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Talent, Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
+3. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
 
 -> [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) 
 
@@ -31,7 +32,6 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 -- https://twitter.com/mjasay 
 
 1. [**Trending on GitHub**](https://github.com/trending)
-2. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
-3. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 
 -> [**Apps & Infra, Cloud & Edge**](Patterns/Stuff.md)
