@@ -12,7 +12,7 @@ In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do 
 * ![](../images/Six%20Decades%20of%20SoftwareEngineering.png)
 <p align="center"> <b> No engineering process can replace the philosophy of responsibility. </b> </p> 
 
-In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) & [The Future of Software Engineering in the Cloud & Edge](https://www.youtube.com/watch?v=6K4ljFZWgW8), Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment are “modernizing”  infrastructure, application layer around Cloud Native stack. The architecture is being developed in a vendor neutral & open governance model driven by open source communities under [Cloud Native Computing Foundation](https://www.cncf.io/) & other [organizations](https://opensource.com/resources/organizations).
+In the context of [Software Is Eating the World](https://a16z.com/2011/08/20/why-software-is-eating-the-world/) & [The Future of Software Engineering in the Cloud](https://www.youtube.com/watch?v=6K4ljFZWgW8), Businesses across Retail, Finance, Health, Education, Manufacturing & Goverment are “modernizing”  infrastructure, application layer around Cloud Native stack. The architecture is being developed in a vendor neutral & open governance model driven by open source communities under [Cloud Native Computing Foundation](https://www.cncf.io/) & other [organizations](https://opensource.com/resources/organizations).
 
 [Per Cloud Native Landscape](https://github.com/cncf/landscape), a definition ...
 
