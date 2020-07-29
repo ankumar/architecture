@@ -20,6 +20,7 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Talent, Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
 3. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
+
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 -- [Simon Wardley](https://twitter.com/swardley)
 
