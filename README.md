@@ -34,4 +34,4 @@ The [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/0001193125171201
 1. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 2. [**Trending on GitHub**](https://github.com/trending)
 
--> [**App & Infra Layers, Cloud & Edge**](Patterns/Stuff.md)
+-> [**Cloud & Edge, Apps & Infra Layers, **](Patterns/Stuff.md)
