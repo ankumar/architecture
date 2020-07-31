@@ -37,7 +37,7 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 Additional Considerations being mindful of **Flow**, breaking down dependencies & silos, keeping costs under control & the focus on delivering business value. 
 Let's look at some interesting [System design principles](Design%20Patterns.md), Implementations of **Mobile, Web & Edge** [Applications](https://martinfowler.com/bliki/ApplicationBoundary.html), **Application Programming Interfaces (APIs)**, span from single to multiple request/response using **Workflows** & **Integrations**.
 
-* [API Products](../System/API.md)  
+* [API Applications](../System/API.md)  
 * [Workflows & Integrations](Workflows.md)
 
 -> [Sandbox](../Labs/Sandbox.md) to evaluate [components](https://martinfowler.com/articles/microservices.html#ComponentizationViaServices) & compositions
