@@ -11,8 +11,6 @@ As a strategy formulation, we are trying to change a **situation A** into a bett
 
 ## 1.	Edge & Cloud Computing - Edge, everything that is not cloud, deploy workloads closer to users and devices, Why? - Latency, Availability & Data Locality.
 
-https://www.fastly.com/blog/state-at-the-edge
-
 Edge Workloads:
 * Limited number of Nodes, No Autoscaling
 
@@ -79,6 +77,8 @@ Knative – https://github.com/knative/
 **Cloud:** Azure, Evaluation to determine Build/Rent of critical capabilities like Kubernetes, Databases & Analytics.
 
 **Edge:** TODO, after more study & analysis…
+
+https://www.fastly.com/blog/state-at-the-edge
 
 * API's - Very Recent announcement; No public documentation yet, https://www.newsfilecorp.com/release/57539/DCS-Launches-API-Web-Services-for-IoT-Deployments-System-Integration
 Frameworks - https://focus.dotnetconf.net/agenda / https://dapr.io/
