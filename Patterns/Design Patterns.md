@@ -2,6 +2,10 @@ Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concer
 
 ##
 
+"Always design a thing by considering it in its next larger context — a chair in a room, a room in a house, a house in an environment, environment in a city plan." — Eliel Saarinen [1]
+
+https://bredemeyer.com/howto.htm
+
 ![](../images/Decisions%20across%20boundaries.jpeg)
 
 [On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
@@ -12,8 +16,6 @@ http://www.poppendieck.com/
 * https://gotocon.com/dl/goto-berlin-2016/slides/MaryPoppendieck_MorningKeynoteTheFutureOfSoftwareEngineering.pdf
 
 [Hints and principles for computer system design](https://www.microsoft.com/en-us/research/uploads/prod/2019/09/Hints-137-short.pdf)
-
-[Reversible & Irreversible Decisions](https://www.bredemeyer.com/whatis.htm)
 
 [Principles of Technology Leadership](https://www.youtube.com/watch?v=9QMGAtxUlAc)
 
