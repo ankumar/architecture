@@ -17,6 +17,8 @@ http://www.poppendieck.com/
 
 [Principles of Technology Leadership](https://www.youtube.com/watch?v=9QMGAtxUlAc)
 
+[Reference Architecture for Agility](https://github.com/wso2/reference-architecture)
+
 ##
 
 **"Formal Methods"**
