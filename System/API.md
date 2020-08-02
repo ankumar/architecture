@@ -1,6 +1,9 @@
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
+* https://holidayapi.com/  
+* Open Banking
+* Advertisement
 * Communications
   * [Twilio](https://www.twilio.com/docs/api)
 * Commerce
@@ -16,9 +19,6 @@
   * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
   * [Kubernetes](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
   * ...
-* https://holidayapi.com/  
-* Open Banking
-* Advertisement
 
 ---
 
