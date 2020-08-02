@@ -9,8 +9,6 @@
   * [Fulfillment](https://shiphero.com/)
   * [Facebook](https://developers.facebook.com/docs/commerce-platform)
   * ...
-* Open Banking
-* Advertisement
 * Artificial General Intelligence
   * [OpenAI](https://openai.com/blog/openai-api/)
   * ...
@@ -18,7 +16,10 @@
   * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
   * [Kubernetes](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
   * ...
-  
+* https://holidayapi.com/  
+* Open Banking
+* Advertisement
+
 ---
 
 **API's, specifications & standards**
