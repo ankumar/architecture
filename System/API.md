@@ -3,7 +3,6 @@
 
 * https://holidayapi.com/  
 * Open Banking
-* Advertisement
 * Communications
   * [Twilio](https://www.twilio.com/docs/api)
 * Commerce
