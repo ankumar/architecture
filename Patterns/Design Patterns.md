@@ -4,8 +4,6 @@ https://bredemeyer.com/howto.htm
 
 ![](../images/Decisions%20across%20boundaries.jpeg)
 
-Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...**
-
 [On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
 
 [A Philosophy of Software Design](https://www.amazon.com/Philosophy-Software-Design-John-Ousterhout/dp/1732102201)
@@ -30,7 +28,8 @@ http://www.poppendieck.com/
 
 ##
 
-**"Well Architected"**
+**"Well Architected"** - Ideally need **set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...**
+
 
 * [AWS](https://aws.amazon.com/architecture)
 * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
