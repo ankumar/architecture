@@ -2,9 +2,7 @@
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
 * https://holidayapi.com/  
-* Open Banking
-* Communications
-  * [Twilio](https://www.twilio.com/docs/api)
+* [Twilio](https://www.twilio.com/docs/api)
 * Commerce
   * [Shopify](https://shopify.dev/concepts/shopify-introduction)
   * [Payments](https://stripe.com/docs/api)
