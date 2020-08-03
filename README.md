@@ -13,7 +13,7 @@
 
 Fast Forward 2020/25yrs later https://twitter.com/MIT_CSAIL/status/1283737295804342275 
 
-The Customer-centric [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) company accelerating Business changes worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to accelerate technology transformations during [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019). The gap is widening ...
+Customer-centric [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) company accelerating Business changes worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to accelerate technology transformations during [COVID-19](https://en.wikipedia.org/wiki/Coronavirus_disease_2019). The gap is widening ...
 
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
