@@ -28,6 +28,8 @@ Fast Forward 2020/25yrs later https://twitter.com/MIT_CSAIL/status/1283737295804
 
 -- https://twitter.com/mjasay 
 
+We track & version changes from Code to Configuration, Scripts, now Infrastructure (as Coode). The tools & experience is increasing moving to GitHub & also interesting work happening in managing data just like code 
+
 1. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 2. [**Trending on GitHub**](https://github.com/trending)
 
