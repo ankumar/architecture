@@ -28,7 +28,7 @@ Fast Forward 2020/25yrs later https://twitter.com/MIT_CSAIL/status/1283737295804
 
 -- https://twitter.com/mjasay 
 
-We track & version changes from Code to Configuration, Infrastructure (as Code). The developer tooling & experience around Git model is growing, also interesting work happening in managing data & workflows just like code.
+We track & version changes from Code to Configuration, Infrastructure (as Code), developer tooling & experience around Git model is growing, also [interesting work](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) happening in managing data & workflows just like code.
 
 1. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 2. [**Trending on GitHub**](https://github.com/trending)
