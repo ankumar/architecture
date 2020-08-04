@@ -16,7 +16,7 @@ Fast Forward 2020/25yrs later https://twitter.com/MIT_CSAIL/status/1283737295804
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 2. [Talent, Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
-3. [Where do great architectures come from?](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
+3. [Where do great architectures come from? --Mary Poppendieck](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
 
 **"Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)"** 
 -- [Simon Wardley](https://twitter.com/swardley)
