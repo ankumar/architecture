@@ -41,6 +41,7 @@ http://www.poppendieck.com/
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
   * [AWS’s CI/CD architecture](https://aws.amazon.com/builders-library/automating-safe-hands-off-deployments/)
 * [Qualities](https://github.com/mtnygard/architecture-qualities)
+* [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/index.html)
 
 
 
