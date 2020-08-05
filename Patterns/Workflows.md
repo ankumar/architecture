@@ -3,6 +3,7 @@
   * [Microservices, and the scaling of rational interactions](https://www.infoq.com/presentations/microservices-scalability-human-interaction)
     * Follow up article - https://www.infoq.com/articles/microservices-economics-small-things/
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
+  * [Data on the Outside vs. Data on the Inside](https://queue.acm.org/detail.cfm?id=3415014)
 
 Monoliths - Facebook PHP, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
 * https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
