@@ -33,16 +33,16 @@ http://www.poppendieck.com/
 * [AWS](https://aws.amazon.com/architecture)
 * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
 
-**Computing:**
+**1.Computing:**
 
 1. [A Note on Distributed Computing](https://github.com/papers-we-love/papers-we-love/blob/master/distributed_systems/a-note-on-distributed-computing.pdf)
 2. [State at the edge](https://www.fastly.com/blog/state-at-the-edge)
 
-**Data, Storage & Databases:**
+**2.Data, Storage & Databases:**
 * "In an “always-on” world, downtime is unacceptable, and developers were forced into handling the reduced consistency levels of scalable NoSQL systems" . "Over the past decade, application developers have discovered that it is extremely difficult to build bug-free applications over database systems that do not guarantee consistency." http://dbmsmusings.blogspot.com/2018/09/newsql-database-systems-are-failing-to.html?m=1
 * [The Secret Lives of Data](http://thesecretlivesofdata.com/raft/)
 
-**Network:**
+**3.Network:**
 * Data Plane - https://fd.io/
 
 ##
