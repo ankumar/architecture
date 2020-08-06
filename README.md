@@ -36,4 +36,4 @@ We track & version changes from Code to Configuration, Infrastructure (as Code),
 2. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 > Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another’s mistakes rather than building on one another’s successes.
 
--> [**Apps & Infra Layers in the Cloud & Edge**](Patterns/Stuff.md)
+-> [**Apps & Infra Layers, Cloud & Edge**](Patterns/Stuff.md)
