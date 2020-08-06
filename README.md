@@ -28,9 +28,11 @@ Fast Forward 2020/25yrs later https://twitter.com/MIT_CSAIL/status/1283737295804
 
 -- https://twitter.com/mjasay 
 
+-- [**Trending on GitHub**](https://github.com/trending)
+
 We track & version changes from Code to Configuration, Infrastructure (as Code), developer tooling & experience around Git model, [interesting work](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) happening in managing data & workflows just like code.
 
 1. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
-2. [**Trending on GitHub**](https://github.com/trending)
+2. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 -> [**Apps & Infra Layers in the Cloud & Edge**](Patterns/Stuff.md)
