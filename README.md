@@ -7,7 +7,7 @@
 -- https://twitter.com/Werner/status/1169979140784525312
 
 ![](images/Werner.png)
--- [An Architecture, CTO Werner Vogels/Amazon.com](https://queue.acm.org/detail.cfm?id=1142065)
+-- [Amazon's transition to a service-based architecture - A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
 \+ [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Alexa](https://developer.amazon.com/en-US/alexa) + [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>
 
