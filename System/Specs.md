@@ -10,7 +10,7 @@ https://github.com/compose-spec/compose-spec
 ## Load Balancer 
 
 * [xDS](https://github.com/envoyproxy/data-plane-api)
-  * gRPC switch https://github.com/grpc/proposal/pull/170/files
+  * gRPC switch to xDS https://github.com/grpc/proposal/pull/170/files
 
 ## Service Mesh
 
