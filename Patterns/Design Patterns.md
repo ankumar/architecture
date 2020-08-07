@@ -43,6 +43,7 @@ http://www.poppendieck.com/
 * [The Secret Lives of Data](http://thesecretlivesofdata.com/raft/)
 
 **3. Network:**
+* https://cloudplatform.googleblog.com/2014/04/enter-andromeda-zone-google-cloud-platforms-latest-networking-stack.html
 * Data Plane - https://fd.io/
 
 ##
