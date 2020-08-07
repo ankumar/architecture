@@ -26,6 +26,9 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 2. [Talent, Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
 3. [Where do great architectures come from? --Mary Poppendieck](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
 
+> [Conway's Law Reverb](http://ruthmalan.com/Journal/2014/2014JournalMay.htm#Conways_Law) "you always ship your organization, so design your organization well"
+
+"you always ship your organization, so design your organization well" -- 
 > Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)
 -- [Simon Wardley](https://twitter.com/swardley)
 
