@@ -13,7 +13,7 @@ Using Amazon.com, Inc. model as an example, starting with a recent Tweet...
 
 + [Discipline and Focus - Additional coverage of Amazon's transition to a service-based architecture](https://queue.acm.org/detail.cfm?id=1388773)
 
-+ [Werner Vogel's blog](https://www.allthingsdistributed.com/)
++ [All Things Distributed, Werner Vogel's blog](https://www.allthingsdistributed.com/)
 
 + [Builders' Library - Decades of Learnings](https://aws.amazon.com/builders-library)
 
