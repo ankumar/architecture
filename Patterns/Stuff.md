@@ -25,7 +25,7 @@ Cloud native technologies empower organizations to build and run scalable applic
 
 The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.
 
-![](../images/Return-to-the-Edge-–-End-of-Cloud-Computing.008.jpeg)
+* ![](../images/Return-to-the-Edge-–-End-of-Cloud-Computing.008.jpeg)
 ["I'm going to take you out to the edge to show you what the future looks like"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
 -- Peter Levine, general partner at Andreessen Horowitz
 
