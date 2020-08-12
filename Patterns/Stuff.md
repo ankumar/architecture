@@ -1,7 +1,6 @@
 # Design Heuristics
-![](../images/Return-to-the-Edge-–-End-of-Cloud-Computing.008.jpeg)
-["I'm going to take you out to the edge to show you what the future looks like"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
--- Peter Levine, general partner at Andreessen Horowitz
+
+Gong back a bit ...
 
 In 1967, Melvin Conway coined a phrase at the end of his publication [‘How do committees invent?’](http://www.melconway.com/Home/pdf/committees.pdf) that was subsequently made popular by **Fred Brooks** in his book **The Mythical Man-Month**, where he dubbed it 'Conway’s Law', which states **"Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations."**
 
@@ -25,6 +24,10 @@ Cloud native technologies empower organizations to build and run scalable applic
 ***These techniques enable loosely coupled systems that are resilient, manageable, and observable. Combined with robust automation, they allow engineers to make high-impact changes frequently and predictably with minimal toil.***
 
 The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining an ecosystem of open source, vendor-neutral projects. We democratize state-of-the-art patterns to make these innovations accessible for everyone.
+
+![](../images/Return-to-the-Edge-–-End-of-Cloud-Computing.008.jpeg)
+["I'm going to take you out to the edge to show you what the future looks like"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/)
+-- Peter Levine, general partner at Andreessen Horowitz
 
 ##
 ![](../images/Cloud%20Native%20Architecture.png)
