@@ -14,11 +14,12 @@ May 1st, 2020, **Five year anniversary of GraphQL Open Source announcement!**.
     * https://3factor.app/
   * Microprofile GraphQL Specification - https://github.com/eclipse/microprofile-graphql / https://www.infoq.com/news/2020/06/microprofile-graphql/
   * https://github.com/solo-io/sqoop
+  * https://about.sourcegraph.com/graphql/graphql-at-twitter
 
 ---
 
 **Use Cases:**
-1. **Developers**, GitHub: https://developer.github.com/v4/
+1. **Developers**, GitHub: https://developer.github.com/v4/ ; Twitter - https://about.sourcegraph.com/graphql/graphql-at-twitter
 
 2. **Merchants**, Shopify: https://shopify.dev/concepts/about-apis 
 
