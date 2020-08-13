@@ -35,7 +35,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 ## 2. Tools & Services
 
-[Search code](https://about.sourcegraph.com/about)
+[Code Graph](https://about.sourcegraph.com/about)
 
 [**Trending on GitHub**](https://github.com/trending)
 
