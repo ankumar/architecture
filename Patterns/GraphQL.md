@@ -19,7 +19,7 @@ May 1st, 2020, **Five year anniversary of GraphQL Open Source announcement!**.
 ---
 
 **Use Cases:**
-1. **Developers**, GitHub: https://developer.github.com/v4/ ; Twitter - https://about.sourcegraph.com/graphql/graphql-at-twitter
+1. **Developers**, GitHub: https://developer.github.com/v4/ ; Twitter -https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/rebuild_twitter_public_api_2020.html
 
 2. **Merchants**, Shopify: https://shopify.dev/concepts/about-apis 
 
