@@ -23,7 +23,9 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 **Universally useful patterns for Big & Small:**
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
+
 2. [Talent, Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
+
 3. [Where do great architectures come from? --Mary Poppendieck](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
 
 > Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)
@@ -42,7 +44,9 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 -- https://twitter.com/mjasay 
 
 2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+
 3. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
 > Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another’s mistakes rather than building on one another’s successes.
 
 **Imagine a world like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), similar workflows for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/).**
