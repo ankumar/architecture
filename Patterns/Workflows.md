@@ -12,6 +12,7 @@ Monoliths - Facebook PHP, [Shopify](https://twitter.com/jmwind/status/1280968028
 Microservices - Netflix, [Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2020/rebuild_twitter_public_api_2020.html), [Amazon](https://thenewstack.io/led-amazon-microservices-architecture/), ...
 * Learnings - http://microservices.fail/
 * https://medium.com/better-practices/how-postman-engineering-does-microservices-aa026a3d682d
+* Monzo, bank go from 100 to 1600 microservices? standardized components, product ownership, and good docs ... https://www.infoq.com/news/2020/08/banking-microservices/
 
 ## 2. Science: Learning Systems - Business, Infrastructure engineers, data engineers, and data scientists to seamlessly collaborate. 
 
