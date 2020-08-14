@@ -45,9 +45,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 3. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 > Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another’s mistakes rather than building on one another’s successes.
 
-[Code Graph](https://about.sourcegraph.com/about)
-
-[**Trending on GitHub**](https://github.com/trending)
+[Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
 
 **Imagine a world like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), similar workflows for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/).**
 
