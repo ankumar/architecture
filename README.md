@@ -35,6 +35,11 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 ## 2. Tools & Services
 
+1. Organizations can capitalize on the unprecedented levels of investment made by the hyperscalers in cloud-native applications and business capabilities https://leadingedgeforum.com/research/constructing-cloud-native-business-capabilities-if-you-think-cloud-is-only-about-it-infrastructure-you-seriously-need-to-think-again/
+2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+3. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+> Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another’s mistakes rather than building on one another’s successes.
+
 [Code Graph](https://about.sourcegraph.com/about)
 
 [**Trending on GitHub**](https://github.com/trending)
@@ -42,11 +47,6 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 ![](images/open%20source.jpeg)
 
 -- https://twitter.com/mjasay 
-
-1. Organizations can capitalize on the unprecedented levels of investment made by the hyperscalers in cloud-native applications and business capabilities https://leadingedgeforum.com/research/constructing-cloud-native-business-capabilities-if-you-think-cloud-is-only-about-it-infrastructure-you-seriously-need-to-think-again/
-2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
-3. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-> Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another’s mistakes rather than building on one another’s successes.
 
 **Imagine a world like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), similar workflows for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/).**
 
