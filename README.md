@@ -15,8 +15,6 @@ Using Amazon.com, Inc. as an example starting with a recent thread on Twitter...
 
 + [All Things Distributed, Werner Vogel's blog](https://www.allthingsdistributed.com/)
 
-+ [Builders' Library - Decades of Learnings](https://aws.amazon.com/builders-library)
-
 \+ [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Alexa](https://developer.amazon.com/en-US/alexa) + [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>
 
 Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/1283737295804342275. "Customer-centric" technique/process of working backwards from the customer needs, use cases & [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) philosophy accelerating Business changes worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to accelerate technology transformations Led by [COVID-19](images/COVID.png). 
@@ -36,6 +34,8 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 -> [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) 
 
 ## 2. Tools & Services
+
+[Builders' Library - Decades of Learnings](https://aws.amazon.com/builders-library)
 
 1. [Organizations can capitalize on the unprecedented levels of investment made by the hyperscalers in cloud-native applications and business capabilities]( https://leadingedgeforum.com/research/constructing-cloud-native-business-capabilities-if-you-think-cloud-is-only-about-it-infrastructure-you-seriously-need-to-think-again/)
 
