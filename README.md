@@ -35,7 +35,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 ## 2. Tools & Services
 
-[Builders' Library - Decades of Learnings](https://aws.amazon.com/builders-library)
+[There’s no question the world will be a better place if everyone can innovate more quickly and efficiently. And if stuff just works better](https://aws.amazon.com/builders-library)
 
 1. [Organizations can capitalize on the unprecedented levels of investment made by the hyperscalers in cloud-native applications and business capabilities]( https://leadingedgeforum.com/research/constructing-cloud-native-business-capabilities-if-you-think-cloud-is-only-about-it-infrastructure-you-seriously-need-to-think-again/)
 
