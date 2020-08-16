@@ -51,6 +51,6 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 **Imagine a world like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), similar workflows around Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/).**
 
-[Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
+4. Code - [Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
 
 -> [**Apps & Infra Layers, Cloud & Edge**](Patterns/Stuff.md)
