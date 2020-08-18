@@ -1,6 +1,6 @@
 Imagine a **continuous delivery experience** like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), Unified workflows for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/).
 
-As a strategy formulation, we are trying to change a situation A into a better situation B. This process might end in the real world, but it starts in our imaginations, in the virtual world. This is an exploration of synthesizing perspectives from Business to Infrastructure & Code of such a virtual world in the context of new generation of Sensors, Edge, 5G Rollout & Cloud to aid in decision making for design, develop, and deploy model of Business Applications backed by an Cloud Platform. The proposal is aligned with Design Heuristics, will be refined over time after feedback & deeper understanding of real world.
+As a strategy formulation, we are trying to change a situation A into a better situation B. This process might end in the real world, but it starts in our imaginations, in the virtual world. This is an exploration of synthesizing perspectives from Business to Infrastructure & Code of such a virtual world in the context of new generation of Sensors, Edge, 5G Rollout & Cloud to aid in decision making for design, develop, and deploy model of Business Applications backed by an Cloud Platform. The [**Design Heuristics**](Patterns/Stuff.md) will be refined over time after feedback & deeper understanding of real world.
 
 ## 1. Technology & Business
 
