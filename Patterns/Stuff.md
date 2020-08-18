@@ -1,4 +1,4 @@
-# Design Heuristics
+# Design Heuristics - Apps & Infra Layers, Cloud & Edge
 
 Going back in time ...
 
