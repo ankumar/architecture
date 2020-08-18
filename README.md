@@ -1,4 +1,4 @@
-Imagine a **continuous delivery experience** like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), similar workflows around Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/). This is an exploration of synthesizing perspectives from Business to Infrastructure & Code.
+Imagine a **continuous delivery experience** like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), Unified workflows for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/). This is an exploration of synthesizing perspectives from Business to Infrastructure & Code.
 
 
 ## 1. Technology & Business
