@@ -35,7 +35,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 > [Conway's Law Reverb](http://ruthmalan.com/Journal/2014/2014JournalMay.htm#Conways_Law) "you always ship your organization, so design your organization well"
 
--> [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) 
+> [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) 
 
 ## 2. Tools & Services
 
