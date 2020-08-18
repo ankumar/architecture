@@ -53,4 +53,3 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 -- https://twitter.com/mjasay 
 
--> [**Design Heuristics**](Patterns/Stuff.md)
