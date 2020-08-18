@@ -1,4 +1,4 @@
-**Imagine a world like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), similar workflows around Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/).**
+**Imagine a continuous delivery experience like this repo where we don't think of Servers, Deployment, Track & version changes from Code to Configuration, Infrastructure (as Code), similar workflows around Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/).**
 
 
 ## 1. Technology & Business
