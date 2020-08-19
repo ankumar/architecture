@@ -1,9 +1,3 @@
-# Imagination 
-
-Imagine a **Continuous delivery experience** & **Unified workflows** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) like this repo where we don't think of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb), Track & version changes from Code to Configuration, Infrastructure (as Code).
-
-[As a strategy formulation, we are trying to change a situation A into a better situation B. This process might end in the real world, but it starts in our imaginations, in the virtual world](https://info.container-solutions.com/patterns-maps). This is an exploration of synthesizing perspectives from Business to Infrastructure & Code of such a virtual world in the context of new generation of Sensors, Edge, 5G Rollout & Cloud to aid in decision making for design, develop, and deploy model of Business Applications backed by an Cloud Platform. The [**Design Heuristics**](Patterns/Stuff.md) can be refined over time after feedback & deeper understanding of real world.
-
 ## 1. Technology & Business
 
 Using Amazon.com, Inc. as an example starting with a recent thread on Twitter...
@@ -54,4 +48,10 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 ![](images/open%20source.jpeg)
 
 -- https://twitter.com/mjasay 
+
+## Imagination 
+
+Imagine a **Continuous delivery experience** & **Unified workflows** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) like this repo where we don't think of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb), Track & version changes from Code to Configuration, Infrastructure (as Code).
+
+[As a strategy formulation, we are trying to change a situation A into a better situation B. This process might end in the real world, but it starts in our imaginations, in the virtual world](https://info.container-solutions.com/patterns-maps). This is an exploration of synthesizing perspectives from Business to Infrastructure & Code of such a virtual world in the context of new generation of Sensors, Edge, 5G Rollout & Cloud to aid in decision making for design, develop, and deploy model of Business Applications backed by an Cloud Platform. The [**Design Heuristics**](Patterns/Stuff.md) can be refined over time after feedback & deeper understanding of real world.
 
