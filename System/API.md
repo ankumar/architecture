@@ -12,7 +12,7 @@
   * [Kubernetes style APIs](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
     * [Crossplane](https://crossplane.io/)
     * [AWS](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
-    * [Azure]()
+    * [Azure](https://cloudblogs.microsoft.com/opensource/2020/06/25/announcing-azure-service-operator-kubernetes/)
     * [GCP](https://cloud.google.com/config-connector/docs/overview)
   * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
 
