@@ -10,7 +10,10 @@
   * [OpenAI](https://openai.com/blog/openai-api/)
 * Infrastructure (Storage, Compute & Networking)
   * [Kubernetes style APIs](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+    * [Crossplane]()
     * [AWS](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
+    * [Azure]()
+    * [GCP]()
   * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
 
 * https://holidayapi.com/  
