@@ -2,6 +2,8 @@
 
 ## 1. Technology & Business
 
+![](images/Werner.png)
+
 Using Amazon.com, Inc. as an example technology tranforming businesses starting with a recent thread on Twitter...
 
 **"Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.**
@@ -10,8 +12,7 @@ Using Amazon.com, Inc. as an example technology tranforming businesses starting 
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
-![](images/Werner.png)
--- [Amazon's transition to a service-based architecture - A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+[Amazon's transition to a service-based architecture - A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
 + [Discipline and Focus - Additional coverage of Amazon's transition to a service-based architecture](https://queue.acm.org/detail.cfm?id=1388773)
 
