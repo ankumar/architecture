@@ -64,3 +64,8 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 1. [**Design Heuristics**](Patterns/Stuff.md) - should be refined over time after feedback & deeper understanding of real world.
 
+2. [API Applications](../System/API.md)  
+
+3. [Workflows & Integrations](Workflows.md)
+
+4. [Sandbox](../Labs/Sandbox.md) to evaluate [components](https://martinfowler.com/articles/microservices.html#ComponentizationViaServices) & compositions
