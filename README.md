@@ -2,7 +2,9 @@
 
 [As a strategy formulation, we are trying to change a situation A into a better situation B. This process might end in the real world, but it starts in our imaginations, in the virtual world](https://info.container-solutions.com/patterns-maps). This is an exploration of synthesizing perspectives from Business to Infrastructure & Code of such a virtual world in the context of new generation of Sensors, Edge, 5G Rollout & Cloud to aid in decision making for design, develop, and deploy model of Business Applications backed by an Cloud Platform.
 
-## 1. Technology & Business
+
+
+## Technology & Business
 
 ![](images/Werner.png)
 
@@ -36,7 +38,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 > [Conway's Law Reverb](http://ruthmalan.com/Journal/2014/2014JournalMay.htm#Conways_Law) **"you always ship your organization, so design your organization well"**, [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/) 
 
-## 2. Tools & Services
+## Tools & Services
 
 [There’s no question the world will be a better place if everyone can innovate more quickly and efficiently. And if stuff just works better](https://aws.amazon.com/builders-library)
 
@@ -54,7 +56,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 -- https://twitter.com/mjasay 
 
-# Imagination 
+## Imagination 
 
 **Continuous delivery experience** & **Unified workflow** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) like this repo where we don't think of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb), Track & version changes from Code to Configuration, Infrastructure (as Code).
 
