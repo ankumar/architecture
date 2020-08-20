@@ -10,7 +10,7 @@
   * [OpenAI](https://openai.com/blog/openai-api/)
 * Infrastructure (Storage, Compute & Networking)
   * [Kubernetes style APIs](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
-    * [Crossplane]()
+    * [Crossplane](https://crossplane.io/)
     * [AWS](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
     * [Azure]()
     * [GCP](https://cloud.google.com/config-connector/docs/overview)
