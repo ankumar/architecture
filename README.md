@@ -56,7 +56,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 # Imagination 
 
-Imagine a **Continuous delivery experience** & **Unified workflow** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) like this repo where we don't think of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb), Track & version changes from Code to Configuration, Infrastructure (as Code).
+**Continuous delivery experience** & **Unified workflow** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) like this repo where we don't think of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb), Track & version changes from Code to Configuration, Infrastructure (as Code).
 
 The [**Design Heuristics**](Patterns/Stuff.md) should be refined over time after feedback & deeper understanding of real world.
 
