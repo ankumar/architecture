@@ -62,7 +62,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 **Continuous delivery experience** & **Unified workflow** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) like this repo where devs don't think of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb), Track & version changes from Code to Configuration, Infrastructure (as Code).
 
-1. [**Design Heuristics**](Patterns/Stuff.md) - Apps & Infra Layers; Cloud & Edge, should be refined over time after feedback & deeper understanding of real world.
+1. [**Design Heuristics**](Patterns/Stuff.md) - Apps & Infra Layers, Cloud & Edge, should be refined over time after feedback & deeper understanding of real world.
 
 2. [API Applications](System/API.md)  
 
