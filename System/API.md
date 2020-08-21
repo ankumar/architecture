@@ -1,12 +1,12 @@
 ![](../images/APIs.jpeg)
 <p align="center"> <b> "APIs have replaced the central database in an enterprise's business operations." </b> </p>
 
-* Commerce
+* **Commerce**
   * [Shopify](https://shopify.dev/concepts/shopify-introduction)
   * [Payments](https://stripe.com/docs/api)
   * [Fulfillment](https://shiphero.com/)
   * [Facebook](https://developers.facebook.com/docs/commerce-platform)
-* Artificial General Intelligence
+* **Artificial General Intelligence**
   * [OpenAI](https://openai.com/blog/openai-api/)
 * Infrastructure (Storage, Compute & Networking)
   * [Kubernetes style APIs](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
