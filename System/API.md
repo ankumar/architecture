@@ -17,7 +17,7 @@
   * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
 
 * https://holidayapi.com/  
-* [Twilio](https://www.twilio.com/docs/api)
+* **Communication** - [Twilio](https://www.twilio.com/docs/api)
 
 ---
 
