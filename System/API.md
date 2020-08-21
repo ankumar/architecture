@@ -16,8 +16,9 @@
     * [GCP](https://cloud.google.com/config-connector/docs/overview)
   * [AWS S3](https://docs.aws.amazon.com/AmazonS3/latest/API/Welcome.html)
 
-* https://holidayapi.com/  
 * **Communication** - [Twilio](https://www.twilio.com/docs/api)
+
+* **Misc** - https://holidayapi.com/  
 
 ---
 
