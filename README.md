@@ -6,7 +6,7 @@
 
 2. [Tools & Services](#tools--services)
 
-3. [Imagination - Apps & Infra Layers, Cloud & Edge](#imagination)
+3. [Imagination](#imagination)
 
 ## Technology & Business
 
@@ -60,7 +60,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 -- https://twitter.com/mjasay 
 
-## Imagination - Apps & Infra Layers, Cloud & Edge
+## Imagination
 
 **Continuous delivery experience** & **Unified workflow** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/) like this repo where devs don't think of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb), Track & version changes from Code to Configuration, Infrastructure (as Code).
 
