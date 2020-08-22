@@ -70,4 +70,4 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 3. [Workflows & Integrations](Patterns/Workflows.md)
 
-4. [Sandbox](Labs/Sandbox.md) to evaluate [components](https://martinfowler.com/articles/microservices.html#ComponentizationViaServices) & compositions
+4. [Sandbox](Labs/Sandbox.md) to evaluate [components](https://martinfowler.com/articles/microservices.html#ComponentizationViaServices), integrations & compositions
