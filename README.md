@@ -53,6 +53,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 > Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another’s mistakes rather than building on one another’s successes.
 
 3. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+![](images/open%20source%20%26%20large%20company.png)
 
 4. [Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
 
