@@ -10,6 +10,7 @@
   * [OpenAI](https://openai.com/blog/openai-api/)
 * **Infrastructure (Storage, Compute & Networking)**
   * [Kubernetes style APIs](https://kubernetes.io/docs/concepts/overview/kubernetes-api/)
+    * [KRM](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/architecture/resource-management.md)
     * [Crossplane](https://crossplane.io/)
     * [AWS](https://aws.amazon.com/blogs/containers/aws-controllers-for-kubernetes-ack/)
     * [Azure](https://cloudblogs.microsoft.com/opensource/2020/06/25/announcing-azure-service-operator-kubernetes/)
