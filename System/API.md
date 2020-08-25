@@ -5,6 +5,7 @@
   * [Shopify](https://shopify.dev/concepts/shopify-introduction)
   * [Payments](https://stripe.com/docs/api)
   * [Fulfillment](https://shiphero.com/)
+  * [EDI](https://stedi.com/)
   * [Facebook](https://developers.facebook.com/docs/commerce-platform)
 * **Artificial General Intelligence**
   * [OpenAI](https://openai.com/blog/openai-api/)
