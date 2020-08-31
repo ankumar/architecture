@@ -31,6 +31,7 @@ Using Amazon.com, Inc. as an example technology tranforming businesses starting 
 Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/1283737295804342275. "Customer-centric" technique/process of working backwards from the customer needs & use cases, [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) philosophy & [Principles-Based](https://aws.amazon.com/blogs/enterprise-strategy/why-digital-organizations-are-principles-based/) accelerating Business changes worldwide [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to accelerate technology transformations Led by [COVID](images/COVID.png). 
 
 **Universally useful patterns for Big & Small:**
+
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 
 2. [Talent, Resources, Diversity and Inclusiveness](https://github.com/jamiehannaford/diversity)
@@ -54,6 +55,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 3. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 ![](images/open%20source%20%26%20large%20company.png)
+-- Kelsey Hightower, Developer & Open Source Advocate, Google Cloud
 
 4. [Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
 
