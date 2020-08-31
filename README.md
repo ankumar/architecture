@@ -42,7 +42,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 > [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/), [Conway's Law Reverb](http://ruthmalan.com/Journal/2014/2014JournalMay.htm#Conways_Law) **"you always ship your organization, so design your organization well"** 
 
-## Tools & Services
+## Tools & Services - Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption. 
 
 [There’s no question the world will be a better place if everyone can innovate more quickly and efficiently. And if stuff just works better](https://aws.amazon.com/builders-library)
 
