@@ -44,7 +44,7 @@ http://www.poppendieck.com/
 
 **3. Network:**
 * https://cloudplatform.googleblog.com/2014/04/enter-andromeda-zone-google-cloud-platforms-latest-networking-stack.html
-* Data Plane - https://fd.io/
+* Data Plane - https://fd.io/ https://www.dpdk.org/
 
 ##
 
