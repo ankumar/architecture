@@ -65,7 +65,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 ## Imagination
 
-**Considering Apps (AKA Products) & Infra Layers, Cloud & Edge Continuous delivery** & **Unified workflows** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/), Track & version changes from Code to Configuration, Infrastructure (as Code), increased hiding of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb).
+**Considering Layers Apps (AKA Products) & Infrastructure, Cloud & Edge, Continuous Delivery** & **Unified Workflows** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/), Track & version changes from Code to Configuration, Infrastructure (as Code), increased hiding of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb).
 
 1. [**Design Heuristics**](Patterns/Stuff.md)
 
