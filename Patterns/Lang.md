@@ -15,7 +15,7 @@
 - Arrays, Maps
 - A struct is a collection of fields
 - Type inference
-- Go has pointers, Unlike C, Go has no pointer arithmetic
+- Go has pointers / Unlike C, Go has no pointer arithmetic
 - Go does not have classes. However, you can define methods on types.
 - if, else, switch, for (NO while) & defer - No parentheses, but braces { } are required. If - before condition
 - Concurrency - Even in Go, concurrency is still not easy (with an example), https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy 
