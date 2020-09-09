@@ -1,4 +1,4 @@
-Go 
+**Go** 
 
 - https://golang.org/ 
 - No header files, made up of packages
@@ -40,7 +40,7 @@ Packages
 
 https://github.com/google/btree 
 
-Rust
+**Rust**
 
 - https://www.rust-lang.org/ 
 - Mozilla developed
@@ -48,16 +48,16 @@ Rust
 - Amazon open source projects, https://github.com/firecracker-microvm/firecracker / https://github.com/bottlerocket-os 
 - https://github.com/informalsystems 
 
-Java
+**Java**
 
 Spring – https://start.spring.io/ https://code.quarkus.io/ 
 Microservices: https://start.eventuate.io/  
 
-.NET
+**.NET**
 
 - https://start.steeltoe.io/ 
 
-C++
+**C++**
 
 - http://www.cplusplus.org/ 
 - C++20, https://www.zdnet.com/article/developers-programming-language-c-is-about-to-get-this-huge-update/  
