@@ -1,10 +1,4 @@
-**C++**
-
-- http://www.cplusplus.org/ 
-- C++20, https://www.zdnet.com/article/developers-programming-language-c-is-about-to-get-this-huge-update/  
-"Until now, we have had three such language features that let programmers create their own Words of Power by (a) giving a user-defined name to (b) something whose implementation is hidden. They are: the variable (which encapsulates the current value), the function (which encapsulates code and behavior), and the class (which encapsulates both to deliver a bunch of state and functions together)"
-
-**Go** 
+Go 
 
 - https://golang.org/ 
 - No header files, made up of packages
@@ -38,9 +32,33 @@ https://hackernoon.com/go-has-indeed-become-the-language-of-cloud-infrastructure
 
 https://github.com/ardanlabs 
 
-**Rust**
+Tools
+
+https://github.com/google/gops
+
+Packages
+
+https://github.com/google/btree 
+
+Rust
 
 - https://www.rust-lang.org/ 
 - Mozilla developed
 - Microsoft is exploring to replace C/C++ Windows code
 - Amazon open source projects, https://github.com/firecracker-microvm/firecracker / https://github.com/bottlerocket-os 
+- https://github.com/informalsystems 
+
+Java
+
+Spring – https://start.spring.io/ https://code.quarkus.io/ 
+Microservices: https://start.eventuate.io/  
+
+.NET
+
+- https://start.steeltoe.io/ 
+
+C++
+
+- http://www.cplusplus.org/ 
+- C++20, https://www.zdnet.com/article/developers-programming-language-c-is-about-to-get-this-huge-update/  
+"Until now, we have had three such language features that let programmers create their own Words of Power by (a) giving a user-defined name to (b) something whose implementation is hidden. They are: the variable (which encapsulates the current value), the function (which encapsulates code and behavior), and the class (which encapsulates both to deliver a bunch of state and functions together)"
