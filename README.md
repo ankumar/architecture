@@ -30,7 +30,7 @@ Using Amazon.com, Inc. as an example for technology tranforming businesses start
 
 Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/1283737295804342275. "Customer-centric" technique/process of working backwards from the customer needs & use cases, [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) philosophy & [Principles-Based](https://aws.amazon.com/blogs/enterprise-strategy/why-digital-organizations-are-principles-based/) accelerating Business changes worldwide [Facebook](https://tech.fb.com/cto-notebook-notable-press/), [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms). The changes are likely going to accelerate technology transformations in small, medium & larger companies Led by [COVID](images/COVID.png). 
 
-**What's Universally useful patterns for Big & Small?**
+**Is there a pattern?**
 
 1. [Highly Aligned, Loosely Coupled](https://jobs.netflix.com/culture)
 
