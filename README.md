@@ -12,7 +12,7 @@
 
 ![](images/Werner.png)
 
-Using Amazon.com, Inc. as an example for technology tranforming businesses starting with a recent thread on Twitter...
+Using Amazon.com, Inc. as an example for tranforming businesses starting with a recent thread on Twitter...
 
 **"Hi Werner, I was wondering... what advice would you offer to somebody who'd like to be a CTO someday? Especially for the younger folks, what should one know or how should one prepare themselves for their future? Appreciate you taking the time to read this.**
 
