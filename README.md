@@ -8,7 +8,7 @@
 
 3. [Imagination](#imagination)
 
-## Technology & Business - Trying Multiple Things
+## Technology & Business - Trying Multiple different Things
 
 ![](images/Werner.png)
 
