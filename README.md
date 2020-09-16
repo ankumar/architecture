@@ -69,6 +69,8 @@ The changes are likely going to accelerate technology transformations in compani
 
 ## Imagination
 
+> [Innovation lead time is from idea to getting customer response so you know if it's a good idea or not. Making that  short and light-weight is a way to measure how you get out of the way of innovation, and let more ideas blossom --adrian cockcroft](https://twitter.com/adrianco/status/1306293510761447424?s=21)
+
 **Considering Layers Apps (AKA Products) & Infrastructure, Cloud & Edge, Continuous Delivery** & **Unified Workflows** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/), Track & version changes from Code to Configuration, Infrastructure (as Code), increased hiding of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb).
 
 1. [**Design Heuristics**](Patterns/Stuff.md)
