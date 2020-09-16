@@ -47,7 +47,7 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 
 > ["the organizations that build the future become 'graduate studies' in the skills they require to do so"](https://www.youtube.com/watch?v=P_sWGl7MzhU)
 
-The changes are likely going to accelerate technology transformations in companies small, medium & larger Led by [COVID](images/COVID.png).
+The changes are likely going to accelerate technology transformations in small, medium & larger business Led by [COVID](images/COVID.png).
 
 ## Tools & Services - Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption.
 
