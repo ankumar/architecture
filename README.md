@@ -41,6 +41,8 @@ Fast Forward 2020, 25yrs later https://twitter.com/MIT_CSAIL/status/128373729580
 > Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)
 -- [Simon Wardley](https://twitter.com/swardley)
 
+> [Innovation lead time is from idea to getting customer response so you know if it's a good idea or not. Making that  short and light-weight is a way to measure how you get out of the way of innovation, and let more ideas blossom --adrian cockcroft](https://twitter.com/adrianco/status/1306293510761447424?s=21)
+
 > [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/), [Conway's Law Reverb](http://ruthmalan.com/Journal/2014/2014JournalMay.htm#Conways_Law) **"you always ship your organization, so design your organization well"** 
 
 > ["the organizations that build the future become 'graduate studies' in the skills they require to do so"](https://www.youtube.com/watch?v=P_sWGl7MzhU)
@@ -68,8 +70,6 @@ The changes are likely going to accelerate technology transformations in compani
 -- https://twitter.com/mjasay 
 
 ## Imagination
-
-> [Innovation lead time is from idea to getting customer response so you know if it's a good idea or not. Making that  short and light-weight is a way to measure how you get out of the way of innovation, and let more ideas blossom --adrian cockcroft](https://twitter.com/adrianco/status/1306293510761447424?s=21)
 
 **Considering Layers Apps (AKA Products) & Infrastructure, Cloud & Edge, Continuous Delivery** & **Unified Workflows** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/), Track & version changes from Code to Configuration, Infrastructure (as Code), increased hiding of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb).
 
