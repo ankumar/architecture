@@ -8,7 +8,7 @@
 
 3. [Imagination](#imagination)
 
-## Technology & Business - Bundling Multiple different Things
+## Technology & Business - Trying, Learning & Bundling Multiple different Things
 
 ![](images/Werner.png)
 
