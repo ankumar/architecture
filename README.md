@@ -8,7 +8,7 @@
 
 3. [Imagination](#imagination)
 
-## Technology & Business - Trying & Learning Multiple different Things
+## Technology & Business - Trying & Learning aproach to customers
 
 ![](images/Werner.png)
 
