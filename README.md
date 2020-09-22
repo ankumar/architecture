@@ -8,7 +8,7 @@
 
 3. [Imagination](#imagination)
 
-## Technology & Business - Customer!, Trying & Learning
+## Technology & Business - Customer Centric, Trying & Learning
 
 ![](images/Werner.png)
 
