@@ -47,7 +47,7 @@ Using Amazon.com, Inc. as an example for transforming businesses starting with a
 
 The changes are likely going to accelerate technology transformations in small, medium & large business Led by [COVID](images/COVID.png).
 
-## Tools & Services - Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption.
+## Tools & Services - "Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption"
 
 [There’s no question the world will be a better place if everyone can innovate more quickly and efficiently. And if stuff just works better](https://aws.amazon.com/builders-library)
 
