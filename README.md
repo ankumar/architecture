@@ -8,7 +8,7 @@
 
 3. [Imagination](#imagination)
 
-## Technology & Business - Customer needs & use cases, Trying & Learning
+## Technology & Business - Customer use cases, Trying & Learning
 
 ![](images/Werner.png)
 
