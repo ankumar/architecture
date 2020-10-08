@@ -36,7 +36,7 @@ Using Amazon.com, Inc. as an example for transforming businesses starting with a
 
 3. [Where do great architectures come from? --Mary Poppendieck](https://www.oreilly.com/radar/where-do-great-architectures-come-from/)
 
-> [Innovation lead time is from idea to getting customer response so you know if it's a good idea or not. Making that  short and light-weight is a way to measure how you get out of the way of innovation, and let more ideas blossom --adrian cockcroft](https://twitter.com/adrianco/status/1306293510761447424?s=21)
+> [Innovation lead time is from idea to getting customer response so you know if it's a good idea or not. Making that  short and light-weight is a way to measure how you get out of the way of innovation, and let more ideas blossom --Adrian Cockcroft](https://twitter.com/adrianco/status/1306293510761447424?s=21)
 
 > Context matters, even the effective implementation of doctrine requires you to understand context i.e. focus on user needs (universal) varies with implementation (i.e. what needs to focus on)
 -- [Simon Wardley](https://twitter.com/swardley)
