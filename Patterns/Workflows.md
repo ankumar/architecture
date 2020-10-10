@@ -5,6 +5,7 @@
   * [Architectures That Scale Deep - Regaining Control in Deep Systems](https://www.infoq.com/presentations/properties-deep-systems/)
   * [Data on the Outside vs. Data on the Inside](https://queue.acm.org/detail.cfm?id=3415014)
   * [A Domain-Specific Language for Microservices](https://drive.google.com/file/d/1aYupExDuAbUheDX4aycrxZDrc6stTcig/view)
+  * [Microservice API Patterns](https://microservice-api-patterns.org/)
 
 Monoliths - Facebook PHP, [Shopify](https://twitter.com/jmwind/status/1280968028637757443), ...
 * https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity
