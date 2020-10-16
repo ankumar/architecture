@@ -2,12 +2,6 @@
 ![](../images/roofshots.png)
 <p align="center">consistent, short-term, incremental <b>“roofshots”</b> that make Product better year after year ... </p> 
 
-**Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value**
-
-1. Dev + Ops - https://itrevolution.com/
-2. Fin + Ops - https://www.finops.org/
-3. Dev + Sec + Ops - ?
-
 [Modeling](../Patterns/Modeling.md)
 
 * https://github.com/michaelkeeling/saturn2019-architecture-island-workshop
@@ -22,6 +16,12 @@ There isn't a concrete, well-defined algorithm for [decomposing](https://blog.ac
 * [Domain-Driven](https://www.dddheuristics.com/)
 * [DDD and Messaging Architectures](https://verraes.net/2019/05/ddd-msg-arch/)
 * [Independent Systems Architecture](https://isa-principles.org/index.html)
+
+**Breaking down silos and increasing agility, keep costs under control and the focus on delivering business value**
+
+1. Dev + Ops - https://itrevolution.com/
+2. Fin + Ops - https://www.finops.org/
+3. Dev + Sec + Ops - ?
 
 # Languages & Frameworks
 
