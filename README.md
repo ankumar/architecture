@@ -26,7 +26,9 @@ Using Amazon.com, Inc. as an example for transforming businesses starting with a
 
 + [All Things Distributed, Werner Vogel's blog](https://www.allthingsdistributed.com/)
 
-</> + [Amazon.com](https://www.amazon.com/) + [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Alexa](https://developer.amazon.com/en-US/alexa) <---> **Prime** <---> [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>; https://twitter.com/MIT_CSAIL/status/1283737295804342275, Fast Forward 2020, 25yrs later "Customer-centric" technique/process of working backwards from the customer needs & use cases, [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) philosophy & [Principles-Based](https://aws.amazon.com/blogs/enterprise-strategy/why-digital-organizations-are-principles-based/) accelerating Business changes worldwide [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms), [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Apple](https://www.apple.com/apple-one/), [Facebook](https://tech.fb.com/cto-notebook/), ...
+</> + [Amazon.com](https://www.amazon.com/) + [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Alexa](https://developer.amazon.com/en-US/alexa) <---> **Prime** <---> [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>
+
+https://twitter.com/MIT_CSAIL/status/1283737295804342275, Fast Forward 2020, 25yrs later "Customer-centric" technique/process of working backwards from the customer needs & use cases, [**Day 1**](https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm) philosophy & [Principles-Based](https://aws.amazon.com/blogs/enterprise-strategy/why-digital-organizations-are-principles-based/) accelerating Business changes worldwide [Jio Platforms](https://en.wikipedia.org/wiki/Jio_Platforms), [Alibaba Group](https://en.wikipedia.org/wiki/Alibaba_Group), [Apple](https://www.apple.com/apple-one/), [Facebook](https://tech.fb.com/cto-notebook/), ...
 
 **Is there a pattern?**
 
