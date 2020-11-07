@@ -47,7 +47,7 @@ https://twitter.com/MIT_CSAIL/status/1283737295804342275, Fast Forward 2020, 25y
 
 > [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/), [Conway's Law Reverb](http://ruthmalan.com/Journal/2014/2014JournalMay.htm#Conways_Law) **"you always ship your organization, so design your organization well"** 
 
-The changes are likely going to accelerate technology transformations in small, medium & large business. ( [COVID](images/COVID.png) )
+The changes are likely going to accelerate technology transformations ( [COVID](images/COVID.png) ) in small, medium & large business.
 
 ## Tools & Services - "Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption"
 
