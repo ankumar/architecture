@@ -20,11 +20,13 @@ Using Amazon.com, Inc. as an example for transforming businesses starting with a
 
 -- https://twitter.com/Werner/status/1169979140784525312
 
-[Amazon's transition to a service-based architecture - A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+[2006, Amazon's transition to a service-based architecture - A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 
 + [Discipline and Focus - Additional coverage of Amazon's transition to a service-based architecture](https://queue.acm.org/detail.cfm?id=1388773)
 
 + [All Things Distributed, Werner Vogel's blog](https://www.allthingsdistributed.com/)
+
++ [2020, A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 
 </> + [Amazon.com](https://www.amazon.com/) + [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Alexa](https://developer.amazon.com/en-US/alexa) <---> **Prime** <---> [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>
 
