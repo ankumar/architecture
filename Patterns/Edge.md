@@ -64,6 +64,8 @@ Virtual Kubelet – https://virtual-kubelet.io/
 -	Framework for implementing alternative Kubelet implementations, Ex: Azure IoT Edge Connector for Kubernetes
 - https://kubernetes.io/blog/2018/07/27/kubevirt-extending-kubernetes-with-crds-for-virtualized-workloads/
 
+Zero Friction Kubernetes - https://github.com/k0sproject/k0s
+
 Cloud Events – https://cloudevents.io/
 -	https://cloudblogs.microsoft.com/opensource/2019/11/21/boosting-cloud-interoperability-cloudevents-v1-0-support-azure-event-grid/
 
@@ -71,8 +73,6 @@ Knative – https://github.com/knative/
 -	Serverless workloads
 -	Not paying for Idle resources
 -	Use cases: Event handlers, scheduled jobs etc.
-
-https://github.com/k0sproject/k0s
 
 ## 4.	Tech Stack & Deployment Architecture
 
