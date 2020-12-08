@@ -24,11 +24,11 @@ Using Amazon.com, Inc. as an example for transforming businesses starting with a
 
 + [Discipline and Focus - Additional coverage of Amazon's transition to a service-based architecture](https://queue.acm.org/detail.cfm?id=1388773)
 
-+ [2020, A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
-
 + [All Things Distributed, Werner Vogel's blog](https://www.allthingsdistributed.com/)
 
 + [The Amazon Builders' Library - How Amazon builds and operates software](https://aws.amazon.com/builders-library/)
+
++ [2020, A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 
 </> + [Amazon.com](https://www.amazon.com/) + [AWS](https://aws.amazon.com/) + [Ad](https://advertising.amazon.com/) + [Alexa](https://developer.amazon.com/en-US/alexa) <---> **Prime** <---> [Science](https://www.amazon.science/) + [Health](https://amazon.care/) + [Open Source](https://amzn.github.io/) + </>
 
