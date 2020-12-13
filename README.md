@@ -4,7 +4,7 @@
 
 1. [Technology & Business](#technology--business) - Customer Use Cases, Trying & Learning
 
-2. [Tools & Services - "Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption"](#tools--services)
+2. [Tools & Services](#tools--services) - "Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption"
 
 3. [Imagination](#imagination)
 
