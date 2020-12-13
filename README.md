@@ -54,6 +54,9 @@ https://twitter.com/MIT_CSAIL/status/1283737295804342275, Fast Forward 2020, 25y
 The changes are likely going to accelerate technology transformations ( [COVID](images/COVID.png) ) in small, medium & large business.
 
 ## Tools & Services - "Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption"
+![](images/open%20source.jpeg)
+-- https://twitter.com/mjasay 
+
 1. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 ![](images/open%20source%20%26%20large%20company.png)
 -- Kelsey Hightower, Developer & Open Source Advocate, Google Cloud
@@ -67,10 +70,6 @@ The changes are likely going to accelerate technology transformations ( [COVID](
 > Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another’s mistakes rather than building on one another’s successes.
 
 5. [Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
-
-![](images/open%20source.jpeg)
-
--- https://twitter.com/mjasay 
 
 ## Imagination
 
