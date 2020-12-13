@@ -2,7 +2,7 @@
 
 [As a strategy formulation, we are trying to change a situation A into a better situation B. This process might end in the real world, but it starts in our imaginations, in the virtual world](https://info.container-solutions.com/patterns-maps). This is an exploration of synthesizing perspectives from Business to Code & Infrastructure of a virtual world in the context of **new generation of Sensors, Edge, 5G Rollout & Cloud** to aid in decision making for design, build, and deploy  of Business Applications.
 
-1. [Technology & Business - Customer Use Cases, Trying & Learning](#technology--business)
+1. [Technology & Business](#technology--business) - Customer Use Cases, Trying & Learning
 
 2. [Tools & Services - "Great Apps come from developers using tools they love, getting value from the product in seconds leading to greater reuse and wider adoption"](#tools--services)
 
