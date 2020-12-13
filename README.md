@@ -8,7 +8,7 @@
 
 3. [Imagination](#imagination)
 
-## 1. Technology & Business 
+## Technology & Business 
 
 ![](images/Werner.png)
 
@@ -53,7 +53,7 @@ https://twitter.com/MIT_CSAIL/status/1283737295804342275, Fast Forward 2020, 25y
 
 The changes are likely going to accelerate technology transformations ( [COVID](images/COVID.png) ) in small, medium & large business.
 
-## 2. Tools & Services
+## Tools & Services
 
 ![](images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
@@ -73,7 +73,7 @@ The changes are likely going to accelerate technology transformations ( [COVID](
 
 5. [Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
 
-## 3. Imagination
+## Imagination
 
 **Considering Layers Apps (AKA Products) & Infrastructure, Cloud & Edge, Continuous Delivery** & **Unified Workflows** for Code & [Data](https://accelst.com/the-quest-for-the-holy-grail-of-git-for-data/), Track & version changes from Code to Configuration, Infrastructure (as Code), increased hiding of [Servers & Deployment](https://medium.com/@hellerstein/the-state-of-the-serverless-art-78a4f02951eb).
 
