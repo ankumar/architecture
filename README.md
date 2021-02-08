@@ -57,11 +57,10 @@ https://twitter.com/MIT_CSAIL/status/1283737295804342275, Fast Forward 2020, 25y
 
 1. [Systems Thinking](https://www.youtube.com/watch?v=yGN5DBpW93g)
 
+2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 ![](images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
 
-
-2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 ![](images/open%20source%20%26%20large%20company.png)
 -- Kelsey Hightower, Developer & Open Source Advocate, Google Cloud
 
