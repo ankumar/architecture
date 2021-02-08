@@ -55,23 +55,25 @@ https://twitter.com/MIT_CSAIL/status/1283737295804342275, Fast Forward 2020, 25y
 
 ## Tools & Services
 
+1. [Systems Thinking](https://www.youtube.com/watch?v=yGN5DBpW93g)
+
 ![](images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
 
 
-1. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
+2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 ![](images/open%20source%20%26%20large%20company.png)
 -- Kelsey Hightower, Developer & Open Source Advocate, Google Cloud
 
-2. [Organizations can capitalize on the unprecedented levels of investment made by the hyperscalers in cloud-native applications and business capabilities]( https://leadingedgeforum.com/research/constructing-cloud-native-business-capabilities-if-you-think-cloud-is-only-about-it-infrastructure-you-seriously-need-to-think-again/)
+3. [Organizations can capitalize on the unprecedented levels of investment made by the hyperscalers in cloud-native applications and business capabilities]( https://leadingedgeforum.com/research/constructing-cloud-native-business-capabilities-if-you-think-cloud-is-only-about-it-infrastructure-you-seriously-need-to-think-again/)
 
-3. [There’s no question the world will be a better place if everyone can innovate more quickly and efficiently. And if stuff just works better](https://aws.amazon.com/builders-library)
+4. [There’s no question the world will be a better place if everyone can innovate more quickly and efficiently. And if stuff just works better](https://aws.amazon.com/builders-library)
 
-4. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+5. [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 > Architects look at thousands of buildings during their training, and study critiques of those buildings written by masters. In contrast, most software developers only ever get to know a handful of large programs well—usually programs they wrote themselves—and never study the great programs of history. As a result, they repeat one another’s mistakes rather than building on one another’s successes.
 
-5. [Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
+6. [Code Graph](https://about.sourcegraph.com/about) / [**Trending on GitHub**](https://github.com/trending)
 
 ## Imagination
 
