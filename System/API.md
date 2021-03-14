@@ -26,6 +26,7 @@
 
 **API's Specifications & Standards**
 
+* https://openid.net/2021/03/12/fapi-1-0-part-1-and-part-2-are-now-final-specifications/
 * https://github.com/keras-team/governance/blob/master/keras_api_design_guidelines.md
 * https://www.alibabacloud.com/blog/api-design-best-practices-by-alibaba-researcher-gu-pu_594784
 * https://www.akitasoftware.com/blog/2020/7/29/the-secret-to-building-better-software-get-in-control-of-your-apis
