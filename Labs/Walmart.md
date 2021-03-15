@@ -10,7 +10,7 @@
 
 ## Technology & Business 
 
-![](images/Werner.png)
+![](./images/Werner.png)
 
 Using Amazon.com, Inc. as an example for transforming business starting with a recent thread on Twitter...
 
