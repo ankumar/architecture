@@ -7,13 +7,13 @@
 
 ## Non-Funtional
 
-## Build
+# Build
 
 * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-## References
+# References
 
 * List of system quality attributes - https://en.wikipedia.org/wiki/List_of_system_quality_attributes
 * Characterizing Architecturally Significant Requirements - https://ulir.ul.ie/bitstream/handle/10344/3061/Chen_2013_characterising.pdf;jsessionid=47B707698DAEE64A10746731ADEE08F9?sequence=2
