@@ -51,17 +51,17 @@ https://twitter.com/MIT_CSAIL/status/1283737295804342275, Fast Forward 2020, 25y
 
 > [**Shipping Org Chart**](https://lightstep.com/blog/the-only-good-reason-to-adopt-microservices/), [Conway's Law Reverb](http://ruthmalan.com/Journal/2014/2014JournalMay.htm#Conways_Law) **"you always ship your organization, so design your organization well"** 
 
-[COVID](images/COVID.png) is likely going to accelerate technology transformations in business of every size small, medium & large.
+[COVID](/images/COVID.png) is likely going to accelerate technology transformations in business of every size small, medium & large.
 
 ## Tools & Services
 
 1. [Systems Thinking](https://www.youtube.com/watch?v=yGN5DBpW93g)
 
 2. [Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
-![](images/open%20source.jpeg)
+![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
 
-![](images/open%20source%20%26%20large%20company.png)
+![](/images/open%20source%20%26%20large%20company.png)
 -- Kelsey Hightower, Developer & Open Source Advocate, Google Cloud
 
 3. [Organizations can capitalize on the unprecedented levels of investment made by the hyperscalers in cloud-native applications and business capabilities]( https://leadingedgeforum.com/research/constructing-cloud-native-business-capabilities-if-you-think-cloud-is-only-about-it-infrastructure-you-seriously-need-to-think-again/)
