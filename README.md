@@ -15,4 +15,4 @@
 * [AWS](https://aws.amazon.com/architecture/)
 * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
 
-5. https://github.com/wso2/reference-architecture
+5. Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
