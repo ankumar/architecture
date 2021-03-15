@@ -11,5 +11,5 @@
 2. https://github.com/mtnygard/architecture-qualities
 
 3. "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
-* AWS
-* Azure
+* [AWS](https://aws.amazon.com/architecture/)
+* [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
