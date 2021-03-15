@@ -2,6 +2,8 @@
 
 ## Functional
 
+* [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
+
 ## Non-Funtional
 
 ## Build
