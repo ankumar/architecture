@@ -11,8 +11,8 @@
 
 3. Architecture-Qualities - https://github.com/mtnygard/architecture-qualities
 
-4. **"Well Architected"** - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
+4. Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
+
+5. **"Well Architected"** - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 * [AWS](https://aws.amazon.com/architecture/)
 * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
-
-5. Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
