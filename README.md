@@ -15,13 +15,15 @@
 
 # References
 
+* Architecture-Qualities - https://github.com/mtnygard/architecture-qualities
+
 * Open Source
   * List of system quality attributes - https://en.wikipedia.org/wiki/List_of_system_quality_attributes
   * https://boards.greenhouse.io/wikimedia/jobs/2976623
 
 * Characterizing Architecturally Significant Requirements - https://ulir.ul.ie/bitstream/handle/10344/3061/Chen_2013_characterising.pdf;jsessionid=47B707698DAEE64A10746731ADEE08F9?sequence=2
 
-* Architecture-Qualities - https://github.com/mtnygard/architecture-qualities
+# Patterns
 
 * Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
 
