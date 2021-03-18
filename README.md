@@ -21,15 +21,15 @@
 
 * Open Source
   * List of system quality attributes - https://en.wikipedia.org/wiki/List_of_system_quality_attributes
+  * Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
   * https://boards.greenhouse.io/wikimedia/jobs/2976623
-
-# Patterns
+    * https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice
+    * https://techblog.wikimedia.org/2020/10/29/wikipedia-as-a-castle-in-the-wilderness-modernization-in-the-dynamic-world-of-the-internet/ 
+    * https://wikimediafoundation.org/about/values/
 
 * ACM - www.acm.org/acm-focus
 
-* Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
-
-* **"Well Architected"** - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
+* "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
   * [AWS](https://aws.amazon.com/architecture/)
   * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
 
