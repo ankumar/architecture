@@ -25,12 +25,13 @@
 
 # Patterns
 
+* ACM - www.acm.org/acm-focus
+
 * Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
 
 * **"Well Architected"** - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
   * [AWS](https://aws.amazon.com/architecture/)
   * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
 
-* ACM - www.acm.org/acm-focus
 
 
