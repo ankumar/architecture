@@ -7,6 +7,8 @@
 
 ## Non-Funtional
 
+* [DevOps, Observability, and the need to tear down organizational boundaries](https://medium.com/lightstephq/devops-observability-and-the-need-to-tear-down-organizational-boundaries-f5d25755ff3a)
+
 ## Culture
 
 ### Culture is "Code"
