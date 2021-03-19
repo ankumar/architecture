@@ -48,8 +48,8 @@
     * Security, privacy, and compliance
     * Reliability
     * Performance and cost optimization
-    * Patterns
 
+* Patterns
 1. https://github.com/senthilrch/awesome-cloud-native
 2. https://github.com/senthilrch/awesome-kubernetes
 3. https://github.com/senthilrch/awesome-serverless
