@@ -47,5 +47,11 @@
 * Reliability	- The ability of a system to recover from failures and continue to function.
 * Security	- Protecting applications and data from threats.
 
+* Patterns
+
+1. https://github.com/senthilrch/awesome-cloud-native
+2. https://github.com/senthilrch/awesome-kubernetes
+3. https://github.com/senthilrch/awesome-serverless
+
 
 
