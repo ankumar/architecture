@@ -23,7 +23,7 @@ Moving forward in the book I'm learning about changes that need to be made aroun
 
 I believe our destination culture is Generative.  I also feel that "we all kinda want it".  So, I'm getting excited about what the future holds...
 
-I recommend that all ABL Tech managers and architects get a copy of this book and read through it.
+I recommend that all Tech managers & Architects get a copy of this book and read through it.
 
 ### Culture is not a set of beliefs, a set of actions
  
