@@ -9,7 +9,7 @@
 
 ## Non-Funtional
 
-Organizational boundaries are getting blurred between "Public" & "Private", especially with the migration of workloads to Public Cloud
+Organizational boundaries are getting blurred between "Public" & "Private", especially with the migration of workloads to Public Cloud & "Edge"
 
 * [DevOps, Observability, and the need to tear down organizational boundaries](https://medium.com/lightstephq/devops-observability-and-the-need-to-tear-down-organizational-boundaries-f5d25755ff3a)
 
