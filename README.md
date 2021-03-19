@@ -27,8 +27,6 @@
     * https://techblog.wikimedia.org/2020/10/29/wikipedia-as-a-castle-in-the-wilderness-modernization-in-the-dynamic-world-of-the-internet/ 
     * https://wikimediafoundation.org/about/values/
 
-* ACM - www.acm.org/acm-focus
-
 * Cloud - "Well Architected", Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
 1. [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
@@ -65,6 +63,8 @@
 1. https://github.com/senthilrch/awesome-cloud-native
 2. https://github.com/senthilrch/awesome-kubernetes
 3. https://github.com/senthilrch/awesome-serverless
+
+* ACM - www.acm.org/acm-focus
 
 
 
