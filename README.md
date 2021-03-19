@@ -29,7 +29,7 @@
 
 * ACM - www.acm.org/acm-focus
 
-* "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
+* Cloud - "Well Architected", Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
 1. [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
 
