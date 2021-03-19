@@ -30,7 +30,8 @@
 * ACM - www.acm.org/acm-focus
 
 * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
- * [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
+
+1. [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
 
 1. Operational Excellence
 2. Security
@@ -38,7 +39,7 @@
 4. Performance Efficiency
 5. Cost Optimization
 
-  * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Pillars
+2. [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Pillars
 
 1. Cost Optimization	- Managing costs to maximize the value delivered.
 2. Operational Excellence	- Operations processes that keep a system running in production.
