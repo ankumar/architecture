@@ -30,16 +30,11 @@
 * Cloud "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
 1. [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
-
-* Operational Excellence
-
-* Security
-
-* Reliability
-
-* Performance Efficiency
-
-* Cost Optimization
+    * Operational Excellence
+    * Security
+    * Reliability
+    * Performance Efficiency
+    * Cost Optimization
 
 2. [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Pillars
     * Cost Optimization	- Managing costs to maximize the value delivered.
@@ -49,16 +44,11 @@
     * Security	- Protecting applications and data from threats.
 
 3. [GCP](https://cloud.google.com/architecture/framework)
-
-* Operational excellence
-
-* Security, privacy, and compliance
-
-* Reliability
-
-* Performance and cost optimization
-
-* Patterns
+    * Operational excellence
+    * Security, privacy, and compliance
+    * Reliability
+    * Performance and cost optimization
+    * Patterns
 
 1. https://github.com/senthilrch/awesome-cloud-native
 2. https://github.com/senthilrch/awesome-kubernetes
