@@ -42,15 +42,11 @@
 * Cost Optimization
 
 2. [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Pillars
-* Cost Optimization	- Managing costs to maximize the value delivered.
-
-* Operational Excellence	- Operations processes that keep a system running in production.
-
-* Performance Efficiency	- The ability of a system to adapt to changes in load.
-
-* Reliability	- The ability of a system to recover from failures and continue to function.
-
-* Security	- Protecting applications and data from threats.
+  * Cost Optimization	- Managing costs to maximize the value delivered.
+  * Operational Excellence	- Operations processes that keep a system running in production.
+  * Performance Efficiency	- The ability of a system to adapt to changes in load.
+  * Reliability	- The ability of a system to recover from failures and continue to function.
+  * Security	- Protecting applications and data from threats.
 
 3. [GCP](https://cloud.google.com/architecture/framework)
 
