@@ -80,9 +80,9 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
         * Performance and cost optimization
 
     * Patterns
-      1. https://github.com/senthilrch/awesome-cloud-native
-      2. https://github.com/senthilrch/awesome-kubernetes
-      3. https://github.com/senthilrch/awesome-serverless
+        * https://github.com/senthilrch/awesome-cloud-native
+        * https://github.com/senthilrch/awesome-kubernetes
+        * https://github.com/senthilrch/awesome-serverless
 
 * ACM - www.acm.org/acm-focus
 
