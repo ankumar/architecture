@@ -68,7 +68,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
     * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
-      1. [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
+      1. [AWS](https://aws.amazon.com/architecture/) - 5 pillars
         * Operational Excellence
         * Security
         * Reliability
@@ -82,7 +82,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
         * Reliability	- The ability of a system to recover from failures and continue to function.
         * Security	- Protecting applications and data from threats.
 
-      3. [GCP](https://cloud.google.com/architecture/framework)
+      3. [GCP](https://cloud.google.com/architecture/framework) - 4 principles
         * Operational excellence
         * Security, privacy, and compliance
         * Reliability
