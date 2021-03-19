@@ -33,19 +33,19 @@
 
 1. [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
 
-1. Operational Excellence
-2. Security
-3. Reliability
-4. Performance Efficiency
-5. Cost Optimization
+* Operational Excellence
+* Security
+* Reliability
+* Performance Efficiency
+* Cost Optimization
 
 2. [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Pillars
 
-1. Cost Optimization	- Managing costs to maximize the value delivered.
-2. Operational Excellence	- Operations processes that keep a system running in production.
-3. Performance Efficiency	- The ability of a system to adapt to changes in load.
-4. Reliability	- The ability of a system to recover from failures and continue to function.
-5. Security	- Protecting applications and data from threats.
+* Cost Optimization	- Managing costs to maximize the value delivered.
+* Operational Excellence	- Operations processes that keep a system running in production.
+* Performance Efficiency	- The ability of a system to adapt to changes in load.
+* Reliability	- The ability of a system to recover from failures and continue to function.
+* Security	- Protecting applications and data from threats.
 
 
 
