@@ -50,6 +50,16 @@
 * Reliability	- The ability of a system to recover from failures and continue to function.
 * Security	- Protecting applications and data from threats.
 
+3. [GCP](https://cloud.google.com/architecture/framework)
+
+* Operational excellence
+
+* Security, privacy, and compliance
+
+* Reliability
+
+* Performance and cost optimization
+
 * Patterns
 
 1. https://github.com/senthilrch/awesome-cloud-native
