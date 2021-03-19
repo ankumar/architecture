@@ -47,6 +47,10 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
+# Developer Productivity
+
+* [ DevOps Platform | Backstage | Backyard | ... ](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
+
 # References
 
 * Decisions - Build In-house vs Buy/ use off-the-shelf vs outsource
