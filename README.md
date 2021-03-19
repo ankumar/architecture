@@ -75,7 +75,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
         * Performance Efficiency
         * Cost Optimization
 
-      2. [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Pillars
+      2. [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Five pillars
         * Cost Optimization	- Managing costs to maximize the value delivered.
         * Operational Excellence	- Operations processes that keep a system running in production.
         * Performance Efficiency	- The ability of a system to adapt to changes in load.
