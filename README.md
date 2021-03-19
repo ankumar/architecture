@@ -55,7 +55,9 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
     * https://techblog.wikimedia.org/2020/10/29/wikipedia-as-a-castle-in-the-wilderness-modernization-in-the-dynamic-world-of-the-internet/ 
     * https://wikimediafoundation.org/about/values/
 
-* Cloud "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
+* Cloud 
+
+    * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
 1. [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
     * Operational Excellence
@@ -77,7 +79,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
     * Reliability
     * Performance and cost optimization
 
-* Patterns
+    * Patterns
 1. https://github.com/senthilrch/awesome-cloud-native
 2. https://github.com/senthilrch/awesome-kubernetes
 3. https://github.com/senthilrch/awesome-serverless
