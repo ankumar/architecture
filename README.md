@@ -15,9 +15,9 @@ I am reading a book that was recommended by Kumar, Anil called "[Accelerate - Bu
  
 On pg30 the book describes 3 types of organizational cultures.
  
-1. Pathological (power oriented) organizations are characterized by large amounts of fear and threat.  People often hoard information or withhold it for political reasons, or distort it to make themselves look better.
-2. Bureaucratic (rule-oriented) organizations protect departments.  Those in the department want to maintain their "turf", insist on their own rules, and generally do things by the book - their book.
-3. Generative (performance-oriented) organizations focus on the mission.  How do we accomplish our goal?  Everything is subordinated to good performance, to doing what we are supposed to do.
+1. **Pathological** (power oriented) organizations are characterized by large amounts of fear and threat.  People often hoard information or withhold it for political reasons, or distort it to make themselves look better.
+2. **Bureaucratic** (rule-oriented) organizations protect departments.  Those in the department want to maintain their "turf", insist on their own rules, and generally do things by the book - their book.
+3. **Generative** (performance-oriented) organizations focus on the mission.  How do we accomplish our goal?  Everything is subordinated to good performance, to doing what we are supposed to do.
 
 Moving forward in the book I'm learning about changes that need to be made around testing, version control, automation, CICD, communication, etc...  I am starting to be able to tie ideas that are nicely articulated in the book to statements I've heard in meetings by folks like Kumar, Anil, Raghavendra, Vijay, and Charlton, Paul.  Wow.  This is so cool...  It's like a giant light bulb turned on this week!
 
