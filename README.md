@@ -30,7 +30,14 @@
 * ACM - www.acm.org/acm-focus
 
 * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
+
   * [AWS](https://aws.amazon.com/architecture/)
+1. Operational Excellence
+2. Security
+3. Reliability
+4. Performance Efficiency
+5. Cost Optimization
+
   * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
 
 
