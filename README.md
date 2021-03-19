@@ -32,11 +32,17 @@
 * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
 1. [AWS](https://aws.amazon.com/architecture/) - 5 Pillars
+
 * Operational Excellence
+
 * Security
+
 * Reliability
+
 * Performance Efficiency
+
 * Cost Optimization
+
 2. [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Pillars
 * Cost Optimization	- Managing costs to maximize the value delivered.
 * Operational Excellence	- Operations processes that keep a system running in production.
