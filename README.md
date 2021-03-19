@@ -1,5 +1,7 @@
 # Quality Attributes
 
+[![Bedrock](https://github.com/ankumar/Architecture/blob/main/images/Bedrock.jpg)](https://www.infoq.com/presentations/six-decades-software-engineering/)
+
 ## Functional
 
 * [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
