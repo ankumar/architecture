@@ -88,7 +88,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
         * Reliability
         * Performance and cost optimization
 
-    * Patterns
+    * Patterns - Ton of this on GitHub & other places
         * https://github.com/senthilrch/awesome-cloud-native
         * https://github.com/senthilrch/awesome-kubernetes
         * https://github.com/senthilrch/awesome-serverless
