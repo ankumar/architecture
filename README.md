@@ -15,6 +15,8 @@
 
 Considering Observability & Security, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
 
+-- [From Book](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813)
+
 * [DevOps, Observability, and the need to tear down organizational boundaries](https://medium.com/lightstephq/devops-observability-and-the-need-to-tear-down-organizational-boundaries-f5d25755ff3a)
 
 ## Culture
