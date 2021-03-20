@@ -72,21 +72,21 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
     * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
-      1. [AWS](https://aws.amazon.com/architecture/) - 5 pillars
+      1.[AWS](https://aws.amazon.com/architecture/) - 5 pillars
         * Operational Excellence
         * Security
         * Reliability
         * Performance Efficiency
         * Cost Optimization
 
-      2. [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Five pillars
+      2.[Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Five pillars
         * Cost Optimization	- Managing costs to maximize the value delivered.
         * Operational Excellence	- Operations processes that keep a system running in production.
         * Performance Efficiency	- The ability of a system to adapt to changes in load.
         * Reliability	- The ability of a system to recover from failures and continue to function.
         * Security	- Protecting applications and data from threats.
 
-      3. [GCP](https://cloud.google.com/architecture/framework) - 4 principles
+      3.[GCP](https://cloud.google.com/architecture/framework) - 4 principles
         * Operational excellence
         * Security, privacy, and compliance
         * Reliability
