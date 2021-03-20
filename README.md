@@ -11,6 +11,8 @@
 
 ## Non-Funtional
 
+![Reliability](images/Reliability.png)
+
 Considering Observability & Security, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
 
 * [DevOps, Observability, and the need to tear down organizational boundaries](https://medium.com/lightstephq/devops-observability-and-the-need-to-tear-down-organizational-boundaries-f5d25755ff3a)
