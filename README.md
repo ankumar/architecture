@@ -51,58 +51,6 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 * A developer portal with many names [Backyard @ Yahoo!|DevOps Platform @ hundreds of other companies|Backstage @ Spotify|Runway @ American Airlines|...](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
 
-# References
-
-* Decisions - Build In-house vs Buy/ use off-the-shelf vs outsource
-  * https://www.susannekaiser.net/conferences/slides/yow-adaptive-systems-2020.pdf 
-
-* SPACE, a New Framework to Understand and Measure Developer Productivity - https://www.infoq.com/news/2021/03/space-developer-productivity/
-
-* Architecture-Qualities - https://github.com/mtnygard/architecture-qualities
-
-* Characterizing Architecturally Significant Requirements - https://ulir.ul.ie/bitstream/handle/10344/3061/Chen_2013_characterising.pdf;jsessionid=47B707698DAEE64A10746731ADEE08F9?sequence=2
-
-* Open Source
-
-  * List of system quality attributes - https://en.wikipedia.org/wiki/List_of_system_quality_attributes
-  * Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
-  * https://boards.greenhouse.io/wikimedia/jobs/2976623
-    * https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice
-    * https://techblog.wikimedia.org/2020/10/29/wikipedia-as-a-castle-in-the-wilderness-modernization-in-the-dynamic-world-of-the-internet/ 
-    * https://wikimediafoundation.org/about/values/
-
-* Cloud 
-
-    * New Directions in Cloud Programming - https://www.youtube.com/watch?v=FeRg-7Sr1L8 
-   
-    * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
-
-      1.[AWS](https://aws.amazon.com/architecture/) - 5 pillars
-        * Operational Excellence
-        * Security
-        * Reliability
-        * Performance Efficiency
-        * Cost Optimization
-
-      2.[Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/) - Five pillars
-        * Cost Optimization	- Managing costs to maximize the value delivered.
-        * Operational Excellence	- Operations processes that keep a system running in production.
-        * Performance Efficiency	- The ability of a system to adapt to changes in load.
-        * Reliability	- The ability of a system to recover from failures and continue to function.
-        * Security	- Protecting applications and data from threats.
-
-      3.[GCP](https://cloud.google.com/architecture/framework) - 4 principles
-        * Operational excellence
-        * Security, privacy, and compliance
-        * Reliability
-        * Performance and cost optimization
-
-    * Patterns - Ton of this on GitHub & other places
-        * https://github.com/senthilrch/awesome-cloud-native
-        * https://github.com/senthilrch/awesome-kubernetes
-        * https://github.com/senthilrch/awesome-serverless
-
-* ACM - www.acm.org/acm-focus
 
 
 
