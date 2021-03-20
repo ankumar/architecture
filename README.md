@@ -63,6 +63,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * Characterizing Architecturally Significant Requirements - https://ulir.ul.ie/bitstream/handle/10344/3061/Chen_2013_characterising.pdf;jsessionid=47B707698DAEE64A10746731ADEE08F9?sequence=2
 
 * Open Source
+
   * List of system quality attributes - https://en.wikipedia.org/wiki/List_of_system_quality_attributes
   * Emerging Reference Architectural Patterns - https://github.com/wso2/reference-architecture
   * https://boards.greenhouse.io/wikimedia/jobs/2976623
@@ -73,6 +74,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * Cloud 
 
     * New Directions in Cloud Programming - https://www.youtube.com/watch?v=FeRg-7Sr1L8 
+> PACT of four facets: Program semantics, Availablity, Consistency and Targets of optimization. We propose to migrate developers gradually to PACT programming by lifting familiar code into our more declarative level of abstraction.
 
     * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
