@@ -72,6 +72,10 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 * Cloud 
 
+    * New Directions in Cloud Programming - https://www.youtube.com/watch?v=FeRg-7Sr1L8 
+
+PACT of four facets: Program semantics, Availablity, Consistency and Targets of optimization. We propose to migrate developers gradually to PACT programming by lifting familiar code into our more declarative level of abstraction.
+
     * "Well Architected" - Ideally need set of Abstractions, Crisp boundaries, Clear separation of concerns, and a balanced set of responsibilities...
 
       1.[AWS](https://aws.amazon.com/architecture/) - 5 pillars
