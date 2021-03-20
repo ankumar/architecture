@@ -49,7 +49,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 # Developer Productivity
 
-* [ Backyard | DevOps Platform | Backstage | Runway | ... ](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
+* [ Backyard @ Yahoo! | DevOps Platform @ hundreds of other companies | Backstage @ Spotify | Runway @ American Airlines | ... ](https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/)
 
 # References
 
