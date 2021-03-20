@@ -56,6 +56,8 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * Decisions - Build In-house vs Buy/ use off-the-shelf vs outsource
   * https://www.susannekaiser.net/conferences/slides/yow-adaptive-systems-2020.pdf 
 
+* SPACE, a New Framework to Understand and Measure Developer Productivity - https://www.infoq.com/news/2021/03/space-developer-productivity/
+
 * Architecture-Qualities - https://github.com/mtnygard/architecture-qualities
 
 * Characterizing Architecturally Significant Requirements - https://ulir.ul.ie/bitstream/handle/10344/3061/Chen_2013_characterising.pdf;jsessionid=47B707698DAEE64A10746731ADEE08F9?sequence=2
