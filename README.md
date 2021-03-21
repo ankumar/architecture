@@ -12,6 +12,7 @@
 ## Non-Funtional
 
 ![Reliability](images/Reliability.png)
+
 -- [From book Implementing Service Level Objectives](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813)
 
 Considering Observability & Security, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
