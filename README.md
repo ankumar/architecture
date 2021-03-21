@@ -20,6 +20,8 @@ Considering Observability & Security, Organizational boundaries are getting blur
 
 ## Culture
 
+"culture is not a static ‘thing’ but something which everyone is constantly creating, affirming and expressing" -- Mary Douglas
+
 ### Culture is "Code"
  
 > I am reading a book that was recommended by Kumar, Anil called "[Accelerate - Building and Scaling High Performing Technology Organizations by Nicole Forsgren, Jez Humble, and Gene Kim](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)".  I am about 100 pages in and finally starting to understand the vision around our "destination" culture and honestly the "different cultures" that exist among our divisions.  
