@@ -4,7 +4,7 @@
 
 ## Functional
 
->> "distinction between physical and digital will disappear".
+> "distinction between physical and digital will disappear".
 
 * [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
 * [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
@@ -21,7 +21,7 @@ Considering security, privacy & observability (Ex: Bug bounty program), Organiza
 
 ## Culture
 
->> "culture is not a static ‘thing’ but something which everyone is constantly creating, affirming and expressing" -- Mary Douglas
+> "culture is not a static ‘thing’ but something which everyone is constantly creating, affirming and expressing" -- Mary Douglas
 
 ### Culture is "Code"
  
