@@ -15,7 +15,7 @@
 
 -- [From book Implementing Service Level Objectives](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813)
 
-Considering Security, privacy & observability (Ex: Bug bounty program), Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
+Considering security, privacy & observability (Ex: Bug bounty program), Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
 
 * [DevOps, Observability, and the need to tear down organizational boundaries](https://medium.com/lightstephq/devops-observability-and-the-need-to-tear-down-organizational-boundaries-f5d25755ff3a)
 
