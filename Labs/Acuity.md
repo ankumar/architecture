@@ -30,6 +30,8 @@ Source: [Mary Poppendieck on Six Decades of Software Engineering](https://www.in
 
 ## Engineering
 
+* [The Different CTO Roles](https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html)
+
 * [What in the World Is World-Class Engineering?](https://jdcarlston.medium.com/what-in-the-world-is-world-class-engineering-part-2-4b384c74dc19)
 
 * ["For understanding the specific proficiencies involved in creating a good Delivering to Optimizing agile team."](http://arlobelshee.github.io/AgileEngineeringFluency/?)
