@@ -5,7 +5,7 @@
 ## Functional
 
 > "distinction between physical and digital will disappear"
->
+
 > "if building a software-intensive system, these are the forces we must weigh"
 ![Software-Intensive](images/software-intensive.jpeg)
 
