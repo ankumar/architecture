@@ -4,7 +4,10 @@
 
 ## Functional
 
-> "distinction between physical and digital will disappear".
+> "distinction between physical and digital will disappear"
+>
+> "if building a software-intensive system, these are the forces we must weigh"
+![Software-Intensive](images/software-intensive.jpeg)
 
 * [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
 * [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
