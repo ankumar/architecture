@@ -1,5 +1,4 @@
 # Quality Attributes
-
 ## Functional
 
 > "distinction between physical and digital will disappear"
