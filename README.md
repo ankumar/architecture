@@ -1,4 +1,5 @@
 # Quality Attributes
+> [Six Decades of Software Engineering, “Those who cannot remember the past are condemned to repeat it”](https://www.infoq.com/presentations/six-decades-software-engineering/)
 
 [![Bedrock](https://github.com/ankumar/Architecture/blob/main/images/Bedrock.jpg)](https://www.infoq.com/presentations/six-decades-software-engineering/)
 
