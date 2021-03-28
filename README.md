@@ -51,12 +51,13 @@ Considering security, privacy & observability (Ex: Bug bounty program), Organiza
  
 https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-culture-book-computer-history-museum-6JfGIJJs
 
+* [Staff-plus](https://staffeng.com/guides )
+
 # Build
 
 * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
-* [Staff-plus](https://staffeng.com/guides )
 
 # Developer Productivity
 
