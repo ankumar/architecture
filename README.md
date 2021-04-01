@@ -1,13 +1,4 @@
 # Quality Attributes
-## Functional
-
-> "distinction between physical and digital will disappear"
-
-> "if building a software-intensive system, these are the forces we must weigh"
-![Software-Intensive](images/software-intensive.jpeg)
-
-* [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
-* [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
 
 ## Non-Funtional
 
@@ -18,6 +9,16 @@
 Considering security, privacy & observability (Ex: Bug bounty program), Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
 
 * [DevOps, Observability, and the need to tear down organizational boundaries](https://medium.com/lightstephq/devops-observability-and-the-need-to-tear-down-organizational-boundaries-f5d25755ff3a)
+
+## Functional
+
+> "distinction between physical and digital will disappear"
+
+> "if building a software-intensive system, these are the forces we must weigh"
+![Software-Intensive](images/software-intensive.jpeg)
+
+* [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
+* [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
 
 ## Culture
 
