@@ -24,6 +24,12 @@ Considering security, privacy & observability (Ex: Bug bounty program), Organiza
 
 > "culture is not a static ‘thing’ but something which everyone is constantly creating, affirming and expressing" -- Mary Douglas
 
+### Culture is not a set of beliefs, a set of actions
+ 
+> Companies & Culture: What You Do Is Who You Are - a16z editor in chief Sonal Chokshi interviews a16z co-founder Ben Horowitz -- author of the book What You Do Is > Who You Are -- on whether companies and people can change; how the very thing that is your strength can also be your weakness; how startups evolve from pirates to > the navy; actions vs words and values; and more.
+ 
+https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-culture-book-computer-history-museum-6JfGIJJs
+
 ### Culture is "Code"
  
 > I am reading a book that was recommended by Kumar, Anil called "[Accelerate - Building and Scaling High Performing Technology Organizations by Nicole Forsgren, Jez Humble, and Gene Kim](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)".  I am about 100 pages in and finally starting to understand the vision around our "destination" culture and honestly the "different cultures" that exist among our divisions.  
@@ -41,12 +47,6 @@ Considering security, privacy & observability (Ex: Bug bounty program), Organiza
 > I recommend that all Tech managers & Architects get a copy of this book and read through it.
 
 > Cheers!  ~https://www.linkedin.com/in/timothycdahl/
-
-### Culture is not a set of beliefs, a set of actions
- 
-> Companies & Culture: What You Do Is Who You Are - a16z editor in chief Sonal Chokshi interviews a16z co-founder Ben Horowitz -- author of the book What You Do Is > Who You Are -- on whether companies and people can change; how the very thing that is your strength can also be your weakness; how startups evolve from pirates to > the navy; actions vs words and values; and more.
- 
-https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-culture-book-computer-history-museum-6JfGIJJs
 
 * [Staff-plus](https://staffeng.com/guides )
 
