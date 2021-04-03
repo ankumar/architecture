@@ -56,7 +56,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-# Developer Productivity
+# Productivity
 
 A developer portal with naming & sub-domains As Backyard @ Yahoo!, DevOps Platform @ hundreds of other companies, Backstage @ Spotify, Runway @ American Airlines ...
 
