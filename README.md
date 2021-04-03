@@ -62,9 +62,9 @@ A developer portal with naming & sub-domains As Backyard @ Yahoo!, DevOps Platfo
 
 * https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
 
-# References
+# Analysis
 
-* https://github.com/ankumar/Architecture/wiki/References
 * [Technical Leadership Masterclass](https://www.ruthmalan.com/Bredemeyer/Technical_Leadership_Masterclass_Overview.htm)
+* https://github.com/ankumar/Architecture/wiki/References
 
 
