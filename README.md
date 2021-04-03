@@ -65,7 +65,7 @@ A developer portal with naming & sub-domains As Backyard @ Yahoo!, DevOps Platfo
 # Learn
 
 * [Technical Leadership Masterclass](https://www.ruthmalan.com/Bredemeyer/Technical_Leadership_Masterclass_Overview.htm)
-* https://github.com/ankumar/Architecture/wiki/References
 * https://twitter.com/ersiner/status/1376438100801503237
+* https://github.com/ankumar/Architecture/wiki/References
 
 
