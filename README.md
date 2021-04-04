@@ -58,9 +58,9 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 # Tools
 
-A developer portal with naming & sub-domains As Backyard @ Yahoo!, DevOps Platform @ hundreds of other companies, Backstage @ Spotify, Runway @ American Airlines ...
+Reimagined Company as a system with full observability starting with developer community 
 
-* https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
+* With naming & sub-domains As Backyard @ Yahoo!, "DevOps Platform" @hundreds of other organizations, Backstage @Spotify, Runway @American Airlines... - https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
 
 # Learn
 
