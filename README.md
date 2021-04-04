@@ -60,7 +60,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 Reimagined Company as a system with full observability starting with developer community 
 
-* With naming & sub-domains As Backyard @ Yahoo!, "DevOps Platform" @hundreds of other organizations, Backstage @Spotify, Runway @American Airlines... - https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
+* With naming & sub-domains As Backyard@Yahoo!, "DevOps Platform"@hundreds of other organizations, Backstage@Spotify, Runway@American Airlines... - https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
 
 # Learn
 
