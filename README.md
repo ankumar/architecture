@@ -1,8 +1,8 @@
 # Quality Attributes
 
-## Non-Funtional
-
 Consider Security (Ex: Bug bounty program), Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
+
+## Non-Funtional
 
 ![Reliability](images/Reliability.png)
 
