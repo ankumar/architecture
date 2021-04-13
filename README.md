@@ -8,6 +8,8 @@ Consider Security (Ex: Bug bounty program), Privacy & Observability, Organizatio
 
 -- [From book Implementing Service Level Objectives](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813)
 
+* https://www.adaptivecapacitylabs.com/
+
 ## Functional
 
 > "distinction between physical and digital will disappear"
@@ -60,7 +62,7 @@ Reimagined Company as a system with full observability starting with developer c
 
 * With naming & sub-domains As Backyard@Yahoo!, "DevOps Platform"@hundreds of other organizations, Backstage@Spotify, Runway@American Airlines... - https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
 
-# Learn
+# Learning
 
 * [Technical Leadership Masterclass](https://www.ruthmalan.com/Bredemeyer/Technical_Leadership_Masterclass_Overview.htm)
 * https://github.com/ankumar/Architecture/wiki/References
