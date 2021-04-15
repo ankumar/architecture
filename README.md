@@ -51,7 +51,8 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 > Cheers!  ~https://www.linkedin.com/in/timothycdahl/
 
-* [Staff-plus](https://staffeng.com/guides )
+* [Staff-plus](https://staffeng.com/guides)
+* [Sample of Career ladders](https://github.com/sdras/career-ladders)
 
 # Build
 
