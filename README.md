@@ -2,7 +2,7 @@
 
 Design Reimagined Company as a System with Everyone as Builders & full Observability. I think it started with Security Bug bounty program, now trending in Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Migration of Workloads to Public Cloud & "Edge".
 
-1. Strategy - https://about.gitlab.com/company/strategy/ / 
+1. Strategy 
 3. Roadmap -  
 4. Design - https://upmo.com/dev/ 
 
