@@ -1,6 +1,6 @@
 # Quality Attributes
 
-I think we started with Security with Bug bounty program, next Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
+Reimagined Company as a System with full observability starting with developer community. I think we started with Security with Bug bounty program, next Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
 
 1. Public Roadmap
 2. Open Design 
@@ -61,8 +61,6 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
 # Tools
-
-Reimagined Company as a system with full observability starting with developer community 
 
 * With naming & sub-domains As Backyard@Yahoo!, "DevOps Platform"@hundreds of other organizations, Backstage@Spotify, Runway@American Airlines... - https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
 
