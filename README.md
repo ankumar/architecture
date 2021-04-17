@@ -1,6 +1,8 @@
 # Quality Attributes
 
-Reimagined Company as a System with full Observability treating everyone as Builders. I think we started with Security with Bug bounty program, next Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
+Reimagined Company as a System with full Observability treating everyone as Builders. 
+
+I think we started first Security with Bug bounty program, next Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the Migration of Workloads to Public Cloud & "Edge".
 
 1. Public Roadmap
 2. Open Design 
