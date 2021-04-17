@@ -1,6 +1,6 @@
 # Quality Attributes
 
-Reimagined Company as a System with full observability starting with developer community. I think we started with Security with Bug bounty program, next Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
+Reimagined Company as a System with full Observability starting with developer community. I think we started with Security with Bug bounty program, next Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the migration of Workloads to Public Cloud & "Edge".
 
 1. Public Roadmap
 2. Open Design 
