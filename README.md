@@ -4,8 +4,9 @@ Design Reimagined Company as a System with Everyone as Builders & full Observabi
 
 I think we started with Security Bug bounty program, perhaps now with Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces especially with the Migration of Workloads to Public Cloud & "Edge".
 
-1. Public Roadmap
-2. Open Design 
+1. Open Strategy
+2. Public Roadmap
+3. Open Design
 
 ## Non-Funtional
 
