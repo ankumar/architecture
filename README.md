@@ -1,12 +1,12 @@
 # Quality Attributes
 
-Design Company as a System with Full Observability. A Model - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/. 
+Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Migration of Workloads to Public Cloud & "Edge". I think it started with Security Bug bounty program, now trending in Privacy & Observability.
 
- Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Migration of Workloads to Public Cloud & "Edge". I think it started with Security Bug bounty program, now trending in Privacy & Observability.
+1. Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
+2. Open Software Design - https://upmo.com/dev/
+3. Public Roadmap - https://github.com/github/roadmap  
 
-1. Strategy 
-3. Roadmap  
-4. Design 
+Design Company as a System with Full Observability. A Model - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 ## Non-Funtional
 
