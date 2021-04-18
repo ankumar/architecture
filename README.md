@@ -1,6 +1,6 @@
 # Quality Attributes
 
-Design Company as a System with full Observability.
+Design Company as a System with Full Observability.
 
 A Model - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/. 
 
