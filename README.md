@@ -14,8 +14,6 @@ Design Company as a System with Full Observability. A Model - https://www.adapti
 
 -- [From book Implementing Service Level Objectives](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813)
 
-* https://www.adaptivecapacitylabs.com/
-
 ## Functional
 
 > "distinction between physical and digital will disappear"
