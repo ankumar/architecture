@@ -1,8 +1,6 @@
 # Quality Attributes
 
-Design Company as a System with Full Observability.
-
-A Model - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/. 
+Design Company as a System with Full Observability. A Model - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/. 
 
  Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Migration of Workloads to Public Cloud & "Edge". I think it started with Security Bug bounty program, now trending in Privacy & Observability,
 
