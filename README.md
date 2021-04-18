@@ -1,6 +1,6 @@
 # Quality Attributes
 
-Design Reimagined Company as a System with Everyone as Builders & full Observability, a model https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/. I think it started with Security Bug bounty program, now trending in Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Migration of Workloads to Public Cloud & "Edge".
+Design Company as a System with Everyone as Builders & full Observability, a model https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/. I think it started with Security Bug bounty program, now trending in Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Migration of Workloads to Public Cloud & "Edge".
 
 1. Strategy 
 3. Roadmap  
