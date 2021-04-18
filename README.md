@@ -2,7 +2,7 @@
 
 Design Company as a System & full Observability, a model https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/. 
 
-I think it started with Security Bug bounty program, now trending in Privacy & Observability, Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Migration of Workloads to Public Cloud & "Edge".
+ Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Migration of Workloads to Public Cloud & "Edge". I think it started with Security Bug bounty program, now trending in Privacy & Observability,
 
 1. Strategy 
 3. Roadmap  
