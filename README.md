@@ -16,7 +16,8 @@ Design Company as a System with Full Observability. A Model - https://www.adapti
 
 ## Functional
 
-> "distinction between physical and digital will disappear"
+> "distinction between physical and digital will disappear" 
+> https://www.admcloudtech.com/2021/04/06/amazon-cto-aws-will-erase-the-line-between-physical-and-digital/ 
 
 > "if building a software-intensive system, these are the forces we must weigh"
 ![Software-Intensive](images/software-intensive.jpeg)
