@@ -70,6 +70,7 @@ Called Backyard when i used to work at Yahoo!, Now Backstage open source project
 "Platform" @hundreds of other organizations ...
 
 * https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
+* https://leanpub.com/platformstrategy
 
 # Learning
 
