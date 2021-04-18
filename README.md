@@ -2,7 +2,7 @@
 
 Organizational boundaries are getting blurred between "Public" & "Private" workspaces & imperative with Open Source, Deployment of Workloads to Public Cloud & "Edge". I think it started with Security Bug bounty program, now trending in Privacy & Observability.
 
-1. Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
+1. Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
 2. Open Software Design - https://upmo.com/dev/
 3. Public Roadmap - https://github.com/github/roadmap  
 
