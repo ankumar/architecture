@@ -1,6 +1,6 @@
 # Quality Attributes
 
-Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative with Cognitive load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think it started with Security Bug bounty program, now trending in Privacy & Observability.
+Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Cognitive load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think it started with Security Bug bounty program, now trending in Privacy & Observability.
 
 1. Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
 2. Open Software Design - https://upmo.com/dev/
