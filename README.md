@@ -1,6 +1,6 @@
 # Quality Attributes
 
-Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Cognitive load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in Infrastructure with Security Bug bounty program, now trending in Privacy & Observability. The applications are going throught similar patterns with Open APIs.
+Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Cognitive load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in Infrastructure with Security Bug bounty program, now trending in Privacy & Observability, applications are going through similar patterns with Open APIs.
 
 1. Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
 2. Open Software Design - https://upmo.com/dev/
