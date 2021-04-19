@@ -11,6 +11,8 @@ Design Company as a System with Full Observability. A Model - https://www.adapti
 
 ## Non-Funtional
 
+> "We start by looking at which **“-ilities”** are most important to architects. A software architect is responsible for the cross-cutting concerns and making sure that individual components of a large system can work together seamlessly to meet overall objectives. In 2021, four areas we feel architects are concerned with are designing for resilience, designing for observability, designing for portability, and designing for sustainability."
+
 ![Reliability](images/Reliability.png)
 
 -- [From book Implementing Service Level Objectives](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813)
