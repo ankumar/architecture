@@ -77,7 +77,7 @@ Called [Backyard](https://ryanaquino.com/Yahoo-Backyard) when i used to work at 
 
 * https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
 
-# Learning
+# Learn
 
 * [Technical Leadership Masterclass](https://www.ruthmalan.com/Bredemeyer/Technical_Leadership_Masterclass_Overview.htm)
 * https://github.com/ankumar/Architecture/wiki/References
