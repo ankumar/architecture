@@ -5,7 +5,7 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 1. Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
 2. Open Software Design - https://upmo.com/dev/
 3. Public Roadmap - https://github.com/github/roadmap  
-4. Specifications - [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), ...
+4. Specifications - [APIs](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/) [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), ...
 
 Design Company as a System with Full Observability. A Model - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
