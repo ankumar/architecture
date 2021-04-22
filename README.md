@@ -2,12 +2,16 @@
 
 Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Cognitive load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in Infrastructure with UNIX, Security Bug bounty program, now trending in Privacy & Observability, applications are going through similar patterns with Open APIs.
 
-Design Company as a System with Full Observability. A Model - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+Design Company as a System with Full Observability, Models:
 
-1. Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
+1. Human Cognitive - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+
+- Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
+- Public Roadmap - https://github.com/github/roadmap  
+
 2. Open Software Design - https://upmo.com/dev/
-3. Public Roadmap - https://github.com/github/roadmap  
-4. API - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) / [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
+
+- API - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) / [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Non-Funtional
 
