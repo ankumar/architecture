@@ -7,7 +7,7 @@ Design Company as a System with Full Observability. A Model - https://www.adapti
 1. Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
 2. Open Software Design - https://upmo.com/dev/
 3. Public Roadmap - https://github.com/github/roadmap  
-4. API - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) / [APIs](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), ...
+4. API - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) / [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), ...
 
 ## Non-Funtional
 
