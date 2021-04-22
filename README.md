@@ -4,13 +4,11 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 Design Company as a System with Full Observability, Models:
 
-1. Work - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+1. Open Software Design - https://upmo.com/dev/
+2. Work - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 - Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
 - Public Roadmap - https://github.com/github/roadmap  
-
-2. Open Software Design - https://upmo.com/dev/
-
 - API - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) / [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Non-Funtional
