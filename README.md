@@ -4,7 +4,7 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 Design Company as a System with Full Observability, Models:
 
-1. Human Cognitive - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+1. Work - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 - Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
 - Public Roadmap - https://github.com/github/roadmap  
