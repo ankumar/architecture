@@ -59,6 +59,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 > Cheers!  ~https://www.linkedin.com/in/timothycdahl/
 
+* [Technical Leadership Masterclass](https://www.ruthmalan.com/Bredemeyer/Technical_Leadership_Masterclass_Overview.htm)
 * [Staff-plus](https://staffeng.com/guides)
 * [Sample of Career ladders](https://github.com/sdras/career-ladders)
 
@@ -82,7 +83,6 @@ Called [Backyard](https://ryanaquino.com/Yahoo-Backyard) when i used to work at 
 
 # Learn
 
-* [Technical Leadership Masterclass](https://www.ruthmalan.com/Bredemeyer/Technical_Leadership_Masterclass_Overview.htm)
 * https://github.com/ankumar/Architecture/wiki/References
 
 
