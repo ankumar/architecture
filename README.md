@@ -28,7 +28,8 @@ Design Company as a System with Full Observability, Models:
 
 * [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
 * [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
-* [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) / [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
+* [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns)
+  * [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Culture
 
