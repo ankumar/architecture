@@ -2,13 +2,13 @@
 
 Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Cognitive load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in Infrastructure with UNIX, Security Bug bounty program, now trending in Privacy & Observability, applications are going through similar patterns with Open APIs.
 
+- Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
+- Public Roadmap - https://github.com/github/roadmap  
+
 Design Company as a System with Full Observability, Models:
 
 1. Open Software Design - https://notes.ceilfors.com/Open_software_design.html -> https://upmo.com/dev/
 2. Work - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
-
-- Transparent Strategy - https://about.gitlab.com/company/strategy/#why-is-this-page-public
-- Public Roadmap - https://github.com/github/roadmap  
 
 ## Non-Funtional
 
