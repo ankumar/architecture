@@ -83,6 +83,6 @@ Called [Backyard](https://ryanaquino.com/Yahoo-Backyard) when i used to work at 
 
 # Learn
 
-* https://github.com/ankumar/Architecture/wiki/References
+* [list of resources](https://github.com/ankumar/Architecture/wiki/References)
 
 
