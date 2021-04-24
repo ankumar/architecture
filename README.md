@@ -8,7 +8,7 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 Design Company as a System with Full Observability, Models:
 
 1. Open Software Design - https://notes.ceilfors.com/Open_software_design.html -> https://upmo.com/dev/
-2. Work - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+2. Complexity & Cognitive Work - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 ## Non-Funtional
 
