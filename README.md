@@ -3,7 +3,7 @@
 Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in operating systems with UNIX, followed by Security with Bug bounty program, Now trending in Privacy, Observability & Ethics, Applications are going through similar patterns with Open APIs.
 
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
--- [Unix: History and Memoir](https://www.youtube.com/watch?v=nS-0Vrmok6Y) (Chapter 9 is classic, **Legacy/Technical, Organization, Recognition, Could history repeat?**)
+-- [Brian Kernighan Unix: History and Memoir](https://www.youtube.com/watch?v=nS-0Vrmok6Y) (Chapter 9 is classic, **Legacy/Technical, Organization, Recognition, Could history repeat?**)
 
 - Transparent Strategy - https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice / https://about.gitlab.com/company/strategy/#why-is-this-page-public / https://about.sourcegraph.com/about/ 
 
