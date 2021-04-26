@@ -1,3 +1,5 @@
+![Hack The Culture](images/Hack%20The%20Culture.jpg)
+
 # Quality Attributes
 
 Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in operating systems with UNIX, followed by Security with Bug bounty program, Now trending in Privacy, Observability & Ethics, Applications are going through similar patterns with Open APIs.
