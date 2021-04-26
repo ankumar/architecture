@@ -32,7 +32,8 @@ Design Company as a System with "Observability" Models:
 
 ## Culture
 
-![Hack The Culture](images/Hack%20The%20Culture.jpg =250x250)
+![Hack The Culture](images/Hack%20The%20Culture.jpg)
+<img src="images/Hack%20The%20Culture.jpg" width="100">
 
 > "culture is not a static ‘thing’ but something which everyone is constantly creating, affirming and expressing" -- Mary Douglas
 
