@@ -9,6 +9,7 @@ Design Company as a System with "Observability" Models:
 
 1. Open Software Design - https://notes.ceilfors.com/Open_software_design.html -> https://upmo.com/dev/
 2. Complexity & Cognitive Work - https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+3. [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) - [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Non-Funtional
 
@@ -28,8 +29,6 @@ Design Company as a System with "Observability" Models:
 * [On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
 * [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
 * [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
-* [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns)
-  * [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Culture
 
