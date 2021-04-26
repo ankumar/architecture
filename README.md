@@ -7,8 +7,8 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 Design Company as a System with "Observability" Models:
 
-1. [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
-2. [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+1. [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+2. [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
 3. [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) -> [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Non-Funtional
