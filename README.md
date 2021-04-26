@@ -64,7 +64,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * [Staff-plus](https://staffeng.com/guides)
 * [Sample of Career ladders](https://github.com/sdras/career-ladders)
 
-# Build
+## Build
 
 > "distinction between physical and digital will disappear" 
 > https://www.admcloudtech.com/2021/04/06/amazon-cto-aws-will-erase-the-line-between-physical-and-digital/ 
@@ -74,13 +74,13 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-# Tools
+## Tools
 
 Called [Backyard](https://ryanaquino.com/Yahoo-Backyard) when i used to work at Yahoo!, Now Backstage open source project Incubated by Spotify, Adopted as Runway@American Airlines, Likely an "Internal Platform" @hundreds of other organizations ...
 
 * https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
 
-# Learn
+## Learn
 
 * [list of resources](https://github.com/ankumar/Architecture/wiki/References)
 
