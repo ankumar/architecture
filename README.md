@@ -5,7 +5,10 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://www.youtube.com/watch?v=nS-0Vrmok6Y) (Chapter 9 is classic, **Legacy/Technical, Organization, Recognition, Could history repeat?**)
 
-- Transparent Strategy - https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice / https://about.gitlab.com/company/strategy/#why-is-this-page-public / https://about.sourcegraph.com/about/ 
+- Transparent Strategy
+* [Wikimedia_Architecture_Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
+* [GitLab Company Public Strategy](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
+* [About Company](https://about.sourcegraph.com/about/)
 
 - Public Roadmap - https://github.com/github/roadmap / 
 
