@@ -33,6 +33,14 @@
 
 * https://www.hillelwayne.com/post/influential-dead-languages/
 
+# Platform & Tools @ Yahoo!
+
+* Yinst & Igor - Referenced in this paper https://www.usenix.org/legacy/event/lisa10/tech/full_papers/Hollenback.pdf
+* MDBM - https://github.com/yahoo/mdbm
+* Vespa - https://vespa.ai/
+* ShmProxy - 
+* 
+
 --
 
 Source: https://oxide.computer/blog/
