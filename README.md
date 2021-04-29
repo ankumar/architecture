@@ -84,9 +84,14 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 ## Tools
 
-Called [Backyard](https://ryanaquino.com/Yahoo-Backyard) at Yahoo!, Now Backstage open source project Incubated by Spotify, Adopted as Runway@American Airlines, Likely an "Internal Platform" @hundreds of other organizations ...
+Called [Backyard](https://ryanaquino.com/Yahoo-Backyard) at Yahoo!, Now Backstage open source project Incubated by Spotify, Adopted as Runway@American Airlines, 
 
 * https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
+
+Likely termed **"Internal (productivity) Platforms"** @Hundreds of organizations ...
+
+-- https://twitter.com/martinfowler/status/1387041315196702720
+* https://martinfowler.com/articles/platform-prerequisites.html
 
 ## Learn
 
