@@ -1,4 +1,4 @@
-# Great Architecture
+# Architecture
 
 * Mary Poppendieck - https://learning.oreilly.com/videos/oreilly-software-architecture/0636920333777/0636920333777-video329478
 
