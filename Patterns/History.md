@@ -35,6 +35,7 @@
 
 # Platform & Tools @ Yahoo!
 
+* Backyard (intranet) - https://ryanaquino.com/Yahoo-Backyard
 * Yinst & Igor - Referenced in this paper https://www.usenix.org/legacy/event/lisa10/tech/full_papers/Hollenback.pdf
 * MDBM - https://github.com/yahoo/mdbm
 * Vespa - https://vespa.ai/
