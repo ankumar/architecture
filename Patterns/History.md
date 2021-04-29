@@ -1,27 +1,11 @@
-# UNIX
+# Great Architecture
 
-* [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
-
-# Containers
-
-* [A Brief History of Containers: From the 1970s Till Now](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)
-
-# COVID-19
-
-* [Db2 and 50 Years of Relational Database Design](https://www.ibm.com/cloud/blog/db2-and-50-years-of-relational-database-design)
-* 5/23 - 25 years, [MySQL](https://mariadb.org/mysql-25/)
-* 5/22 - 25 years, [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
-* 5/20 - 10 years, [BigQuery](https://twitter.com/sundarpichai/status/1263193094410760192)
-* Happy 20 years, The History of HAProxy - https://www.haproxy.com/blog/the-history-of-haproxy/
+* Mary Poppendieck - https://learning.oreilly.com/videos/oreilly-software-architecture/0636920333777/0636920333777-video329478
 
 # Computing
 
 * From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
 * https://oxide.computer/blog/
-
-# Great Architecture
-
-* Mary Poppendieck - https://learning.oreilly.com/videos/oreilly-software-architecture/0636920333777/0636920333777-video329478
 
 # API
 
@@ -33,6 +17,14 @@
 
 * https://www.hillelwayne.com/post/influential-dead-languages/
 
+# UNIX
+
+* [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+
+# Containers
+
+* [A Brief History of Containers: From the 1970s Till Now](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)
+
 # Platform & Tools @ Yahoo!
 
 * Backyard (intranet) - https://ryanaquino.com/Yahoo-Backyard
@@ -43,6 +35,14 @@
 * Yahoo Messenger Protocol - https://github.com/Richie-Zhang/Instant_Messenger/blob/master/documents/Yahoo%20Messenger%20Protocol / http://libyahoo2.sourceforge.net/ymsg-9.txt
 * Hadoop - 
 * User Database (UDB) - http://www.rmmagazine.com/2017/10/02/lessons-from-the-yahoo-hack/
+
+# COVID-19
+
+* [Db2 and 50 Years of Relational Database Design](https://www.ibm.com/cloud/blog/db2-and-50-years-of-relational-database-design)
+* 5/23 - 25 years, [MySQL](https://mariadb.org/mysql-25/)
+* 5/22 - 25 years, [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+* 5/20 - 10 years, [BigQuery](https://twitter.com/sundarpichai/status/1263193094410760192)
+* Happy 20 years, The History of HAProxy - https://www.haproxy.com/blog/the-history-of-haproxy/
 
 --
 
