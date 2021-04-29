@@ -40,6 +40,8 @@
 * Vespa - https://vespa.ai/
 * ShmProxy - 
 * Yahoo Messenger Protocol - https://github.com/Richie-Zhang/Instant_Messenger/blob/master/documents/Yahoo%20Messenger%20Protocol / http://libyahoo2.sourceforge.net/ymsg-9.txt
+* Hadoop - 
+* User Database (UDB) - http://www.rmmagazine.com/2017/10/02/lessons-from-the-yahoo-hack/
 
 --
 
