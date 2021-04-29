@@ -88,9 +88,11 @@ Called [Backyard](https://ryanaquino.com/Yahoo-Backyard) at Yahoo!, Now Backstag
 
 * https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
 
-Likely termed **"Internal (productivity) Platforms"** @Hundreds of organizations ...
+Likely termed **"Internal Platforms"** @Hundreds of organizations ...
 
+> "There's a lot of hype around developer productivity platforms..."
 -- https://twitter.com/martinfowler/status/1387041315196702720
+
 * https://martinfowler.com/articles/platform-prerequisites.html
 
 ## Learn
