@@ -39,7 +39,7 @@
 * MDBM - https://github.com/yahoo/mdbm
 * Vespa - https://vespa.ai/
 * ShmProxy - 
-* 
+* Yahoo Messenger Protocol - https://github.com/Richie-Zhang/Instant_Messenger/blob/master/documents/Yahoo%20Messenger%20Protocol / http://libyahoo2.sourceforge.net/ymsg-9.txt
 
 --
 
