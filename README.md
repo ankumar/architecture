@@ -95,6 +95,6 @@ Likely termed **"Internal Platforms"** @Hundreds of organizations ...
 
 ## Learn
 
-* [list of resources](https://github.com/ankumar/Architecture/wiki/References)
+* [List of Resources](https://github.com/ankumar/Architecture/wiki/References)
 
 
