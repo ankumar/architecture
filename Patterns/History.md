@@ -29,12 +29,13 @@
 # Platform & Tools @ Yahoo!
 
 * Backyard (intranet) - https://ryanaquino.com/Yahoo-Backyard
-* Yinst & Igor - Referenced in this paper https://www.usenix.org/legacy/event/lisa10/tech/full_papers/Hollenback.pdf
-* MDBM - https://github.com/yahoo/mdbm
-* Vespa - https://vespa.ai/
-* ShmProxy - 
+* Yinst & Igor, Packaging system - Referenced in this paper https://www.usenix.org/legacy/event/lisa10/tech/full_papers/Hollenback.pdf
+* MDBM, Fast memory-mapped key/value store - https://github.com/yahoo/mdbm
+* Vespa, Search Engine - https://vespa.ai/
+* ShmProxy, Shared Memory Message Proxy - 
 * Yahoo Messenger Protocol - https://github.com/Richie-Zhang/Instant_Messenger/blob/master/documents/Yahoo%20Messenger%20Protocol / http://libyahoo2.sourceforge.net/ymsg-9.txt
-* Hadoop - 
+* Content Management System - 
+* Hadoop - https://developer.yahoo.com/blogs/153336735536/
 * User Database (UDB) - http://www.rmmagazine.com/2017/10/02/lessons-from-the-yahoo-hack/
 
 # COVID-19
