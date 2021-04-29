@@ -28,6 +28,7 @@
 
 # Platform & Tools @ Yahoo!
 
+* Open Source - https://developer.yahoo.com/opensource/
 * Backyard (intranet) - https://ryanaquino.com/Yahoo-Backyard
 * Yinst & Igor, Packaging system - Referenced in this paper https://www.usenix.org/legacy/event/lisa10/tech/full_papers/Hollenback.pdf
 * MDBM, Fast memory-mapped key/value store - https://github.com/yahoo/mdbm
