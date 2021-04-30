@@ -5,6 +5,8 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://www.youtube.com/watch?v=nS-0Vrmok6Y) (Chapter 9 is **Legacy / Technical, Organization, Recognition, Could history repeat?**)
 
+Design Company as a System with "Observability" Models:
+
 - Transparent Strategy
   * [Architecture Team - Wikimedia](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Public Strategy Company - GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
@@ -13,8 +15,6 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 - Public Roadmap
   * https://github.com/aws?q=roadmap
   * https://github.com/github/roadmap
-
-Design Company as a System with "Observability" Models:
 
 - [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 - [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
