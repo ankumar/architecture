@@ -5,7 +5,7 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://www.youtube.com/watch?v=nS-0Vrmok6Y) (Chapter 9 is **Legacy / Technical, Organization, Recognition, Could history repeat?**)
 
-Design Company as a System with "Observability" Models:
+Design Company as a System with Full "Observability" Models:
 
 - Transparent Strategy
   * [Architecture Team - Wikimedia](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
@@ -17,7 +17,9 @@ Design Company as a System with "Observability" Models:
   * https://github.com/github/roadmap
 
 - [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+
 - [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
+
 - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) -> [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Non-Funtional
