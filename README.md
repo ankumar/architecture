@@ -13,7 +13,11 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 -- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
 
-3. Now trending in Privacy, Observability & Ethics etc. Applications are going through similar patterns with Open APIs.
+3. Now trending in Privacy, Observability & Ethics etc. 
+
+4. Applications are going through similar patterns with Open APIs.
+
+- [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) -> [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 Design Company as a System with Full "Observability" Models:
 
@@ -29,8 +33,6 @@ Design Company as a System with Full "Observability" Models:
 - [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 - [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
-
-- [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) -> [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Non-Funtional
 
