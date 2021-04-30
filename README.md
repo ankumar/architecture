@@ -1,9 +1,15 @@
 # Quality Attributes
 
-Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in operating systems with UNIX, followed by Security with Bug bounty program, Now trending in Privacy, Observability & Ethics, Applications are going through similar patterns with Open APIs.
+Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in operating systems with UNIX 
 
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://www.youtube.com/watch?v=nS-0Vrmok6Y) (Chapter 9 is **Legacy / Technical, Organization, Recognition, Could history repeat?**)
+
+Followed by Security with Bug bounty program
+
+
+
+Now trending in Privacy, Observability & Ethics, Applications are going through similar patterns with Open APIs.
 
 Design Company as a System with Full "Observability" Models:
 
