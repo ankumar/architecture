@@ -34,7 +34,7 @@ Design Company as a System with Full "Observability" Models:
 
 - [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
 
-## Non-Funtional
+## Non-Functional
 
 > "We start by looking at which **“-ilities”** are most important to architects. A software architect is responsible for the cross-cutting concerns and making sure that individual components of a large system can work together seamlessly to meet overall objectives. In 2021, four areas we feel architects are concerned with are designing for resilience, designing for observability, designing for portability, and designing for sustainability." 
 
