@@ -1,6 +1,8 @@
 # Quality Attributes
 
-Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in operating systems with 1. UNIX 
+Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in operating systems with 
+
+1. UNIX 
 
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://www.youtube.com/watch?v=nS-0Vrmok6Y) (Chapter 9 is **Legacy / Technical, Organization, Recognition, Could history repeat?**)
