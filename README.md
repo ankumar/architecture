@@ -7,7 +7,8 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 Followed by Security with Bug bounty program
 
-
+![](images/oxide.computer.png)
+-- https://twitter.com/bcantrill/status/1388181932068929538
 
 Now trending in Privacy, Observability & Ethics, Applications are going through similar patterns with Open APIs.
 
