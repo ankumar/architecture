@@ -15,7 +15,7 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 3. Now trending in Privacy, Observability & Ethics etc. 
 
-4. Applications are going through similar patterns with Open APIs.
+4. Applications are going through similar Interoperability patterns with Open APIs.
 
 - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) -> [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
