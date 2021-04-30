@@ -13,7 +13,7 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 -- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
 
-3. Now trending in Privacy, Observability & Ethics, Applications are going through similar patterns with Open APIs.
+3. Now trending in Privacy, Observability & Ethics etc. Applications are going through similar patterns with Open APIs.
 
 Design Company as a System with Full "Observability" Models:
 
