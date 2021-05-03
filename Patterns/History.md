@@ -38,6 +38,7 @@
 * Content Management System - 
 * Hadoop - https://developer.yahoo.com/blogs/153336735536/
 * User Database (UDB) - http://www.rmmagazine.com/2017/10/02/lessons-from-the-yahoo-hack/
+* Operating Systems - FreeBSD & Linux
 
 # COVID-19
 
