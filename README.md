@@ -15,12 +15,11 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 3. Now trending in Privacy, Observability & Ethics etc. 
 
-[Open Source & Community](https://www.youtube.com/watch?v=jiaLsxjBeOQ)
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
 
 ![](/images/open%20source%20%26%20large%20company.png)
--- Kelsey Hightower, Developer & Open Source Advocate, Google Cloud
+-- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
 
 4. Applications are going through similar Interoperability with Open APIs.
 
