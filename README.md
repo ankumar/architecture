@@ -13,7 +13,7 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 -- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
 
-3. Now trending in Privacy, Observability & Ethics etc. 
+3. Now trending in Cloud, Privacy, Observability & Ethics etc. 
 
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
