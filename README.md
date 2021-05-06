@@ -1,14 +1,14 @@
 # Quality Attributes
 
+> Software is eating the world. But progress in software technology itself largely stalled around 1996.
+> [The Great Software Stagnation](https://alarmingdevelopment.org/?p=1475)
+> 
+
 > The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution
 >
 > We need to find new ways to collaborate. We are trying one
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
-> 
-
-> Software is eating the world. But progress in software technology itself largely stalled around 1996.
-> [The Great Software Stagnation](https://alarmingdevelopment.org/?p=1475)
 > 
 
 Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in operating systems with 
