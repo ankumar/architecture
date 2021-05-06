@@ -11,7 +11,7 @@
 > -- https://twitter.com/lalleal/status/1386411136199790592
 > 
 
-Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". 
+I agree with new ways to collaborate, Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". 
 
 1. UNIX, emergent patterns started in Bell Labs  
 
