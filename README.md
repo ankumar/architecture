@@ -40,6 +40,12 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 
 - [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
+
+> The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution
+>
+> We need to find new ways to collaborate. We are trying one
+> -- https://twitter.com/lalleal/status/1386411136199790592
+
 ## Non-Functional
 
 > "We start by looking at which **“-ilities”** are most important to architects. A software architect is responsible for the cross-cutting concerns and making sure that individual components of a large system can work together seamlessly to meet overall objectives. In 2021, four areas we feel architects are concerned with are designing for resilience, designing for observability, designing for portability, and designing for sustainability." 
