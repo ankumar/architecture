@@ -1,5 +1,11 @@
 # Quality Attributes
 
+> The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution
+>
+> We need to find new ways to collaborate. We are trying one
+>
+> -- https://twitter.com/lalleal/status/1386411136199790592
+
 Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". I think emergent patterns started in operating systems with 
 
 1. UNIX 
@@ -39,13 +45,6 @@ Organizational boundaries are getting blurred between "Public" & "Private" space
 - [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
 
 - [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
-
-
-> The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution
->
-> We need to find new ways to collaborate. We are trying one
->
-> -- https://twitter.com/lalleal/status/1386411136199790592
 
 ## Non-Functional
 
