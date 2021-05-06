@@ -13,7 +13,7 @@
 
 I agree with new ways to collaborate, Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". 
 
-1. UNIX, emergent patterns started in Bell Labs  
+1. Emergent patterns started in Bell Labs  
 
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy / Technical, Organization, Recognition, Could history repeat?**)
