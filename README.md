@@ -38,7 +38,7 @@ The above two sides offers insights, but I agree with new ways to collaborate. O
 
 - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) -> [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
-5. Design Company as a System with Full "Observability" Models across Business, Product & Technology.
+5. Company as a System with Full "Observability" Models across Business, Product & Technology.
 
 - Transparent Strategy
   * [Architecture Team - Wikimedia](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
