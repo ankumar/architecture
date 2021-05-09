@@ -30,7 +30,7 @@ The above two sides offers insights, but I agree with new ways to collaborate. O
   * https://github.com/aws?q=roadmap
   * https://github.com/github/roadmap
 
-- "Workload" / Complexity & Cognitive Work
+- Complexity & Cognitive Work / "Workload"
   * https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 2. Security
