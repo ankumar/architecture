@@ -47,9 +47,9 @@ The above two sides offers insights, but I agree with new ways to collaborate. O
 ![](/images/open%20source%20%26%20large%20company.png)
 -- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
 
-4. Applications Interoperability with Open APIs.
+4. Applications Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns).
 
-- [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) -> [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
+- [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
 ## Non-Functional
 
