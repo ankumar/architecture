@@ -13,7 +13,12 @@
 
 The above two sides offers insights, but I agree with new ways to collaborate. Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". 
 
-1. Company as a System with Full "Observability" Models across Business, Product & Technology.
+1. Company
+
+> "Funding was stable, the way that Bell Labs was funded was that a very small tax was applied to any time you made a phone call in the United States a tiny slice of the money involved would go to Bell Labs to improve future telephone service and so that helped that meant that you could count on having revenue to support research for a long time , the organization was very stable , people stayed there for many many years & the company itself took an exceptionally broad and long-term view the job was to improve communication systems and that’s going to be a problem for a long time so almost anything you wanted to work on was arguably relevant to building better telephone systems and so that meant the company was not run by the quarter of a year it was run by multi-year period and all of this led to an environment which is also very cooperative and just plain fun. People enjoyed being there.."
+
+![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
+-- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy / Technical, Organization, Recognition, Could history repeat?**)
 
 - Transparent Strategy
   * [Architecture Team - Wikimedia](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
@@ -27,11 +32,6 @@ The above two sides offers insights, but I agree with new ways to collaborate. O
 - [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
 
 - [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
-
-> "Funding was stable, the way that Bell Labs was funded was that a very small tax was applied to any time you made a phone call in the United States a tiny slice of the money involved would go to Bell Labs to improve future telephone service and so that helped that meant that you could count on having revenue to support research for a long time , the organization was very stable , people stayed there for many many years & the company itself took an exceptionally broad and long-term view the job was to improve communication systems and that’s going to be a problem for a long time so almost anything you wanted to work on was arguably relevant to building better telephone systems and so that meant the company was not run by the quarter of a year it was run by multi-year period and all of this led to an environment which is also very cooperative and just plain fun. People enjoyed being there.."
-
-![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
--- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy / Technical, Organization, Recognition, Could history repeat?**)
 
 2. Security
 
