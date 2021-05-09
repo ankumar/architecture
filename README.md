@@ -31,7 +31,9 @@ The above two sides offers insights, but I agree with new ways to collaborate. O
 
 - [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
 
-- [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19) -> https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
+- "Workload"
+  * [Complexity & Cognitive Work](https://www.researchgate.net/profile/David-Woods-19)
+  * https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 2. Security
 
