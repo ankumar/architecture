@@ -24,8 +24,10 @@ The above two sides offers insights, **I agree with new ways to collaborate**. O
   * [Architecture Team - Wikimedia](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Public Strategy Company - GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   * [About Company - Sourcegraph](https://about.sourcegraph.com/about/)
-  * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
-  * [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/) -> [Zalando Scaling Open Culture](https://opensource.zalando.com/)
+  * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
+    * https://upmo.com/dev/
+  * [Zalando Scaling Open Culture](https://opensource.zalando.com/)
+    * [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
 
 - Public Roadmap
   * https://github.com/aws?q=roadmap
