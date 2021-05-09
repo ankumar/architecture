@@ -25,6 +25,7 @@ The above two sides offers insights, but I agree with new ways to collaborate. O
   * [Public Strategy Company - GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   * [About Company - Sourcegraph](https://about.sourcegraph.com/about/)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
+  * https://opensource.zalando.com/
 
 - Public Roadmap
   * https://github.com/aws?q=roadmap
