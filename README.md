@@ -13,20 +13,20 @@
 
 The above two sides offers insights, but I agree with new ways to collaborate. Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to Public Cloud & "Edge". 
 
-1. Labs  
+1. "Labs"  
 
 > "Funding was stable, the way that Bell Labs was funded was that a very small tax was applied to any time you made a phone call in the United States a tiny slice of the money involved would go to Bell Labs to improve future telephone service and so that helped that meant that you could count on having revenue to support research for a long time , the organization was very stable , people stayed there for many many years & the company itself took an exceptionally broad and long-term view the job was to improve communication systems and that’s going to be a problem for a long time so almost anything you wanted to work on was arguably relevant to building better telephone systems and so that meant the company was not run by the quarter of a year it was run by multi-year period and all of this led to an environment which is also very cooperative and just plain fun. People enjoyed being there.."
 
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy / Technical, Organization, Recognition, Could history repeat?**)
 
-2. Followed by Security with Bug bounty program
+2. Security
 
 ![](images/oxide.computer.png)
 
 -- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
 
-3. Now trending in Cloud, Privacy, Observability & Ethics etc. 
+3. Cloud, Privacy, Observability & Ethics etc. 
 
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
@@ -34,7 +34,7 @@ The above two sides offers insights, but I agree with new ways to collaborate. O
 ![](/images/open%20source%20%26%20large%20company.png)
 -- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
 
-4. Applications are going through similar Interoperability with Open APIs.
+4. Applications Interoperability with Open APIs.
 
 - [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns) -> [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://kubernetes.io/docs/concepts/overview/kubernetes-api/), ...
 
