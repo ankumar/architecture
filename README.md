@@ -117,6 +117,8 @@ Let's start with a movie clip [**The Matrix**](https://www.youtube.com/watch?v=a
 
 > https://www.admcloudtech.com/2021/04/06/amazon-cto-aws-will-erase-the-line-between-physical-and-digital/ 
 > 
+
+* Nvidia is building a giant virtual ‘metaverse’ of the world, with ‘digital twins’ of cars, cities, and people - https://finance.yahoo.com/news/nvidia-building-giant-virtual-metaverse-115216046.html
 * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 
