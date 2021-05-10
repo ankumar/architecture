@@ -115,10 +115,10 @@ Going back to a movie clip [**The Matrix**](https://www.youtube.com/watch?v=aVLe
 > Neo: This...this isn't real?
 > Morpheus: What is real. How do you define real? If you're talking about what you can feel, what you can smell, what you can taste and see, then real is simply electrical signals interpreted by your brain. This is the world that you know. The world as it was at the end of the twentieth century. It exists now only as part of a neural-interactive simulation that we call the Matrix. You've been living in a dream world, Neo. This is the world as it exists today....
 
+* Nvidia is building a giant virtual ‘metaverse’ of the world, with ‘digital twins’ of cars, cities, and people - https://finance.yahoo.com/news/nvidia-building-giant-virtual-metaverse-115216046.html
+
 > https://www.admcloudtech.com/2021/04/06/amazon-cto-aws-will-erase-the-line-between-physical-and-digital/ 
 > 
-
-* Nvidia is building a giant virtual ‘metaverse’ of the world, with ‘digital twins’ of cars, cities, and people - https://finance.yahoo.com/news/nvidia-building-giant-virtual-metaverse-115216046.html
 * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 
