@@ -110,12 +110,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * [Sample of Career ladders](https://github.com/sdras/career-ladders)
 
 ## Build
-
-* Nvidia is building a giant virtual ‘metaverse’ of the world, with ‘digital twins’ of cars, cities, and people - https://finance.yahoo.com/news/nvidia-building-giant-virtual-metaverse-115216046.html
-
-> "distinction between physical and digital will disappear" 
-> https://www.admcloudtech.com/2021/04/06/amazon-cto-aws-will-erase-the-line-between-physical-and-digital/ 
-> 
+ 
 * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
 * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
 
