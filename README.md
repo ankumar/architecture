@@ -117,6 +117,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 Called [Backyard](https://github.com/ankumar/Architecture/blob/main/Patterns/History.md#platform--tools--yahoo) at Yahoo!, Now Backstage open source project Incubated by Spotify, Adopted as Runway@American Airlines, 
 
 * https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
+* https://roadie.io/blog/developer-portals-are-a-superpower/
 
 Likely termed **"Internal Platforms"** @Hundreds of organizations ...
 
