@@ -37,7 +37,7 @@ The above two sides offers insights, **I agree with new ways to collaborate**. O
 - Complexity & Cognitive Work / "Workload"
   * https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
-2. Security, Cloud, Privacy, Observability & Ethics etc. 
+2. Security, Privacy, Observability & Ethics etc. 
 
 ![](images/oxide.computer.png)
 
