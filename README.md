@@ -37,13 +37,11 @@ The above two sides offers insights, **I agree with new ways to collaborate**. O
 - Complexity & Cognitive Work / "Workload"
   * https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
-2. Security
+2. Security, Cloud, Privacy, Observability & Ethics etc. 
 
 ![](images/oxide.computer.png)
 
 -- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
-
-3. Cloud, Privacy, Observability & Ethics etc. 
 
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
@@ -51,8 +49,9 @@ The above two sides offers insights, **I agree with new ways to collaborate**. O
 ![](/images/open%20source%20%26%20large%20company.png)
 -- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
 
-4. Applications Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns).
+3. Applications
 
+Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns).
 - [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://github.com/kcp-dev/kcp), ...
 
 ## Non-Functional
