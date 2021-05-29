@@ -13,7 +13,7 @@
 
 **Stalled, Few High Performers, widening Gap?** 
 
-The above two sides offers insights, **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
+The two sides offers insights, **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
 
 1. Organization
 
