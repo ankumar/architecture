@@ -22,27 +22,29 @@ The two sides offers insights, **I agree with new ways to collaborate**. Organiz
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy -> Technical, Organization, Recognition, Could history repeat?**)
 
-- Transparent Strategy
-  * [Architecture Team - Wikimedia](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
+* About
   * [Public Strategy - GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   * [About - Sourcegraph](https://about.sourcegraph.com/about/)
+
+* [Architecture Team - Wikimedia](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
-  * [Zalando Scaling Open Culture](https://opensource.zalando.com/)
+
+* [Zalando Scaling Open Culture](https://opensource.zalando.com/)
     * [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
 
-- Public Roadmap
+* Roadmap
   * https://github.com/aws?q=roadmap
   * https://github.com/github/roadmap
-
-- Complexity & Cognitive Work / "Workload"
-  * https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 2. Security, Privacy, Observability & Ethics etc. 
 
 ![](images/oxide.computer.png)
 
 -- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
+
+- Complexity & Cognitive Work / "Workload"
+  * https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
