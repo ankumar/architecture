@@ -30,8 +30,9 @@ The two sides offers insights, **I agree with new ways to collaborate**. Organiz
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
 
-* [Culture](https://opensource.zalando.com/)
-    * [Zalando Tech Radar](https://opensource.zalando.com/tech-radar/)
+* Culture
+    * [Open](https://opensource.zalando.com/)
+    * [Tech Radar](https://opensource.zalando.com/tech-radar/)
 
 * Roadmap
   * https://github.com/aws?q=roadmap
