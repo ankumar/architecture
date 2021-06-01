@@ -23,8 +23,8 @@ The two sides offers insights, **I agree with new ways to collaborate**. Organiz
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy -> Technical, Organization, Recognition, Could history repeat?**)
 
 * About
-  * [Public Strategy - GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
-  * [About - Sourcegraph](https://about.sourcegraph.com/about/)
+  * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
+  * [Sourcegraph](https://about.sourcegraph.com/about/)
 
 * [Architecture Team - Wikimedia](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
