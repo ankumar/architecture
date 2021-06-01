@@ -26,8 +26,9 @@ The two sides offers insights, **I agree with new ways to collaborate**. Organiz
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   * [Sourcegraph](https://about.sourcegraph.com/about/)
 
-* [Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
-  * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
+* [Architecture](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
+
+* [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
 
 * Culture
