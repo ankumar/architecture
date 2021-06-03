@@ -26,7 +26,7 @@
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   * [Sourcegraph](https://about.sourcegraph.com/about/)
 
-* [Architecture](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
+* [Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
 
 * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
