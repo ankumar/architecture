@@ -30,7 +30,7 @@
 
 * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
-    * [Open](https://opensource.zalando.com/)
+    * [Open Source](https://opensource.zalando.com/)
     * [Tech Radar](https://opensource.zalando.com/tech-radar/)
 
 * Roadmap
