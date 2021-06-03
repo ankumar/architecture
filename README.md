@@ -31,7 +31,12 @@
 * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
     * [Open Source Culture](https://opensource.zalando.com/)
-    * [Tech Radar](https://opensource.zalando.com/tech-radar/)
+
+![](/images/open%20source.jpeg)
+-- https://twitter.com/mjasay 
+
+![](/images/open%20source%20%26%20large%20company.png)
+-- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
 
 * Roadmap
   * https://github.com/aws?q=roadmap
@@ -45,12 +50,6 @@
 
 - Complexity & Cognitive Work / "Workload"
   * https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
-
-![](/images/open%20source.jpeg)
--- https://twitter.com/mjasay 
-
-![](/images/open%20source%20%26%20large%20company.png)
--- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
 
 3. Applications
 
