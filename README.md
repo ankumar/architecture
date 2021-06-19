@@ -10,11 +10,6 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-
-1. Improving Developer Experience 
-2. Improving Analytics & Data
-3. Hiring & Empowering Teams
-
 **Few High Performers, widening Gap?** 
 
 **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
@@ -25,6 +20,10 @@
 
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy -> Technical, Organization, Recognition, Could history repeat?**)
+
+Improving Developer Experience 
+Improving Analytics & Data
+Hiring & Empowering Teams
 
 * About
   * [Sourcegraph](https://about.sourcegraph.com/about/)
