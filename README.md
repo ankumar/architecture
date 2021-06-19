@@ -9,7 +9,11 @@
 > We need to find new ways to collaborate. We are trying one
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
-> 
+
+
+1. Improving Developer Experience 
+2. Improving Analytics & Data
+3. Hiring & Empowering Teams
 
 **Few High Performers, widening Gap?** 
 
