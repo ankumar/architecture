@@ -21,20 +21,6 @@
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy -> Technical, Organization, Recognition, Could history repeat?**)
 
-* About
-  * [Sourcegraph](https://about.sourcegraph.com/about/)
-  * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
-  
-* Roadmap
-  * https://github.com/aws?q=roadmap
-  * https://github.com/github/roadmap
- 
-* Design & Architecture
-  * [Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
-  * [Tech Radar](https://opensource.zalando.com/tech-radar/)
-  * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
-    * https://upmo.com/dev/
-  * [Open Source Culture](https://opensource.zalando.com/)
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
 
