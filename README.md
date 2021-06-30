@@ -1,3 +1,7 @@
+* Improving Developer Experience 
+* Improving Analytics & Data
+* Hiring & Empowering Teams
+
 # Quality Attributes
 
 > The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution
@@ -9,10 +13,6 @@
 **Few High Performers, widening Gap?** 
 
 **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Complexity and Cognitive Load, Open Source, Deployment of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
-
-* Improving Developer Experience 
-* Improving Analytics & Data
-* Hiring & Empowering Teams
 
 1. Organization
 
