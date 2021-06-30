@@ -95,6 +95,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 * About
   * [Sourcegraph](https://about.sourcegraph.com/about/)
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
+  * [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
   
 * Roadmap
   * https://github.com/aws?q=roadmap
