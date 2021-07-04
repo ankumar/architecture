@@ -94,17 +94,18 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 > "The most common questions I get from customers – whether it be developers or executives – are targeted at understanding how Amazon is able to move so quickly. They want to know about our company culture, our organizational structure, the internal tools we use, and the type of people we hire, just to name a few. Of course, there’s no single answer here. Further, what might be a challenge at one company isn’t necessarily the same at another. But there’s one thing I’ve found that’s as close to a silver bullet as you can get – Developers. More specifically, it’s about hiring the right kinds of developers and then empowering them to do what they do best – build."
 > –-[Supercharging Application Delivery](https://www.allthingsdistributed.com/2021/06/supercharging-application-delivery.html)."
- 
-* [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
-* [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
-* [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
 
-* About
+* Journey, Celebrate & Share
+  * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
+  * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
+  * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
+
+* Company Strategy
   * [Sourcegraph](https://about.sourcegraph.com/about/)
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   * [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
   
-* Roadmap
+* Transparent Roadmap
   * https://github.com/aws?q=roadmap
   * https://github.com/github/roadmap
  
