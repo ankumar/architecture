@@ -6,7 +6,7 @@
 # Computing
 
 * From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
-* https://oxide.computer/blog/
+* https://oxide.computer/blog/ (https://github.com/oxidecomputer/twitter-spaces)
 
 # API
 
