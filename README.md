@@ -103,11 +103,11 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   * [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
   
-* Transparent Roadmap
+* Product Strategy - Transparent Roadmap
   * https://github.com/aws?q=roadmap
   * https://github.com/github/roadmap
  
-* Design & Architecture
+* Product Strategy - Design & Architecture
   * [Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
