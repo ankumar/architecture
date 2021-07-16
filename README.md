@@ -19,11 +19,10 @@
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is **Legacy -> Technical, Organization, Recognition, Could history repeat?**)
 
-![](/images/open%20source.jpeg)
--- https://twitter.com/mjasay 
-
-![](/images/open%20source%20%26%20large%20company.png)
--- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
+* Company Strategy
+  * [Sourcegraph](https://about.sourcegraph.com/about/)
+  * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
+  * [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
 
 2. **Security, Privacy, Observability & Ethics etc.**
 
@@ -108,6 +107,12 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
     * https://upmo.com/dev/
     * [Tech Radar](https://opensource.zalando.com/tech-radar/)
   * [Open Source Culture](https://opensource.zalando.com/)
+
+![](/images/open%20source.jpeg)
+-- https://twitter.com/mjasay 
+
+![](/images/open%20source%20%26%20large%20company.png)
+-- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
 
 ## Tools
 
