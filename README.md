@@ -6,9 +6,9 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-* Improving Developer Experience 
-* Improving Analytics & Data
-* Hiring & Empowering Teams
+* **Improving Developer Experience** 
+* **Improving Analytics & Data**
+* **Hiring & Empowering Teams**
 
 **Few High Performers, widening Gap?** **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & imperative considering Catch up, Cognitive Load, Open Source, Migrating Deployments of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
 
