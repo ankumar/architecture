@@ -107,7 +107,6 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
     * https://upmo.com/dev/
     * [Tech Radar](https://opensource.zalando.com/tech-radar/)
   * [Open Source Culture](https://opensource.zalando.com/)
-
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
 
