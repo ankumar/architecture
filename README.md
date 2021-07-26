@@ -118,6 +118,9 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
 
 ## Tools
 
+> Developers are the creative workforce who can solve critical business problems and create hit products for customers — not just "code monkeys" who grind through rote tasks. Companies that bring software developers in as partners are winning.
+> -- https://twitter.com/jeffiel/status/1418682712559398916
+
 Scaling engineering teams [Circa 1994, Backyard at Yahoo!](https://github.com/ankumar/Architecture/blob/main/Patterns/History.md#platform--tools--yahoo), Now Backstage open source project Incubated by Spotify, Adopted as Runway@American Airlines, 
 
 * https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
