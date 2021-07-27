@@ -24,7 +24,7 @@
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
   * [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
 
-2. **Security, Privacy, Observability & Ethics etc.**
+2. **Table Stakes - Privacy, Compliance, Security, Observability & Ethics**
 
 ![](images/oxide.computer.png)
 
