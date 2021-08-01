@@ -22,7 +22,7 @@
 * Good place to start, Public Open Collaborative  Company Strategy, Few examples:
   * [Sourcegraph](https://about.sourcegraph.com/about/)
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
-  * [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
+* Build for [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
 
 2. **Table Stakes - Privacy, Compliance, Security, Observability & Ethics**
 
