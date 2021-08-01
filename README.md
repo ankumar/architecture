@@ -105,7 +105,7 @@ https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-cultur
   * https://github.com/github/roadmap
  
 * Product Strategy - Design & Architecture
-  * [Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
+  * [Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
     * [Tech Radar](https://opensource.zalando.com/tech-radar/)
