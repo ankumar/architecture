@@ -52,11 +52,11 @@
 
 # Timeline
 
-https://twobithistory.org/timeline.html
+* https://twobithistory.org/timeline.html
 
-Source: https://oxide.computer/blog/
+* Source: https://oxide.computer/blog/
 
-# 90s
+## 90s
 
 * 1990: The world wide web was released out of CERN, thank you Tim Berners-Lee! Originally it only ran on NeXT computers!
 * 1991: Apple's PowerBook laptops, with built-in trackball, are released.
@@ -66,7 +66,7 @@ Source: https://oxide.computer/blog/
 * 1997: The CD-RW is introduced.
 * 1998: The colorful iMacs are launched.
 
-# 80s
+## 80s
 
 * 1980: The Sinclair ZX80 was introduced in the UK as a small home computer. It originally sold for only £79 as a kit or £99 pre-assembled.
 * 1981: Sony introduced the first 3 ½-inch floppy drives and diskettes. IBM introduced their personal computer, the IBM Model 5150, which went hand in hand with an MS-DOS release. The Osborne 1 was introduced, weighing 24 pounds and at a price of $1,795.
@@ -79,7 +79,7 @@ Source: https://oxide.computer/blog/
 * 1988: The NeXT cube is announced by Steve Jobs. The base model sold for $6,500. Stephen Wolfram created Mathematica.
 * 1989: Nintendo released the Game Boy handheld gaming console.
 
-# 70s
+## 70s
 
 * 1970: Amdahl, started by Gene Amdahl who created the IBM System/360, introduced the Amdahl 470. The Pascal programming language is created by Professor Niklaus Wirth.
 * 1971: The ILLIAC IV supercomputer is delivered to NASA. It used Fairchild's Processor Element Memory (PEM) which stored 16,834 bytes in each of it's 64 processors. Xerox PARC invented the laser printer.
@@ -91,7 +91,7 @@ Source: https://oxide.computer/blog/
 * 1978: Digital Equipment Corporation introduced the VAX line of computers. The success of the VAX systems made DEC into the second largest computer company in the world.
 * 1979: Atari introduced their Model 400 and 800 computers.
 
-# 60s
+## 60s
 
 * 1960: COBOL is developed by the Pentagon and a few computer manufacturers. The DEC PDP-1 is introduced. It cost about $120,000.
 * 1961: IBM introduced the 1400 series. There is still a working one in the Computer History Museum today! Timesharing systems start to become super popular.
@@ -103,7 +103,7 @@ Source: https://oxide.computer/blog/
 * 1968: Edsger Dijkstra published his letter: "GO TO statement considered harmful" in Communications of the ACM. The Apollo Guidance Computer (AGC) is debuted. The IBM "Minnow" floppy disk drive, which was the floppy disk drive, began development. The mother of all demos takes place in San Francisco.
 * 1969: Apollo Guidance Computer read-only rope memory is launched into space with Apollo 11. UNIX is developed.
 
-# 50s
+## 50s
 
 * 1950: Magnetic drum memory is developed for the US Navy.
 * 1951: The first Univac 1 is delivered to the US Census Bureau. Univac introduced the UNISERVO tape drive for the Univac 1. It was the first tape storage for a commercial computer. Alan Turing created the Turing Test.
