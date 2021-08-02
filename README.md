@@ -19,7 +19,7 @@
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is pure gem **Legacy -> Technical, Organization, Recognition, Could history repeat?**)
 
-* Good place to start, Public Open Collaborative  Company Strategy, Few examples:
+* Good place to start, [Open Collaboration](Open collaboration)  Company Strategy, Few examples:
   * [Sourcegraph](https://about.sourcegraph.com/about/)
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
 * Build for [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
