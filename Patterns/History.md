@@ -19,6 +19,9 @@
 # Programming Languages
 
 * https://www.hillelwayne.com/post/influential-dead-languages/
+* A History of Clojure
+  * Talk - https://www.pldi21.org/prerecorded_hopl.11.html
+  * Paper - https://clojure.org/about/history
 
 # UNIX
 
