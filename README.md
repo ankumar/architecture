@@ -19,9 +19,12 @@
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010) (Chapter 9 is pure gem **Legacy -> Technical, Organization, Recognition, Could history repeat?**)
 
-* Good place to start Company Strategy with [Open Collaboration](https://en.wikipedia.org/wiki/Open_collaboration), Few examples:
+What kind of development organization are you a part of: pathological, bureaucratic, or generative? https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf
+
+* [Open Collaboration](https://en.wikipedia.org/wiki/Open_collaboration), Few examples:
   * [Sourcegraph](https://about.sourcegraph.com/about/)
   * [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
+
 * Build for [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
 
 2. **Table Stakes - Privacy, Compliance, Security, Observability & Ethics**
