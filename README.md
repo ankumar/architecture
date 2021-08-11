@@ -58,13 +58,13 @@ Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns).
 
 ## Culture
 
+What kind of development organization are you a part of: pathological, bureaucratic, or generative? https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf
+
 <img src="images/Hack%20The%20Culture.jpg" width="800">
 
 > "culture is not a static ‘thing’ but something which everyone is constantly creating, affirming and expressing" -- Mary Douglas
 
 ### Culture is not a set of beliefs, a set of actions
-
-What kind of development organization are you a part of: pathological, bureaucratic, or generative? https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf
  
 > Companies & Culture: What You Do Is Who You Are - a16z editor in chief Sonal Chokshi interviews a16z co-founder Ben Horowitz -- author of the book What You Do Is > Who You Are -- on whether companies and people can change; how the very thing that is your strength can also be your weakness; how startups evolve from pirates to > the navy; actions vs words and values; and more.
  
