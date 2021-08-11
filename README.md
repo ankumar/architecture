@@ -31,8 +31,6 @@
 
 -- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
 
-- Complexity & Cognitive Work 
-  * https://www.adaptivecapacitylabs.com/blog/2019/01/30/human-cognitive-work-happens-above-the-line/
 
 3. **SaaS & Applications**
 
