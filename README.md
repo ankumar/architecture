@@ -68,11 +68,10 @@ Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns).
 https://a16z.simplecast.com/episodes/what-you-do-is-who-you-are-companies-culture-book-computer-history-museum-6JfGIJJs
 
 ### Culture is "Code"
- 
-> I am reading a book that was recommended by Kumar, Anil called "[Accelerate - Building and Scaling High Performing Technology Organizations by Nicole Forsgren, Jez Humble, and Gene Kim](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)".  I am about 100 pages in and finally starting to understand the vision around our "destination" culture and honestly the "different cultures" that exist among our divisions.  
- 
+
 What kind of development organization are you a part of: pathological, bureaucratic, or generative? https://qualitysafety.bmj.com/content/qhc/13/suppl_2/ii22.full.pdf
 
+> I am reading a book that was recommended by Kumar, Anil called "[Accelerate - Building and Scaling High Performing Technology Organizations by Nicole Forsgren, Jez Humble, and Gene Kim](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/)".  I am about 100 pages in and finally starting to understand the vision around our "destination" culture and honestly the "different cultures" that exist among our divisions.  
 > On pg30 the book describes 3 types of organizational cultures.
 > 1. **Pathological** (power oriented) organizations are characterized by large amounts of fear and threat.  People often hoard information or withhold it for political reasons, or distort it to make themselves look better.
 > 2. **Bureaucratic** (rule-oriented) organizations protect departments.  Those in the department want to maintain their "turf", insist on their own rules, and generally do things by the book - their book.
