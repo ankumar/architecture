@@ -25,7 +25,9 @@
 
 * Build for [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
 
-2. **Table Stakes - Privacy, Compliance, Security, Observability & Ethics**
+2. **Table Stakes**
+
+- Privacy, Compliance, Security, Observability & Ethics
 
 ![](images/oxide.computer.png)
 
