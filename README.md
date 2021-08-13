@@ -104,8 +104,8 @@ What kind of development organization are you a part of: pathological, bureaucra
   * [Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
-    * [Tech Radar](https://opensource.zalando.com/tech-radar/)
   * [Open Source Culture](https://opensource.zalando.com/)
+    * [Tech Radar](https://opensource.zalando.com/tech-radar/)
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
 
