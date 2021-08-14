@@ -34,7 +34,7 @@
 -- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
 
 
-3. **SaaS & Applications**
+- SaaS & Applications
 
 Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns).
 - [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [OpenID](https://openid.net/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://github.com/kcp-dev/kcp), ...
