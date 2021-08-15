@@ -27,7 +27,7 @@
 
 2. **Table Stakes**
 
-- Privacy, Compliance, Security, Observability & Ethics
+- [Privacy](https://dbpedia.org/page/General_Data_Protection_Regulation), Compliance, Security, Observability & Ethics
 
 ![](images/oxide.computer.png)
 
