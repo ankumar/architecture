@@ -96,9 +96,8 @@ What kind of development organization are you a part of: pathological, bureaucra
   * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
    
 * Platform Strategy - "Leverage"
-  * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
+  * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
     * [Architecture](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice) 
-    * https://upmo.com/dev/
     * [Tech Radar](https://opensource.zalando.com/tech-radar/)
   * [Open Source Culture](https://opensource.zalando.com/)
 ![](/images/open%20source.jpeg)
