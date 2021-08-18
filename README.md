@@ -86,16 +86,16 @@ What kind of development organization are you a part of: pathological, bureaucra
 > "The most common questions I get from customers – whether it be developers or executives – are targeted at understanding how Amazon is able to move so quickly. They want to know about our company culture, our organizational structure, the internal tools we use, and the type of people we hire, just to name a few. Of course, there’s no single answer here. Further, what might be a challenge at one company isn’t necessarily the same at another. But there’s one thing I’ve found that’s as close to a silver bullet as you can get – Developers. More specifically, it’s about hiring the right kinds of developers and then empowering them to do what they do best – build."
 > –-[Supercharging Application Delivery](https://www.allthingsdistributed.com/2021/06/supercharging-application-delivery.html)."
 
+* Product Strategy - Transparent Roadmap
+  * https://github.com/aws?q=roadmap
+  * https://github.com/github/roadmap
+
 * Journey - Celebrate & Share
   * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
   * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
   * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
-  
-* Customer Product Strategy - Transparent Roadmap
-  * https://github.com/aws?q=roadmap
-  * https://github.com/github/roadmap
- 
-* Platform Product Strategy
+   
+* Platform Strategy - "Leverage"
   * [Design & Architecture](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
