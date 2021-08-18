@@ -97,10 +97,10 @@ What kind of development organization are you a part of: pathological, bureaucra
    
 * Platform Strategy - "Leverage"
   * [Design & Architecture](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
+    * [Tech Radar](https://opensource.zalando.com/tech-radar/)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
   * [Open Source Culture](https://opensource.zalando.com/)
-    * [Tech Radar](https://opensource.zalando.com/tech-radar/)
 ![](/images/open%20source.jpeg)
 -- https://twitter.com/mjasay 
 
