@@ -91,12 +91,12 @@ What kind of development organization are you a part of: pathological, bureaucra
   * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
   * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
   
-* Product Strategy - Transparent Roadmap
+* Customer Product Strategy - Transparent Roadmap
   * https://github.com/aws?q=roadmap
   * https://github.com/github/roadmap
  
-* Product Strategy - Design & Architecture
-  * [Architecture Team](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
+* Platform Product Strategy
+  * [Design & Architecture](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice)
   * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) 
     * https://upmo.com/dev/
   * [Open Source Culture](https://opensource.zalando.com/)
