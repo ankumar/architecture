@@ -34,25 +34,6 @@
 - Applications - Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns)
   - [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [OpenID](https://openid.net/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://github.com/kcp-dev/kcp), ...
 
-## Non-Functional
-
-> "We start by looking at which **“-ilities”** are most important to architects. A software architect is responsible for the cross-cutting concerns and making sure that individual components of a large system can work together seamlessly to meet overall objectives. In 2021, four areas we feel architects are concerned with are designing for resilience, designing for observability, designing for portability, and designing for sustainability." 
-
--- https://www.infoq.com/articles/architecture-trends-2021/
-
-![Reliability](images/Reliability.png)
-
--- [From book Implementing Service Level Objectives](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813)
-
-## Functional
-
-> "if building a software-intensive system, these are the forces we must weigh" https://twitter.com/ruthmalan/status/989206552044294145
-![Software-Intensive](images/software-intensive.jpeg)
-
-* [On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
-* [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
-* [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
-
 ## Culture
 <img src="images/Hack%20The%20Culture.jpg" width="800">
 
@@ -77,6 +58,26 @@ What kind of development organization are you a part of: pathological, bureaucra
 > I believe our destination culture is Generative.  I also feel that "we all kinda want it".  So, I'm getting excited about what the future holds...
 > I recommend that all Tech managers & Architects get a copy of this book and read through it.
 > Cheers!  ~https://www.linkedin.com/in/timothycdahl/
+> 
+
+## Non-Functional
+
+> "We start by looking at which **“-ilities”** are most important to architects. A software architect is responsible for the cross-cutting concerns and making sure that individual components of a large system can work together seamlessly to meet overall objectives. In 2021, four areas we feel architects are concerned with are designing for resilience, designing for observability, designing for portability, and designing for sustainability." 
+
+-- https://www.infoq.com/articles/architecture-trends-2021/
+
+![Reliability](images/Reliability.png)
+
+-- [From book Implementing Service Level Objectives](https://www.amazon.com/Implementing-Service-Level-Objectives-Practical/dp/1492076813)
+
+## Functional
+
+> "if building a software-intensive system, these are the forces we must weigh" https://twitter.com/ruthmalan/status/989206552044294145
+![Software-Intensive](images/software-intensive.jpeg)
+
+* [On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
+* [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
+* [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
 
 ## Build
 
