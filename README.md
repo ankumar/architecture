@@ -1,9 +1,5 @@
 # Quality Attributes
 
-* **Improving Developer Experience** 
-* **Improving Analytics & Data**
-* **Empowering Teams**
-
 > The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution
 >
 > We need to find new ways to collaborate. We are trying one
