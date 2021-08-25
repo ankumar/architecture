@@ -23,6 +23,10 @@
   * Talk - https://www.pldi21.org/prerecorded_hopl.11.html
   * Paper - https://clojure.org/about/history
 
+# Linux
+
+* [30 years ago today Linus Torvalds announced in a newsgroup that he was working on a free operating system that later came to be called Linux](https://twitter.com/MIT_CSAIL/status/1430564374930886660)
+
 # UNIX
 
 * [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
