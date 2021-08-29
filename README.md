@@ -6,7 +6,7 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-Trying:
+Collaboration:
 - https://github.com/open-metadata/OpenMetadata
 - https://github.com/gneisstech 
 - https://github.com/acuity-sr
