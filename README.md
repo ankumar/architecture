@@ -78,7 +78,7 @@ What kind of development organization are you a part of: pathological, bureaucra
 
 * "On The Criteria for Decomposing Software" - Dr. David Parnas 1972 Paper:
   * [On the criteria to be used in decomposing systems into modules](https://blog.acolyer.org/2016/09/05/on-the-criteria-to-be-used-in-decomposing-systems-into-modules/)
-  * https://podcasts.apple.com/us/podcast/on-the-criteria-to-be-used-in-decomposing-systems/id1364166414?i=1000527256187
+  * [45m podcast of selected readings from this paper](https://podcasts.apple.com/us/podcast/on-the-criteria-to-be-used-in-decomposing-systems/id1364166414?i=1000527256187)
 * [Revisiting Information Hiding](https://link.springer.com/chapter/10.1007%2F978-3-642-22655-7_8)
 * [The theory of graceful extensibility](https://link.springer.com/article/10.1007/s10669-018-9708-3)
 
