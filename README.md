@@ -11,7 +11,7 @@ Collaboration:
 - Infrastructure:  https://github.com/gneisstech / ...
 - Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
 
-1. **Organization**
+## Organization
 
 > "Funding was stable, the way that Bell Labs was funded was that a very small tax was applied to any time you made a phone call in the United States a tiny slice of the money involved would go to Bell Labs to improve future telephone service and so that helped that meant that you could count on having revenue to support research for a long time , the organization was very stable , people stayed there for many many years & the company itself took an exceptionally broad and long-term view the job was to improve communication systems and that’s going to be a problem for a long time so almost anything you wanted to work on was arguably relevant to building better telephone systems and so that meant the company was not run by the quarter of a year it was run by multi-year period and all of this led to an environment which is also very cooperative and just plain fun. People enjoyed being there.."
 
@@ -25,7 +25,7 @@ Collaboration:
     - [Sourcegraph](https://about.sourcegraph.com/about/)
     - [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
 
-2. **Table Stakes**
+## Table Stakes
 
 ![](images/oxide.computer.png)
 
@@ -109,8 +109,6 @@ What kind of development organization are you a part of: pathological, bureaucra
 
 ![](/images/open%20source%20%26%20large%20company.png)
 -- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
-
-## Tools
 
 > Developers are the creative workforce who can solve critical business problems and create hit products for customers — not just "code monkeys" who grind through rote tasks. Companies that bring software developers in as partners are winning.
 > -- https://twitter.com/jeffiel/status/1418682712559398916
