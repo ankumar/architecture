@@ -132,6 +132,6 @@ Likely termed **"Internal Platforms"** @Hundreds of organizations ...
 * **Improving Analytics & Data**
 * **Empowering Teams**
 
-* [List of Resources](https://github.com/ankumar/Architecture/wiki)
+  * [List of Resources](https://github.com/ankumar/Architecture/wiki)
 
 
