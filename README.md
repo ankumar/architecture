@@ -112,10 +112,6 @@ What kind of development organization are you a part of: pathological, bureaucra
 
 ## Tools
 
-* **Improving Developer Experience** 
-* **Improving Analytics & Data**
-* **Empowering Teams**
-
 > Developers are the creative workforce who can solve critical business problems and create hit products for customers — not just "code monkeys" who grind through rote tasks. Companies that bring software developers in as partners are winning.
 > -- https://twitter.com/jeffiel/status/1418682712559398916
 
@@ -131,6 +127,10 @@ Likely termed **"Internal Platforms"** @Hundreds of organizations ...
 -- https://twitter.com/martinfowler/status/1387041315196702720
 
 ## Learn
+
+* **Improving Developer Experience** 
+* **Improving Analytics & Data**
+* **Empowering Teams**
 
 * [List of Resources](https://github.com/ankumar/Architecture/wiki)
 
