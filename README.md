@@ -8,7 +8,7 @@
 
 Collaboration:
 - Data: https://github.com/open-metadata/OpenMetadata
-- Infrastructure: https://github.com/gneisstech / https://github.com/tufan-proto
+- Infrastructure: https://github.com/tufan-proto / https://github.com/gneisstech / ...
 - Developer Experience: https://github.com/acuity-sr
 
 **Few High Performers, widening Gap?** **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & Imperative considering Cognitive Load, Catch up, Open Source, Re Architecture, Migration & Deployments of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
