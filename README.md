@@ -11,8 +11,6 @@ Collaboration:
 - Infrastructure:  https://github.com/gneisstech / ...
 - Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
 
-**Few High Performers, widening Gap?** **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & Imperative considering Cognitive Load, Catch up, Open Source, Re Architecture, Migration & Deployments of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
-
 1. **Organization**
 
 > "Funding was stable, the way that Bell Labs was funded was that a very small tax was applied to any time you made a phone call in the United States a tiny slice of the money involved would go to Bell Labs to improve future telephone service and so that helped that meant that you could count on having revenue to support research for a long time , the organization was very stable , people stayed there for many many years & the company itself took an exceptionally broad and long-term view the job was to improve communication systems and that’s going to be a problem for a long time so almost anything you wanted to work on was arguably relevant to building better telephone systems and so that meant the company was not run by the quarter of a year it was run by multi-year period and all of this led to an environment which is also very cooperative and just plain fun. People enjoyed being there.."
@@ -20,6 +18,7 @@ Collaboration:
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010), Chapter 9 is pure gem **Legacy -> Technical, Organization, Recognition, Could history repeat?**
 
+**Few High Performers, widening Gap?** **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & Imperative considering Cognitive Load, Catch up, Open Source, Re Architecture, Migration & Deployments of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
   - [Structure Eats Strategy](https://janbosch.com/blog/index.php/2017/11/25/structure-eats-strategy/)
   - [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
   - ["Open & Public"](https://en.wikipedia.org/wiki/Open_collaboration), Few examples:
