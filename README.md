@@ -110,6 +110,9 @@ What kind of development organization are you a part of: pathological, bureaucra
 ![](/images/open%20source%20%26%20large%20company.png)
 -- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
 
+
+https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext
+
 > Developers are the creative workforce who can solve critical business problems and create hit products for customers — not just "code monkeys" who grind through rote tasks. Companies that bring software developers in as partners are winning.
 > -- https://twitter.com/jeffiel/status/1418682712559398916
 
