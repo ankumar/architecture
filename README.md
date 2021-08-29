@@ -119,11 +119,11 @@ Scaling engineering teams [Circa 1994, Backyard at Yahoo!](https://github.com/an
   * https://engineering.atspotify.com/category/backstage/
   * https://roadie.io/blog/developer-portals-are-a-superpower/
 
+Likely termed **"Internal Platforms"** @Hundreds of organizations ...
+
 ## Learn
 
 * **Improving Developer Experience** 
-Likely termed **"Internal Platforms"** @Hundreds of organizations ...
-
 > "There's a lot of hype around developer productivity platforms..."
 -- https://twitter.com/martinfowler/status/1387041315196702720
 
