@@ -7,9 +7,9 @@
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
 Collaboration:
+- Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
 - Data: https://github.com/open-metadata/OpenMetadata
 - Infrastructure:  https://github.com/gneisstech / ...
-- Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
 
 ## Organization
 
