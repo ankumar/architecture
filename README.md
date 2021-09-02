@@ -8,7 +8,7 @@
 
 Collaboration:
 - Developer Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
-- Data: https://github.com/open-metadata/OpenMetadata
+- Data/Metadata: https://github.com/open-metadata/OpenMetadata
 - Infrastructure/Software:  https://github.com/gneisstech / ...
 
 ## Organization
