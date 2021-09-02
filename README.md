@@ -1,12 +1,13 @@
 # Quality Attributes
 
+## Collaboration
+
 > The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution
 >
 > We need to find new ways to collaborate. We are trying one
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-Collaboration:
 - Developers/Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
 - Data/Metadata: https://github.com/open-metadata/OpenMetadata
 - Infrastructure/Software:  https://github.com/gneisstech / ...
