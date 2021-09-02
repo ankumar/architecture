@@ -8,6 +8,7 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
+**Few High Performers, widening Gap?** **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & Imperative considering Cognitive Load, Catch up, Open Source, Re Architecture, Migration & Deployments of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
 - Developers/Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
 - Data/Metadata: https://github.com/open-metadata/OpenMetadata
 - Infrastructure/Software:  https://github.com/gneisstech / ...
@@ -18,8 +19,6 @@
 
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010), Chapter 9 is pure gem **Legacy -> Technical, Organization, Recognition, Could history repeat?**
-
-**Few High Performers, widening Gap?** **I agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & Imperative considering Cognitive Load, Catch up, Open Source, Re Architecture, Migration & Deployments of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
   - [Structure Eats Strategy](https://janbosch.com/blog/index.php/2017/11/25/structure-eats-strategy/)
   - [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
   - ["Open & Public"](https://en.wikipedia.org/wiki/Open_collaboration), Few examples:
