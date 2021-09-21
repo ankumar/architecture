@@ -8,7 +8,7 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-**Few high performers, widening gap? agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & Imperative considering Cognitive Load, Catch up, Open Source, Re Architecture, Migration & Deployment of Workloads to [Public Cloud & "Edge"](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
+**Few high performers, widening gap? agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public" & "Private" spaces & Imperative considering Cognitive Load, Catch up, Open Source, Re Architecture, Migration & [Cloud Computing](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
 - Developers/Experience: https://github.com/acuity-sr / https://github.com/tufan-proto / ...
 - Data/Metadata: https://github.com/open-metadata/OpenMetadata
 - Infrastructure/Software:  https://github.com/gneisstech / ...
