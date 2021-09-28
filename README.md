@@ -127,6 +127,9 @@ Likely termed **"Internal Platforms"** @Hundreds of organizations ...
 ## Learn
 
 * **Improving Developer Experience** 
+> The Case for ‘Developer Experience’
+-- https://future.a16z.com/the-case-for-developer-experience/
+
 > "There's a lot of hype around developer productivity platforms..."
 -- https://twitter.com/martinfowler/status/1387041315196702720
 
