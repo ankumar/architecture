@@ -135,6 +135,8 @@ Likely termed **"Internal Platforms"** @Hundreds of organizations ...
 
 * **Improving Analytics & Data**
 
+-- https://ai100.stanford.edu/
+
 * **Empowering Teams**
 
   * [List of Resources](https://github.com/ankumar/Architecture/wiki)
