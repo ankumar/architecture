@@ -25,7 +25,7 @@
     - [Sourcegraph](https://about.sourcegraph.com/about/)
     - [GitLab](https://about.gitlab.com/company/strategy/#why-is-this-page-public)
 
-## Table Stakes
+## Table stakes
 
 ![](images/oxide.computer.png)
 
