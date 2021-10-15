@@ -33,7 +33,7 @@
 
 - [Privacy](https://dbpedia.org/page/General_Data_Protection_Regulation), Collaboration, Security & Ethics
 - Applications - Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns)
-  - [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [OpenID](https://openid.net/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://github.com/kcp-dev/kcp), ...
+  - [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [OpenID](https://openid.net/), [Banking](https://en.wikipedia.org/wiki/Open_banking), [Open Banking](https://blog.stoplight.io/open-banking-guide), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://github.com/kcp-dev/kcp), ...
 
 ## Culture
 <img src="images/Hack%20The%20Culture.jpg" width="800">
