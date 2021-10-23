@@ -20,6 +20,7 @@
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010), Chapter 9 is pure gem **Legacy -> Technical, Organization, Recognition, Could history repeat?**
   - [Structure Eats Strategy](https://janbosch.com/blog/index.php/2017/11/25/structure-eats-strategy/)
+  - [Coordination Headwind](https://komoroske.com/slime-mold/)
   - [The next “next” generation](https://swardley.medium.com/how-organisations-are-changing-cf80f3e2300)
   - ["Open & Public"](https://en.wikipedia.org/wiki/Open_collaboration), Few examples:
     - [Sourcegraph](https://about.sourcegraph.com/about/)
