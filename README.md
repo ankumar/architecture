@@ -7,8 +7,6 @@
 > We need to find new ways to collaborate. We are trying one
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
-
-**Few high performers, widening gap? agree with new ways to collaborate**. Organizational boundaries are getting blurred between "Public", "Private" spaces & Imperative considering Cognitive Load, Catch up, Open Source, Re Architecture, [Migration of workloads](https://www.sciencedirect.com/topics/computer-science/cloud-deployment-model) & [Cloud Computing](https://a16z.com/2019/11/15/the-end-of-cloud-computing-2/). 
 - Data: https://github.com/open-metadata/OpenMetadata
 - Infrastructure / Software: </>
 
