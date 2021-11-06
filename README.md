@@ -38,6 +38,6 @@
 
 -- https://ai100.stanford.edu/
 
-* [Archives](https://github.com/ankumar/Architecture/wiki)
+* [Archive](https://github.com/ankumar/Architecture/wiki)
 
 
