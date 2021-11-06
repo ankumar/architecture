@@ -38,6 +38,6 @@
 
 -- https://ai100.stanford.edu/
 
-* [TLDR - List of Resources](https://github.com/ankumar/Architecture/wiki)
+* [List of Resources](https://github.com/ankumar/Architecture/wiki)
 
 
