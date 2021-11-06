@@ -17,16 +17,6 @@
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010), Chapter 9 is pure gem **Legacy -> Technical, Organization, Recognition, Could history repeat?**
 
-## Table stakes
-
-![](images/oxide.computer.png)
-
--- [importance of lowest-level details in secure systems and the pressing need for open firmware down to the boot ROMs!](https://twitter.com/bcantrill/status/1388181932068929538)
-
-- [Privacy](https://dbpedia.org/page/General_Data_Protection_Regulation), Collaboration, Security & Ethics
-- Applications - Interoperability with [Open APIs](https://www.youtube.com/watch?v=LzMp6uQbmns)
-  - [Amazons](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/), [OpenID](https://openid.net/), [Open Banking](https://en.wikipedia.org/wiki/Open_banking), [Open Banking](https://blog.stoplight.io/open-banking-guide), [Healthcare](https://www.hl7.org/fhir/), IoT, ... / [Cloud](https://github.com/kcp-dev/kcp), ...
-
 ## Build
 
 > "Instead of amplifying the constant whining about how everything is broken, we should be encouraging people to learn how to navigate ambiguity and mess. Software isn’t perfect, won’t ever be perfect, and perhaps isn’t meant to be perfect. Let’s learn how to better deal with it. Not to be confused with learning how to survive in toxic or dysfunctional workplaces. That’s different. Felt I had to say it, because inevitably someone will be in my mentions talking about how some things can’t be fixed and it’s better to cut your losses soon. "
