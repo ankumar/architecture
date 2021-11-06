@@ -21,8 +21,6 @@
 > "There's a lot of hype around developer productivity platforms..."
 -- https://twitter.com/martinfowler/status/1387041315196702720
 
--- https://ai100.stanford.edu/
-
 ## Collaboration
 
 > The gap is widening, and there is no easy path to catch up. It's not for lack of technology, so there is no magic solution to buy. The necessary competence resides in product companies, so consultants is not the solution
