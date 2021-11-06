@@ -35,40 +35,6 @@
 > "The most common questions I get from customers – whether it be developers or executives – are targeted at understanding how Amazon is able to move so quickly. They want to know about our company culture, our organizational structure, the internal tools we use, and the type of people we hire, just to name a few. Of course, there’s no single answer here. Further, what might be a challenge at one company isn’t necessarily the same at another. But there’s one thing I’ve found that’s as close to a silver bullet as you can get – Developers. More specifically, it’s about hiring the right kinds of developers and then empowering them to do what they do best – build."
 > –-[Supercharging Application Delivery](https://www.allthingsdistributed.com/2021/06/supercharging-application-delivery.html)."
 
-* Product Strategy - Transparent Roadmap
-  * https://github.com/aws?q=roadmap
-  * https://github.com/github/roadmap
-
-* Journey - Celebrate & Share
-  * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065)
-  * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573)
-  * [The Amazon Builders' Library](https://aws.amazon.com/builders-library/)
-   
-* Platform Strategy - "Leverage"
-  * [Open Software Design](https://notes.ceilfors.com/Open_software_design.html) -> https://upmo.com/dev/
-    * [Architecture](https://www.mediawiki.org/wiki/Wikimedia_Architecture_Team#The_practice) 
-    * [Tech Radar](https://opensource.zalando.com/tech-radar/)
-  * [Open Source Culture](https://opensource.zalando.com/)
-![](/images/open%20source.jpeg)
--- https://twitter.com/mjasay 
-
-![](/images/open%20source%20%26%20large%20company.png)
--- [Open Source & Community / Kelsey Hightower, Developer & Open Source Advocate, Google Cloud](https://www.youtube.com/watch?v=jiaLsxjBeOQ) 
-
-
-https://cacm.acm.org/magazines/2021/7/253459-why-computing-students-should-contribute-to-open-source-software-projects/fulltext
-
-> Developers are the creative workforce who can solve critical business problems and create hit products for customers — not just "code monkeys" who grind through rote tasks. Companies that bring software developers in as partners are winning.
-> -- https://twitter.com/jeffiel/status/1418682712559398916
-
-Scaling engineering teams [Circa 1994, Backyard at Yahoo!](https://github.com/ankumar/Architecture/blob/main/Patterns/History.md#platform--tools--yahoo), Now Backstage open source project Incubated by Spotify, Adopted as Runway@American Airlines, 
-
-* https://engineering.atspotify.com/2021/03/16/happy-birthday-backstage-spotifys-biggest-open-source-project-grows-up-fast/
-  * https://engineering.atspotify.com/category/backstage/
-  * https://roadie.io/blog/developer-portals-are-a-superpower/
-
-Likely termed **"Internal Platforms"** @Hundreds of organizations ...
-
 ## Learn
 
 * **Improving Developer Experience** 
