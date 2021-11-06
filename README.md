@@ -38,8 +38,6 @@
 
 -- https://ai100.stanford.edu/
 
-* **Empowering Teams**
-
-  * [List of Resources](https://github.com/ankumar/Architecture/wiki)
+* [TLDR - List of Resources](https://github.com/ankumar/Architecture/wiki)
 
 
