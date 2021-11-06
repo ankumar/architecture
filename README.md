@@ -8,7 +8,7 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 - Data: https://github.com/open-metadata/OpenMetadata
-- Infrastructure / Software: </>
+- Infrastructure / Software: https://github.com/tufan-io/noun-and-verb
 
 ## Organization
 
