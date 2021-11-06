@@ -35,6 +35,9 @@
 
 ## Learn
 
+> "Anyone who keeps learning...
+>     stays young. - Henry Ford
+
 * [Archive](https://github.com/ankumar/Architecture/wiki)
 
 
