@@ -15,11 +15,6 @@
 > "The most common questions I get from customers – whether it be developers or executives – are targeted at understanding how Amazon is able to move so quickly. They want to know about our company culture, our organizational structure, the internal tools we use, and the type of people we hire, just to name a few. Of course, there’s no single answer here. Further, what might be a challenge at one company isn’t necessarily the same at another. But there’s one thing I’ve found that’s as close to a silver bullet as you can get – Developers. More specifically, it’s about hiring the right kinds of developers and then empowering them to do what they do best – build."
 > –-[Supercharging Application Delivery](https://www.allthingsdistributed.com/2021/06/supercharging-application-delivery.html)."
 
-> The Case for ‘Developer Experience’
--- https://future.a16z.com/the-case-for-developer-experience/
-
-> "There's a lot of hype around developer productivity platforms..."
--- https://twitter.com/martinfowler/status/1387041315196702720
 
 ## Collaboration
 
@@ -28,6 +23,13 @@
 > We need to find new ways to collaborate. We are trying one
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
+
+> The Case for ‘Developer Experience’
+-- https://future.a16z.com/the-case-for-developer-experience/
+
+> "There's a lot of hype around developer productivity platforms..."
+-- https://twitter.com/martinfowler/status/1387041315196702720
+
 - Data: https://github.com/open-metadata/OpenMetadata
 - Infrastructure / Software: https://github.com/tufan-io/noun-and-verb
 
