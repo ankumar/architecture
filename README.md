@@ -24,11 +24,6 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-> The Case for ‘Developer Experience’
--- https://future.a16z.com/the-case-for-developer-experience/
-> "There's a lot of hype around developer productivity platforms..."
--- https://twitter.com/martinfowler/status/1387041315196702720
-
 - Data: https://github.com/open-metadata/OpenMetadata
 - Infrastructure / Software: https://github.com/tufan-io/noun-and-verb
 
