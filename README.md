@@ -24,9 +24,6 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-- Data: https://github.com/open-metadata/OpenMetadata
-- Infrastructure / Software: https://github.com/tufan-io/noun-and-verb
-
 ## Learn
 
 > "Anyone who keeps learning...
