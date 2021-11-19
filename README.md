@@ -24,8 +24,6 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-## Learn
-
 > "Anyone who keeps learning...
 >     stays **young.** - Henry Ford
 
