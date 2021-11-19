@@ -7,8 +7,9 @@
 ![](images/Unix%20A%20History%20and%20a%20Memoir.jpg)
 -- [Brian Kernighan Unix: History and Memoir](https://youtu.be/nS-0Vrmok6Y?t=2010), Chapter 9 is pure gem **Legacy -> Technical, Organization, Recognition, Could history repeat?**
 
-* https://www.oscollective.org/
-* https://github.com/sponsors
+* Open Source Collective - https://www.oscollective.org/
+* GitHub Sponsors - https://github.com/sponsors
+* Platforms for Open Source Creators - https://www.oss.fund/
 
 
 ## Build
