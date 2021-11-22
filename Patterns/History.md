@@ -6,7 +6,6 @@
 # Computing
 
 * From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
-* https://github.com/oxidecomputer/twitter-spaces
 * [computer history intended primarily for computer people](https://twobithistory.org/timeline.html)
 * [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 
@@ -122,4 +121,6 @@
 * 1957: DEC was founded. FORTRAN is developed at IBM.
 * 1958: LISP is invented by John McCarthy at MIT.
 
+--
 
+* https://github.com/oxidecomputer/twitter-spaces
