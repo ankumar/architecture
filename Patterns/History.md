@@ -6,7 +6,6 @@
 # Computing
 
 * From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
-* [computer history intended primarily for computer people](https://twobithistory.org/timeline.html)
 * [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 
 # API
