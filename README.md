@@ -25,5 +25,5 @@
 > "Anyone who keeps learning...
 >     stays **young.** - Henry Ford
 
-* [learning](https://github.com/ankumar/Architecture/wiki)
+* [Learning](https://github.com/ankumar/Architecture/wiki)
 * Platforms for Open Source Creators - https://www.oss.fund/
