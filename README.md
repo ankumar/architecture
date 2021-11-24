@@ -14,9 +14,6 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-* Platforms for Open Source Creators - https://www.oss.fund/
-
-
 ## Build
 
 > "Instead of amplifying the constant whining about how everything is broken, we should be encouraging people to learn how to navigate ambiguity and mess. Software isn’t perfect, won’t ever be perfect, and perhaps isn’t meant to be perfect. Let’s learn how to better deal with it. Not to be confused with learning how to survive in toxic or dysfunctional workplaces. That’s different. Felt I had to say it, because inevitably someone will be in my mentions talking about how some things can’t be fixed and it’s better to cut your losses soon. "
@@ -29,3 +26,4 @@
 >     stays **young.** - Henry Ford
 
 * [learning](https://github.com/ankumar/Architecture/wiki)
+* Platforms for Open Source Creators - https://www.oss.fund/
