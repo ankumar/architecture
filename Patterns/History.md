@@ -8,6 +8,10 @@
 * From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
 * [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 
+# Databases
+
+* NoSQL - https://twitter.com/zackkanter/status/1395001940870934531
+
 # API
 
 * [A Brief, Opinionated History of the API](https://www.youtube.com/watch?v=LzMp6uQbmns)
