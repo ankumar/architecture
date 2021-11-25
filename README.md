@@ -14,12 +14,12 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
+> "Instead of amplifying the constant whining about how everything is broken, we should be encouraging people to learn how to navigate ambiguity and mess. Software isn’t perfect, won’t ever be perfect, and perhaps isn’t meant to be perfect. Let’s learn how to better deal with it. Not to be confused with learning how to survive in toxic or dysfunctional workplaces. That’s different. Felt I had to say it, because inevitably someone will be in my mentions talking about how some things can’t be fixed and it’s better to cut your losses soon. "
+> -- https://twitter.com/copyconstruct/status/1416095406610554880
+
 * [Systems thinking in general and open sociotechnical systems](https://stream.syscoi.com/2021/11/23/open-sociotechnical-systems-thinking-with-trond-hjorteland-youtube/)
 
 ## Build
-
-> "Instead of amplifying the constant whining about how everything is broken, we should be encouraging people to learn how to navigate ambiguity and mess. Software isn’t perfect, won’t ever be perfect, and perhaps isn’t meant to be perfect. Let’s learn how to better deal with it. Not to be confused with learning how to survive in toxic or dysfunctional workplaces. That’s different. Felt I had to say it, because inevitably someone will be in my mentions talking about how some things can’t be fixed and it’s better to cut your losses soon. "
-> -- https://twitter.com/copyconstruct/status/1416095406610554880
 
 > "The most common questions I get from customers – whether it be developers or executives – are targeted at understanding how Amazon is able to move so quickly. They want to know about our company culture, our organizational structure, the internal tools we use, and the type of people we hire, just to name a few. Of course, there’s no single answer here. Further, what might be a challenge at one company isn’t necessarily the same at another. But there’s one thing I’ve found that’s as close to a silver bullet as you can get – Developers. More specifically, it’s about hiring the right kinds of developers and then empowering them to do what they do best – build."
 > –-[Supercharging Application Delivery](https://www.allthingsdistributed.com/2021/06/supercharging-application-delivery.html)."
