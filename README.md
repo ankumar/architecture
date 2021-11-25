@@ -26,4 +26,4 @@
 >     stays **young.** - Henry Ford
 
 * [Learning](https://github.com/ankumar/Architecture/wiki)
-* Platforms for Open Source Creators - https://www.oss.fund/
+
