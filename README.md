@@ -14,7 +14,7 @@
 >
 > -- https://twitter.com/lalleal/status/1386411136199790592
 
-* [Open Sociotechnical Systems Thinking](https://stream.syscoi.com/2021/11/23/open-sociotechnical-systems-thinking-with-trond-hjorteland-youtube/)
+* [Systems thinking in general and open sociotechnical systems](https://stream.syscoi.com/2021/11/23/open-sociotechnical-systems-thinking-with-trond-hjorteland-youtube/)
 
 ## Build
 
