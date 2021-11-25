@@ -21,8 +21,6 @@
 >
 > Disclaimer: This talk is a prototype and is loosely based on my lightning talks at DDD Europe and the recent talk at Lean Agile Exchange. Hope this will be more of a joint exploration system thinking in general and open sociotechnical systems thinking in particular than a pure lecture. -- [Systems thinking in general and open sociotechnical systems](https://stream.syscoi.com/2021/11/23/open-sociotechnical-systems-thinking-with-trond-hjorteland-youtube/)
 
-## Build
-
 > "The most common questions I get from customers – whether it be developers or executives – are targeted at understanding how Amazon is able to move so quickly. They want to know about our company culture, our organizational structure, the internal tools we use, and the type of people we hire, just to name a few. Of course, there’s no single answer here. Further, what might be a challenge at one company isn’t necessarily the same at another. But there’s one thing I’ve found that’s as close to a silver bullet as you can get – Developers. More specifically, it’s about hiring the right kinds of developers and then empowering them to do what they do best – build."
 > –-[Supercharging Application Delivery](https://www.allthingsdistributed.com/2021/06/supercharging-application-delivery.html)."
 
