@@ -5,7 +5,7 @@
 
 # Computing
 
-* From Mainframes to Big Data - http://www.structureofdigitalcomputing.com/ 
+* [From Mainframes to Big Data](http://www.structureofdigitalcomputing.com/) 
 * [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
 
