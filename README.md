@@ -27,5 +27,5 @@
 > "Anyone who keeps learning...
 >     stays **young.** - Henry Ford
 
-* [Learning Systems](https://github.com/ankumar/Architecture/wiki)
+* [Learning Thinking in Systems](https://github.com/ankumar/Architecture/wiki)
 
