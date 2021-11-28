@@ -5,6 +5,7 @@
 
 # Computing
 
+* [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
 * [From Mainframes to Big Data](http://www.structureofdigitalcomputing.com/) 
 * [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
