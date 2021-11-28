@@ -55,7 +55,7 @@
 * User Database (UDB) - http://www.rmmagazine.com/2017/10/02/lessons-from-the-yahoo-hack/
 * Operating Systems - FreeBSD & Linux
 
-# COVID-[2019 -2021]
+# COVID-2020
 
 * [Db2 and 50 Years of Relational Database Design](https://www.ibm.com/cloud/blog/db2-and-50-years-of-relational-database-design)
 * 5/23 - 25 years, [MySQL](https://mariadb.org/mysql-25/)
