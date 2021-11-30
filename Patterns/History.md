@@ -11,7 +11,7 @@
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
   * [COBOL Forever](https://donhopkins.medium.com/cobol-forever-1a49f7d28a39)
 
-# Bell labs
+# Bell Labs
 
 * [K&R](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 
