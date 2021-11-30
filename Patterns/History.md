@@ -13,6 +13,7 @@
 
 # Bell Labs
 
+* [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
 * [K&R](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 
 # Databases
@@ -39,7 +40,7 @@
 
 # UNIX
 
-* [AT&T Archives: The UNIX Operating System](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+* 
 
 # Containers
 
