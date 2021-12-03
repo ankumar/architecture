@@ -1,16 +1,16 @@
 # Architecture
 
 * Mary Poppendieck - https://learning.oreilly.com/videos/oreilly-software-architecture/0636920333777/0636920333777-video329478
-* Twelve-Factor App Methodology has been around for a decade now - https://codersociety.com/blog/articles/twelve-factor-app-methodology
 * All Things Distributed - https://www.allthingsdistributed.com/
+* Twelve-Factor App Methodology has been around for a decade now - https://codersociety.com/blog/articles/twelve-factor-app-methodology
 
 # Computing
 
-* [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
 * [From Mainframes to Big Data](http://www.structureofdigitalcomputing.com/) 
 * [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
   * [COBOL Forever](https://donhopkins.medium.com/cobol-forever-1a49f7d28a39)
+* [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
 
 # Bell Labs
 
