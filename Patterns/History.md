@@ -40,6 +40,7 @@
 * A History of Clojure
   * Talk - https://www.pldi21.org/prerecorded_hopl.11.html
   * Paper - https://clojure.org/about/history
+* [vscode.dev - an Overnight Success… 10 years in the making](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
 
 # Linux
 
