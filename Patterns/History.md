@@ -15,6 +15,7 @@
 * [COBOL Forever](https://donhopkins.medium.com/cobol-forever-1a49f7d28a39)
 * [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
 * [Agile Development](https://doriantaylor.com/agile-as-trauma)
+  * [Three frames of software development](https://www.youtube.com/watch?v=aF3nYXwEErc)
 
 # Bell Labs
 
