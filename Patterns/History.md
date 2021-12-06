@@ -2,6 +2,8 @@
 
 * Mary Poppendieck - https://learning.oreilly.com/videos/oreilly-software-architecture/0636920333777/0636920333777-video329478
 * All Things Distributed - https://www.allthingsdistributed.com/
+  * [A Second Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=3434573) 
+  * [A Conversation with Werner Vogels](https://queue.acm.org/detail.cfm?id=1142065) 
 * Twelve-Factor App Methodology has been around for a decade now - https://codersociety.com/blog/articles/twelve-factor-app-methodology
 
 # Computing
