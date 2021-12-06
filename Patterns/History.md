@@ -11,9 +11,8 @@
 * [Eniac: The Triumphs and Tragedies of the World's First Computer](https://www.goodreads.com/en/book/show/720730.Eniac) / Source: https://twitter.com/bcantrill/status/1467611472243027968
 * [world's first website after 30 years](http://info.cern.ch/hypertext/WWW/TheProject.html) / Source: https://twitter.com/mamund/status/1467553370055622665
 * [From Mainframes to Big Data](http://www.structureofdigitalcomputing.com/) 
-* [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
-  * [COBOL Forever](https://donhopkins.medium.com/cobol-forever-1a49f7d28a39)
+* [COBOL Forever](https://donhopkins.medium.com/cobol-forever-1a49f7d28a39)
 * [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
 
 # Bell Labs
@@ -23,6 +22,7 @@
 
 # Databases
 
+* [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 * NoSQL - https://twitter.com/zackkanter/status/1395001940870934531
 
 # API
