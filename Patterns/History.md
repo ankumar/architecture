@@ -14,6 +14,7 @@
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
 * [COBOL Forever](https://donhopkins.medium.com/cobol-forever-1a49f7d28a39)
 * [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
+* [AWS](https://perspectives.mvdirona.com/)
 * [Agile Development](https://doriantaylor.com/agile-as-trauma)
   * [Three frames of software development](https://www.youtube.com/watch?v=aF3nYXwEErc)
 
