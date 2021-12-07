@@ -7,8 +7,8 @@
 * Twelve-Factor App Methodology has been around for a decade now - https://codersociety.com/blog/articles/twelve-factor-app-methodology
 
 # Computing
-
-* [The World Wide Web: Past, Present and Future](https://www.w3.org/People/Berners-Lee/1996/ppf.html)
+* [History of the Web](https://webfoundation.org/about/vision/history-of-the-web/)
+  * [The World Wide Web: Past, Present and Future](https://www.w3.org/People/Berners-Lee/1996/ppf.html)
   * [Core Principles](https://contractfortheweb.org/)
   * [Long Live the Web](https://www.scientificamerican.com/article/long-live-the-web/)
 * [From Mainframes to Big Data](http://www.structureofdigitalcomputing.com/) 
