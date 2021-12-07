@@ -8,6 +8,7 @@
 
 # Computing
 
+* [Long Live the Web](https://www.scientificamerican.com/article/long-live-the-web/)
 * [From Mainframes to Big Data](http://www.structureofdigitalcomputing.com/) 
 * [Eniac: The Triumphs and Tragedies of the World's First Computer](https://www.goodreads.com/en/book/show/720730.Eniac) / Source: https://twitter.com/bcantrill/status/1467611472243027968
 * [world's first website after 30 years](http://info.cern.ch/hypertext/WWW/TheProject.html) / Source: https://twitter.com/mamund/status/1467553370055622665
