@@ -16,7 +16,6 @@
 * [Eniac: The Triumphs and Tragedies of the World's First Computer](https://www.goodreads.com/en/book/show/720730.Eniac) / Source: https://twitter.com/bcantrill/status/1467611472243027968
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
 * [COBOL Forever](https://donhopkins.medium.com/cobol-forever-1a49f7d28a39)
-* [A short history of technology](https://lemire.me/blog/a-short-history-of-technology/)
 * [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
 * [AWS](https://perspectives.mvdirona.com/)
 * [Agile Development](https://doriantaylor.com/agile-as-trauma)
@@ -86,8 +85,9 @@
 
 * https://twobithistory.org/timeline.html
 
-* Source: https://oxide.computer/blog/
+* [A short history of technology](https://lemire.me/blog/a-short-history-of-technology/)
 
+* Source: https://oxide.computer/blog/
 ## 90s
 
 * 1990: The world wide web was released out of CERN, thank you Tim Berners-Lee! Originally it only ran on NeXT computers!
