@@ -16,7 +16,8 @@
 * [Eniac: The Triumphs and Tragedies of the World's First Computer](https://www.goodreads.com/en/book/show/720730.Eniac) / Source: https://twitter.com/bcantrill/status/1467611472243027968
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
 * [COBOL Forever](https://donhopkins.medium.com/cobol-forever-1a49f7d28a39)
-* [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
+* [Software engineering](https://en.m.wikipedia.org/wiki/Software_engineering)
+  * [Naming "Software Engineering"](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)#Legacy)
 * [AWS](https://perspectives.mvdirona.com/)
 * [Agile Development](https://doriantaylor.com/agile-as-trauma)
   * [Three frames of software development](https://www.youtube.com/watch?v=aF3nYXwEErc)
