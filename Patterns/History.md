@@ -90,6 +90,8 @@
 
 ## https://oxide.computer/blog/
 
+* https://github.com/oxidecomputer/twitter-spaces
+
 ### 90s
 
 * 1990: The world wide web was released out of CERN, thank you Tim Berners-Lee! Originally it only ran on NeXT computers!
@@ -148,6 +150,6 @@
 * 1957: DEC was founded. FORTRAN is developed at IBM.
 * 1958: LISP is invented by John McCarthy at MIT.
 
---
 
-* https://github.com/oxidecomputer/twitter-spaces
+
+
