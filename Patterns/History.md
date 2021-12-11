@@ -75,6 +75,10 @@
 * https://twobithistory.org/timeline.html
 * [A short history of technology](https://lemire.me/blog/a-short-history-of-technology/)
 
+# 2021
+
+* [Celebrating Eclipse at 20](https://eclipse-foundation.blog/2021/12/08/celebrating-eclipse-at-20/)
+
 # 2019-2020
 
 * [Db2 and 50 Years of Relational Database Design](https://www.ibm.com/cloud/blog/db2-and-50-years-of-relational-database-design)
