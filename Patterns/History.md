@@ -78,6 +78,7 @@
 ## 2021
 
 * [Celebrating Eclipse at 20](https://eclipse-foundation.blog/2021/12/08/celebrating-eclipse-at-20/)
+* [Happy 20th birthday to IPython, the improved Python shell that later grew into Jupyter](https://twitter.com/fperez_org/status/1469197319253815299)
 
 ## 2019-2020
 
