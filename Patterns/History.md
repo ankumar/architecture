@@ -52,10 +52,6 @@
 
 * [30 years ago today Linus Torvalds announced in a newsgroup that he was working on a free operating system that later came to be called Linux](https://twitter.com/MIT_CSAIL/status/1430564374930886660)
 
-# UNIX
-
-* 
-
 # Containers
 
 * [A Brief History of Containers: From the 1970s Till Now](https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016)
@@ -74,6 +70,11 @@
 * User Database (UDB) - http://www.rmmagazine.com/2017/10/02/lessons-from-the-yahoo-hack/
 * Operating Systems - FreeBSD & Linux
 
+# Timeline
+
+* https://twobithistory.org/timeline.html
+* [A short history of technology](https://lemire.me/blog/a-short-history-of-technology/)
+
 # 2019-2020
 
 * [Db2 and 50 Years of Relational Database Design](https://www.ibm.com/cloud/blog/db2-and-50-years-of-relational-database-design)
@@ -82,14 +83,8 @@
 * 5/20 - 10 years, [BigQuery](https://twitter.com/sundarpichai/status/1263193094410760192)
 * Happy 20 years, The History of HAProxy - https://www.haproxy.com/blog/the-history-of-haproxy/
 
-# Timeline
-
-* https://twobithistory.org/timeline.html
-
-* [A short history of technology](https://lemire.me/blog/a-short-history-of-technology/)
-
-* Source: https://oxide.computer/blog/
 ## 90s
+* Source: https://oxide.computer/blog/
 
 * 1990: The world wide web was released out of CERN, thank you Tim Berners-Lee! Originally it only ran on NeXT computers!
 * 1991: Apple's PowerBook laptops, with built-in trackball, are released.
