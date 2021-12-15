@@ -90,6 +90,7 @@
 * 5/22 - 25 years, [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 * 5/20 - 10 years, [BigQuery](https://twitter.com/sundarpichai/status/1263193094410760192)
 * Happy 20 years, The History of HAProxy - https://www.haproxy.com/blog/the-history-of-haproxy/
+* RIP Joe Armstrong, the author of Erlang - https://freethoughtblogs.com/kriswager/2019/04/20/rip-joe-armstrong-the-author-of-erlang/
 
 ## 2018 
 
