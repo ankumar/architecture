@@ -7,6 +7,8 @@
 * Twelve-Factor App Methodology has been around for a decade now - https://codersociety.com/blog/articles/twelve-factor-app-methodology
 
 # Computing
+
+* [Programming](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [History of the Web](https://webfoundation.org/about/vision/history-of-the-web/)
   * [World's first website after 30 years](http://info.cern.ch/hypertext/WWW/TheProject.html) / Source: https://twitter.com/mamund/status/1467553370055622665
   * [The World Wide Web: Past, Present and Future](https://www.w3.org/People/Berners-Lee/1996/ppf.html)
