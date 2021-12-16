@@ -91,6 +91,7 @@
 * 5/20 - 10 years, [BigQuery](https://twitter.com/sundarpichai/status/1263193094410760192)
 * Happy 20 years, The History of HAProxy - https://www.haproxy.com/blog/the-history-of-haproxy/
 * RIP Joe Armstrong, the author of Erlang - https://freethoughtblogs.com/kriswager/2019/04/20/rip-joe-armstrong-the-author-of-erlang/
+* Stripe’s payments APIs: the first ten years - https://stripe.com/blog/payment-api-design
 
 ## 2018 
 
