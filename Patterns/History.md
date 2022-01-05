@@ -77,6 +77,10 @@
 * https://twobithistory.org/timeline.html
 * [A short history of technology](https://lemire.me/blog/a-short-history-of-technology/)
 
+## 2022
+
+* [25 years ago, Jan 5 1997: Jeff Bezos demos Amazon’s website, Note the Netscape browser](https://twitter.com/JeffBezos/status/1478785147042353155)
+
 ## 2021
 
 * [Celebrating Eclipse at 20](https://eclipse-foundation.blog/2021/12/08/celebrating-eclipse-at-20/)
