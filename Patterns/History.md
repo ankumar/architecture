@@ -82,6 +82,7 @@
 * [Amazon’s DynamoDB — 10 years later](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
 * [25 years ago, Jan 5 1997: Jeff Bezos demos Amazon’s website, Note the Netscape browser](https://twitter.com/JeffBezos/status/1478785147042353155)
 * [.NET! 20 years](https://dotnet.microsoft.com/en-us/)
+* [40 years ago 4 x 27 yr olds started Sun Microsystems](https://twitter.com/scottmcnealy/status/1496863177312595971)
 
 ## 2021
 
