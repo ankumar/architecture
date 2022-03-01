@@ -166,6 +166,8 @@
 * 1957: DEC was founded. FORTRAN is developed at IBM.
 * 1958: LISP is invented by John McCarthy at MIT.
 
+--
 
+https://lemire.me/blog/a-short-history-of-technology/
 
 
