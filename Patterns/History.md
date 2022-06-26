@@ -14,6 +14,7 @@
   * [The World Wide Web: Past, Present and Future](https://www.w3.org/People/Berners-Lee/1996/ppf.html)
   * [Core Principles](https://contractfortheweb.org/)
   * [Long Live the Web](https://www.scientificamerican.com/article/long-live-the-web/)
+  * [30 years on, what’s next #ForTheWeb?](https://webfoundation.org/2019/03/web-birthday-30/)
 * [From Mainframes to Big Data](http://www.structureofdigitalcomputing.com/) 
 * [Eniac: The Triumphs and Tragedies of the World's First Computer](https://www.goodreads.com/en/book/show/720730.Eniac) / Source: https://twitter.com/bcantrill/status/1467611472243027968
 * [The Code That Controls Your Money](https://www.wealthsimple.com/en-ca/magazine/cobol-controls-your-money)
