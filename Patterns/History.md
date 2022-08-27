@@ -32,6 +32,7 @@
 
 # Databases
 
+* [The Codd Father](https://www.cockroachlabs.com/blog/codd-tribute/)
 * [The history of Berkeley DB](https://queue.acm.org/detail.cfm?id=3501713)
 * NoSQL - https://twitter.com/zackkanter/status/1395001940870934531
 
