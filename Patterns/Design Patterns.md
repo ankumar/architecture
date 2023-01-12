@@ -32,6 +32,7 @@ http://www.poppendieck.com/
 
 * [AWS](https://aws.amazon.com/architecture)
 * [Azure](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-azure-wellarchitected-framework/)
+* [Google Cloud](https://cloud.google.com/architecture/framework)
 
 **1. Computing:**
 
